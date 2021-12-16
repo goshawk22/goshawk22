@@ -1,2 +1,2 @@
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/goshawk22/goshawk22/blob/main/github-metrics.svg)
