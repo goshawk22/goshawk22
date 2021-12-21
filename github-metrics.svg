@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1016" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1405" class="">
     <defs>
         <style/>
     </defs>
@@ -2665,6 +2665,844 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 247 commits in <span class="repo">goshawk22/kernel_realme_RMX1971</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">twelve</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#cf69c36</span>
+                                        <span class="message">BACKPORT: loop: Add LOOP_CONFIGURE ioctl
+
+This allows userspace to completely setup a loop device with a single
+ioctl, removing the in-between state where the device can be partially
+configured - eg the loop device has a backing file associated with it,
+but is reading from the wrong offset.
+
+Besides removing the intermediate state, another big benefit of this
+ioctl is that LOOP_SET_STATUS can be slow; the main reason for this
+slowness is that LOOP_SET_STATUS(64) calls blk_mq_freeze_queue() to
+freeze the associated queue; this requires waiting for RCU
+synchronization, which I've measured can take about 15-20ms on this
+device on average.
+
+In addition to doing what LOOP_SET_STATUS can do, LOOP_CONFIGURE can
+also be used to:
+- Set the correct block size immediately by setting
+  loop_config.block_size (avoids LOOP_SET_BLOCK_SIZE)
+- Explicitly request direct I/O mode by setting LO_FLAGS_DIRECT_IO
+  in loop_config.info.lo_flags (avoids LOOP_SET_DIRECT_IO)
+- Explicitly request read-only mode by setting LO_FLAGS_READ_ONLY
+  in loop_config.info.lo_flags
+
+Here's setting up ~70 regular loop devices with an offset on an x86
+Android device, using LOOP_SET_FD and LOOP_SET_STATUS:
+
+vsoc_x86:/system/apex # time for i in `seq 30 100`;
+do losetup -r -o 4096 /dev/block/loop$i com.android.adbd.apex; done
+    0m03.40s real     0m00.02s user     0m00.03s system
+
+Here's configuring ~70 devices in the same way, but using a modified
+losetup that uses the new LOOP_CONFIGURE ioctl:
+
+vsoc_x86:/system/apex # time for i in `seq 30 100`;
+do losetup -r -o 4096 /dev/block/loop$i com.android.adbd.apex; done
+    0m01.94s real     0m00.01s user     0m00.01s system
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 3448914e8cc550ba792d4ccc74471d1ca4293aae)
+Bug: 148607611
+Change-Id: I839ee9c9df8dbd9f4cc0fa5c8119c01abfcac1d9</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e515bc1</span>
+                                        <span class="message">BACKPORT: loop: Clean up LOOP_SET_STATUS lo_flags handling
+
+LOOP_SET_STATUS(64) will actually allow some lo_flags to be modified; in
+particular, LO_FLAGS_AUTOCLEAR can be set and cleared, whereas
+LO_FLAGS_PARTSCAN can be set to request a partition scan. Make this
+explicit by updating the UAPI to include the flags that can be
+set/cleared using this ioctl.
+
+The implementation can then blindly take over the passed in flags,
+and use the previous flags for those flags that can't be set / cleared
+using LOOP_SET_STATUS.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+Bug: 148607611
+(cherry picked from commit faf1d25440d6ad06d509dada4b6fe62fea844370)
+Change-Id: I88487db28e785ee83e400904b685ef9e98c0287d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#77a5e7c</span>
+                                        <span class="message">BACKPORT: loop: Rework lo_ioctl() __user argument casting
+
+In preparation for a new ioctl that needs to copy_from_user(); makes the
+code easier to read as well.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+Bug: 148607611
+(cherry picked from commit 571fae6e290d64a3e8132c455e7786c99c467ed1)
+Change-Id: I61cb8a6771f517f19ea87a145ab02827f46ab850</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e8c67fb</span>
+                                        <span class="message">BACKPORT: loop: Move loop_set_status_from_info() and friends up
+
+So we can use it without forward declaration. This is a separate commit
+to make it easier to verify that this is just a move, without functional
+modifications.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 62ab466ca881fe200c21aa74b65f8bd83ec482dc)
+Bug: 148607611
+Change-Id: I8c68ebbe65cbec476f9f2d4c1d60eb343e88bb56</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#24627fb</span>
+                                        <span class="message">BACKPORT: loop: Factor out configuring loop from status
+
+Factor out this code into a separate function, so it can be reused by
+other code more easily.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 0c3796c244598122a5d59d56f30d19390096817f)
+Bug: 148607611
+Change-Id: I6bb8054a3963ba67bb44b07010d00ee53dbfef81</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0f277d0</span>
+                                        <span class="message">BACKPORT: loop: Remove figure_loop_size()
+
+This function was now only used by loop_set_capacity(). Just open code
+the remaining code in the caller instead.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 0a6ed1b5ff6757f11ad2d57906ceb40488a5ee52)
+Bug: 148607611
+Change-Id: Icc5ef56a5f0264b9bfa15fbbe8062a74a59d88cb</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#94ae498</span>
+                                        <span class="message">BACKPORT: loop: Refactor loop_set_status() size calculation
+
+figure_loop_size() calculates the loop size based on the passed in
+parameters, but at the same time it updates the offset and sizelimit
+parameters in the loop device configuration. That is a somewhat
+unexpected side effect of a function with this name, and it is only only
+needed by one of the two callers of this function - loop_set_status().
+
+Move the lo_offset and lo_sizelimit assignment back into loop_set_status(),
+and use the newly factored out functions to validate and apply the newly
+calculated size. This allows us to get rid of figure_loop_size() in a
+follow-up commit.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit b0bd158dd630bd47640e0e418c062cda1e0da5ad)
+Bug: 148607611
+Change-Id: Ib8e10eb734c3f95f3c433c13012b378373336d10</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f2cd0ce</span>
+                                        <span class="message">BACKPORT: loop: Factor out setting loop device size
+
+This code is used repeatedly.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 5795b6f5607f7e4db62ddea144727780cb351a9b)
+Bug: 148607611
+Change-Id: I332d05033e13b6c9f75f9d959a4682135bd6c53c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c9b10ae</span>
+                                        <span class="message">BACKPORT: loop: Remove sector_t truncation checks
+
+sector_t is now always u64, so we don't need to check for truncation.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 083a6a50783ef54256eec3499e6575237e0e3d53)
+Bug: 148607611
+Change-Id: I1db87e391aca6226d542c5b74e569184ec059073</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2f3ad17</span>
+                                        <span class="message">BACKPORT: loop: Call loop_config_discard() only after new config is applied
+
+loop_set_status() calls loop_config_discard() to configure discard for
+the loop device; however, the discard configuration depends on whether
+the loop device uses encryption, and when we call it the encryption
+configuration has not been updated yet. Move the call down so we apply
+the correct discard configuration based on the new configuration.
+
+Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Bob Liu &lt;bob.liu@oracle.com&gt;
+Reviewed-by: Bart Van Assche &lt;bvanassche@acm.org&gt;
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
+(cherry picked from commit 7c5014b0987a30e4989c90633c198aced454c0ec)
+Bug: 148607611
+Change-Id: I77cb81b7c8038ebdb2d4cd6161c034a9e94cf516</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8ed2f64</span>
+                                        <span class="message">Merge 4.9.232 into android-4.9-q
+
+Changes in 4.9.232
+	pinctrl: amd: fix npins for uart0 in kerncz_groups
+	mac80211: allow rx of mesh eapol frames with default rx key
+	scsi: scsi_transport_spi: Fix function pointer check
+	xtensa: fix __sync_fetch_and_{and,or}_4 declarations
+	xtensa: update *pos in cpuinfo_op.next
+	drivers/net/wan/lapbether: Fixed the value of hard_header_len
+	net: sky2: initialize return of gm_phy_read
+	drm/nouveau/i2c/g94-: increase NV_PMGR_DP_AUXCTL_TRANSACTREQ timeout
+	SUNRPC reverting d03727b248d0 ("NFSv4 fix CLOSE not waiting for direct IO compeletion")
+	uprobes: Change handle_swbp() to send SIGTRAP with si_code=SI_KERNEL, to fix GDB regression
+	ALSA: info: Drop WARN_ON() from buffer NULL sanity check
+	ASoC: rt5670: Correct RT5670_LDO_SEL_MASK
+	btrfs: fix double free on ulist after backref resolution failure
+	btrfs: fix mount failure caused by race with umount
+	bnxt_en: Fix race when modifying pause settings.
+	hippi: Fix a size used in a 'pci_free_consistent()' in an error handling path
+	ax88172a: fix ax88172a_unbind() failures
+	net: dp83640: fix SIOCSHWTSTAMP to update the struct with actual configuration
+	net: smc91x: Fix possible memory leak in smc_drv_probe()
+	scripts/decode_stacktrace: strip basepath from all paths
+	HID: i2c-hid: add Mediacom FlexBook edge13 to descriptor override
+	HID: apple: Disable Fn-key key-re-mapping on clone keyboards
+	dmaengine: tegra210-adma: Fix runtime PM imbalance on error
+	regmap: dev_get_regmap_match(): fix string comparison
+	dmaengine: ioat setting ioat timeout as module parameter
+	usb: gadget: udc: gr_udc: fix memleak on error handling path in gr_ep_init()
+	arm64: Use test_tsk_thread_flag() for checking TIF_SINGLESTEP
+	x86: math-emu: Fix up 'cmp' insn for clang ias
+	usb: xhci-mtk: fix the failure of bandwidth allocation
+	usb: xhci: Fix ASM2142/ASM3142 DMA addressing
+	Revert "cifs: Fix the target file was deleted when rename failed."
+	staging: wlan-ng: properly check endpoint types
+	staging: comedi: addi_apci_1032: check INSN_CONFIG_DIGITAL_TRIG shift
+	staging: comedi: ni_6527: fix INSN_CONFIG_DIGITAL_TRIG support
+	staging: comedi: addi_apci_1500: check INSN_CONFIG_DIGITAL_TRIG shift
+	staging: comedi: addi_apci_1564: check INSN_CONFIG_DIGITAL_TRIG shift
+	serial: 8250: fix null-ptr-deref in serial8250_start_tx()
+	serial: 8250_mtk: Fix high-speed baud rates clamping
+	vt: Reject zero-sized screen buffer size.
+	Makefile: Fix GCC_TOOLCHAIN_DIR prefix for Clang cross compilation
+	mm/memcg: fix refcount error while moving and swapping
+	io-mapping: indicate mapping failure
+	parisc: Add atomic64_set_release() define to avoid CPU soft lockups
+	ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb
+	ath9k: Fix regression with Atheros 9271
+	AX.25: Fix out-of-bounds read in ax25_connect()
+	AX.25: Prevent out-of-bounds read in ax25_sendmsg()
+	dev: Defer free of skbs in flush_backlog
+	net-sysfs: add a newline when printing 'tx_timeout' by sysfs
+	net: udp: Fix wrong clean up for IS_UDPLITE macro
+	rxrpc: Fix sendmsg() returning EPIPE due to recvmsg() returning ENODATA
+	AX.25: Prevent integer overflows in connect and sendmsg
+	tcp: allow at most one TLP probe per flight
+	ip6_gre: fix null-ptr-deref in ip6gre_init_net()
+	drivers/net/wan/x25_asy: Fix to make it work
+	regmap: debugfs: check count when read regmap file
+	xfs: set format back to extents if xfs_bmap_extents_to_btree
+	perf probe: Fix to check blacklist address correctly
+	perf annotate: Use asprintf when formatting objdump command line
+	perf tools: Fix snprint warnings for gcc 8
+	perf: Make perf able to build with latest libbfd
+	Linux 4.9.232
+
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
+Change-Id: Iae57e72dbaebe67399c6756146f30762e5f25b2e</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dcd0c8c</span>
+                                        <span class="message">UPSTREAM: xtables: extend matches and targets with .usersize
+
+In matches and targets that define a kernel-only tail to their
+xt_match and xt_target data structs, add a field .usersize that
+specifies up to where data is to be shared with userspace.
+
+Performed a search for comment "Used internally by the kernel" to find
+relevant matches and targets. Manually inspected the structs to derive
+a valid offsetof.
+
+Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
+
+Bug: 120612905
+Change-Id: I05372f848e14a2870ee6b3bdfa4cc6c42c5bc74c
+(cherry picked from commit ec23189049651b16dc2ffab35a4371dc1f491aca)
+Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bb5bc03</span>
+                                        <span class="message">UPSTREAM: ip6tables: use match, target and data copy_to_user helpers
+
+Convert ip6tables to copying entries, matches and targets one by one,
+using the xt_match_to_user and xt_target_to_user helper functions.
+
+Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
+
+Bug: 120612905
+Change-Id: I50db052755301496d318a19444b922bd655866c1
+(cherry picked from commit e47ddb2c4691fd2bd8d25745ecb6848408899757)
+Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d104670</span>
+                                        <span class="message">UPSTREAM: iptables: use match, target and data copy_to_user helpers
+
+Convert iptables to copying entries, matches and targets one by one,
+using the xt_match_to_user and xt_target_to_user helper functions.
+
+Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
+
+Bug: 120612905
+Change-Id: I8e23c9f0566ed9eb895ae626760efccd3bf5c24e
+(cherry picked from commit f77bc5b23fb1af51fc0faa8a479dea8969eb5079)
+Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8a1b3c7</span>
+                                        <span class="message">UPSTREAM: xtables: add xt_match, xt_target and data copy_to_user functions
+
+xt_entry_target, xt_entry_match and their private data may contain
+kernel data.
+
+Introduce helper functions xt_match_to_user, xt_target_to_user and
+xt_data_to_user that copy only the expected fields. These replace
+existing logic that calls copy_to_user on entire structs, then
+overwrites select fields.
+
+Private data is defined in xt_match and xt_target. All matches and
+targets that maintain kernel data store this at the tail of their
+private structure. Extend xt_match and xt_target with .usersize to
+limit how many bytes of data are copied. The remainder is cleared.
+
+If compatsize is specified, usersize can only safely be used if all
+fields up to usersize use platform-independent types. Otherwise, the
+compat_to_user callback must be defined.
+
+This patch does not yet enable the support logic.
+
+Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
+
+Bug: 120612905
+Change-Id: I71ca0160d0ad7b8ee97b412c1e278b75b297bd54
+(cherry picked from commit f32815d21d4d8287336fb9cef4d2d9e0866214c2)
+Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f036383</span>
+                                        <span class="message">Merge 4.9.231 into android-4.9-q
+
+Changes in 4.9.231
+	KVM: s390: reduce number of IO pins to 1
+	gpu: host1x: Detach driver on unregister
+	spi: spidev: fix a race between spidev_release and spidev_remove
+	spi: spidev: fix a potential use-after-free in spidev_release()
+	s390/kasan: fix early pgm check handler execution
+	cifs: update ctime and mtime during truncate
+	ARM: imx6: add missing put_device() call in imx6q_suspend_init()
+	scsi: mptscsih: Fix read sense data size
+	net: cxgb4: fix return error value in t4_prep_fw
+	smsc95xx: check return value of smsc95xx_reset
+	smsc95xx: avoid memory leak in smsc95xx_bind
+	ALSA: compress: fix partial_drain completion state
+	arm64: kgdb: Fix single-step exception handling oops
+	bnxt_en: fix NULL dereference in case SR-IOV configuration fails
+	net: macb: mark device wake capable when "magic-packet" property present
+	ALSA: opl3: fix infoleak in opl3
+	ALSA: hda - let hs_mic be picked ahead of hp_mic
+	ALSA: usb-audio: add quirk for MacroSilicon MS2109
+	KVM: arm64: Fix definition of PAGE_HYP_DEVICE
+	KVM: x86: bit 8 of non-leaf PDPEs is not reserved
+	Revert "ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb"
+	btrfs: fix fatal extent_buffer readahead vs releasepage race
+	drm/radeon: fix double free
+	ARC: entry: fix potential EFA clobber when TIF_SYSCALL_TRACE
+	ARC: elf: use right ELF_ARCH
+	s390/mm: fix huge pte soft dirty copying
+	ipv4: fill fl4_icmp_{type,code} in ping_v4_sendmsg
+	l2tp: remove skb_dst_set() from l2tp_xmit_skb()
+	llc: make sure applications use ARPHRD_ETHER
+	net: Added pointer check for dst-&gt;ops-&gt;neigh_lookup in dst_neigh_lookup_skb
+	net: usb: qmi_wwan: add support for Quectel EG95 LTE modem
+	tcp: md5: add missing memory barriers in tcp_md5_do_add()/tcp_md5_hash_key()
+	tcp: md5: refine tcp_md5_do_add()/tcp_md5_hash_key() barriers
+	genetlink: remove genl_bind
+	tcp: make sure listeners don't initialize congestion-control state
+	tcp: md5: do not send silly options in SYNCOOKIES
+	tcp: md5: allow changing MD5 keys in all socket states
+	cgroup: fix cgroup_sk_alloc() for sk_clone_lock()
+	cgroup: Fix sock_cgroup_data on big-endian.
+	i2c: eg20t: Load module automatically if ID matches
+	iio:magnetometer:ak8974: Fix alignment and data leak issues
+	iio: magnetometer: ak8974: Fix runtime PM imbalance on error
+	iio: mma8452: Add missed iio_device_unregister() call in mma8452_probe()
+	iio: pressure: zpa2326: handle pm_runtime_get_sync failure
+	iio:pressure:ms5611 Fix buffer element alignment
+	iio:health:afe4403 Fix timestamp alignment and prevent data leak.
+	spi: fix initial SPI_SR value in spi-fsl-dspi
+	net: dsa: bcm_sf2: Fix node reference count
+	Revert "usb/ehci-platform: Set PM runtime as active on resume"
+	Revert "usb/xhci-plat: Set PM runtime as active on resume"
+	Revert "usb/ohci-platform: Fix a warning when hibernating"
+	iio:health:afe4404 Fix timestamp alignment and prevent data leak.
+	spi: spi-sun6i: sun6i_spi_transfer_one(): fix setting of clock rate
+	usb: gadget: udc: atmel: fix uninitialized read in debug printk
+	staging: comedi: verify array index is correct before using it
+	Revert "thermal: mediatek: fix register index error"
+	ARM: dts: socfpga: Align L2 cache-controller nodename with dtschema
+	perf stat: Zero all the 'ena' and 'run' array slot stats for interval mode
+	mtd: rawnand: brcmnand: fix CS0 layout
+	HID: magicmouse: do not set up autorepeat
+	usb: core: Add a helper function to check the validity of EP type in URB
+	ALSA: line6: Perform sanity check for each URB creation
+	ALSA: usb-audio: Fix race against the error recovery URB submission
+	USB: c67x00: fix use after free in c67x00_giveback_urb
+	usb: dwc2: Fix shutdown callback in platform
+	usb: chipidea: core: add wakeup support for extcon
+	usb: gadget: function: fix missing spinlock in f_uac1_legacy
+	USB: serial: iuu_phoenix: fix memory corruption
+	USB: serial: cypress_m8: enable Simply Automated UPB PIM
+	USB: serial: ch341: add new Product ID for CH340
+	USB: serial: option: add GosunCn GM500 series
+	USB: serial: option: add Quectel EG95 LTE modem
+	virtio: virtio_console: add missing MODULE_DEVICE_TABLE() for rproc serial
+	fuse: Fix parameter for FS_IOC_{GET,SET}FLAGS
+	mei: bus: don't clean driver pointer
+	Input: i8042 - add Lenovo XiaoXin Air 12 to i8042 nomux list
+	uio_pdrv_genirq: fix use without device tree and no interrupt
+	timer: Fix wheel index calculation on last level
+	MIPS: Fix build for LTS kernel caused by backporting lpj adjustment
+	hwmon: (emc2103) fix unable to change fan pwm1_enable attribute
+	dmaengine: fsl-edma: Fix NULL pointer exception in fsl_edma_tx_handler
+	misc: atmel-ssc: lock with mutex instead of spinlock
+	arm64: ptrace: Override SPSR.SS when single-stepping is enabled
+	sched/fair: handle case of task_h_load() returning 0
+	irqchip/gic: Atomically update affinity
+	x86/cpu: Move x86_cache_bits settings
+	Linux 4.9.231
+
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
+Change-Id: I57b0f3c4ffcdc49231d1c48f3f25fae424daeeb9</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8c06e8e</span>
+                                        <span class="message">ANDROID: cuttlefish_defconfig: Drop built-in cmdline (except nopti)
+
+This fixes duplicate kernel log messages. Only earlycon from ttyS0
+should be logged, after virtio-console is loaded it should come only
+from there.
+
+Bug: 160341724
+Change-Id: I194343fcaff822b31c8d8b6138196cb4e077613c
+Signed-off-by: Alistair Delva &lt;adelva@google.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#65f1d99</span>
+                                        <span class="message">Merge 4.9.230 into android-4.9-q
+
+Changes in 4.9.230
+	btrfs: fix a block group ref counter leak after failure to remove block group
+	btrfs: cow_file_range() num_bytes and disk_num_bytes are same
+	btrfs: fix data block group relocation failure due to concurrent scrub
+	mm: fix swap cache node allocation mask
+	EDAC/amd64: Read back the scrub rate PCI register on F15h
+	usbnet: smsc95xx: Fix use-after-free after removal
+	mm/slub.c: fix corrupted freechain in deactivate_slab()
+	mm/slub: fix stack overruns with SLUB_STATS
+	usb: usbtest: fix missing kfree(dev-&gt;buf) in usbtest_disconnect
+	kgdb: Avoid suspicious RCU usage warning
+	crypto: af_alg - fix use-after-free in af_alg_accept() due to bh_lock_sock()
+	sched/rt: Show the 'sched_rr_timeslice' SCHED_RR timeslice tuning knob in milliseconds
+	cxgb4: parse TC-U32 key values and masks natively
+	hwmon: (max6697) Make sure the OVERT mask is set correctly
+	hwmon: (acpi_power_meter) Fix potential memory leak in acpi_power_meter_add()
+	virtio-blk: free vblk-vqs in error path of virtblk_probe()
+	i2c: algo-pca: Add 0x78 as SCL stuck low status for PCA9665
+	Revert "ALSA: usb-audio: Improve frames size computation"
+	SMB3: Honor 'seal' flag for multiuser mounts
+	SMB3: Honor persistent/resilient handle flags for multiuser mounts
+	cifs: Fix the target file was deleted when rename failed.
+	MIPS: Add missing EHB in mtc0 -&gt; mfc0 sequence for DSPen
+	netfilter: nf_conntrack_h323: lost .data_len definition for Q.931/ipv6
+	efi: Make it possible to disable efivar_ssdt entirely
+	Linux 4.9.230
+
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
+Change-Id: Idfb59ec0247f0e8ba270f56daa689ee6f68d54bc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6e60c65</span>
+                                        <span class="message">Merge 4.9.229 into android-4.9-q
+
+Changes in 4.9.229
+	power: supply: bq24257_charger: Replace depends on REGMAP_I2C with select
+	clk: sunxi: Fix incorrect usage of round_down()
+	i2c: piix4: Detect secondary SMBus controller on AMD AM4 chipsets
+	iio: pressure: bmp280: Tolerate IRQ before registering
+	clk: qcom: msm8916: Fix the address location of pll-&gt;config_reg
+	backlight: lp855x: Ensure regulators are disabled on probe failure
+	ARM: integrator: Add some Kconfig selections
+	ALSA: isa/wavefront: prevent out of bounds write in ioctl
+	scsi: qla2xxx: Fix issue with adapter's stopping state
+	iio: bmp280: fix compensation of humidity
+	i2c: pxa: clear all master action bits in i2c_pxa_stop_message()
+	usblp: poison URBs upon disconnect
+	PCI: aardvark: Don't blindly enable ASPM L0s and don't write to read-only register
+	ps3disk: use the default segment boundary
+	vfio/pci: fix memory leaks in alloc_perm_bits()
+	mfd: wm8994: Fix driver operation if loaded as modules
+	scsi: lpfc: Fix lpfc_nodelist leak when processing unsolicited event
+	clk: clk-flexgen: fix clock-critical handling
+	powerpc/perf/hv-24x7: Fix inconsistent output values incase multiple hv-24x7 events run
+	nfsd: Fix svc_xprt refcnt leak when setup callback client failed
+	powerpc/crashkernel: Take "mem=" option into account
+	yam: fix possible memory leak in yam_init_driver
+	mksysmap: Fix the mismatch of '.L' symbols in System.map
+	scsi: sr: Fix sr_probe() missing deallocate of device minor
+	scsi: ibmvscsi: Don't send host info in adapter info MAD after LPM
+	ALSA: usb-audio: Improve frames size computation
+	s390/qdio: put thinint indicator after early error
+	tty: hvc: Fix data abort due to race in hvc_open
+	staging: sm750fb: add missing case while setting FB_VISUAL
+	i2c: pxa: fix i2c_pxa_scream_blue_murder() debug output
+	serial: amba-pl011: Make sure we initialize the port.lock spinlock
+	drivers: base: Fix NULL pointer exception in __platform_driver_probe() if a driver developer is foolish
+	PCI: rcar: Fix incorrect programming of OB windows
+	PCI/ASPM: Allow ASPM on links to PCIe-to-PCI/PCI-X Bridges
+	power: supply: lp8788: Fix an error handling path in 'lp8788_charger_probe()'
+	power: supply: smb347-charger: IRQSTAT_D is volatile
+	scsi: mpt3sas: Fix double free warnings
+	dlm: remove BUG() before panic()
+	clk: ti: composite: fix memory leak
+	tty: n_gsm: Fix SOF skipping
+	tty: n_gsm: Fix waking up upper tty layer when room available
+	powerpc/pseries/ras: Fix FWNMI_VALID off by one
+	powerpc/ps3: Fix kexec shutdown hang
+	vfio-pci: Mask cap zero
+	usb/ohci-platform: Fix a warning when hibernating
+	drm/msm/mdp5: Fix mdp5_init error path for failed mdp5_kms allocation
+	USB: host: ehci-mxc: Add error handling in ehci_mxc_drv_probe()
+	tty: n_gsm: Fix bogus i++ in gsm_data_kick
+	clk: samsung: exynos5433: Add IGNORE_UNUSED flag to sclk_i2s1
+	powerpc/64s/pgtable: fix an undefined behaviour
+	PCI/PTM: Inherit Switch Downstream Port PTM settings from Upstream Port
+	IB/cma: Fix ports memory leak in cma_configfs
+	watchdog: da9062: No need to ping manually before setting timeout
+	usb: dwc2: gadget: move gadget resume after the core is in L0 state
+	USB: gadget: udc: s3c2410_udc: Remove pointless NULL check in s3c2410_udc_nuke
+	usb: gadget: lpc32xx_udc: don't dereference ep pointer before null check
+	usb: gadget: fix potential double-free in m66592_probe.
+	usb: gadget: Fix issue with config_ep_by_speed function
+	clk: bcm2835: Fix return type of bcm2835_register_gate
+	net: sunrpc: Fix off-by-one issues in 'rpc_ntop6'
+	NFSv4.1 fix rpc_call_done assignment for BIND_CONN_TO_SESSION
+	extcon: adc-jack: Fix an error handling path in 'adc_jack_probe()'
+	ASoC: fsl_asrc_dma: Fix dma_chan leak when config DMA channel failed
+	openrisc: Fix issue with argument clobbering for clone/fork
+	gfs2: Allow lock_nolock mount to specify jid=X
+	scsi: iscsi: Fix reference count leak in iscsi_boot_create_kobj
+	pinctrl: imxl: Fix an error handling path in 'imx1_pinctrl_core_probe()'
+	crypto: omap-sham - add proper load balancing support for multicore
+	lib/zlib: remove outdated and incorrect pre-increment optimization
+	include/linux/bitops.h: avoid clang shift-count-overflow warnings
+	elfnote: mark all .note sections SHF_ALLOC
+	selftests/vm/pkeys: fix alloc_random_pkey() to make it really random
+	selftests/net: in timestamping, strncpy needs to preserve null byte
+	scsi: acornscsi: Fix an error handling path in acornscsi_probe()
+	usb/xhci-plat: Set PM runtime as active on resume
+	usb/ehci-platform: Set PM runtime as active on resume
+	perf report: Fix NULL pointer dereference in hists__fprintf_nr_sample_events()
+	bcache: fix potential deadlock problem in btree_gc_coalesce
+	block: Fix use-after-free in blkdev_get()
+	libata: Use per port sync for detach
+	drm: encoder_slave: fix refcouting error for modules
+	drm/dp_mst: Reformat drm_dp_check_act_status() a bit
+	drm/qxl: Use correct notify port address when creating cursor ring
+	selinux: fix double free
+	ext4: fix partial cluster initialization when splitting extent
+	drm/dp_mst: Increase ACT retry timeout to 3s
+	x86/boot/compressed: Relax sed symbol type regex for LLVM ld.lld
+	block: nr_sects_write(): Disable preemption on seqcount write
+	s390: fix syscall_get_error for compat processes
+	drm/i915: Whitelist context-local timestamp in the gen9 cmdparser
+	crypto: algboss - don't wait during notifier callback
+	kprobes: Fix to protect kick_kprobe_optimizer() by kprobe_mutex
+	powerpc/kprobes: Fixes for kprobe_lookup_name() on BE
+	x86/kprobes: Avoid kretprobe recursion bug
+	kretprobe: Prevent triggering kretprobe from within kprobe_flush_task
+	e1000e: Do not wake up the system via WOL if device wakeup is disabled
+	sched/rt, net: Use CONFIG_PREEMPTION.patch
+	net: core: device_rename: Use rwsem instead of a seqcount
+	media: dvb_frontend: initialize variable s with FE_NONE instead of 0
+	media: dvb/frontend.h: move out a private internal structure
+	media: dvb/frontend.h: document the uAPI file
+	media: dvb_frontend: get rid of get_property() callback
+	media: stv0288: get rid of set_property boilerplate
+	media: stv6110: get rid of a srate dead code
+	media: friio-fe: get rid of set_property()
+	media: dvb_frontend: get rid of set_property() callback
+	media: dvb_frontend: cleanup dvb_frontend_ioctl_properties()
+	media: dvb_frontend: cleanup ioctl handling logic
+	media: dvb_frontend: get rid of property cache's state
+	media: dvb_frontend: better document the -EPERM condition
+	media: dvb_frontend: fix return values for FE_SET_PROPERTY
+	media: dvb_frontend: dtv_property_process_set() cleanups
+	media: dvb_frontend: be sure to init dvb_frontend_handle_ioctl() return code
+	media: dvb_frontend: Add unlocked_ioctl in dvb_frontend.c
+	media: dvb_frontend: Add compat_ioctl callback
+	media: dvb_frontend: Add commands implementation for compat ioct
+	media: dvb_frontend: fix wrong cast in compat_ioctl
+	media: dvb_frontend: fix return error code
+	mtd: rawnand: Pass a nand_chip object to nand_release()
+	mtd: rawnand: diskonchip: Fix the probe error path
+	mtd: rawnand: sharpsl: Fix the probe error path
+	mtd: rawnand: xway: Fix the probe error path
+	mtd: rawnand: orion: Fix the probe error path
+	mtd: rawnand: socrates: Fix the probe error path
+	mtd: rawnand: plat_nand: Fix the probe error path
+	mtd: rawnand: mtk: Fix the probe error path
+	mtd: rawnand: tmio: Fix the probe error path
+	scsi: scsi_devinfo: handle non-terminated strings
+	l2tp: Allow duplicate session creation with UDP
+	net: sched: export __netdev_watchdog_up()
+	fix a braino in "sparc32: fix register window handling in genregs32_[gs]et()"
+	mld: fix memory leak in ipv6_mc_destroy_dev()
+	net: fix memleak in register_netdevice()
+	net: usb: ax88179_178a: fix packet alignment padding
+	rocker: fix incorrect error handling in dma_rings_init
+	rxrpc: Fix notification call on completion of discarded calls
+	tg3: driver sleeps indefinitely when EEH errors exceed eeh_max_freezes
+	ip_tunnel: fix use-after-free in ip_tunnel_lookup()
+	tcp_cubic: fix spurious HYSTART_DELAY exit upon drop in min RTT
+	ip6_gre: fix use-after-free in ip6gre_tunnel_lookup()
+	tcp: grow window for OOO packets only for SACK flows
+	sctp: Don't advertise IPv4 addresses if ipv6only is set on the socket
+	net: Fix the arp error in some cases
+	net: Do not clear the sock TX queue in sk_set_socket()
+	net: core: reduce recursion limit value
+	USB: ohci-sm501: Add missed iounmap() in remove
+	usb: dwc2: Postponed gadget registration to the udc class driver
+	usb: add USB_QUIRK_DELAY_INIT for Logitech C922
+	USB: ehci: reopen solution for Synopsys HC bug
+	usb: host: ehci-exynos: Fix error check in exynos_ehci_probe()
+	ALSA: usb-audio: add quirk for Denon DCD-1500RE
+	xhci: Fix incorrect EP_STATE_MASK
+	xhci: Fix enumeration issue when setting max packet size for FS devices.
+	cdc-acm: Add DISABLE_ECHO quirk for Microchip/SMSC chip
+	ALSA: usb-audio: uac1: Invalidate ctl on interrupt
+	ALSA: usb-audio: Clean up mixer element list traverse
+	ALSA: usb-audio: Fix OOB access of mixer element list
+	xhci: Poll for U0 after disabling USB2 LPM
+	cifs/smb3: Fix data inconsistent when punch hole
+	cifs/smb3: Fix data inconsistent when zero file range
+	efi/esrt: Fix reference count leak in esre_create_sysfs_entry.
+	RDMA/mad: Fix possible memory leak in ib_mad_post_receive_mads()
+	net: qed: fix left elements count calculation
+	net: qed: fix NVMe login fails over VFs
+	net: qed: fix excessive QM ILT lines consumption
+	ARM: imx5: add missing put_device() call in imx_suspend_alloc_ocram()
+	usb: gadget: udc: Potential Oops in error handling code
+	netfilter: ipset: fix unaligned atomic access
+	sched/core: Fix PI boosting between RT and DEADLINE tasks
+	ata/libata: Fix usage of page address by page_address in ata_scsi_mode_select_xlat function
+	net: alx: fix race condition in alx_remove
+	s390/ptrace: fix setting syscall number
+	kbuild: improve cc-option to clean up all temporary files
+	blktrace: break out of blktrace setup on concurrent calls
+	ALSA: hda: Add NVIDIA codec IDs 9a &amp; 9d through a0 to patch table
+	ACPI: sysfs: Fix pm_profile_attr type
+	KVM: X86: Fix MSR range of APIC registers in X2APIC mode
+	mm/slab: use memzero_explicit() in kzfree()
+	ocfs2: load global_inode_alloc
+	ocfs2: fix value of OCFS2_INVALID_SLOT
+	ocfs2: fix panic on nfs server over ocfs2
+	arm64: perf: Report the PC value in REGS_ABI_32 mode
+	tracing: Fix event trigger to accept redundant spaces
+	drm/radeon: fix fb_div check in ni_init_smc_spll_table()
+	sunrpc: fixed rollback in rpc_gssd_dummy_populate()
+	SUNRPC: Properly set the @subbuf parameter of xdr_buf_subsegment()
+	pNFS/flexfiles: Fix list corruption if the mirror count changes
+	NFSv4 fix CLOSE not waiting for direct IO compeletion
+	xfs: add agf freeblocks verify in xfs_agf_verify
+	Revert "tty: hvc: Fix data abort due to race in hvc_open"
+	Linux 4.9.229
+
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
+Change-Id: I0ce84c8f4c2c437fee36399c358c3dcc19fdfc1d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0f1687e</span>
+                                        <span class="message">Merge 4.9.228 into android-4.9-q
+
+Changes in 4.9.228
+	ipv6: fix IPV6_ADDRFORM operation logic
+	vxlan: Avoid infinite loop when suppressing NS messages with invalid options
+	scsi: return correct blkprep status code in case scsi_init_io() fails.
+	crypto: talitos - fix ECB and CBC algs ivsize
+	ARM: 8977/1: ptrace: Fix mask for thumb breakpoint hook
+	sched/fair: Don't NUMA balance for kthreads
+	drivers/net/ibmvnic: Update VNIC protocol version reporting
+	ath9k_htc: Silence undersized packet warnings
+	x86_64: Fix jiffies ODR violation
+	x86/PCI: Mark Intel C620 MROMs as having non-compliant BARs
+	x86/speculation: Prevent rogue cross-process SSBD shutdown
+	x86/reboot/quirks: Add MacBook6,1 reboot quirk
+	efi/efivars: Add missing kobject_put() in sysfs entry creation error path
+	ALSA: es1688: Add the missed snd_card_free()
+	ALSA: usb-audio: Fix inconsistent card PM state after resume
+	ACPI: sysfs: Fix reference count leak in acpi_sysfs_add_hotplug_profile()
+	ACPI: CPPC: Fix reference count leak in acpi_cppc_processor_probe()
+	ACPI: GED: add support for _Exx / _Lxx handler methods
+	ACPI: PM: Avoid using power resources if there are none for D0
+	cgroup, blkcg: Prepare some symbols for module and !CONFIG_CGROUP usages
+	nilfs2: fix null pointer dereference at nilfs_segctor_do_construct()
+	spi: bcm2835aux: Fix controller unregister order
+	spi: bcm-qspi: when tx/rx buffer is NULL set to 0
+	ALSA: pcm: disallow linking stream to itself
+	x86/speculation: Change misspelled STIPB to STIBP
+	x86/speculation: Add support for STIBP always-on preferred mode
+	x86/speculation: Avoid force-disabling IBPB based on STIBP and enhanced IBRS.
+	x86/speculation: PR_SPEC_FORCE_DISABLE enforcement for indirect branches.
+	spi: dw: fix possible race condition
+	spi: dw: Fix controller unregister order
+	spi: No need to assign dummy value in spi_unregister_controller()
+	spi: Fix controller unregister order
+	spi: pxa2xx: Fix controller unregister order
+	spi: bcm2835: Fix controller unregister order
+	ovl: initialize error in ovl_copy_xattr
+	proc: Use new_inode not new_inode_pseudo
+	video: fbdev: w100fb: Fix a potential double free.
+	KVM: nSVM: leave ASID aside in copy_vmcb_control_area
+	KVM: nVMX: Consult only the "basic" exit reason when routing nested exit
+	KVM: MIPS: Define KVM_ENTRYHI_ASID to cpu_asid_mask(&amp;boot_cpu_data)
+	KVM: MIPS: Fix VPN2_MASK definition for variable cpu_vmbits
+	KVM: arm64: Make vcpu_cp1x() work on Big Endian hosts
+	ath9k: Fix use-after-free Read in ath9k_wmi_ctrl_rx
+	ath9k: Fix use-after-free Write in ath9k_htc_rx_msg
+	ath9x: Fix stack-out-of-bounds Write in ath9k_hif_usb_rx_cb
+	ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb
+	Smack: slab-out-of-bounds in vsscanf
+	mm/slub: fix a memory leak in sysfs_slab_add()
+	fat: don't allow to mount if the FAT length == 0
+	perf: Add cond_resched() to task_function_call()
+	agp/intel: Reinforce the barrier after GTT updates
+	can: kvaser_usb: kvaser_usb_leaf: Fix some info-leaks to USB devices
+	media: dvb_frontend: ensure that inital front end status initialized
+	ACPI: GED: use correct trigger type field in _Exx / _Lxx handling
+	media: si2157: Better check for running tuner in init
+	objtool: Ignore empty alternatives
+	net: ena: fix error returning in ena_com_get_hash_function()
+	spi: dw: Zero DMA Tx and Rx configurations on stack
+	Bluetooth: Add SCO fallback for invalid LMP parameters error
+	kgdb: Prevent infinite recursive entries to the debugger
+	spi: dw: Enable interrupts in accordance with DMA xfer mode
+	clocksource: dw_apb_timer_of: Fix missing clockevent timers
+	btrfs: do not ignore error from btrfs_next_leaf() when inserting checksums
+	ARM: 8978/1: mm: make act_mm() respect THREAD_SIZE
+	x86/kvm/hyper-v: Explicitly align hcall param for kvm_hyperv_exit
+	net: vmxnet3: fix possible buffer overflow caused by bad DMA value in vmxnet3_get_rss()
+	staging: android: ion: use vmap instead of vm_map_ram
+	e1000: Distribute switch variables for initialization
+	dt-bindings: display: mediatek: control dpi pins mode to avoid leakage
+	media: dvb: return -EREMOTEIO on i2c transfer failure.
+	media: platform: fcp: Set appropriate DMA parameters
+	MIPS: Make sparse_init() using top-down allocation
+	netfilter: nft_nat: return EOPNOTSUPP if type or flags are not supported
+	lib/mpi: Fix 64-bit MIPS build with Clang
+	exit: Move preemption fixup up, move blocking operations down
+	net: lpc-enet: fix error return code in lpc_mii_init()
+	net: allwinner: Fix use correct return type for ndo_start_xmit()
+	powerpc/spufs: fix copy_to_user while atomic
+	MIPS: Truncate link address into 32bit for 32bit kernel
+	mips: cm: Fix an invalid error code of INTVN_*_ERR
+	kgdb: Fix spurious true from in_dbg_master()
+	md: don't flush workqueue unconditionally in md_open
+	rtlwifi: Fix a double free in _rtl_usb_tx_urb_setup()
+	mwifiex: Fix memory corruption in dump_station
+	x86/boot: Correct relocation destination on old linkers
+	mips: Add udelay lpj numbers adjustment
+	x86/mm: Stop printing BRK addresses
+	m68k: mac: Don't call via_flush_cache() on Mac IIfx
+	macvlan: Skip loopback packets in RX handler
+	PCI: Don't disable decoding when mmio_always_on is set
+	MIPS: Fix IRQ tracing when call handle_fpe() and handle_msa_fpe()
+	staging: greybus: sdio: Respect the cmd-&gt;busy_timeout from the mmc core
+	ixgbe: fix signed-integer-overflow warning
+	mmc: sdhci-esdhc-imx: fix the mask for tuning start point
+	spi: dw: Return any value retrieved from the dma_transfer callback
+	cpuidle: Fix three reference count leaks
+	btrfs: send: emit file capabilities after chown
+	mm: thp: make the THP mapcount atomic against __split_huge_pmd_locked()
+	ima: Fix ima digest hash table key calculation
+	ima: Directly assign the ima_default_policy pointer to ima_rules
+	evm: Fix possible memory leak in evm_calc_hmac_or_hash()
+	ext4: fix EXT_MAX_EXTENT/INDEX to check for zeroed eh_max
+	ext4: fix race between ext4_sync_parent() and rename()
+	btrfs: fix error handling when submitting direct I/O bio
+	blk-mq: move blk_mq_update_nr_hw_queues synchronize_rcu call
+	PCI: Program MPS for RCiEP devices
+	e1000e: Relax condition to trigger reset for ME workaround
+	carl9170: remove P2P_GO support
+	media: go7007: fix a miss of snd_card_free
+	b43legacy: Fix case where channel status is corrupted
+	b43: Fix connection problem with WPA3
+	b43_legacy: Fix connection problem with WPA3
+	igb: Report speed and duplex as unknown when device is runtime suspended
+	power: vexpress: add suppress_bind_attrs to true
+	pinctrl: samsung: Save/restore eint_mask over suspend for EINT_TYPE GPIOs
+	sparc32: fix register window handling in genregs32_[gs]et()
+	sparc64: fix misuses of access_process_vm() in genregs32_[sg]et()
+	kernel/cpu_pm: Fix uninitted local in cpu_pm
+	ARM: tegra: Correct PL310 Auxiliary Control Register initialization
+	drivers/macintosh: Fix memleak in windfarm_pm112 driver
+	kbuild: force to build vmlinux if CONFIG_MODVERSION=y
+	sunrpc: svcauth_gss_register_pseudoflavor must reject duplicate registrations.
+	sunrpc: clean up properly in gss_mech_unregister()
+	mtd: rawnand: brcmnand: fix hamming oob layout
+	mtd: rawnand: pasemi: Fix the probe error path
+	w1: omap-hdq: cleanup to add missing newline for some dev_dbg
+	perf probe: Do not show the skipped events
+	perf symbols: Fix debuginfo search for Ubuntu
+	Linux 4.9.228
+
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
+Change-Id: I26fadb036b8aab801c0ba5e7e5ed99170cf0f783</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">goshawk22/deep-chess</span>
                     </div>
                                 </div>
@@ -2722,24 +3560,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                      Starred <span class="repo">nukeop/nuclear</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2021, 13:28:56 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Dec 2021, 14:20:29 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
