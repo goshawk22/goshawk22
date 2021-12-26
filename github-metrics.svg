@@ -1428,7 +1428,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1461,7 +1461,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            429 Commits
+            430 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1498,7 +1498,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-            Starred 365 repositories
+            Starred 366 repositories
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/></svg>
@@ -2636,10 +2636,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.428571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                            <g transform="translate(0, 4.857142857142858)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                         </g>
                     </g>
@@ -2652,6 +2652,148 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                      Starred <span class="repo">processhacker/processhacker</span>
+                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2c5af58</span>
+                                        <span class="message">sdm710-common: Update FCM
+
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:388] The following HALs in device manifest are not declared in FCM &lt;= level 3: 
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.audio.effect@7.0::IEffectsFactory/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.audio@7.0::IDevicesFactory/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.biometrics.fingerprint@2.2::IBiometricsFingerprint/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.cas@1.2::IMediaCasService/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.2::ICryptoFactory/widevine
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.2::IDrmFactory/widevine
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.3::ICryptoFactory/wfdhdcp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.3::IDrmFactory/wfdhdcp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.4::ICryptoFactory/clearkey
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.4::IDrmFactory/clearkey
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.health@2.1::IHealth/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-dsp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-gpu
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.power.stats@1.0::IPowerStats/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.soundtrigger@2.2::ISoundTriggerHw/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi.hostapd@1.3::IHostapd/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi.supplicant@1.4::ISupplicant/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi@1.5::IWifi/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   com.qualcomm.qti.ant@1.0::IAntHci/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.biometrics.face@1.0::IBiometricsFace/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0::IOppoAlgoProcessService/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.camera.oppoHalAssist@1.0::IOppoHalAssist/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.hypnus@1.0::IHypnusUtil/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.qti.hardware.display.mapper@1.1::IQtiMapper/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.qti.imsrtpservice@2.1::IRTPService/imsrtpservice
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] files are incompatible: The following instances are in the device manifest but not specified in framework co
+mpatibility matrix: 
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     com.qualcomm.qti.ant@1.0::IAntHci/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.biometrics.face@1.0::IBiometricsFace/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0::IOppoAlgoProcessService/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.camera.oppoHalAssist@1.0::IOppoHalAssist/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.hypnus@1.0::IHypnusUtil/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.qti.hardware.display.mapper@1.1::IQtiMapper/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.qti.imsrtpservice@2.1::IRTPService/imsrtpservice
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] Suggested fix:
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 1. Update deprecated HALs to the latest version.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 2. Check for any typos in device manifest or framework compatibility matrices with FCM version &gt;= 3.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 3. For new platform HALs, add them to any framework compatibility matrix with FCM version &gt;= 3 where applica
+ble.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 4. For device-specific HALs, add to DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE or DEVICE_PRODUCT_COMPATIBILI
+TY_MATRIX_FILE.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#81962f6</span>
+                                        <span class="message">sdm710-common: Update FCM
+
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:388] The following HALs in device manifest are not declared in FCM &lt;= level 3: 
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.audio.effect@7.0::IEffectsFactory/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.audio@7.0::IDevicesFactory/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.biometrics.fingerprint@2.2::IBiometricsFingerprint/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.cas@1.2::IMediaCasService/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.2::ICryptoFactory/widevine
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.2::IDrmFactory/widevine
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.3::ICryptoFactory/wfdhdcp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.3::IDrmFactory/wfdhdcp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.4::ICryptoFactory/clearkey
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.drm@1.4::IDrmFactory/clearkey
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.health@2.1::IHealth/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-dsp
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.neuralnetworks@1.3::IDevice/qti-gpu
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.power.stats@1.0::IPowerStats/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.soundtrigger@2.2::ISoundTriggerHw/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi.hostapd@1.3::IHostapd/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi.supplicant@1.4::ISupplicant/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   android.hardware.wifi@1.5::IWifi/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   com.qualcomm.qti.ant@1.0::IAntHci/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.biometrics.face@1.0::IBiometricsFace/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0::IOppoAlgoProcessService/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.camera.oppoHalAssist@1.0::IOppoHalAssist/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.oppo.hardware.hypnus@1.0::IHypnusUtil/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.qti.hardware.display.mapper@1.1::IQtiMapper/default
+checkvintf I 12-26 17:32:12   409   409 check_vintf.cpp:391]   vendor.qti.imsrtpservice@2.1::IRTPService/imsrtpservice
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] files are incompatible: The following instances are in the device manifest but not specified in framework co
+mpatibility matrix: 
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     com.qualcomm.qti.ant@1.0::IAntHci/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.biometrics.face@1.0::IBiometricsFace/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0::IOppoAlgoProcessService/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.camera.oppoHalAssist@1.0::IOppoHalAssist/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.oppo.hardware.hypnus@1.0::IHypnusUtil/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.qti.hardware.display.mapper@1.1::IQtiMapper/default
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620]     vendor.qti.imsrtpservice@2.1::IRTPService/imsrtpservice
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] Suggested fix:
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 1. Update deprecated HALs to the latest version.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 2. Check for any typos in device manifest or framework compatibility matrices with FCM version &gt;= 3.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 3. For new platform HALs, add them to any framework compatibility matrix with FCM version &gt;= 3 where applica
+ble.
+checkvintf E 12-26 17:32:12   409   409 check_vintf.cpp:620] 4. For device-specific HALs, add to DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE or DEVICE_PRODUCT_COMPATIBILI
+TY_MATRIX_FILE.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2696,65 +2838,12 @@ Added to boot 12, but surely we don't need them all</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 0 commits in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c0b31d5</span>
-                                        <span class="message">sdm710-common: Only build required vendor packages</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_manifest</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e1709e3</span>
-                                        <span class="message">readme: Update for proton-RMX1971</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2021, 19:17:37 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 26 Dec 2021, 22:21:35 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
