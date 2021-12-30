@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1494" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1122" class="">
     <defs>
         <style/>
     </defs>
@@ -1428,7 +1428,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2656,10 +2656,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.714285714285714)">
+                            <g transform="translate(-6.8, 9.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                         </g>
                     </g>
@@ -2672,6 +2672,59 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 0 commits in <span class="repo">proton-RMX1971/android_vendor_realme_sdm710-common</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">goshawk22/goshawk22.github.io</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e17a671</span>
+                                        <span class="message">Fix email</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">goshawk22/goshawk22.github.io</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">source</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2175ff6</span>
+                                        <span class="message">website: Fix email</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2713,252 +2766,12 @@ Co-authored-by: Adam Lawson &lt;dev@goshawk22.uk&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_manifest</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#69f7d3b</span>
-                                        <span class="message">manifest: caf: Cleanup</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_manifest</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#30d80d4</span>
-                                        <span class="message">manifest: caf: Cleanup</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 509 commits in <span class="repo">proton-RMX1971/android_packages_apps_Settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b7bd3b2</span>
-                                        <span class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: c8bb1d57d6 -s ours am: bb0c70c0dd -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15516773
-
-Change-Id: I20c34249b46bfad620489420f6c76890626ec98d</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e0cc807</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 57641d0db8 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15516775
-
-Change-Id: I3408bedc4ee206ceb22dca0a61e19fdd11b0294b</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#282a8c6</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 9aa8b8906e -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15516777
-
-Change-Id: I405927f0d2ea72cbc09861162de46b1d9fd133d0</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1d8c6a6</span>
-                                        <span class="message">Merge "Selects a active sim to MobileNetworkActivity w/o subscription ID input" into sc-dev am: 939136b34b
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15498710
-
-Change-Id: I1b126ab2dabd818a2675d8b2ac26f6a7949e13cf</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5968c28</span>
-                                        <span class="message">Merge "Make face education handle timeout result correctly" into sc-dev am: 4cb6d12b55
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15505151
-
-Change-Id: I9299449e882dd42a6e5a56d500430e3e3f962ad6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b4d5a62</span>
-                                        <span class="message">Merge "The wifi dialog text should be Google Sans Text" into sc-dev am: 9000bdc25f
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15472615
-
-Change-Id: I3d67364a06f6486e8aab5c7e86100f8aaab85665</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#869e01e</span>
-                                        <span class="message">[automerger skipped] Merge changes from topic "add_permission_wifidialog" into rvc-dev am: 9d509c0b31 -s ours am: 876d9ec0dc -s ours am: 88b0676d08 -s ours
-
-am skip reason: Merged-In I1535f6f2ded2445702df0d723518b773cd094164 with SHA-1 62041d683b is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15207347
-
-Change-Id: Ia3cf15d66f84dc53d92efab02577ec44a755416c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9246df5</span>
-                                        <span class="message">[automerger skipped] Merge changes from topic "add_permission_wifidialog" into rvc-dev am: 9d509c0b31 -s ours am: 4a3bbeee1a -s ours am: c06aef8e7f -s ours
-
-am skip reason: Merged-In I1535f6f2ded2445702df0d723518b773cd094164 with SHA-1 62041d683b is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15207347
-
-Change-Id: I9b5c5cc4f9cbf7df96aad8378f99442cf141d96e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f346e83</span>
-                                        <span class="message">Merge "Fix launch flags for channel panel" into sc-dev am: 82fee52083
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15498277
-
-Change-Id: I05ce4cf13fca889c18a2442f891bec8cb1b05d6e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e00b6cf</span>
-                                        <span class="message">Move "Allow 2G" controller under DisabledSubscriptionController.
-
-Bug: 195576795
-Test: manual
-Change-Id: Ib42df245394bfbebc832f421ebd6c49bc2dc88d4</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#688eccd</span>
-                                        <span class="message">[automerger skipped] Merge "Add comment to AndroidManifest" into qt-dev am: 189d26ff2a am: 8eff11f477 -s ours am: 24f87e15e2 -s ours am: 37a5ccd1f0 -s ours am: 24d844a02c -s ours
-
-am skip reason: Merged-In I81c4d801c4ee211f43a1688a62daaff3b47eae1a with SHA-1 fa1e3870d8 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212651
-
-Change-Id: I6ecf83615758a8cc62adda6412660958011cb1a2</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#456c9fe</span>
-                                        <span class="message">[automerger skipped] Add SafetyNet logging am: 62041d683b am: 8df9b236f8 -s ours am: b1c88160e2 -s ours am: 90e455e519 -s ours am: 33cd50085a -s ours
-
-am skip reason: skipped by user wengsu
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15220072
-
-Change-Id: I5f6641e6894120efc57f2ede0ddd856f9ac0c673</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#beea2f4</span>
-                                        <span class="message">[automerger skipped] Add permission checking to WifiDialogActivity am: 8800cdf527 am: fa62e69c1d -s ours am: 586ca2dfa8 -s ours am: eb1e97e195 -s ours am: befd5bcd14 -s ours
-
-am skip reason: skipped by user wengsu
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212404
-
-Change-Id: Id639dbe0480f6de49a7a778360cc6499fe064602</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2d1e24e</span>
-                                        <span class="message">[automerger skipped] Merge "Add comment to AndroidManifest" into qt-dev am: 189d26ff2a am: 8eff11f477 -s ours am: 24f87e15e2 -s ours am: b1119ffc7c -s ours am: 0ae43531ef -s ours
-
-am skip reason: Merged-In I81c4d801c4ee211f43a1688a62daaff3b47eae1a with SHA-1 fa1e3870d8 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212651
-
-Change-Id: I8707b6e063a9730b0e34be8f00848d8ee51b51de</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#28db8e5</span>
-                                        <span class="message">[automerger skipped] Add SafetyNet logging am: 62041d683b am: 8df9b236f8 -s ours am: b1c88160e2 -s ours am: 3cb57e2769 -s ours am: 44ceeecf3f -s ours
-
-am skip reason: skipped by user wengsu
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15220072
-
-Change-Id: Iaf597118a86d0f25832a06b5f1a7c059f53e195a</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4740c1f</span>
-                                        <span class="message">[automerger skipped] Add permission checking to WifiDialogActivity am: 8800cdf527 am: fa62e69c1d -s ours am: 586ca2dfa8 -s ours am: d93ffd8c3a -s ours am: ead0c8eb2d -s ours
-
-am skip reason: skipped by user wengsu
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212404
-
-Change-Id: I1baba5810c5753e651792db6ce52aab6a9b9ae60</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9bc3409</span>
-                                        <span class="message">[automerger skipped] Add comment to AndroidManifest am: fa1e3870d8 am: b659749934 -s ours am: 7b91612fd0 -s ours
-
-am skip reason: Merged-In I81c4d801c4ee211f43a1688a62daaff3b47eae1a with SHA-1 fa1e3870d8 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212754
-
-Change-Id: I3694ac5dadb33fc6488631a2b008ec39c0ac9240</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4be0713</span>
-                                        <span class="message">[automerger skipped] Add comment to AndroidManifest am: fa1e3870d8 am: adf9fffeff -s ours am: 052d536e07 -s ours
-
-am skip reason: Merged-In I81c4d801c4ee211f43a1688a62daaff3b47eae1a with SHA-1 56a88885cc is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15212754
-
-Change-Id: I02e45b3c9021b7f7d351e8fc9b3a9d7fdfee4c6b</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fd115c5</span>
-                                        <span class="message">Merge "Fix extra password confirm prompts during managed setup." into sc-dev am: 336d3e5501
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/apps/Settings/+/15463178
-
-Change-Id: Ic06afcf18cb02b0255d0626891542af0d85de626</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1165570</span>
-                                        <span class="message">Remove CDM entries in Connected Device.
-
-BUG: 191992001
-
-Test: Robotest
-Change-Id: Ie9cea79f825b78495b1f93527f3fa980f9b975e3</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2021, 16:34:51 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Dec 2021, 17:28:54 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
