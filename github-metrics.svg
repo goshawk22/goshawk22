@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1780" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1494" class="">
     <defs>
         <style/>
     </defs>
@@ -2679,6 +2679,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_build_make</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#443dc9c</span>
+                                        <span class="message">proton: Add build time to final zip [2/2]</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_vendor_proton</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#620f484</span>
+                                        <span class="message">overlay: Allow toggling camera and microphone
+
+Co-authored-by: TheScarastic &lt;warabhishek@gmail.com&gt;
+Co-authored-by: Adam Lawson &lt;dev@goshawk22.uk&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">proton-RMX1971/android_manifest</span>
                     </div>
                                 </div>
@@ -2912,253 +2953,12 @@ Change-Id: Ie9cea79f825b78495b1f93527f3fa980f9b975e3</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 40 commits in <span class="repo">proton-RMX1971/android_frameworks_native</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bb79ede</span>
-                                        <span class="message">[automerger skipped] libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990 am: 62eaabc324 am: d21fe3951a -s ours
-
-am skip reason: skipped by user smoreland
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15759163
-
-Change-Id: Iec5da912d314e933555e504fefb9705fe0233634</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a4eac5d</span>
-                                        <span class="message">[automerger skipped] libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990 am: 62eaabc324 am: 8cec52154e -s ours am: 993b1603d4 -s ours
-
-am skip reason: skipped by user smoreland
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15759163
-
-Change-Id: I98a5f9bb0bc2492e3e1138abbb297eaf3f48fd9c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#993b160</span>
-                                        <span class="message">[automerger skipped] libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990 am: 62eaabc324 am: 8cec52154e -s ours
-
-am skip reason: skipped by user smoreland
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15759163
-
-Change-Id: I7231522436c89fe75b0d96bd1c704545cef38bd9</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d21fe39</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990 am: 62eaabc324
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15759163
-
-Change-Id: I53b504bbb6299988939674ba2b21344569c0da6d</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8cec521</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990 am: 62eaabc324
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15759163
-
-Change-Id: Ie9e50a46e486fecafac61d66b79095687d671a3f</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#62eaabc</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3 am: d666af6990
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15720346
-
-Bug: 197336441
-
-Change-Id: I703760ecbfa007d27caf76556ed21bbf0558df80</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d666af6</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b am: 17aa765fd3
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15720346
-
-Change-Id: I51d7e7341d8af4788dbc224b7ab22129c235aa52</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#17aa765</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t! am: 3ba4963f5b
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15720346
-
-Change-Id: Ic08346b606933f364a2dbdad7a09c97b9ef059e7</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c0fa007</span>
-                                        <span class="message">Surface: Release references to BlastBufferQueue and SurfaceControl on Surface#destroy
-
-SurfaceView clients may hold on to surface references. In S this means
-they would extend the lifetime of the SurfaceControl resulting in
-"leaking" buffers until the references are cleared or the app is
-terminated.
-
-Fix this by calling a new destroy function on Surface which will
-explicitly remove references to the SurfaceControl and BBQ it holds.
-This is safe because SurfaceView controls the lifecycle of the Surface
-and knows when the Surface will become invalid. Once invalid, the Surface
-cannot become valid again.
-
-Test: repro steps in bug
-Bug: 198133921
-Change-Id: I88fe98fa275dd76e20a5403c24bd2cb3bee5346d
-Merged-In: I88fe98fa275dd76e20a5403c24bd2cb3bee5346d</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5c8b18c</span>
-                                        <span class="message">Use a separate mutex for BLASTBufferQueue in BLASTBufferItemConsumer
-
-Avoids the following deadlock...
-
-Thread 1:
-* BLASTBufferQueue::transactionCallback acquires
-BLASTBufferQueue::mMutex
-* BLASTBufferItemConsumer::updateFrameTimestamps waits to
-acquire BLASTBufferItemConsumer::mMutex
-
-Thread 2:
-* BLASTBufferItemConsumer::onSidebandStreamChanged acquires
-BLASTBufferItemConsumer::mMutex
-*  BLASTBufferQueue::setSidebandStream tries to acquire
-BLASTBufferQueue::mMutex
-
-Bug: 192998815
-Test: Both CTS Media and Mediav2 (by partner)
-Change-Id: I37523031841db3f1a29481bbfa76d6c028a6942e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#66a59c3</span>
-                                        <span class="message">Merge "SF: fix a bug with DISPLAY_EVENT_MODE_CHANGE" into sc-qpr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1f251f1</span>
-                                        <span class="message">Merge "swapchain: always return a signle image for shared presentation mode" into sc-qpr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3ba4963</span>
-                                        <span class="message">libbinder: uptimeMillis returns int64_t!
-
-This was limiting device uptime to ~1 month. Certainly, devices should
-update more frequently, but that decision should not be because of
-ubsan!
-
-This is a partial copy of the change
-Ifa00c32ee184795b03e16b39ac70ff41ebf00331 here.
-
-Bug: 197336441
-Test: TH
-Merged-In: Ifa00c32ee184795b03e16b39ac70ff41ebf00331
-Change-Id: Ib9f3e63e968ac77f0f6ea6447d586db588e9dbe4</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#71c8a95</span>
-                                        <span class="message">SF: fix a bug with DISPLAY_EVENT_MODE_CHANGE
-
-SF might dispatch a DISPLAY_EVENT_MODE_CHANGE event before changing
-the actual mode. This can happen when the mode change takes more than
-a single refresh and caused by incorrectly checking the previously
-reported event without checking for the current mode.
-
-Bug: 194515308
-Bug: 193945763
-Test: SF unit tests
-Change-Id: Icf44e0fb6aadb76e629cd408907389e2626d2047
-Merged-In: Icf44e0fb6aadb76e629cd408907389e2626d2047</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ae01ea5</span>
-                                        <span class="message">Merge "Remove support: libfeature_support_angle.so" into sc-qpr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ef14146</span>
-                                        <span class="message">swapchain: always return a signle image for shared presentation mode
-
-Bug: 197790618
-Test: atest CtsDeqpTestCases -- --module-arg CtsDeqpTestCases:include-filter:dEQP-VK.wsi.android.*
-Change-Id: If3c086479dfc03af31f503216294eba4fba989de</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a53dcb2</span>
-                                        <span class="message">Remove support: libfeature_support_angle.so
-
-Remove support for ANGLE's libfeature_support_angle.so.
-
-This also removes all of the logic related to checking the rules file,
-since libfeature_support_angle.so is what parsed the JSON rules file.
-
-Bug: b/187342779
-Bug: b/184757175
-Test: make and manual verification ANGLE is loaded
-Change-Id: I3c52b07eb262f83f8e860584790ac058de58466a
-Merged-In: I3c52b07eb262f83f8e860584790ac058de58466a</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3819b9f</span>
-                                        <span class="message">SF: Tune RefreshRateConfigs for close refresh rates
-
-Partial cherry-pick of 15a0fc65eedb633f4fbf988e4a319452ddaebdcc
-to fix seen in CTS
-
-Bug: 196404992
-Bug: 196191168
-Test: atest CtsDisplayTestCases.android.display.cts.DisplayTest#testModeSwitchOnPrimaryDisplay
-Change-Id: I9f8abac183bf6255fed4e2481d22aa3eb42b72ac
-Merged-In: I694e2aa5b16e9b4e0f6d1e8263b1ac35099605fd</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#32ca6e8</span>
-                                        <span class="message">[automerger skipped] Merge stage-aosp-sc-ts-dev before making it an upstream am: 62d46ebc11 -s ours
-
-am skip reason: Merged-In I2a2d02a0d7e67ee9577857a210cb6157683e5598 with SHA-1 52846cd871 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/native/+/15550161
-
-Change-Id: I5af46ba65d1c26d1218b68068ef5710a6056e672</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a8c7c54</span>
-                                        <span class="message">SurfaceFlinger: Safely cast from IBinder to Layer::Handle
-
-Bug: b/193034677, b/193034683, b/193033243
-Test: go/wm-smoke, presubmit
-
-Change-Id: Iece64fca254edfd0b82e05ad9629824b2364cc13
-Merged-In: Iece64fca254edfd0b82e05ad9629824b2364cc13</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">sc</span> in  <span class="repo">proton-RMX1971/android_frameworks_base</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2021, 15:23:16 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Dec 2021, 16:34:51 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
