@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1529" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
     <defs>
         <style/>
     </defs>
@@ -2677,214 +2677,25 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">WIP</span> in  <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 489 commits in <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                      Pushed 2 commits in <span class="repo">proton-RMX1971/android_manifest</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <span class="sha">#595083c</span>
-                                        <span class="message">Release 5.2.022.9M
+                                        <span class="sha">#50e05ea</span>
+                                        <span class="message">manifest: Track OctaviOS AOSP Apps
 
-Release 5.2.022.9M
-
-Change-Id: Ife8334c5ce40460eb3191f0f3b2eaf85e53820db
-CRs-Fixed: 774533</span>
+from OctaviOS org</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1f902fe</span>
-                                        <span class="message">qcacld-3.0: Update BW in case of 2.4ghz ACS
+                                        <span class="sha">#8ea0d03</span>
+                                        <span class="message">manifest: Use dedicated remove.xml
 
-The ini gChannelBondingMode24GHz specifies
-that should the driver go for 40Mhz BW
-in case of 2.4ghz or not by doing channel
-bonding. If disabled (value 0) then driver
-is supposed not to pick up 40Mhz for 2.4ghz
-channels.
-Currently in ACS request if there are 2.4ghz
-channels only or in other sceanrios such as
-concurrency where other channels are stripped
-out, there may become a case where only 2.4ghz
-are left out in the freq list which comes from
-hostapd, the BW is not updated accordingly and
-the results for ACS may still give the BW as 40
-in case of 2.4ghz channel selection.
-
-Fix is to modify the BW according to the ini
-if there are only 2.4ghz frequencies present
-so that driver limits the same while informing
-the best channel to the hostapd.
-
-Change-Id: Ib49726bf5e4245a63a696e41fee1d12d9a7a7909
-CRs-Fixed: 2789358</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7e5c05f</span>
-                                        <span class="message">Merge "msm: camera: jpeg: Ensure in/out map entries are within allowed range"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaf394b</span>
-                                        <span class="message">fw-api: CL 16019470 - update fw common interface files
-
-Change-Id: I28c71fb9d82e5c2e6dcfa31d4236865c4007496e
-WMI: add FIPS EXTEND,MODE_SET cmd + EXTENT evt msg defs
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#053126d</span>
-                                        <span class="message">msm: camera: jpeg: Ensure in/out map entries are within allowed range
-
-Added checks to make sure in_map /out_map entries of packet
-io configs are within expected maximum value.
-
-CRs-Fixed: 3007258
-Change-Id: I4021d00c8a8dc8b60bc67c2de326ed2473a3f5ab
-Signed-off-by: Shravya Samala &lt;shravyas@codeaurora.org&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#621cd24</span>
-                                        <span class="message">Merge "defconfig: enable splash logo via defconfig"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f5b41a6</span>
-                                        <span class="message">fw-api: CL 16009133 - update fw common interface files
-
-Change-Id: Ifb190d6bfbc60a42d8d8c9baff51b1d56e4cc9b4
-WMI: beacon fwd flags in VDEV_PARAM_SMART_MONITOR cfg
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#dfacc80</span>
-                                        <span class="message">fw-api: CL 16000146 - update fw common interface files
-
-Change-Id: I694e0e2ab1e089839df416f2439fc596b4aa1789
-WMI: add agc_gain_tbl_index array in peer_cfr_capture_event_phase msg
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ce905b2</span>
-                                        <span class="message">fw-api: CL 15994738 - update fw common interface files
-
-Change-Id: I6d8dcf0ac23c008886e52babaa6c7393f4075fea
-WMI: add BDF major + minor number report
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dce970</span>
-                                        <span class="message">defconfig: enable splash logo via defconfig
-
-Enable this flag for DRM boot splash feature.
-
-Change-Id: I53dcf248d0e204442f7776a50b11a8edfa12526d
-Signed-off-by: Ramakant Singh &lt;ramasing@codeaurora.org&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f8f5652</span>
-                                        <span class="message">fw-api: CL 15978076 - update fw common interface files
-
-Change-Id: Ibe167ce45ad968845ddd944f18649c8a3cdda2d4
-WMI: add ROAM_SET_PARAM_CMD msg def
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1ddce87</span>
-                                        <span class="message">fw-api: CL 15967585 - update fw common interface files
-
-Change-Id: I5e17ac3801e86f0e7f26f1f23cf3f0d8b92975d1
-HTT: monitor ring cfg
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c42a4ce</span>
-                                        <span class="message">fw-api: CL 15963168 - update fw common interface files
-
-Change-Id: I9fae8d6b6cf23977d3a45ea4f82044df126b32e3
-WMI: extra flags to enable/disable RTS/CTS
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6ca1ec4</span>
-                                        <span class="message">fw-api: CL 15949447 - update fw common interface files
-
-Change-Id: I33c1841b7aa6a09df65b20a2b51bffdc6fb481dc
-WMI: define sw2rxdma + additional rxdma2xxx rings
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4a0d975</span>
-                                        <span class="message">fw-api: CL 15947523 - update fw common interface files
-
-Change-Id: I46cc50102425b959f344be397cf99663faa48a61
-HTT: add frame_type field in htt_tx_wbm_transmit_status
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#27abaa4</span>
-                                        <span class="message">Release 5.2.022.9L
-
-Release 5.2.022.9L
-
-Change-Id: I8ebd540363e173b3a2544c65330234f55710c85b
-CRs-Fixed: 774533</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3dbf7db</span>
-                                        <span class="message">qcacld-3.0: Fix possible OOB in unpack_tlv_core
-
-Currently in unpack_tlv_core(), nBufRemaining is validated
-after calling framesntohs API. Since, framesntohs() copies
-pIn address to pOut address with length = 2 bytes as below.
-DOT11F_MEMCPY(pCtx, (uint16_t *)pOut, pIn, 2);
-which could cause OOB issue if pIn contains less than 2 bytes.
-
-Fix is to validate the nBufRemaining size before calling
-framesntohs().
-
-Change-Id: I3ead03ec948282a410ddba5b01f82ca31d3d9199
-CRs-Fixed: 3042282</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#71ebc55</span>
-                                        <span class="message">fw-api: CL 15903681 - update fw common interface files
-
-add WMI_6GHZ_REG_SP_STA def
-
-Change-Id: I246af3da89aaa76ee998ddcce5a85c867df956f3
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e5a5978</span>
-                                        <span class="message">fw-api: CL 15877381 - update fw common interface files
-
-Change-Id: I704055892ccd297861b1f658426e1ae15ed2f9cd
-WMI: add optional dbs_or_sbs_cap_ext struct in READY_EXT2 msg
-CRs-Fixed: 2262693</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaa4dd3</span>
-                                        <span class="message">diag: Prevent out of bound write while sending dci pkt to remote
-
-Sanitize user input length for the maximum buffer size before
-writing the dci packet to remote.
-
-Change-Id: I1f813a969fcce589f9e5024864ef4a650f2cf64e
-Signed-off-by: Manoj Prabhu B &lt;bmanoj@codeaurora.org&gt;</span>
+Easier to read</span>
                                     </div>
                                 </div>
                             </section>
@@ -2896,16 +2707,20 @@ Signed-off-by: Manoj Prabhu B &lt;bmanoj@codeaurora.org&gt;</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                      Pushed 2 commits in <span class="repo">proton-RMX1971/android_manifest</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <span class="sha">#7e0d580</span>
-                                        <span class="message">sdm710-common: Update prebuilt kernel
+                                        <span class="sha">#84c2b45</span>
+                                        <span class="message">manifest: remove: Fix project that doesn't exist</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f682539</span>
+                                        <span class="message">manifest: Track OctaviOS AOSP Apps
 
-From https://github.com/proton-RMX1971/kernel_realme_RMX1971</span>
+from OctaviOS org</span>
                                     </div>
                                 </div>
                             </section>
@@ -2917,16 +2732,20 @@ From https://github.com/proton-RMX1971/kernel_realme_RMX1971</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                      Pushed 2 commits in <span class="repo">proton-RMX1971/android_manifest</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e736dac</span>
-                                        <span class="message">defconfig: build rndis drivers
+                                        <span class="sha">#55cb777</span>
+                                        <span class="message">manifest: remove: Fix project that doesn't exist</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ae8f379</span>
+                                        <span class="message">manifest: Track OctaviOS AOSP Apps
 
-*E UsbDeviceManager: failed to write to /sys/class/android_usb/android0/f_rndis/ethaddr</span>
+from OctaviOS org</span>
                                     </div>
                                 </div>
                             </section>
@@ -2938,48 +2757,45 @@ From https://github.com/proton-RMX1971/kernel_realme_RMX1971</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 7 commits in <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                      Pushed 2 commits in <span class="repo">proton-RMX1971/android_manifest</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <span class="sha">#563ee2a</span>
-                                        <span class="message">sdm710-common: Build required hidl vendor packages
+                                        <span class="sha">#f7ce8c1</span>
+                                        <span class="message">manifest: remove: Fix project that doesn't exist</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fd34c63</span>
+                                        <span class="message">manifest: Track OctaviOS AOSP Apps
 
-After they were removed in Android 12</span>
+from OctaviOS org</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">proton-RMX1971/android_manifest</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#1acda94</span>
+                                        <span class="message">manifest: remove: Fix project that doesn't exist</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4b3181d</span>
-                                        <span class="message">sdm710-common: Drop extra vendor packages
+                                        <span class="sha">#f36fc9f</span>
+                                        <span class="message">manifest: Track OctaviOS AOSP Apps
 
-Added to boot 12, but surely we don't need them all</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a7d29d3</span>
-                                        <span class="message">sdm710-common: Uprev some graphics/display hals and cleanup</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fad87af</span>
-                                        <span class="message">sdm710-common: Pin RUI2 Blobs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3ccad10</span>
-                                        <span class="message">sdm710-common: Update WFD, Display, Graphics Blobs from RUI2
-
-Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#240f3e5</span>
-                                        <span class="message">Revert "sdm710-common: create and symlink a dummy /metadata/apex"
-
-This reverts commit 30325549c1214e1a024e834feda19680cf02b100.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6192488</span>
-                                        <span class="message">Revert "sdm710-common: move dummy metadata to init"
-
-This reverts commit efdad8420c655e60ca6bb84a6f3845b17353f97e.</span>
+from OctaviOS org</span>
                                     </div>
                                 </div>
                             </section>
@@ -2989,7 +2805,7 @@ This reverts commit efdad8420c655e60ca6bb84a6f3845b17353f97e.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2021, 20:23:25 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 31 Dec 2021, 21:18:51 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
