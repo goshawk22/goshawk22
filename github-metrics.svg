@@ -2783,7 +2783,7 @@ Change-Id: I7e8a320d47e7c5ddbcb9acfaf23032ae92d5d70d
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2022, 10:24:57 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Jan 2022, 11:18:51 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
