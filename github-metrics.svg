@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1138" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1086" class="">
     <defs>
         <style/>
     </defs>
@@ -2662,6 +2662,40 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">proton-RMX1971/android_packages_modules_Connectivity</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#14c7dc3</span>
+                                        <span class="message">Add Cloudflare DNS as a private DNS provider
+
+TODO: Add tests
+
+Also includes:
+commit d82a7a0585671903ba18cd1d8fab25d9275c2a25
+Author: Oliver Scott &lt;olivercscott@gmail.com&gt;
+Date:   Fri Jan 29 10:57:26 2021 -0500
+
+    Fix Cloudflare private DNS provider
+
+    Change-Id: I5932d8d7e82621220eb119a212ccecf15e284421
+    (cherry picked from commit 24abf646a0df5e00285d1b698adec03eb897388f)
+
+Change-Id: I7e8a320d47e7c5ddbcb9acfaf23032ae92d5d70d
+(cherry picked from commit 96ce93f7bf7233008591d22a0d24a6d7cd0a94ff)</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2736,45 +2770,12 @@ From https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">proton-RMX1971/android_vendor_foss</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8c21f9a</span>
-                                        <span class="message">foss: microg: Drop Droidguard
-
-It doesn't work yet anyway</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#80d4736</span>
-                                        <span class="message">foss: Add AdAway
-
-Version 5.11.0 from https://f-droid.org/packages/org.adaway/</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1b54524</span>
-                                        <span class="message">Revert "foss: Add AdGuard"
-
-This reverts commit bab83066d8e33ed20efad321b124d3e6cd235b28.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2022, 08:27:39 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Jan 2022, 09:22:43 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
