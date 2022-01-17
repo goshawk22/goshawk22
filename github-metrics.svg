@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1408" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1780" class="">
     <defs>
         <style/>
     </defs>
@@ -41,7 +41,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            504 Commits
+                            505 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -342,7 +342,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.44
+                            Average per day at ~0.45
                         </div>
                     </section>
                 </div>
@@ -1096,10 +1096,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
-                            <g transform="translate(-10.2, 9.714285714285715)">
+                            <g transform="translate(-10.2, 9.428571428571429)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.285714285714286 0,3.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2857142857142856 1.7,4.285714285714286 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
                         <g transform="translate(34, 20)">
@@ -1113,10 +1113,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 5.428571428571429)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                            <g transform="translate(-3.4, 5.142857142857143)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.857142857142857 0,3.8571428571428568 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8571428571428568 1.7,4.857142857142857 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.857142857142858)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1288,10 +1288,10 @@
                             </g>
                         </g>
                         <g transform="translate(42.5, 25)">
-                            <g transform="translate(0, 5.428571428571429)">
+                            <g transform="translate(0, 5.142857142857143)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1325,10 +1325,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            <g transform="translate(0, 4.571428571428571)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1348,6 +1348,258 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 157 commits in
+                                        <span class="repo">OctaviOS-Devices/kernel_realme_RMX1971</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fa2d743</span>
+                                        <span class="message">Release 5.2.022.10A
+
+Release 5.2.022.10A
+
+Change-Id: Iec477e60efdab1e8b17284f7127a197909528768
+CRs-Fixed: 774533</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#341d0a7</span>
+                                        <span class="message">qcacld-3.0: Add a check for WLM latency manager support
+
+Currently there is no check for WLM latency manager support,
+while setting the latency level which may lead to undefined behavior.
+To address the above issue add a check for WLM latency manager support
+and return not supported to userspace.
+
+Change-Id: Id095f162c1202c0a0926f4f73e553f46d4980543
+CRs-Fixed: 2762357</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a672788</span>
+                                        <span class="message">Release 5.2.022.10
+
+Release 5.2.022.10
+
+Change-Id: Ibef2f89454a9cd50b95976472ef233e7e62352a8
+CRs-Fixed: 774533</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6233753</span>
+                                        <span class="message">Merge "diag: Prevent out of bound write while sending dci pkt to remote"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#814fd21</span>
+                                        <span class="message">qcacld-3.0: Limit ROC for listen if NAN or NDI present
+
+In P2P, if NDP is present, limit max ROC duration to
+400ms on DBS and 250ms on non-DBS case.
+
+If NAN is present, limit max ROC duration to 450ms on DBS
+and 300ms on non-DBS case.
+
+Change-Id: I2e943d2f55984464812bba16ca78dfab8681cf30
+CRs-Fixed: 3046904</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a972102</span>
+                                        <span class="message">Makefile: Fix GCC_TOOLCHAIN_DIR prefix for Clang cross compilation
+
+commit ca9b31f6bb9c6aa9b4e5f0792f39a97bbffb8c51 upstream.
+
+When CROSS_COMPILE is set (e.g. aarch64-linux-gnu-), if
+$(CROSS_COMPILE)elfedit is found at /usr/bin/aarch64-linux-gnu-elfedit,
+GCC_TOOLCHAIN_DIR will be set to /usr/bin/.  --prefix= will be set to
+/usr/bin/ and Clang as of 11 will search for both
+$(prefix)aarch64-linux-gnu-$needle and $(prefix)$needle.
+
+GCC searchs for $(prefix)aarch64-linux-gnu/$version/$needle,
+$(prefix)aarch64-linux-gnu/$needle and $(prefix)$needle. In practice,
+$(prefix)aarch64-linux-gnu/$needle rarely contains executables.
+
+To better model how GCC's -B/--prefix takes in effect in practice, newer
+Clang (since
+https://github.com/llvm/llvm-project/commit/3452a0d8c17f7166f479706b293caf6ac76ffd90)
+only searches for $(prefix)$needle. Currently it will find /usr/bin/as
+instead of /usr/bin/aarch64-linux-gnu-as.
+
+Set --prefix= to $(GCC_TOOLCHAIN_DIR)$(notdir $(CROSS_COMPILE))
+(/usr/bin/aarch64-linux-gnu-) so that newer Clang can find the
+appropriate cross compiling GNU as (when -no-integrated-as is in
+effect).
+
+Change-Id: I1375d087204fb8605282c7a6b4bda3582438022e
+Cc: stable@vger.kernel.org
+Reported-by: Nathan Chancellor &lt;natechancellor@gmail.com&gt;
+Signed-off-by: Fangrui Song &lt;maskray@google.com&gt;
+Reviewed-by: Nathan Chancellor &lt;natechancellor@gmail.com&gt;
+Tested-by: Nathan Chancellor &lt;natechancellor@gmail.com&gt;
+Tested-by: Nick Desaulniers &lt;ndesaulniers@google.com&gt;
+Link: https://github.com/ClangBuiltLinux/linux/issues/1099
+Reviewed-by: Nick Desaulniers &lt;ndesaulniers@google.com&gt;
+Signed-off-by: Masahiro Yamada &lt;masahiroy@kernel.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
+Git-commit: d98d958276c73db039a4c47499cd9f085bcec6bb
+Git-repo: https://android.googlesource.com/kernel/common/
+Signed-off-by: Srinivasarao Pathipati &lt;quic_spathi@quicinc.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ecc443</span>
+                                        <span class="message">msm: camera: jpeg: Ensure in/out map entries are within allowed range
+
+Added checks to make sure in_map /out_map entries of packet
+io configs are within expected maximum value.
+
+CRs-Fixed: 3007258
+Change-Id: Ia8f10f464691427d83ae7aed5cc7c90124eaa2be
+Signed-off-by: Shravya Samala &lt;shravyas@codeaurora.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#86ba2b5</span>
+                                        <span class="message">tty: Fix -&gt;pgrp locking in tiocspgrp()
+
+commit 54ffccbf053b5b6ca4f6e45094b942fab92a25fc upstream.
+
+tiocspgrp() takes two tty_struct pointers: One to the tty that userspace
+passed to ioctl() (`tty`) and one to the TTY being changed (`real_tty`).
+These pointers are different when ioctl() is called with a master fd.
+
+To properly lock real_tty-&gt;pgrp, we must take real_tty-&gt;ctrl_lock.
+
+This bug makes it possible for racing ioctl(TIOCSPGRP, ...) calls on
+both sides of a PTY pair to corrupt the refcount of `struct pid`,
+leading to use-after-free errors.
+
+Change-Id: Icd969c86be10c07c8f0107535c613480ac3968e3
+Fixes: 47f86834bbd4 ("redo locking of tty-&gt;pgrp")
+CC: stable@kernel.org
+Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
+Reviewed-by: Jiri Slaby &lt;jirislaby@kernel.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
+Git-commit: 742f3062298ac1ae1d28de31b1f946f93db1eba1
+Git-repo: https://android.googlesource.com/kernel/common/
+Signed-off-by: Srinivasarao Pathipati &lt;quic_spathi@quicinc.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#47e141f</span>
+                                        <span class="message">Merge "msm: kgsl: Update register protection config"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#de36553</span>
+                                        <span class="message">qcacmn: Disable intra-bss forwarding for NDI interface
+
+Disable intra-bss forwarding for NDI interface.
+
+Change-Id: I0f3276547795defbd6c0f1f387b5e0018ef11048
+CRs-Fixed: 3073451</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#914f294</span>
+                                        <span class="message">qcacmn: Use a max of 5 WBM2SW rings for HSP to address wcov failure
+
+The maximum WBM2SW rings in whunt for HSP is 5 and
+the same could be 4 in wlan code which will result
+in wcov failure for HSP. Use a maximum of 5 WBM2SW
+rings for HSP based on FW_SIM config flag to address
+this failure.
+
+Change-Id: I8340cd094eb1e0cf842894e5c89174d410729028
+CRs-Fixed: 3071662</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5c6a445</span>
+                                        <span class="message">Release 5.2.022.9Z
+
+Release 5.2.022.9Z
+
+Change-Id: If9bfe964588c5213e7e27608d546d2595e0b4e2c
+CRs-Fixed: 774533</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3805975</span>
+                                        <span class="message">qcacld-3.0: Add action OUI to disable TWT for some APs
+
+Add a new action OUI to disable TWT for certain APs.
+The cfg item will be present in the host and sent to
+the FW to disable TWT.
+
+Change-Id: I122c44993a9102838dec7e9eb2817ba404a76515
+CRs-Fixed: 2793124</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8f1e37f</span>
+                                        <span class="message">Release 5.2.022.9Y
+
+Release 5.2.022.9Y
+
+Change-Id: Id546dd319d51ba68e68def224c7c18f3a01d6fcb
+CRs-Fixed: 774533</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6f10459</span>
+                                        <span class="message">qcacld-3.0: Move enet.h header file
+
+In wma_data.c file, move "enet.h" header after "wma.h" header
+
+Change-Id: I7fd1128d32dce1768f61eb3b2e80245b67e3aa0f
+CRs-Fixed: 3070893</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ebab7d2</span>
+                                        <span class="message">msm: kgsl: Update register protection config
+
+Update the register protection configuration as per the latest
+recommendation.
+
+Change-Id: I70365268e8e4c7ee4ff28538f22e970822e4edf0
+Signed-off-by: Akhil P Oommen &lt;akhilpo@codeaurora.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#232eae5</span>
+                                        <span class="message">msm-ipa: fix use-after-free of rt_tbl
+
+Fix use-after-free of rt_tbl in __ipa_del_flt_rule
+by checking if the rt_tbl is already freed.
+
+Change-Id: I09541f65f474dc42f262c603d99f6bbcbb0ce8ec
+Signed-off-by: Muralidharan M &lt;murm@codeaurora.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3c86462</span>
+                                        <span class="message">Merge "msm: camera: cdm: Acquire mutex lock before accessing client data"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d415331</span>
+                                        <span class="message">msm: camera: cdm: Acquire mutex lock before accessing client data
+
+There is a chance of use after release of client data in
+cdm internal operation calls. Hence acquire mutex lock whenever
+accessing client data to avoid use after release scenario.
+
+CRs-Fixed: 3010261
+Change-Id: I3f52efbfb28621730ca1824e4890b2e90d413830
+Signed-off-by: Shravya Samala &lt;shravyas@codeaurora.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aaa4dd3</span>
+                                        <span class="message">diag: Prevent out of bound write while sending dci pkt to remote
+
+Sanitize user input length for the maximum buffer size before
+writing the dci packet to remote.
+
+Change-Id: I1f813a969fcce589f9e5024864ef4a650f2cf64e
+Signed-off-by: Manoj Prabhu B &lt;bmanoj@codeaurora.org&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1731,25 +1983,12 @@ Merged-In:I906d64bc6ec9001b40af4cf4d90c9f4ca45aca89</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Xinyuan-LilyGO/LilyGo-LoRa-Series</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 22:22:07 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 23:22:46 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
