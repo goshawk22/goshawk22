@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1374" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1408" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -50,7 +50,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 110 repositories
+                            Contributed to 111 repositories
                         </div>
                     </section>
                 </div>
@@ -157,7 +157,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            82 Repositories
+                            83 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -183,7 +183,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    30.5 GB used
+                                    32.5 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1330,10 +1330,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.7142857142857135)">
+                            <g transform="translate(-1.7, 6.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                         </g>
                     </g>
@@ -1348,6 +1348,369 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/platform_packages_apps_Settings</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#b9d4b7c</span>
+                                        <span class="message">Settings: Add device data for RMX1971</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">Octavi-OS/platform_packages_apps_Settings</span>
+                                        to
+                                        <span class="repo">goshawk22/platform_packages_apps_Settings</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 168 commits in
+                                        <span class="repo">goshawk22/platform_frameworks_base-1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5cbd3a0</span>
+                                        <span class="message">base: revert changes in bootanimation added in r16</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#acc2883</span>
+                                        <span class="message">Merge cherrypicks of [16372369] into sc-qpr1-release.
+
+Change-Id: I5cd1c506674a91ff9d0da784ae5cde57cfb2ef0a</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#efb0993</span>
+                                        <span class="message">Ignore ui mode change caused by Morris overlay in PiP
+
+When entering PiP from GMM with Morris overlay enabled, there will be a
+display change callback caused by ui mode change that tend to shift the
+PiP window. For PiP, such ui mode change from app is not quite relevant
+and we can simply ignore in PipController.
+
+Bug: 201589034
+Video: http://recall/-/aaaaaabFQoRHlzixHdtY/dmI3KCeKPAH118BRqnhgNO
+Test: enter PiP from GMM with Morris overlay, see video
+Merged-In: I2d72e166fb8de1e503415b5441c03f0685de9573
+Change-Id: I2d72e166fb8de1e503415b5441c03f0685de9573
+(cherry picked from commit 391f372726af62c6d9ba9b221508003c37e8ff8a)
+(cherry picked from commit 166f263128010f6a885efa17a5ebc3aa94d3b3d6)
+Merged-In:I2d72e166fb8de1e503415b5441c03f0685de9573</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ebdb6f1</span>
+                                        <span class="message">Merge cherrypicks of [16065658, 16033980, 16105251, 16117045, 16086468, 15960214, 16077739, 16211938, 16222839, 16191693, 16091135, 16220980, 16214442, 16233501, 16286398, 16333337] into sc-qpr1-release.
+
+Change-Id: I961e3b46e89863311915418d1d4b092d7d970d0e</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f5fbc4a</span>
+                                        <span class="message">Fix issue with alphas not being applied to the same view on unlock
+
+- It's possible for the nav bar configuration to change between locking
+  and unlocking the phone, which will prevent the alpha from being
+  restored on the bar layout correctly. This change updates the alpha
+  of both vertical/horizontal layouts in NavBarView since they should
+  always be in sync.
+
+Bug: 206733387
+Test: atest SystemUITests
+Test: Lock screen in landscape app, turn screen on and unlock
+
+
+Change-Id: I265d04e6e2192f2bb57b1f8d77390664236427fc
+(cherry picked from commit 9b53d2ecabe2472a464007dd463593f95b4e19d5)
+(cherry picked from commit acb755ce9e27832bc1b02670098d144231b300e0)
+Merged-In:I265d04e6e2192f2bb57b1f8d77390664236427fc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b0fd66f</span>
+                                        <span class="message">Fix SysUI volume controls not appearing
+
+SysUI listens to volume change events to trigger showing its
+volume control overlay UI. Normally when a hardware volume
+key is pressed, a volume (either locally or for a session
+corresponding to a remote playback) is changed, SysUI receives
+an event and the UI is displayed.
+
+In the case that a remote session doesn't allow volume
+adjustment, the key event is still routed to the session if
+that session is top of the stack. However, since the volume is
+not adjusted and an event is not dispatched, the SysUI volume
+control overlay doesn't appear. To the user it seems like the
+volume hardware key is broken, neither adjusting a volume or
+displaying the volume control overlay UI.
+
+This change fires volume change events for sessions that
+don't support actually changing the volume, to ensure that
+the SysUI is still displayed. It also seems more consistent,
+since there are other existing cases where the volume doesn't
+actually change for which an event is still fired (e.g.,
+adjusting up when already at max volume).
+
+An alternative would be to change MediaSessionRecord's
+canHandleVolumeKey to return false for sessions that don't
+support volume adjustment, which would mean the key event
+would be handled by the next session in the stack (or, in
+most cases, to make a local volume adjustment). This is likely
+more confusing, since the user will generally expect the top
+session to be adjusted (surfacing that it could not is less
+confusing than just adjusting some other volume instead).
+
+Bug: 197586676
+Bug: 202500642
+Test: manual
+Merged-In: Ic44b48bb5605699b476af05407b90f2be5d70cd3
+Change-Id: Ic44b48bb5605699b476af05407b90f2be5d70cd3
+(cherry picked from commit 771b7ebe5d10f867a44101aa7a0b0a779bacfd32)
+Merged-In:Ic44b48bb5605699b476af05407b90f2be5d70cd3</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#06ad525</span>
+                                        <span class="message">Plumb config to output switcher indication chip
+
+Bug: 197586676
+Bug: 202500642
+Test: manual
+Merged-In: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
+Change-Id: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
+(cherry picked from commit 92013ed958dbc7e666ced0c4b0337f03ff9381c8)
+Merged-In:I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7437206</span>
+                                        <span class="message">Re-enable volume control for non-grouped devices
+
+Bug: 197586676
+Bug: 202500642
+Test: make -j50 RunSettingsRoboTests
+Merged-In: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
+Change-Id: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
+(cherry picked from commit b7f52f4468a1daa7408e44fafb362b54eec20897)
+Merged-In:I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#86e6db3</span>
+                                        <span class="message">Tweak volume adjustment rules
+
+Test: manual
+Bug: 197586676
+Bug: 202500642
+Merged-In: If531a23f5e7b242d3d637966b74b67acfd303199
+Change-Id: If531a23f5e7b242d3d637966b74b67acfd303199
+(cherry picked from commit 022081595bf4a082f8354b852eae6d5a015be3fe)
+Merged-In:If531a23f5e7b242d3d637966b74b67acfd303199</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#05e7906</span>
+                                        <span class="message">Only register listeners if setView was success.
+
+Found a memory leak on ViewRootImpl. If the view wasn't been set
+to the VRI successfully, there would keep the registed listeners to the
+AccessibilityManager and DisplayManager forever because there didn't
+need to deatch anything from window.
+Another reasonable way is to register all listeners after setView
+success.
+
+Bug: 200843755
+Test: manual, hard code to force addWindow fail and monitor no more
+ViewRootImpl object leaked to AccessibilityManager and DisplayManager.
+
+Change-Id: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
+Merged-In: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
+(cherry picked from commit d69deffd3551c7b008957763d218e6ed1b706384)
+Merged-In:I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8347f70</span>
+                                        <span class="message">Fix normalize doesn't work on carrier template
+
+From android 12, the subscriberId is being used for different network
+types. For instances:
+The TYPE_WIFI with subscriberId means that it is a merged wifi network.
+The TYPE_CARRIER means that the network associate to specific carrier
+network (subscriberId).
+
+So remove the check "isMatchRuleMobile" and only check whether subscriberId
+is being used in NetworkTemplate or not.
+
+Bug: 194939211
+Test: atest -c NetworkTemplateTest
+Change-Id: I80c9f887cf8b4714716d657da92ed273a532ce27
+Merged-In: I80c9f887cf8b4714716d657da92ed273a532ce27
+(cherry picked from commit 46cc261aa90305bdfec668af5d5ed25a27032cda)
+Merged-In:I80c9f887cf8b4714716d657da92ed273a532ce27</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a70c46b</span>
+                                        <span class="message">Update deletion conditions for a package's UsageStats.
+
+If a profile owner is defined for a specific user, do not delete usage
+stats for a package on package deletion.
+
+Bug: 197399948
+Test: atest UserUsageStatsServiceTest
+Test: atest UsageStatsTest [all]
+Change-Id: I94a8e3dfca8ef4c7616f77944d61726e06043b85
+Merged-In: I94a8e3dfca8ef4c7616f77944d61726e06043b85
+(cherry picked from commit 157fbcfbe4b38075391aef5b4977d45702a06936)
+Merged-In:I94a8e3dfca8ef4c7616f77944d61726e06043b85</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bc50644</span>
+                                        <span class="message">setTurnScreenOn can only used as wakeup
+
+setTurnScreenOn shouldn't dismiss keyguard automatically even when the
+keyguard is insecure.
+The keyguard state should only be affected by requestDismissKeyguard
+and/or setShowWhenLocked, and for either case setTurnScreenOn can be
+used to wakeup device if the activity is going to be resumed and
+visible.
+
+Bug: 201103497
+Test: atest ActivityVisibilityTests KeyguardTests KeyguardLockedTests
+Change-Id: I283dea469a33286fc9cf835e39ee5a3be2444739
+(cherry picked from commit f3a1274a38ca891c1f2e86db2c1926293c90c6fa)
+(cherry picked from commit 966a61366e10c5a65f9661d4b934e64b4c088d87)
+Merged-In:I283dea469a33286fc9cf835e39ee5a3be2444739</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b2dc041</span>
+                                        <span class="message">Block SHELL_UID from overlay fabricate and clear shell overlays on boot
+
+Prevents non-root shell from fabricating overlays and removes all
+overlays with their creating package as shell on boot.
+
+Prevents unapproved usages of the fabrication API and cleans up
+any potentially broken overlays respectively.
+
+Bug: 202768292
+
+Test: sts-tradefed run sts-engbuild-no-spl-lock \
+        -m StsHostTestCases -t android.security.sts.Bug_202768292
+
+Change-Id: I184cc498e49c416e184cc0855a8810b57dd08175
+(cherry picked from commit 627d5eb68e19a8ea18c3c1405701b3a33f073315)
+Merged-In:I184cc498e49c416e184cc0855a8810b57dd08175</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c3c9ada</span>
+                                        <span class="message">Revert "Revert "[pm] remove old stage dirs on low storage""
+
+This reverts commit b45ebca772a77bf3fd269d0dcfc1a7af7c73861d.
+
+Reason for revert: adding the fix for system to abandon sessions
+
+BUG: 67862680
+Test: manual
+Change-Id: I91170ba399b3a596320b3bd9c8188912e5c4f1be
+(cherry picked from commit ce2c9032b905ff0e32c34298b86c6b19e6e21f53)
+Merged-In: I91170ba399b3a596320b3bd9c8188912e5c4f1be
+(cherry picked from commit 50db8a56a226e6afc0288d3894ca226938f4af4b)
+Merged-In:I91170ba399b3a596320b3bd9c8188912e5c4f1be</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#402baf4</span>
+                                        <span class="message">[RESTRICT AUTOMERGE] Hide Wi-Fi Scanning message when Location is disabled (QS Internet Dialog)
+
+- When the location is disabled, the WiFi scanning service will also
+stop.
+
+- Bypass the WifiManager#isScanAlwaysAvailable() result.
+
+Bug: 203471614
+Test: manual test on the device.
+atest -c InternetDialogControllerTest \
+         InternetDialogTest
+
+Change-Id: I2f159820d577f226e640b3ea735f6b18c52a16f7
+(cherry picked from commit 194a61951688b8ed48b6c0e254398f66c5b1d79a)
+Merged-In:I2f159820d577f226e640b3ea735f6b18c52a16f7</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8496b8b</span>
+                                        <span class="message">Fix black frame flicker in UNOCCLUDE transition.
+
+When an activity which occludes the keyguard finishes, WindowManager
+immediately updatees the keyguard occluded status, so show-when-locked
+wallpaper was not used anymore. However sysui needed some time to finish
+keyguard occluded status change in their side, and meantime no wallpaper
+target existed.
+
+With this change, we keep using show-when-locked wallpaper until app
+transition finishes.
+
+Bug: 201560359
+Test: manual. Show assist app on the lockscreen and close.
+Change-Id: I4958a2f5ecdd12b3db43b44ee4a221972070ab2c
+(cherry picked from commit f5a613e5282542ea356c20b3f397276f06d68fe9)
+Merged-In:I4958a2f5ecdd12b3db43b44ee4a221972070ab2c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e664c5e</span>
+                                        <span class="message">Import translations. DO NOT MERGE ANYWHERE
+
+Auto-generated-cl: translation import
+Change-Id: I782cb1bd08a0b2bb4c2caf293e1119d59e21f5dc
+(cherry picked from commit eed6614c73a23dd37f5dd1e98b7814e054fa9339)
+Merged-In:I782cb1bd08a0b2bb4c2caf293e1119d59e21f5dc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8aa61bf</span>
+                                        <span class="message">[SystemUI] 1.Remove the unnecessary log 2. update signal icon in bg thread
+
+1. The log should be controlled by the DEBUG, otherwise it will be printed infinitely and the performance will be very slow.
+The log can be removed after checking, so I removing it instead of adding the DEBUG tag.
+
+2. Do too much get icon in the main thread, move it into bg thread
+
+3. It is unnecessary that update the mobile data layout from the callback, onAccessPointsChanged, because it is used for Wi-Fi.
+
+Bug: 201200079
+Test: manual and Q verified pass
+Change-Id: I5f4623f9ffb68fae6ca377625aaa039f0f33dd38
+(cherry picked from commit 5f685c98cc877f61e0297a9507412cb83f83d84b)
+Merged-In:I5f4623f9ffb68fae6ca377625aaa039f0f33dd38</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6fcb6f1</span>
+                                        <span class="message">Import translations. DO NOT MERGE ANYWHERE
+
+Auto-generated-cl: translation import
+Change-Id: I906d64bc6ec9001b40af4cf4d90c9f4ca45aca89
+(cherry picked from commit 7e142ec17bd1f4ea4423bcb4a4850434b783188c)
+Merged-In:I906d64bc6ec9001b40af4cf4d90c9f4ca45aca89</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1381,883 +1744,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 180 commits in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#cf69c36</span>
-                                        <span class="message">BACKPORT: loop: Add LOOP_CONFIGURE ioctl
-
-This allows userspace to completely setup a loop device with a single
-ioctl, removing the in-between state where the device can be partially
-configured - eg the loop device has a backing file associated with it,
-but is reading from the wrong offset.
-
-Besides removing the intermediate state, another big benefit of this
-ioctl is that LOOP_SET_STATUS can be slow; the main reason for this
-slowness is that LOOP_SET_STATUS(64) calls blk_mq_freeze_queue() to
-freeze the associated queue; this requires waiting for RCU
-synchronization, which I've measured can take about 15-20ms on this
-device on average.
-
-In addition to doing what LOOP_SET_STATUS can do, LOOP_CONFIGURE can
-also be used to:
-- Set the correct block size immediately by setting
-  loop_config.block_size (avoids LOOP_SET_BLOCK_SIZE)
-- Explicitly request direct I/O mode by setting LO_FLAGS_DIRECT_IO
-  in loop_config.info.lo_flags (avoids LOOP_SET_DIRECT_IO)
-- Explicitly request read-only mode by setting LO_FLAGS_READ_ONLY
-  in loop_config.info.lo_flags
-
-Here's setting up ~70 regular loop devices with an offset on an x86
-Android device, using LOOP_SET_FD and LOOP_SET_STATUS:
-
-vsoc_x86:/system/apex # time for i in `seq 30 100`;
-do losetup -r -o 4096 /dev/block/loop$i com.android.adbd.apex; done
-    0m03.40s real     0m00.02s user     0m00.03s system
-
-Here's configuring ~70 devices in the same way, but using a modified
-losetup that uses the new LOOP_CONFIGURE ioctl:
-
-vsoc_x86:/system/apex # time for i in `seq 30 100`;
-do losetup -r -o 4096 /dev/block/loop$i com.android.adbd.apex; done
-    0m01.94s real     0m00.01s user     0m00.01s system
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 3448914e8cc550ba792d4ccc74471d1ca4293aae)
-Bug: 148607611
-Change-Id: I839ee9c9df8dbd9f4cc0fa5c8119c01abfcac1d9</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e515bc1</span>
-                                        <span class="message">BACKPORT: loop: Clean up LOOP_SET_STATUS lo_flags handling
-
-LOOP_SET_STATUS(64) will actually allow some lo_flags to be modified; in
-particular, LO_FLAGS_AUTOCLEAR can be set and cleared, whereas
-LO_FLAGS_PARTSCAN can be set to request a partition scan. Make this
-explicit by updating the UAPI to include the flags that can be
-set/cleared using this ioctl.
-
-The implementation can then blindly take over the passed in flags,
-and use the previous flags for those flags that can't be set / cleared
-using LOOP_SET_STATUS.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-Bug: 148607611
-(cherry picked from commit faf1d25440d6ad06d509dada4b6fe62fea844370)
-Change-Id: I88487db28e785ee83e400904b685ef9e98c0287d</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#77a5e7c</span>
-                                        <span class="message">BACKPORT: loop: Rework lo_ioctl() __user argument casting
-
-In preparation for a new ioctl that needs to copy_from_user(); makes the
-code easier to read as well.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-Bug: 148607611
-(cherry picked from commit 571fae6e290d64a3e8132c455e7786c99c467ed1)
-Change-Id: I61cb8a6771f517f19ea87a145ab02827f46ab850</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e8c67fb</span>
-                                        <span class="message">BACKPORT: loop: Move loop_set_status_from_info() and friends up
-
-So we can use it without forward declaration. This is a separate commit
-to make it easier to verify that this is just a move, without functional
-modifications.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 62ab466ca881fe200c21aa74b65f8bd83ec482dc)
-Bug: 148607611
-Change-Id: I8c68ebbe65cbec476f9f2d4c1d60eb343e88bb56</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#24627fb</span>
-                                        <span class="message">BACKPORT: loop: Factor out configuring loop from status
-
-Factor out this code into a separate function, so it can be reused by
-other code more easily.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 0c3796c244598122a5d59d56f30d19390096817f)
-Bug: 148607611
-Change-Id: I6bb8054a3963ba67bb44b07010d00ee53dbfef81</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f277d0</span>
-                                        <span class="message">BACKPORT: loop: Remove figure_loop_size()
-
-This function was now only used by loop_set_capacity(). Just open code
-the remaining code in the caller instead.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 0a6ed1b5ff6757f11ad2d57906ceb40488a5ee52)
-Bug: 148607611
-Change-Id: Icc5ef56a5f0264b9bfa15fbbe8062a74a59d88cb</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#94ae498</span>
-                                        <span class="message">BACKPORT: loop: Refactor loop_set_status() size calculation
-
-figure_loop_size() calculates the loop size based on the passed in
-parameters, but at the same time it updates the offset and sizelimit
-parameters in the loop device configuration. That is a somewhat
-unexpected side effect of a function with this name, and it is only only
-needed by one of the two callers of this function - loop_set_status().
-
-Move the lo_offset and lo_sizelimit assignment back into loop_set_status(),
-and use the newly factored out functions to validate and apply the newly
-calculated size. This allows us to get rid of figure_loop_size() in a
-follow-up commit.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit b0bd158dd630bd47640e0e418c062cda1e0da5ad)
-Bug: 148607611
-Change-Id: Ib8e10eb734c3f95f3c433c13012b378373336d10</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f2cd0ce</span>
-                                        <span class="message">BACKPORT: loop: Factor out setting loop device size
-
-This code is used repeatedly.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 5795b6f5607f7e4db62ddea144727780cb351a9b)
-Bug: 148607611
-Change-Id: I332d05033e13b6c9f75f9d959a4682135bd6c53c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c9b10ae</span>
-                                        <span class="message">BACKPORT: loop: Remove sector_t truncation checks
-
-sector_t is now always u64, so we don't need to check for truncation.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 083a6a50783ef54256eec3499e6575237e0e3d53)
-Bug: 148607611
-Change-Id: I1db87e391aca6226d542c5b74e569184ec059073</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2f3ad17</span>
-                                        <span class="message">BACKPORT: loop: Call loop_config_discard() only after new config is applied
-
-loop_set_status() calls loop_config_discard() to configure discard for
-the loop device; however, the discard configuration depends on whether
-the loop device uses encryption, and when we call it the encryption
-configuration has not been updated yet. Move the call down so we apply
-the correct discard configuration based on the new configuration.
-
-Signed-off-by: Martijn Coenen &lt;maco@android.com&gt;
-Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
-Reviewed-by: Bob Liu &lt;bob.liu@oracle.com&gt;
-Reviewed-by: Bart Van Assche &lt;bvanassche@acm.org&gt;
-Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;
-(cherry picked from commit 7c5014b0987a30e4989c90633c198aced454c0ec)
-Bug: 148607611
-Change-Id: I77cb81b7c8038ebdb2d4cd6161c034a9e94cf516</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8ed2f64</span>
-                                        <span class="message">Merge 4.9.232 into android-4.9-q
-
-Changes in 4.9.232
-	pinctrl: amd: fix npins for uart0 in kerncz_groups
-	mac80211: allow rx of mesh eapol frames with default rx key
-	scsi: scsi_transport_spi: Fix function pointer check
-	xtensa: fix __sync_fetch_and_{and,or}_4 declarations
-	xtensa: update *pos in cpuinfo_op.next
-	drivers/net/wan/lapbether: Fixed the value of hard_header_len
-	net: sky2: initialize return of gm_phy_read
-	drm/nouveau/i2c/g94-: increase NV_PMGR_DP_AUXCTL_TRANSACTREQ timeout
-	SUNRPC reverting d03727b248d0 ("NFSv4 fix CLOSE not waiting for direct IO compeletion")
-	uprobes: Change handle_swbp() to send SIGTRAP with si_code=SI_KERNEL, to fix GDB regression
-	ALSA: info: Drop WARN_ON() from buffer NULL sanity check
-	ASoC: rt5670: Correct RT5670_LDO_SEL_MASK
-	btrfs: fix double free on ulist after backref resolution failure
-	btrfs: fix mount failure caused by race with umount
-	bnxt_en: Fix race when modifying pause settings.
-	hippi: Fix a size used in a 'pci_free_consistent()' in an error handling path
-	ax88172a: fix ax88172a_unbind() failures
-	net: dp83640: fix SIOCSHWTSTAMP to update the struct with actual configuration
-	net: smc91x: Fix possible memory leak in smc_drv_probe()
-	scripts/decode_stacktrace: strip basepath from all paths
-	HID: i2c-hid: add Mediacom FlexBook edge13 to descriptor override
-	HID: apple: Disable Fn-key key-re-mapping on clone keyboards
-	dmaengine: tegra210-adma: Fix runtime PM imbalance on error
-	regmap: dev_get_regmap_match(): fix string comparison
-	dmaengine: ioat setting ioat timeout as module parameter
-	usb: gadget: udc: gr_udc: fix memleak on error handling path in gr_ep_init()
-	arm64: Use test_tsk_thread_flag() for checking TIF_SINGLESTEP
-	x86: math-emu: Fix up 'cmp' insn for clang ias
-	usb: xhci-mtk: fix the failure of bandwidth allocation
-	usb: xhci: Fix ASM2142/ASM3142 DMA addressing
-	Revert "cifs: Fix the target file was deleted when rename failed."
-	staging: wlan-ng: properly check endpoint types
-	staging: comedi: addi_apci_1032: check INSN_CONFIG_DIGITAL_TRIG shift
-	staging: comedi: ni_6527: fix INSN_CONFIG_DIGITAL_TRIG support
-	staging: comedi: addi_apci_1500: check INSN_CONFIG_DIGITAL_TRIG shift
-	staging: comedi: addi_apci_1564: check INSN_CONFIG_DIGITAL_TRIG shift
-	serial: 8250: fix null-ptr-deref in serial8250_start_tx()
-	serial: 8250_mtk: Fix high-speed baud rates clamping
-	vt: Reject zero-sized screen buffer size.
-	Makefile: Fix GCC_TOOLCHAIN_DIR prefix for Clang cross compilation
-	mm/memcg: fix refcount error while moving and swapping
-	io-mapping: indicate mapping failure
-	parisc: Add atomic64_set_release() define to avoid CPU soft lockups
-	ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb
-	ath9k: Fix regression with Atheros 9271
-	AX.25: Fix out-of-bounds read in ax25_connect()
-	AX.25: Prevent out-of-bounds read in ax25_sendmsg()
-	dev: Defer free of skbs in flush_backlog
-	net-sysfs: add a newline when printing 'tx_timeout' by sysfs
-	net: udp: Fix wrong clean up for IS_UDPLITE macro
-	rxrpc: Fix sendmsg() returning EPIPE due to recvmsg() returning ENODATA
-	AX.25: Prevent integer overflows in connect and sendmsg
-	tcp: allow at most one TLP probe per flight
-	ip6_gre: fix null-ptr-deref in ip6gre_init_net()
-	drivers/net/wan/x25_asy: Fix to make it work
-	regmap: debugfs: check count when read regmap file
-	xfs: set format back to extents if xfs_bmap_extents_to_btree
-	perf probe: Fix to check blacklist address correctly
-	perf annotate: Use asprintf when formatting objdump command line
-	perf tools: Fix snprint warnings for gcc 8
-	perf: Make perf able to build with latest libbfd
-	Linux 4.9.232
-
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
-Change-Id: Iae57e72dbaebe67399c6756146f30762e5f25b2e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#dcd0c8c</span>
-                                        <span class="message">UPSTREAM: xtables: extend matches and targets with .usersize
-
-In matches and targets that define a kernel-only tail to their
-xt_match and xt_target data structs, add a field .usersize that
-specifies up to where data is to be shared with userspace.
-
-Performed a search for comment "Used internally by the kernel" to find
-relevant matches and targets. Manually inspected the structs to derive
-a valid offsetof.
-
-Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
-Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
-
-Bug: 120612905
-Change-Id: I05372f848e14a2870ee6b3bdfa4cc6c42c5bc74c
-(cherry picked from commit ec23189049651b16dc2ffab35a4371dc1f491aca)
-Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bb5bc03</span>
-                                        <span class="message">UPSTREAM: ip6tables: use match, target and data copy_to_user helpers
-
-Convert ip6tables to copying entries, matches and targets one by one,
-using the xt_match_to_user and xt_target_to_user helper functions.
-
-Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
-Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
-
-Bug: 120612905
-Change-Id: I50db052755301496d318a19444b922bd655866c1
-(cherry picked from commit e47ddb2c4691fd2bd8d25745ecb6848408899757)
-Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d104670</span>
-                                        <span class="message">UPSTREAM: iptables: use match, target and data copy_to_user helpers
-
-Convert iptables to copying entries, matches and targets one by one,
-using the xt_match_to_user and xt_target_to_user helper functions.
-
-Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
-Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
-
-Bug: 120612905
-Change-Id: I8e23c9f0566ed9eb895ae626760efccd3bf5c24e
-(cherry picked from commit f77bc5b23fb1af51fc0faa8a479dea8969eb5079)
-Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8a1b3c7</span>
-                                        <span class="message">UPSTREAM: xtables: add xt_match, xt_target and data copy_to_user functions
-
-xt_entry_target, xt_entry_match and their private data may contain
-kernel data.
-
-Introduce helper functions xt_match_to_user, xt_target_to_user and
-xt_data_to_user that copy only the expected fields. These replace
-existing logic that calls copy_to_user on entire structs, then
-overwrites select fields.
-
-Private data is defined in xt_match and xt_target. All matches and
-targets that maintain kernel data store this at the tail of their
-private structure. Extend xt_match and xt_target with .usersize to
-limit how many bytes of data are copied. The remainder is cleared.
-
-If compatsize is specified, usersize can only safely be used if all
-fields up to usersize use platform-independent types. Otherwise, the
-compat_to_user callback must be defined.
-
-This patch does not yet enable the support logic.
-
-Signed-off-by: Willem de Bruijn &lt;willemb@google.com&gt;
-Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;
-
-Bug: 120612905
-Change-Id: I71ca0160d0ad7b8ee97b412c1e278b75b297bd54
-(cherry picked from commit f32815d21d4d8287336fb9cef4d2d9e0866214c2)
-Signed-off-by: Hridya Valsaraju &lt;hridya@google.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f036383</span>
-                                        <span class="message">Merge 4.9.231 into android-4.9-q
-
-Changes in 4.9.231
-	KVM: s390: reduce number of IO pins to 1
-	gpu: host1x: Detach driver on unregister
-	spi: spidev: fix a race between spidev_release and spidev_remove
-	spi: spidev: fix a potential use-after-free in spidev_release()
-	s390/kasan: fix early pgm check handler execution
-	cifs: update ctime and mtime during truncate
-	ARM: imx6: add missing put_device() call in imx6q_suspend_init()
-	scsi: mptscsih: Fix read sense data size
-	net: cxgb4: fix return error value in t4_prep_fw
-	smsc95xx: check return value of smsc95xx_reset
-	smsc95xx: avoid memory leak in smsc95xx_bind
-	ALSA: compress: fix partial_drain completion state
-	arm64: kgdb: Fix single-step exception handling oops
-	bnxt_en: fix NULL dereference in case SR-IOV configuration fails
-	net: macb: mark device wake capable when "magic-packet" property present
-	ALSA: opl3: fix infoleak in opl3
-	ALSA: hda - let hs_mic be picked ahead of hp_mic
-	ALSA: usb-audio: add quirk for MacroSilicon MS2109
-	KVM: arm64: Fix definition of PAGE_HYP_DEVICE
-	KVM: x86: bit 8 of non-leaf PDPEs is not reserved
-	Revert "ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb"
-	btrfs: fix fatal extent_buffer readahead vs releasepage race
-	drm/radeon: fix double free
-	ARC: entry: fix potential EFA clobber when TIF_SYSCALL_TRACE
-	ARC: elf: use right ELF_ARCH
-	s390/mm: fix huge pte soft dirty copying
-	ipv4: fill fl4_icmp_{type,code} in ping_v4_sendmsg
-	l2tp: remove skb_dst_set() from l2tp_xmit_skb()
-	llc: make sure applications use ARPHRD_ETHER
-	net: Added pointer check for dst-&gt;ops-&gt;neigh_lookup in dst_neigh_lookup_skb
-	net: usb: qmi_wwan: add support for Quectel EG95 LTE modem
-	tcp: md5: add missing memory barriers in tcp_md5_do_add()/tcp_md5_hash_key()
-	tcp: md5: refine tcp_md5_do_add()/tcp_md5_hash_key() barriers
-	genetlink: remove genl_bind
-	tcp: make sure listeners don't initialize congestion-control state
-	tcp: md5: do not send silly options in SYNCOOKIES
-	tcp: md5: allow changing MD5 keys in all socket states
-	cgroup: fix cgroup_sk_alloc() for sk_clone_lock()
-	cgroup: Fix sock_cgroup_data on big-endian.
-	i2c: eg20t: Load module automatically if ID matches
-	iio:magnetometer:ak8974: Fix alignment and data leak issues
-	iio: magnetometer: ak8974: Fix runtime PM imbalance on error
-	iio: mma8452: Add missed iio_device_unregister() call in mma8452_probe()
-	iio: pressure: zpa2326: handle pm_runtime_get_sync failure
-	iio:pressure:ms5611 Fix buffer element alignment
-	iio:health:afe4403 Fix timestamp alignment and prevent data leak.
-	spi: fix initial SPI_SR value in spi-fsl-dspi
-	net: dsa: bcm_sf2: Fix node reference count
-	Revert "usb/ehci-platform: Set PM runtime as active on resume"
-	Revert "usb/xhci-plat: Set PM runtime as active on resume"
-	Revert "usb/ohci-platform: Fix a warning when hibernating"
-	iio:health:afe4404 Fix timestamp alignment and prevent data leak.
-	spi: spi-sun6i: sun6i_spi_transfer_one(): fix setting of clock rate
-	usb: gadget: udc: atmel: fix uninitialized read in debug printk
-	staging: comedi: verify array index is correct before using it
-	Revert "thermal: mediatek: fix register index error"
-	ARM: dts: socfpga: Align L2 cache-controller nodename with dtschema
-	perf stat: Zero all the 'ena' and 'run' array slot stats for interval mode
-	mtd: rawnand: brcmnand: fix CS0 layout
-	HID: magicmouse: do not set up autorepeat
-	usb: core: Add a helper function to check the validity of EP type in URB
-	ALSA: line6: Perform sanity check for each URB creation
-	ALSA: usb-audio: Fix race against the error recovery URB submission
-	USB: c67x00: fix use after free in c67x00_giveback_urb
-	usb: dwc2: Fix shutdown callback in platform
-	usb: chipidea: core: add wakeup support for extcon
-	usb: gadget: function: fix missing spinlock in f_uac1_legacy
-	USB: serial: iuu_phoenix: fix memory corruption
-	USB: serial: cypress_m8: enable Simply Automated UPB PIM
-	USB: serial: ch341: add new Product ID for CH340
-	USB: serial: option: add GosunCn GM500 series
-	USB: serial: option: add Quectel EG95 LTE modem
-	virtio: virtio_console: add missing MODULE_DEVICE_TABLE() for rproc serial
-	fuse: Fix parameter for FS_IOC_{GET,SET}FLAGS
-	mei: bus: don't clean driver pointer
-	Input: i8042 - add Lenovo XiaoXin Air 12 to i8042 nomux list
-	uio_pdrv_genirq: fix use without device tree and no interrupt
-	timer: Fix wheel index calculation on last level
-	MIPS: Fix build for LTS kernel caused by backporting lpj adjustment
-	hwmon: (emc2103) fix unable to change fan pwm1_enable attribute
-	dmaengine: fsl-edma: Fix NULL pointer exception in fsl_edma_tx_handler
-	misc: atmel-ssc: lock with mutex instead of spinlock
-	arm64: ptrace: Override SPSR.SS when single-stepping is enabled
-	sched/fair: handle case of task_h_load() returning 0
-	irqchip/gic: Atomically update affinity
-	x86/cpu: Move x86_cache_bits settings
-	Linux 4.9.231
-
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
-Change-Id: I57b0f3c4ffcdc49231d1c48f3f25fae424daeeb9</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8c06e8e</span>
-                                        <span class="message">ANDROID: cuttlefish_defconfig: Drop built-in cmdline (except nopti)
-
-This fixes duplicate kernel log messages. Only earlycon from ttyS0
-should be logged, after virtio-console is loaded it should come only
-from there.
-
-Bug: 160341724
-Change-Id: I194343fcaff822b31c8d8b6138196cb4e077613c
-Signed-off-by: Alistair Delva &lt;adelva@google.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#65f1d99</span>
-                                        <span class="message">Merge 4.9.230 into android-4.9-q
-
-Changes in 4.9.230
-	btrfs: fix a block group ref counter leak after failure to remove block group
-	btrfs: cow_file_range() num_bytes and disk_num_bytes are same
-	btrfs: fix data block group relocation failure due to concurrent scrub
-	mm: fix swap cache node allocation mask
-	EDAC/amd64: Read back the scrub rate PCI register on F15h
-	usbnet: smsc95xx: Fix use-after-free after removal
-	mm/slub.c: fix corrupted freechain in deactivate_slab()
-	mm/slub: fix stack overruns with SLUB_STATS
-	usb: usbtest: fix missing kfree(dev-&gt;buf) in usbtest_disconnect
-	kgdb: Avoid suspicious RCU usage warning
-	crypto: af_alg - fix use-after-free in af_alg_accept() due to bh_lock_sock()
-	sched/rt: Show the 'sched_rr_timeslice' SCHED_RR timeslice tuning knob in milliseconds
-	cxgb4: parse TC-U32 key values and masks natively
-	hwmon: (max6697) Make sure the OVERT mask is set correctly
-	hwmon: (acpi_power_meter) Fix potential memory leak in acpi_power_meter_add()
-	virtio-blk: free vblk-vqs in error path of virtblk_probe()
-	i2c: algo-pca: Add 0x78 as SCL stuck low status for PCA9665
-	Revert "ALSA: usb-audio: Improve frames size computation"
-	SMB3: Honor 'seal' flag for multiuser mounts
-	SMB3: Honor persistent/resilient handle flags for multiuser mounts
-	cifs: Fix the target file was deleted when rename failed.
-	MIPS: Add missing EHB in mtc0 -&gt; mfc0 sequence for DSPen
-	netfilter: nf_conntrack_h323: lost .data_len definition for Q.931/ipv6
-	efi: Make it possible to disable efivar_ssdt entirely
-	Linux 4.9.230
-
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
-Change-Id: Idfb59ec0247f0e8ba270f56daa689ee6f68d54bc</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6e60c65</span>
-                                        <span class="message">Merge 4.9.229 into android-4.9-q
-
-Changes in 4.9.229
-	power: supply: bq24257_charger: Replace depends on REGMAP_I2C with select
-	clk: sunxi: Fix incorrect usage of round_down()
-	i2c: piix4: Detect secondary SMBus controller on AMD AM4 chipsets
-	iio: pressure: bmp280: Tolerate IRQ before registering
-	clk: qcom: msm8916: Fix the address location of pll-&gt;config_reg
-	backlight: lp855x: Ensure regulators are disabled on probe failure
-	ARM: integrator: Add some Kconfig selections
-	ALSA: isa/wavefront: prevent out of bounds write in ioctl
-	scsi: qla2xxx: Fix issue with adapter's stopping state
-	iio: bmp280: fix compensation of humidity
-	i2c: pxa: clear all master action bits in i2c_pxa_stop_message()
-	usblp: poison URBs upon disconnect
-	PCI: aardvark: Don't blindly enable ASPM L0s and don't write to read-only register
-	ps3disk: use the default segment boundary
-	vfio/pci: fix memory leaks in alloc_perm_bits()
-	mfd: wm8994: Fix driver operation if loaded as modules
-	scsi: lpfc: Fix lpfc_nodelist leak when processing unsolicited event
-	clk: clk-flexgen: fix clock-critical handling
-	powerpc/perf/hv-24x7: Fix inconsistent output values incase multiple hv-24x7 events run
-	nfsd: Fix svc_xprt refcnt leak when setup callback client failed
-	powerpc/crashkernel: Take "mem=" option into account
-	yam: fix possible memory leak in yam_init_driver
-	mksysmap: Fix the mismatch of '.L' symbols in System.map
-	scsi: sr: Fix sr_probe() missing deallocate of device minor
-	scsi: ibmvscsi: Don't send host info in adapter info MAD after LPM
-	ALSA: usb-audio: Improve frames size computation
-	s390/qdio: put thinint indicator after early error
-	tty: hvc: Fix data abort due to race in hvc_open
-	staging: sm750fb: add missing case while setting FB_VISUAL
-	i2c: pxa: fix i2c_pxa_scream_blue_murder() debug output
-	serial: amba-pl011: Make sure we initialize the port.lock spinlock
-	drivers: base: Fix NULL pointer exception in __platform_driver_probe() if a driver developer is foolish
-	PCI: rcar: Fix incorrect programming of OB windows
-	PCI/ASPM: Allow ASPM on links to PCIe-to-PCI/PCI-X Bridges
-	power: supply: lp8788: Fix an error handling path in 'lp8788_charger_probe()'
-	power: supply: smb347-charger: IRQSTAT_D is volatile
-	scsi: mpt3sas: Fix double free warnings
-	dlm: remove BUG() before panic()
-	clk: ti: composite: fix memory leak
-	tty: n_gsm: Fix SOF skipping
-	tty: n_gsm: Fix waking up upper tty layer when room available
-	powerpc/pseries/ras: Fix FWNMI_VALID off by one
-	powerpc/ps3: Fix kexec shutdown hang
-	vfio-pci: Mask cap zero
-	usb/ohci-platform: Fix a warning when hibernating
-	drm/msm/mdp5: Fix mdp5_init error path for failed mdp5_kms allocation
-	USB: host: ehci-mxc: Add error handling in ehci_mxc_drv_probe()
-	tty: n_gsm: Fix bogus i++ in gsm_data_kick
-	clk: samsung: exynos5433: Add IGNORE_UNUSED flag to sclk_i2s1
-	powerpc/64s/pgtable: fix an undefined behaviour
-	PCI/PTM: Inherit Switch Downstream Port PTM settings from Upstream Port
-	IB/cma: Fix ports memory leak in cma_configfs
-	watchdog: da9062: No need to ping manually before setting timeout
-	usb: dwc2: gadget: move gadget resume after the core is in L0 state
-	USB: gadget: udc: s3c2410_udc: Remove pointless NULL check in s3c2410_udc_nuke
-	usb: gadget: lpc32xx_udc: don't dereference ep pointer before null check
-	usb: gadget: fix potential double-free in m66592_probe.
-	usb: gadget: Fix issue with config_ep_by_speed function
-	clk: bcm2835: Fix return type of bcm2835_register_gate
-	net: sunrpc: Fix off-by-one issues in 'rpc_ntop6'
-	NFSv4.1 fix rpc_call_done assignment for BIND_CONN_TO_SESSION
-	extcon: adc-jack: Fix an error handling path in 'adc_jack_probe()'
-	ASoC: fsl_asrc_dma: Fix dma_chan leak when config DMA channel failed
-	openrisc: Fix issue with argument clobbering for clone/fork
-	gfs2: Allow lock_nolock mount to specify jid=X
-	scsi: iscsi: Fix reference count leak in iscsi_boot_create_kobj
-	pinctrl: imxl: Fix an error handling path in 'imx1_pinctrl_core_probe()'
-	crypto: omap-sham - add proper load balancing support for multicore
-	lib/zlib: remove outdated and incorrect pre-increment optimization
-	include/linux/bitops.h: avoid clang shift-count-overflow warnings
-	elfnote: mark all .note sections SHF_ALLOC
-	selftests/vm/pkeys: fix alloc_random_pkey() to make it really random
-	selftests/net: in timestamping, strncpy needs to preserve null byte
-	scsi: acornscsi: Fix an error handling path in acornscsi_probe()
-	usb/xhci-plat: Set PM runtime as active on resume
-	usb/ehci-platform: Set PM runtime as active on resume
-	perf report: Fix NULL pointer dereference in hists__fprintf_nr_sample_events()
-	bcache: fix potential deadlock problem in btree_gc_coalesce
-	block: Fix use-after-free in blkdev_get()
-	libata: Use per port sync for detach
-	drm: encoder_slave: fix refcouting error for modules
-	drm/dp_mst: Reformat drm_dp_check_act_status() a bit
-	drm/qxl: Use correct notify port address when creating cursor ring
-	selinux: fix double free
-	ext4: fix partial cluster initialization when splitting extent
-	drm/dp_mst: Increase ACT retry timeout to 3s
-	x86/boot/compressed: Relax sed symbol type regex for LLVM ld.lld
-	block: nr_sects_write(): Disable preemption on seqcount write
-	s390: fix syscall_get_error for compat processes
-	drm/i915: Whitelist context-local timestamp in the gen9 cmdparser
-	crypto: algboss - don't wait during notifier callback
-	kprobes: Fix to protect kick_kprobe_optimizer() by kprobe_mutex
-	powerpc/kprobes: Fixes for kprobe_lookup_name() on BE
-	x86/kprobes: Avoid kretprobe recursion bug
-	kretprobe: Prevent triggering kretprobe from within kprobe_flush_task
-	e1000e: Do not wake up the system via WOL if device wakeup is disabled
-	sched/rt, net: Use CONFIG_PREEMPTION.patch
-	net: core: device_rename: Use rwsem instead of a seqcount
-	media: dvb_frontend: initialize variable s with FE_NONE instead of 0
-	media: dvb/frontend.h: move out a private internal structure
-	media: dvb/frontend.h: document the uAPI file
-	media: dvb_frontend: get rid of get_property() callback
-	media: stv0288: get rid of set_property boilerplate
-	media: stv6110: get rid of a srate dead code
-	media: friio-fe: get rid of set_property()
-	media: dvb_frontend: get rid of set_property() callback
-	media: dvb_frontend: cleanup dvb_frontend_ioctl_properties()
-	media: dvb_frontend: cleanup ioctl handling logic
-	media: dvb_frontend: get rid of property cache's state
-	media: dvb_frontend: better document the -EPERM condition
-	media: dvb_frontend: fix return values for FE_SET_PROPERTY
-	media: dvb_frontend: dtv_property_process_set() cleanups
-	media: dvb_frontend: be sure to init dvb_frontend_handle_ioctl() return code
-	media: dvb_frontend: Add unlocked_ioctl in dvb_frontend.c
-	media: dvb_frontend: Add compat_ioctl callback
-	media: dvb_frontend: Add commands implementation for compat ioct
-	media: dvb_frontend: fix wrong cast in compat_ioctl
-	media: dvb_frontend: fix return error code
-	mtd: rawnand: Pass a nand_chip object to nand_release()
-	mtd: rawnand: diskonchip: Fix the probe error path
-	mtd: rawnand: sharpsl: Fix the probe error path
-	mtd: rawnand: xway: Fix the probe error path
-	mtd: rawnand: orion: Fix the probe error path
-	mtd: rawnand: socrates: Fix the probe error path
-	mtd: rawnand: plat_nand: Fix the probe error path
-	mtd: rawnand: mtk: Fix the probe error path
-	mtd: rawnand: tmio: Fix the probe error path
-	scsi: scsi_devinfo: handle non-terminated strings
-	l2tp: Allow duplicate session creation with UDP
-	net: sched: export __netdev_watchdog_up()
-	fix a braino in "sparc32: fix register window handling in genregs32_[gs]et()"
-	mld: fix memory leak in ipv6_mc_destroy_dev()
-	net: fix memleak in register_netdevice()
-	net: usb: ax88179_178a: fix packet alignment padding
-	rocker: fix incorrect error handling in dma_rings_init
-	rxrpc: Fix notification call on completion of discarded calls
-	tg3: driver sleeps indefinitely when EEH errors exceed eeh_max_freezes
-	ip_tunnel: fix use-after-free in ip_tunnel_lookup()
-	tcp_cubic: fix spurious HYSTART_DELAY exit upon drop in min RTT
-	ip6_gre: fix use-after-free in ip6gre_tunnel_lookup()
-	tcp: grow window for OOO packets only for SACK flows
-	sctp: Don't advertise IPv4 addresses if ipv6only is set on the socket
-	net: Fix the arp error in some cases
-	net: Do not clear the sock TX queue in sk_set_socket()
-	net: core: reduce recursion limit value
-	USB: ohci-sm501: Add missed iounmap() in remove
-	usb: dwc2: Postponed gadget registration to the udc class driver
-	usb: add USB_QUIRK_DELAY_INIT for Logitech C922
-	USB: ehci: reopen solution for Synopsys HC bug
-	usb: host: ehci-exynos: Fix error check in exynos_ehci_probe()
-	ALSA: usb-audio: add quirk for Denon DCD-1500RE
-	xhci: Fix incorrect EP_STATE_MASK
-	xhci: Fix enumeration issue when setting max packet size for FS devices.
-	cdc-acm: Add DISABLE_ECHO quirk for Microchip/SMSC chip
-	ALSA: usb-audio: uac1: Invalidate ctl on interrupt
-	ALSA: usb-audio: Clean up mixer element list traverse
-	ALSA: usb-audio: Fix OOB access of mixer element list
-	xhci: Poll for U0 after disabling USB2 LPM
-	cifs/smb3: Fix data inconsistent when punch hole
-	cifs/smb3: Fix data inconsistent when zero file range
-	efi/esrt: Fix reference count leak in esre_create_sysfs_entry.
-	RDMA/mad: Fix possible memory leak in ib_mad_post_receive_mads()
-	net: qed: fix left elements count calculation
-	net: qed: fix NVMe login fails over VFs
-	net: qed: fix excessive QM ILT lines consumption
-	ARM: imx5: add missing put_device() call in imx_suspend_alloc_ocram()
-	usb: gadget: udc: Potential Oops in error handling code
-	netfilter: ipset: fix unaligned atomic access
-	sched/core: Fix PI boosting between RT and DEADLINE tasks
-	ata/libata: Fix usage of page address by page_address in ata_scsi_mode_select_xlat function
-	net: alx: fix race condition in alx_remove
-	s390/ptrace: fix setting syscall number
-	kbuild: improve cc-option to clean up all temporary files
-	blktrace: break out of blktrace setup on concurrent calls
-	ALSA: hda: Add NVIDIA codec IDs 9a &amp; 9d through a0 to patch table
-	ACPI: sysfs: Fix pm_profile_attr type
-	KVM: X86: Fix MSR range of APIC registers in X2APIC mode
-	mm/slab: use memzero_explicit() in kzfree()
-	ocfs2: load global_inode_alloc
-	ocfs2: fix value of OCFS2_INVALID_SLOT
-	ocfs2: fix panic on nfs server over ocfs2
-	arm64: perf: Report the PC value in REGS_ABI_32 mode
-	tracing: Fix event trigger to accept redundant spaces
-	drm/radeon: fix fb_div check in ni_init_smc_spll_table()
-	sunrpc: fixed rollback in rpc_gssd_dummy_populate()
-	SUNRPC: Properly set the @subbuf parameter of xdr_buf_subsegment()
-	pNFS/flexfiles: Fix list corruption if the mirror count changes
-	NFSv4 fix CLOSE not waiting for direct IO compeletion
-	xfs: add agf freeblocks verify in xfs_agf_verify
-	Revert "tty: hvc: Fix data abort due to race in hvc_open"
-	Linux 4.9.229
-
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
-Change-Id: I0ce84c8f4c2c437fee36399c358c3dcc19fdfc1d</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f1687e</span>
-                                        <span class="message">Merge 4.9.228 into android-4.9-q
-
-Changes in 4.9.228
-	ipv6: fix IPV6_ADDRFORM operation logic
-	vxlan: Avoid infinite loop when suppressing NS messages with invalid options
-	scsi: return correct blkprep status code in case scsi_init_io() fails.
-	crypto: talitos - fix ECB and CBC algs ivsize
-	ARM: 8977/1: ptrace: Fix mask for thumb breakpoint hook
-	sched/fair: Don't NUMA balance for kthreads
-	drivers/net/ibmvnic: Update VNIC protocol version reporting
-	ath9k_htc: Silence undersized packet warnings
-	x86_64: Fix jiffies ODR violation
-	x86/PCI: Mark Intel C620 MROMs as having non-compliant BARs
-	x86/speculation: Prevent rogue cross-process SSBD shutdown
-	x86/reboot/quirks: Add MacBook6,1 reboot quirk
-	efi/efivars: Add missing kobject_put() in sysfs entry creation error path
-	ALSA: es1688: Add the missed snd_card_free()
-	ALSA: usb-audio: Fix inconsistent card PM state after resume
-	ACPI: sysfs: Fix reference count leak in acpi_sysfs_add_hotplug_profile()
-	ACPI: CPPC: Fix reference count leak in acpi_cppc_processor_probe()
-	ACPI: GED: add support for _Exx / _Lxx handler methods
-	ACPI: PM: Avoid using power resources if there are none for D0
-	cgroup, blkcg: Prepare some symbols for module and !CONFIG_CGROUP usages
-	nilfs2: fix null pointer dereference at nilfs_segctor_do_construct()
-	spi: bcm2835aux: Fix controller unregister order
-	spi: bcm-qspi: when tx/rx buffer is NULL set to 0
-	ALSA: pcm: disallow linking stream to itself
-	x86/speculation: Change misspelled STIPB to STIBP
-	x86/speculation: Add support for STIBP always-on preferred mode
-	x86/speculation: Avoid force-disabling IBPB based on STIBP and enhanced IBRS.
-	x86/speculation: PR_SPEC_FORCE_DISABLE enforcement for indirect branches.
-	spi: dw: fix possible race condition
-	spi: dw: Fix controller unregister order
-	spi: No need to assign dummy value in spi_unregister_controller()
-	spi: Fix controller unregister order
-	spi: pxa2xx: Fix controller unregister order
-	spi: bcm2835: Fix controller unregister order
-	ovl: initialize error in ovl_copy_xattr
-	proc: Use new_inode not new_inode_pseudo
-	video: fbdev: w100fb: Fix a potential double free.
-	KVM: nSVM: leave ASID aside in copy_vmcb_control_area
-	KVM: nVMX: Consult only the "basic" exit reason when routing nested exit
-	KVM: MIPS: Define KVM_ENTRYHI_ASID to cpu_asid_mask(&amp;boot_cpu_data)
-	KVM: MIPS: Fix VPN2_MASK definition for variable cpu_vmbits
-	KVM: arm64: Make vcpu_cp1x() work on Big Endian hosts
-	ath9k: Fix use-after-free Read in ath9k_wmi_ctrl_rx
-	ath9k: Fix use-after-free Write in ath9k_htc_rx_msg
-	ath9x: Fix stack-out-of-bounds Write in ath9k_hif_usb_rx_cb
-	ath9k: Fix general protection fault in ath9k_hif_usb_rx_cb
-	Smack: slab-out-of-bounds in vsscanf
-	mm/slub: fix a memory leak in sysfs_slab_add()
-	fat: don't allow to mount if the FAT length == 0
-	perf: Add cond_resched() to task_function_call()
-	agp/intel: Reinforce the barrier after GTT updates
-	can: kvaser_usb: kvaser_usb_leaf: Fix some info-leaks to USB devices
-	media: dvb_frontend: ensure that inital front end status initialized
-	ACPI: GED: use correct trigger type field in _Exx / _Lxx handling
-	media: si2157: Better check for running tuner in init
-	objtool: Ignore empty alternatives
-	net: ena: fix error returning in ena_com_get_hash_function()
-	spi: dw: Zero DMA Tx and Rx configurations on stack
-	Bluetooth: Add SCO fallback for invalid LMP parameters error
-	kgdb: Prevent infinite recursive entries to the debugger
-	spi: dw: Enable interrupts in accordance with DMA xfer mode
-	clocksource: dw_apb_timer_of: Fix missing clockevent timers
-	btrfs: do not ignore error from btrfs_next_leaf() when inserting checksums
-	ARM: 8978/1: mm: make act_mm() respect THREAD_SIZE
-	x86/kvm/hyper-v: Explicitly align hcall param for kvm_hyperv_exit
-	net: vmxnet3: fix possible buffer overflow caused by bad DMA value in vmxnet3_get_rss()
-	staging: android: ion: use vmap instead of vm_map_ram
-	e1000: Distribute switch variables for initialization
-	dt-bindings: display: mediatek: control dpi pins mode to avoid leakage
-	media: dvb: return -EREMOTEIO on i2c transfer failure.
-	media: platform: fcp: Set appropriate DMA parameters
-	MIPS: Make sparse_init() using top-down allocation
-	netfilter: nft_nat: return EOPNOTSUPP if type or flags are not supported
-	lib/mpi: Fix 64-bit MIPS build with Clang
-	exit: Move preemption fixup up, move blocking operations down
-	net: lpc-enet: fix error return code in lpc_mii_init()
-	net: allwinner: Fix use correct return type for ndo_start_xmit()
-	powerpc/spufs: fix copy_to_user while atomic
-	MIPS: Truncate link address into 32bit for 32bit kernel
-	mips: cm: Fix an invalid error code of INTVN_*_ERR
-	kgdb: Fix spurious true from in_dbg_master()
-	md: don't flush workqueue unconditionally in md_open
-	rtlwifi: Fix a double free in _rtl_usb_tx_urb_setup()
-	mwifiex: Fix memory corruption in dump_station
-	x86/boot: Correct relocation destination on old linkers
-	mips: Add udelay lpj numbers adjustment
-	x86/mm: Stop printing BRK addresses
-	m68k: mac: Don't call via_flush_cache() on Mac IIfx
-	macvlan: Skip loopback packets in RX handler
-	PCI: Don't disable decoding when mmio_always_on is set
-	MIPS: Fix IRQ tracing when call handle_fpe() and handle_msa_fpe()
-	staging: greybus: sdio: Respect the cmd-&gt;busy_timeout from the mmc core
-	ixgbe: fix signed-integer-overflow warning
-	mmc: sdhci-esdhc-imx: fix the mask for tuning start point
-	spi: dw: Return any value retrieved from the dma_transfer callback
-	cpuidle: Fix three reference count leaks
-	btrfs: send: emit file capabilities after chown
-	mm: thp: make the THP mapcount atomic against __split_huge_pmd_locked()
-	ima: Fix ima digest hash table key calculation
-	ima: Directly assign the ima_default_policy pointer to ima_rules
-	evm: Fix possible memory leak in evm_calc_hmac_or_hash()
-	ext4: fix EXT_MAX_EXTENT/INDEX to check for zeroed eh_max
-	ext4: fix race between ext4_sync_parent() and rename()
-	btrfs: fix error handling when submitting direct I/O bio
-	blk-mq: move blk_mq_update_nr_hw_queues synchronize_rcu call
-	PCI: Program MPS for RCiEP devices
-	e1000e: Relax condition to trigger reset for ME workaround
-	carl9170: remove P2P_GO support
-	media: go7007: fix a miss of snd_card_free
-	b43legacy: Fix case where channel status is corrupted
-	b43: Fix connection problem with WPA3
-	b43_legacy: Fix connection problem with WPA3
-	igb: Report speed and duplex as unknown when device is runtime suspended
-	power: vexpress: add suppress_bind_attrs to true
-	pinctrl: samsung: Save/restore eint_mask over suspend for EINT_TYPE GPIOs
-	sparc32: fix register window handling in genregs32_[gs]et()
-	sparc64: fix misuses of access_process_vm() in genregs32_[sg]et()
-	kernel/cpu_pm: Fix uninitted local in cpu_pm
-	ARM: tegra: Correct PL310 Auxiliary Control Register initialization
-	drivers/macintosh: Fix memleak in windfarm_pm112 driver
-	kbuild: force to build vmlinux if CONFIG_MODVERSION=y
-	sunrpc: svcauth_gss_register_pseudoflavor must reject duplicate registrations.
-	sunrpc: clean up properly in gss_mech_unregister()
-	mtd: rawnand: brcmnand: fix hamming oob layout
-	mtd: rawnand: pasemi: Fix the probe error path
-	w1: omap-hdq: cleanup to add missing newline for some dev_dbg
-	perf probe: Do not show the skipped events
-	perf symbols: Fix debuginfo search for Ubuntu
-	Linux 4.9.228
-
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@google.com&gt;
-Change-Id: I26fadb036b8aab801c0ba5e7e5ed99170cf0f783</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">sc-cleaner</span>
-                                        in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">WIP</span>
-                                        in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 21:19:27 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 22:22:07 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
