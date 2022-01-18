@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1760" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1442" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -50,7 +50,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 111 repositories
+                            Contributed to 112 repositories
                         </div>
                     </section>
                 </div>
@@ -93,7 +93,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            45 Pull requests opened
+                            46 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -314,6 +314,12 @@
                             </svg>
                             Commits streaks
                         </h3>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 8 days
+                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1329,10 +1335,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.7142857142857135)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
                         </g>
                     </g>
@@ -1347,6 +1353,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#62 Add device data for RMX1971</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Octavi-OS/platform_packages_apps_Settings</span></div>
+                                    <div>1 file changed <span class="code">++12 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1654,340 +1677,12 @@ Signed-off-by: Manoj Prabhu B &lt;bmanoj@codeaurora.org&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 168 commits in
-                                        <span class="repo">goshawk22/platform_frameworks_base-1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5cbd3a0</span>
-                                        <span class="message">base: revert changes in bootanimation added in r16</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#acc2883</span>
-                                        <span class="message">Merge cherrypicks of [16372369] into sc-qpr1-release.
-
-Change-Id: I5cd1c506674a91ff9d0da784ae5cde57cfb2ef0a</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#efb0993</span>
-                                        <span class="message">Ignore ui mode change caused by Morris overlay in PiP
-
-When entering PiP from GMM with Morris overlay enabled, there will be a
-display change callback caused by ui mode change that tend to shift the
-PiP window. For PiP, such ui mode change from app is not quite relevant
-and we can simply ignore in PipController.
-
-Bug: 201589034
-Video: http://recall/-/aaaaaabFQoRHlzixHdtY/dmI3KCeKPAH118BRqnhgNO
-Test: enter PiP from GMM with Morris overlay, see video
-Merged-In: I2d72e166fb8de1e503415b5441c03f0685de9573
-Change-Id: I2d72e166fb8de1e503415b5441c03f0685de9573
-(cherry picked from commit 391f372726af62c6d9ba9b221508003c37e8ff8a)
-(cherry picked from commit 166f263128010f6a885efa17a5ebc3aa94d3b3d6)
-Merged-In:I2d72e166fb8de1e503415b5441c03f0685de9573</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ebdb6f1</span>
-                                        <span class="message">Merge cherrypicks of [16065658, 16033980, 16105251, 16117045, 16086468, 15960214, 16077739, 16211938, 16222839, 16191693, 16091135, 16220980, 16214442, 16233501, 16286398, 16333337] into sc-qpr1-release.
-
-Change-Id: I961e3b46e89863311915418d1d4b092d7d970d0e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f5fbc4a</span>
-                                        <span class="message">Fix issue with alphas not being applied to the same view on unlock
-
-- It's possible for the nav bar configuration to change between locking
-  and unlocking the phone, which will prevent the alpha from being
-  restored on the bar layout correctly. This change updates the alpha
-  of both vertical/horizontal layouts in NavBarView since they should
-  always be in sync.
-
-Bug: 206733387
-Test: atest SystemUITests
-Test: Lock screen in landscape app, turn screen on and unlock
-
-
-Change-Id: I265d04e6e2192f2bb57b1f8d77390664236427fc
-(cherry picked from commit 9b53d2ecabe2472a464007dd463593f95b4e19d5)
-(cherry picked from commit acb755ce9e27832bc1b02670098d144231b300e0)
-Merged-In:I265d04e6e2192f2bb57b1f8d77390664236427fc</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b0fd66f</span>
-                                        <span class="message">Fix SysUI volume controls not appearing
-
-SysUI listens to volume change events to trigger showing its
-volume control overlay UI. Normally when a hardware volume
-key is pressed, a volume (either locally or for a session
-corresponding to a remote playback) is changed, SysUI receives
-an event and the UI is displayed.
-
-In the case that a remote session doesn't allow volume
-adjustment, the key event is still routed to the session if
-that session is top of the stack. However, since the volume is
-not adjusted and an event is not dispatched, the SysUI volume
-control overlay doesn't appear. To the user it seems like the
-volume hardware key is broken, neither adjusting a volume or
-displaying the volume control overlay UI.
-
-This change fires volume change events for sessions that
-don't support actually changing the volume, to ensure that
-the SysUI is still displayed. It also seems more consistent,
-since there are other existing cases where the volume doesn't
-actually change for which an event is still fired (e.g.,
-adjusting up when already at max volume).
-
-An alternative would be to change MediaSessionRecord's
-canHandleVolumeKey to return false for sessions that don't
-support volume adjustment, which would mean the key event
-would be handled by the next session in the stack (or, in
-most cases, to make a local volume adjustment). This is likely
-more confusing, since the user will generally expect the top
-session to be adjusted (surfacing that it could not is less
-confusing than just adjusting some other volume instead).
-
-Bug: 197586676
-Bug: 202500642
-Test: manual
-Merged-In: Ic44b48bb5605699b476af05407b90f2be5d70cd3
-Change-Id: Ic44b48bb5605699b476af05407b90f2be5d70cd3
-(cherry picked from commit 771b7ebe5d10f867a44101aa7a0b0a779bacfd32)
-Merged-In:Ic44b48bb5605699b476af05407b90f2be5d70cd3</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#06ad525</span>
-                                        <span class="message">Plumb config to output switcher indication chip
-
-Bug: 197586676
-Bug: 202500642
-Test: manual
-Merged-In: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
-Change-Id: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
-(cherry picked from commit 92013ed958dbc7e666ced0c4b0337f03ff9381c8)
-Merged-In:I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7437206</span>
-                                        <span class="message">Re-enable volume control for non-grouped devices
-
-Bug: 197586676
-Bug: 202500642
-Test: make -j50 RunSettingsRoboTests
-Merged-In: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
-Change-Id: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
-(cherry picked from commit b7f52f4468a1daa7408e44fafb362b54eec20897)
-Merged-In:I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#86e6db3</span>
-                                        <span class="message">Tweak volume adjustment rules
-
-Test: manual
-Bug: 197586676
-Bug: 202500642
-Merged-In: If531a23f5e7b242d3d637966b74b67acfd303199
-Change-Id: If531a23f5e7b242d3d637966b74b67acfd303199
-(cherry picked from commit 022081595bf4a082f8354b852eae6d5a015be3fe)
-Merged-In:If531a23f5e7b242d3d637966b74b67acfd303199</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#05e7906</span>
-                                        <span class="message">Only register listeners if setView was success.
-
-Found a memory leak on ViewRootImpl. If the view wasn't been set
-to the VRI successfully, there would keep the registed listeners to the
-AccessibilityManager and DisplayManager forever because there didn't
-need to deatch anything from window.
-Another reasonable way is to register all listeners after setView
-success.
-
-Bug: 200843755
-Test: manual, hard code to force addWindow fail and monitor no more
-ViewRootImpl object leaked to AccessibilityManager and DisplayManager.
-
-Change-Id: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
-Merged-In: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
-(cherry picked from commit d69deffd3551c7b008957763d218e6ed1b706384)
-Merged-In:I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8347f70</span>
-                                        <span class="message">Fix normalize doesn't work on carrier template
-
-From android 12, the subscriberId is being used for different network
-types. For instances:
-The TYPE_WIFI with subscriberId means that it is a merged wifi network.
-The TYPE_CARRIER means that the network associate to specific carrier
-network (subscriberId).
-
-So remove the check "isMatchRuleMobile" and only check whether subscriberId
-is being used in NetworkTemplate or not.
-
-Bug: 194939211
-Test: atest -c NetworkTemplateTest
-Change-Id: I80c9f887cf8b4714716d657da92ed273a532ce27
-Merged-In: I80c9f887cf8b4714716d657da92ed273a532ce27
-(cherry picked from commit 46cc261aa90305bdfec668af5d5ed25a27032cda)
-Merged-In:I80c9f887cf8b4714716d657da92ed273a532ce27</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a70c46b</span>
-                                        <span class="message">Update deletion conditions for a package's UsageStats.
-
-If a profile owner is defined for a specific user, do not delete usage
-stats for a package on package deletion.
-
-Bug: 197399948
-Test: atest UserUsageStatsServiceTest
-Test: atest UsageStatsTest [all]
-Change-Id: I94a8e3dfca8ef4c7616f77944d61726e06043b85
-Merged-In: I94a8e3dfca8ef4c7616f77944d61726e06043b85
-(cherry picked from commit 157fbcfbe4b38075391aef5b4977d45702a06936)
-Merged-In:I94a8e3dfca8ef4c7616f77944d61726e06043b85</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bc50644</span>
-                                        <span class="message">setTurnScreenOn can only used as wakeup
-
-setTurnScreenOn shouldn't dismiss keyguard automatically even when the
-keyguard is insecure.
-The keyguard state should only be affected by requestDismissKeyguard
-and/or setShowWhenLocked, and for either case setTurnScreenOn can be
-used to wakeup device if the activity is going to be resumed and
-visible.
-
-Bug: 201103497
-Test: atest ActivityVisibilityTests KeyguardTests KeyguardLockedTests
-Change-Id: I283dea469a33286fc9cf835e39ee5a3be2444739
-(cherry picked from commit f3a1274a38ca891c1f2e86db2c1926293c90c6fa)
-(cherry picked from commit 966a61366e10c5a65f9661d4b934e64b4c088d87)
-Merged-In:I283dea469a33286fc9cf835e39ee5a3be2444739</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b2dc041</span>
-                                        <span class="message">Block SHELL_UID from overlay fabricate and clear shell overlays on boot
-
-Prevents non-root shell from fabricating overlays and removes all
-overlays with their creating package as shell on boot.
-
-Prevents unapproved usages of the fabrication API and cleans up
-any potentially broken overlays respectively.
-
-Bug: 202768292
-
-Test: sts-tradefed run sts-engbuild-no-spl-lock \
-        -m StsHostTestCases -t android.security.sts.Bug_202768292
-
-Change-Id: I184cc498e49c416e184cc0855a8810b57dd08175
-(cherry picked from commit 627d5eb68e19a8ea18c3c1405701b3a33f073315)
-Merged-In:I184cc498e49c416e184cc0855a8810b57dd08175</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c3c9ada</span>
-                                        <span class="message">Revert "Revert "[pm] remove old stage dirs on low storage""
-
-This reverts commit b45ebca772a77bf3fd269d0dcfc1a7af7c73861d.
-
-Reason for revert: adding the fix for system to abandon sessions
-
-BUG: 67862680
-Test: manual
-Change-Id: I91170ba399b3a596320b3bd9c8188912e5c4f1be
-(cherry picked from commit ce2c9032b905ff0e32c34298b86c6b19e6e21f53)
-Merged-In: I91170ba399b3a596320b3bd9c8188912e5c4f1be
-(cherry picked from commit 50db8a56a226e6afc0288d3894ca226938f4af4b)
-Merged-In:I91170ba399b3a596320b3bd9c8188912e5c4f1be</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#402baf4</span>
-                                        <span class="message">[RESTRICT AUTOMERGE] Hide Wi-Fi Scanning message when Location is disabled (QS Internet Dialog)
-
-- When the location is disabled, the WiFi scanning service will also
-stop.
-
-- Bypass the WifiManager#isScanAlwaysAvailable() result.
-
-Bug: 203471614
-Test: manual test on the device.
-atest -c InternetDialogControllerTest \
-         InternetDialogTest
-
-Change-Id: I2f159820d577f226e640b3ea735f6b18c52a16f7
-(cherry picked from commit 194a61951688b8ed48b6c0e254398f66c5b1d79a)
-Merged-In:I2f159820d577f226e640b3ea735f6b18c52a16f7</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8496b8b</span>
-                                        <span class="message">Fix black frame flicker in UNOCCLUDE transition.
-
-When an activity which occludes the keyguard finishes, WindowManager
-immediately updatees the keyguard occluded status, so show-when-locked
-wallpaper was not used anymore. However sysui needed some time to finish
-keyguard occluded status change in their side, and meantime no wallpaper
-target existed.
-
-With this change, we keep using show-when-locked wallpaper until app
-transition finishes.
-
-Bug: 201560359
-Test: manual. Show assist app on the lockscreen and close.
-Change-Id: I4958a2f5ecdd12b3db43b44ee4a221972070ab2c
-(cherry picked from commit f5a613e5282542ea356c20b3f397276f06d68fe9)
-Merged-In:I4958a2f5ecdd12b3db43b44ee4a221972070ab2c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e664c5e</span>
-                                        <span class="message">Import translations. DO NOT MERGE ANYWHERE
-
-Auto-generated-cl: translation import
-Change-Id: I782cb1bd08a0b2bb4c2caf293e1119d59e21f5dc
-(cherry picked from commit eed6614c73a23dd37f5dd1e98b7814e054fa9339)
-Merged-In:I782cb1bd08a0b2bb4c2caf293e1119d59e21f5dc</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8aa61bf</span>
-                                        <span class="message">[SystemUI] 1.Remove the unnecessary log 2. update signal icon in bg thread
-
-1. The log should be controlled by the DEBUG, otherwise it will be printed infinitely and the performance will be very slow.
-The log can be removed after checking, so I removing it instead of adding the DEBUG tag.
-
-2. Do too much get icon in the main thread, move it into bg thread
-
-3. It is unnecessary that update the mobile data layout from the callback, onAccessPointsChanged, because it is used for Wi-Fi.
-
-Bug: 201200079
-Test: manual and Q verified pass
-Change-Id: I5f4623f9ffb68fae6ca377625aaa039f0f33dd38
-(cherry picked from commit 5f685c98cc877f61e0297a9507412cb83f83d84b)
-Merged-In:I5f4623f9ffb68fae6ca377625aaa039f0f33dd38</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6fcb6f1</span>
-                                        <span class="message">Import translations. DO NOT MERGE ANYWHERE
-
-Auto-generated-cl: translation import
-Change-Id: I906d64bc6ec9001b40af4cf4d90c9f4ca45aca89
-(cherry picked from commit 7e142ec17bd1f4ea4423bcb4a4850434b783188c)
-Merged-In:I906d64bc6ec9001b40af4cf4d90c9f4ca45aca89</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 10:25:20 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 11:19:03 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
