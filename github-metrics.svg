@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -1367,271 +1367,158 @@
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#173600e</span>
-                                        <span class="message">Merge \\\"Fix race with BT disable in BLE_ON_STATE\\\" into nyc-dev am: 1bf8782605 am: c535f2a520
-am: db78416206
+                                        <span class="sha">#2f7e887</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours am: 73b407caba -s ours
 
-Change-Id: I9e9bcde7870f345dac8c5112b78de09263f17623</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f4ddb7c</span>
-                                        <span class="message">Merge "Fix a race in local settings caches" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cf11123</span>
-                                        <span class="message">Merge \"remove Intent.FLAG_ACTIVITY_NEW_TASK flag check\" into nyc-mr1-dev
-am: 4828bb9330
+am skip reason: subject contains skip directive
 
-Change-Id: I6d594545f43f5ca8e9a7b777a8f1b8b6b80e7fa6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4828bb9</span>
-                                        <span class="message">Merge "Catch throwable exceptions." into nyc-mr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#941cc66</span>
-                                        <span class="message">Merge "Merge \"remove Intent.FLAG_ACTIVITY_NEW_TASK flag check\" into nyc-mr1-dev am: 92bc5edfa2" into nyc-mr1-dev-plus-aosp</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#36f95d2</span>
-                                        <span class="message">Merge \"remove Intent.FLAG_ACTIVITY_NEW_TASK flag check\" into nyc-mr1-dev
-am: 92bc5edfa2
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
 
-Change-Id: I70c9ad37c5e81167ea71b3fa82a8699f8efec221</span>
+Change-Id: I0a0430df2aeaf2c656d8dace804e89bea146ab72</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#db78416</span>
-                                        <span class="message">Merge \\"Fix race with BT disable in BLE_ON_STATE\\" into nyc-dev am: 1bf8782605
-am: c535f2a520
+                                        <span class="sha">#922a15c</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 762326338e -s ours
 
-Change-Id: Ia7a8c209cb4a743d369b51f0ddc3517d18d92f0a</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1067f1b</span>
-                                        <span class="message">Merge "SettingsBackupAgent: Remove redundant size parameter"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c535f2a</span>
-                                        <span class="message">Merge \"Fix race with BT disable in BLE_ON_STATE\" into nyc-dev
-am: 1bf8782605
+am skip reason: subject contains skip directive
 
-Change-Id: I9d82cab156e81e87faf965ed1c9b37bc73359cc0</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#92bc5ed</span>
-                                        <span class="message">Merge "remove Intent.FLAG_ACTIVITY_NEW_TASK flag check" into nyc-mr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1bf8782</span>
-                                        <span class="message">Merge "Fix race with BT disable in BLE_ON_STATE" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fc59c34</span>
-                                        <span class="message">Fix early termination of while loop in BluetoothSocket#write
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806214
 
-While loop exits too early and misses writing remaining bytes.
-Also restructured the loop itself to be more readable.
+Change-Id: Idb711f70a1ffe48dfee70cf9154b116c4b7cbc77</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e658dc4</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 54296def63 -s ours
 
-Change-Id: I71e9b331d20b5ae70175450c3346be43ab56c40c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9b24bb2</span>
-                                        <span class="message">Merge "HWUI: add leak check for macrobench"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#468ceae</span>
-                                        <span class="message">Merge \\\"Fix data race\\\" into nyc-dev am: 838dfe60f0 am: 6aa4b7fb11
-am: 230791cff0
+am skip reason: subject contains skip directive
 
-Change-Id: I88b35ddd8e0ef464459f880a8900ffa328e73c0c</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5db739c</span>
-                                        <span class="message">SettingsBackupAgent: Remove redundant size parameter
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806411
 
-Remove the redundant size parameter in wifi backup/restore.
+Change-Id: Ib1451178c6bffebc1f274c38e6ed622d9f1eec5b</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1a01ce9</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 2107755bdd -s ours
 
-BUG: 28967335
-Change-Id: I8ae9b2bf3bc8eb2dd1fd6dd87fe7b1dcf0712382</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#230791c</span>
-                                        <span class="message">Merge \\"Fix data race\\" into nyc-dev am: 838dfe60f0
-am: 6aa4b7fb11
+am skip reason: subject contains skip directive
 
-Change-Id: Ieaa3e4a4ba06f9786357e0b78f097315e12910b6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6aa4b7f</span>
-                                        <span class="message">Merge \"Fix data race\" into nyc-dev
-am: 838dfe60f0
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806665
 
-Change-Id: I4aa6d76b855bcbb9d570ddcfcf8f8c61c135930d</span>
+Change-Id: If31a94099f7aacc72b83b0772e9dcfb9eaaf8c8f</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#838dfe6</span>
-                                        <span class="message">Merge "Fix data race" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f2e5db7</span>
-                                        <span class="message">Merge \\\"Unspecified alarm worksource names are the rule, not the exception\\\" into nyc-dev am: 4eaaf7c8ff am: fda1e10468
-am: 02b84c0945
+                                        <span class="sha">#a7e6ae3</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 50a4da21bd -s ours
 
-Change-Id: Ie98028e553cd6889c7c7e9a6bb417e67f94ce136</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#045de3f</span>
-                                        <span class="message">Merge \\"API Rename: IC#inputContent to IC#commitContent.\\" into nyc-mr1-dev am: 01e7c10d37
-am: 0d7dcf7bc3
+am skip reason: subject contains skip directive
 
-Change-Id: I5c4209a79e7426192da082100ac2a7517de36b81</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5591eac</span>
-                                        <span class="message">Merge \"Merge \\\\\"docs: Documented how to handle alarms in AA media apps.\\\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580 am: e8ebd8aea0 am: 553ca15eb3\" into nyc-mr1-dev-plus-aosp
-am: 57e0e83427
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807020
 
-Change-Id: Ib4d22a310bfb72c87f6e7f9388501c388c04a509</span>
+Change-Id: If3555ed8d74a5a6f8ed4f456e3c0b06fddb03ae0</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b651057</span>
-                                        <span class="message">Merge \\\\\"docs: Documented how to handle alarms in AA media apps.\\\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580 am: e8ebd8aea0 am: 268717370a
-am: 6786646981
+                                        <span class="sha">#14bb10c</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: c26cd981f0 -s ours
 
-Change-Id: Ibb994d11b88957532e47c23cfe750234a4930ea6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#895b5cb</span>
-                                        <span class="message">Merge \\"resolve merge conflicts of afed6f8 to nyc-dev\\" into nyc-dev am: 0c4f1c7e5c
-am: e285ab3aae
+am skip reason: subject contains skip directive
 
-Change-Id: I1bd157f297eb024a98e7d85551b7abdcc52bc37e</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7f760d8</span>
-                                        <span class="message">DO NOT MERGE fix build breakage on k am: 4e33c4f8b1 am: 07c994012c am: 84f479f6b5  -s ours am: e1ca4cd074  -s ours am: 0e64d7411e am: eb53629bf7 am: 16dfcd7950  -s ours am: 2d03c0f956 am: dc9a7c7b23 am: e892848035 am: 7e2c6c3440  -s ours
-am: 9f0a266df9
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807557
 
-Change-Id: I4f93659ef0569a357a3f902218edbbb2546719aa</span>
+Change-Id: Icfd1544241557a8b13fe0c20fefd02c41d4b010d</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e9819ba</span>
-                                        <span class="message">Merge \\"resolve merge conflicts of afed6f8 to nyc-dev\\" into nyc-dev am: 0c4f1c7e5c
-am: bee500e374
+                                        <span class="sha">#8aa7ec2</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 1c5b9275b5 -s ours
 
-Change-Id: I7c1ad4e3fa9b1bab21ab931be6ccaae33e89f20b</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#831a0a5</span>
-                                        <span class="message">DO NOT MERGE fix build breakage on k am: 4e33c4f8b1 am: 07c994012c am: 84f479f6b5  -s ours am: e1ca4cd074  -s ours am: 0e64d7411e am: eb53629bf7 am: 16dfcd7950  -s ours am: 2d03c0f956 am: dc9a7c7b23 am: e892848035 am: 7e2c6c3440  -s ours
-am: 9f0a266df9
+am skip reason: subject contains skip directive
 
-Change-Id: I6eb221adb67365c04538d03937aa349235b98f12</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#57e0e83</span>
-                                        <span class="message">Merge "Merge \\\\"docs: Documented how to handle alarms in AA media apps.\\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580 am: e8ebd8aea0 am: 553ca15eb3" into nyc-mr1-dev-plus-aosp</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#17738c1</span>
-                                        <span class="message">Merge \\\\"docs: Documented how to handle alarms in AA media apps.\\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580 am: e8ebd8aea0
-am: 553ca15eb3
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807887
 
-Change-Id: I22c788a2edfca2f6d391d496ac0d2c2ed5e225cd</span>
+Change-Id: I26f14afa8241ec73cd352790e8be9c43b1bb9c86</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6786646</span>
-                                        <span class="message">Merge \\\\"docs: Documented how to handle alarms in AA media apps.\\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580 am: e8ebd8aea0
-am: 268717370a
+                                        <span class="sha">#e0b1072</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: aaf9602410 -s ours
 
-Change-Id: I54757d305e3592387a707212fa2789b0390292de</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e285ab3</span>
-                                        <span class="message">Merge \"resolve merge conflicts of afed6f8 to nyc-dev\" into nyc-dev
-am: 0c4f1c7e5c
+am skip reason: subject contains skip directive
 
-Change-Id: I46be8494c88f03768e20bb702383f78cf38c1115</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bee500e</span>
-                                        <span class="message">Merge \"resolve merge conflicts of afed6f8 to nyc-dev\" into nyc-dev
-am: 0c4f1c7e5c
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810223
 
-Change-Id: I2d17de5bc787f4f9c8b7a9115a635bfee820a219</span>
+Change-Id: I4be3635e9f14379d560da7d9f694c41ec7fc40f3</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9f0a266</span>
-                                        <span class="message">DO NOT MERGE fix build breakage on k am: 4e33c4f8b1 am: 07c994012c am: 84f479f6b5  -s ours am: e1ca4cd074  -s ours am: 0e64d7411e am: eb53629bf7 am: 16dfcd7950  -s ours am: 2d03c0f956 am: dc9a7c7b23 am: e892848035
-am: 7e2c6c3440  -s ours
+                                        <span class="sha">#73b407c</span>
+                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours
 
-Change-Id: Ic463b8a7a1a1ea537f1fea4fd36dd176464ac789</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2687173</span>
-                                        <span class="message">Merge \\\"docs: Documented how to handle alarms in AA media apps.\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580
-am: e8ebd8aea0
+am skip reason: subject contains skip directive
 
-Change-Id: I76ce0cb5254c571dd591dcb7547380fbd5fe8437</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#553ca15</span>
-                                        <span class="message">Merge \\\"docs: Documented how to handle alarms in AA media apps.\\\" into mnc-io-docs am: 21d6abf7be am: 539b6b7580
-am: e8ebd8aea0
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
 
-Change-Id: I3deec748799b7f2561f64ce6692ec7e84ec13a6f</span>
+Change-Id: I8c253ab7df706c19123de83aaa5478a6bc4d71df</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0c4f1c7</span>
-                                        <span class="message">Merge "resolve merge conflicts of afed6f8 to nyc-dev" into nyc-dev</span>
+                                        <span class="sha">#7623263</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e8ebd8a</span>
-                                        <span class="message">Merge \\"docs: Documented how to handle alarms in AA media apps.\\" into mnc-io-docs am: 21d6abf7be
-am: 539b6b7580
+                                        <span class="sha">#761f529</span>
+                                        <span class="message">Merge changes from topic "presubmit-am-9775583256df468cab6420b6719fce49" into sc-qpr1-dev
 
-Change-Id: I92cd1c4193e9e8920f28f3300d28bdc8bb6b04cd</span>
+* changes:
+  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 3e7b073541
+  Import translations. DO NOT MERGE ANYWHERE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#539b6b7</span>
-                                        <span class="message">Merge \"docs: Documented how to handle alarms in AA media apps.\" into mnc-io-docs
-am: 21d6abf7be
+                                        <span class="sha">#758c3c9</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#54296de</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5f90e5c</span>
+                                        <span class="message">Merge changes from topic "presubmit-am-fa6802abdeff4b8ea35356d58a58bda6" into sc-qpr1-dev
 
-Change-Id: Id05d99983414d3884c0c90fb67eec224ca77c80b</span>
+* changes:
+  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: b5c9411929
+  Import translations. DO NOT MERGE ANYWHERE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#21d6abf</span>
-                                        <span class="message">Merge "docs: Documented how to handle alarms in AA media apps." into mnc-io-docs</span>
+                                        <span class="sha">#2107755</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c2f6745</span>
-                                        <span class="message">docs: Documented how to handle alarms in AA media apps.
+                                        <span class="sha">#544a701</span>
+                                        <span class="message">Merge changes from topic "presubmit-am-b1e8854305b244f1a96abfcc97b3ccd7" into sc-qpr1-dev
 
-Bug:27708785
-Change-Id: Iee2a676fd8adbcba00301932d5e5637ee21df224</span>
+* changes:
+  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 97fa83e0ec
+  Import translations. DO NOT MERGE ANYWHERE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a89b050</span>
-                                        <span class="message">Merge \"Merge \\\"Always re-enable keyguard state when the user switches.\\\" into nyc-dev am: 9e94c455f8 am: ff0433c200\" into nyc-mr1-dev-plus-aosp
-am: 1e197dd992
+                                        <span class="sha">#50a4da2</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#abfea44</span>
+                                        <span class="message">Merge changes from topic "presubmit-am-1bbd0f65340f4740a2eb6e4b49c5bdca" into sc-qpr1-dev
 
-Change-Id: I45af1d69562c5b657e62c0824d16b986904ebcfa</span>
+* changes:
+  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 8a31f4aba3
+  Import translations. DO NOT MERGE ANYWHERE</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c26cd98</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2e5b8ba</span>
+                                        <span class="message">Merge changes from topic "presubmit-am-bb4a824ed94f498799af04d5ca2829b8" into sc-qpr1-dev
+
+* changes:
+  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: c7b64e0b7b
+  Import translations. DO NOT MERGE ANYWHERE</span>
                                     </div>
                                 </div>
                             </section>
@@ -1650,120 +1537,143 @@ Change-Id: I45af1d69562c5b657e62c0824d16b986904ebcfa</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e533944</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev
-am: 5854f2aa07  -s ours
+                                        <span class="sha">#7125d3b</span>
+                                        <span class="message">Added NR band support
 
-* commit '5854f2aa077e5ceba2977724f71162eaf3faa384':
-  Import translations. DO NOT MERGE
+Added band info in cell identity.
 
-Change-Id: I565899541685a2f1951c35d8a07b4f29ca5eae3e</span>
+Test: Telephony sanity tests
+Bug: 131061889
+Change-Id: I0fb0e7e466a0188f04db595b8e417870666005ba</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0a2900a</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev
-am: 52364d9fc4  -s ours
+                                        <span class="sha">#67c89f3</span>
+                                        <span class="message">Handle ParcelableException instead of crashing system server
 
-* commit '52364d9fc45730e98f2aba65cc084209e4debce5':
-  Import translations. DO NOT MERGE
+Unhandled exception is causing system server to crash.
 
-Change-Id: I2ebfc7714631b4cbfaa16b9641c15a46eb15a8a7</span>
+Bug: 146790672
+Test: builds successfully
+Change-Id: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5
+Merged-In: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#3f18c7a</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e71cdef</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6d160e9</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2135c77</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#164c4e4</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#be151ae</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ac126e3</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d7c9fa1</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#18898f4</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ae284e6</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5854f2a</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#52364d9</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a0b920f</span>
-                                        <span class="message">Merge "Support ellipsizing LocaleHelper.getDisplayLocaleList()" into nyc-dev am: fe524c0e24 am: 5f55e2c43d
-am: bbed32a63b
+                                        <span class="sha">#34bf53f</span>
+                                        <span class="message">CameraManager: Add physical camera availability callback
 
-* commit 'bbed32a63b420126850767ae5cf2484bea11c1d4':
-  Support ellipsizing LocaleHelper.getDisplayLocaleList()
+Add CameraManager callback for physical camera availability.
 
-Change-Id: Ibead4334a7797320d6ae7c5792482416b4a7e2d0</span>
+Bug: 119325027
+Test: Camera CTS
+Change-Id: Ibe0357f5034769511576cc71c04365a1009a2be1</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bbed32a</span>
-                                        <span class="message">Merge "Support ellipsizing LocaleHelper.getDisplayLocaleList()" into nyc-dev am: fe524c0e24
-am: 5f55e2c43d
-
-* commit '5f55e2c43d8fa1f8b494a5457106435b519bb8c4':
-  Support ellipsizing LocaleHelper.getDisplayLocaleList()
-
-Change-Id: Icadb45317257e80e97c4dad6970310f64abb1f0b</span>
+                                        <span class="sha">#0e4d731</span>
+                                        <span class="message">Merge "Delete NetworkFactory from frameworks/base/core."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5f55e2c</span>
-                                        <span class="message">Merge "Support ellipsizing LocaleHelper.getDisplayLocaleList()" into nyc-dev
-am: fe524c0e24
+                                        <span class="sha">#ac37b63</span>
+                                        <span class="message">Multi-Plmn and CSG Support For CellInfo
 
-* commit 'fe524c0e24ba2dc65c9ea490b2334a039c1b0a6a':
-  Support ellipsizing LocaleHelper.getDisplayLocaleList()
+Add CellIdentity support for HAL 1.5
 
-Change-Id: Ifc5d3f3b43bef256141db089d5783427561e4dae</span>
+-Add new constructors for HAL 1.5
+-Add APIs to get additional PLMNs advertised
+ by the cell beyond the first, for MOCN networks.
+-Add support for CSG info in WCDMA, TD-SCDMA, and LTE
+
+Bug: 135921133
+Test: wip
+Change-Id: Iffd9351d2170a496639eced2c4618819f522494c</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5248b0c</span>
-                                        <span class="message">Import translations. DO NOT MERGE
-
-Change-Id: I2bc1e221db4776d03f49e80844a482628e632262
-Auto-generated-cl: translation import</span>
+                                        <span class="sha">#5561857</span>
+                                        <span class="message">Merge "Revert "Adds a new ACCESS_CONTEXT_HUB permission""</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f031661</span>
-                                        <span class="message">Import translations. DO NOT MERGE
+                                        <span class="sha">#9d744e5</span>
+                                        <span class="message">Adds more flags for cursor control features.
 
-Change-Id: I55d645f1ec4661ef1db9a650aa555178fc6ed6a5
-Auto-generated-cl: translation import</span>
+ - The delta height &amp; opacity for the insertion handle.
+ - The zoom factor &amp; aspect ratio for the new magnifier.
+
+Test: m -j &amp; manual tested.
+Bug: 145558249, 145550493, 145545591, 145555868
+Change-Id: Ie69bd606ff738b19f3af166e7beeac2c32c705ba</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#fe524c0</span>
-                                        <span class="message">Merge "Support ellipsizing LocaleHelper.getDisplayLocaleList()" into nyc-dev</span>
+                                        <span class="sha">#26a8cbe</span>
+                                        <span class="message">Merge "API changes for IPv6 MTU support"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#49161ea</span>
+                                        <span class="message">Merge "Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#709517e</span>
+                                        <span class="message">Merge "Add CrossProfileApps#startActivity which takes an Intent."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0fff065</span>
+                                        <span class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e
+
+Change-Id: I2d9a1db2b952f9c1a3a0df2541a2468d261f3ba8</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0b19cd9</span>
+                                        <span class="message">Merge "Pipe windowToken of window requesting IME"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#12d0ea4</span>
+                                        <span class="message">Merge "Add system API for building document URI with user ID."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#969feb5</span>
+                                        <span class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4
+
+Change-Id: I1a7bcf699cb3f62f3cb555ad668c8a64345ebb18</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#017d58e</span>
+                                        <span class="message">Merge changes from topic "delete_scs_pullers"
+
+* changes:
+  Delete StatsCompanionServicePuller
+  Migrate Debug(Failing)ElapsedClock to new API</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7bb1610</span>
+                                        <span class="message">Merge "Expose ImsConfig constants as part of API."
+am: 48f7f07d52
+
+Change-Id: I186a61a907571f9ae4b842230e6745246a5482f0</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f8cb893</span>
+                                        <span class="message">Merge "Add isDocumentType in MediaFile and fix test case fail"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#48f7f07</span>
+                                        <span class="message">Merge "Expose ImsConfig constants as part of API."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#73b85a6</span>
+                                        <span class="message">Add power manager to critical bug section
+
+Add critical level to power manager service dump priority.
+
+Bug: 142112504
+Test: dumpsys -l --priority CRITICAL with power manager in the list.
+Test: dumpsys --priority CRITICAL with power manager dumpsys in result.
+Change-Id: I04919a5d31e01fc01d685845ce643cbba8656caa</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d59b90a</span>
+                                        <span class="message">Merge changes from topic "system_usages"
+
+* changes:
+  Add API for setting supported system usages
+  Adding System Usages to AudioAttributes</span>
                                     </div>
                                 </div>
                             </section>
@@ -1782,193 +1692,189 @@ Auto-generated-cl: translation import</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c662c0f</span>
-                                        <span class="message">Revert "Added handling apps query response from context hub"
-am: 2c697fb
-
-* commit '2c697fb4a8b8f8c0a2acf1fb15027f363f74c2dc':
-  Revert "Added handling apps query response from context hub"
-
-Change-Id: I65cc836a3ecf42598f7e00772ed40dd08322cf8b</span>
+                                        <span class="sha">#2b9e33d</span>
+                                        <span class="message">Merge "Adds a flag to force the Nav Bar handle to remain visible"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7be5851</span>
-                                        <span class="message">Merge "Revert "Ensuring builds compile for both 32 bit and 64 bit targets."" into nyc-dev
-am: 439a298
-
-* commit '439a298b1f7372c58f5613025a3513e2dd401f78':
-  Revert "Ensuring builds compile for both 32 bit and 64 bit targets."
-
-Change-Id: I5fba1daa12e65f742176b62326227ded0130dbab</span>
+                                        <span class="sha">#6c27294</span>
+                                        <span class="message">Merge "Add tmp renderer for Inline Presentation UI until extServices implemented."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#65aa654</span>
-                                        <span class="message">Revert "Ensuring builds compile for both 32 bit and 64 bit targets."
-
-This reverts commit 85e093bc03d747f69b3ada658c9e82f442cda334.
-
-Change-Id: I9346929e6016e36beb3b6949ccec9fce73da91c4
-(cherry picked from commit c75f7c20e86a8c5dd8523aee3ad390b91f3d2418)</span>
+                                        <span class="sha">#e4e8b75</span>
+                                        <span class="message">Merge "Add NR to ServiceState#isLte and rename to isPsOnlyTech"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#33ee4bf</span>
-                                        <span class="message">Fix NPE in AlarmManager.cancel(...)
+                                        <span class="sha">#8f35860</span>
+                                        <span class="message">Unregister native pull atom callback
 
-If AlarmManager.cancel is called before any component has had a chance
-to register an alarm, sWrappers will not have been set, as it is only
-initialized in setImpl.
+Statsd changes to unregister a native puller.
 
-When cancelling an alarm and sWrappers does not exist, log a warning and
-return early.
-
-BUG: 27972657
-Change-Id: Ied10719ba1d154f97eecfc32f429fd9ce39bf747</span>
+Bug:14437325
+Test: builds, boots
+Change-Id: I1a1841de6e913f681c51919fcb9b18e30eb37801</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2e210c4</span>
-                                        <span class="message">ShortcutManager: implement backup &amp; restore
+                                        <span class="sha">#ce55f80</span>
+                                        <span class="message">Fixed an issue Zygote initialization.
 
-Also:
-- Fix cross profile pinning.  Now ShortcutLauncher correctly keeps
-track of target package user IDs.
+An assignment to a flag and a call to a function that uses that flag
+were in the wrong order.
 
-- Add performance stats for package manager calls and show them on
-dumpsys.
-
-Bug 27548047
-
-Change-Id: I2472980b2955b6c70947aaaa9b76f75d0616db6e</span>
+Bug: 146614089
+Test: Treehugger
+Change-Id: If046aa62084892b8dae10497f15cf4c685d226db
+Merged-In: If046aa62084892b8dae10497f15cf4c685d226db</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#167bbfa</span>
-                                        <span class="message">Avoid extra relaunch when rotating side-by-side apps
+                                        <span class="sha">#d8ef116</span>
+                                        <span class="message">Improved timekeeping logic for USAP Pool refill mechanism.
 
-Update configuration with WM first and check if the stacks need to be
-resized due to the update. If so, let activity manager resize the stacks
-inline, instead of letting WM schedule another pass of resizeStack. This
-way the configuration will be updated to the latest before ensureActivity-
-ConfigurationLocked, and we don't need another relaunch there.
+This patch makes two changes to increase the reliability of the USAP
+pool refill mechanism.  The first is to change the storage type of the
+result of an expression from int to long.  This will help avoid
+potential overflow issues.
 
-bug: 27834014
+The second change mitigates the impact of the non-monotonic system clock
+having its value changed.  If the clock goes backwards in time past when
+the initial event triggered the refill delay, the delay will now be reset.
 
-Change-Id: Ib761a96cada0c3247b0480f18370670c593159da</span>
+Bug: 146614089
+Test: Treehugger
+Change-Id: Ic6f65de51757803b5ba95975bab3b9322a91c837
+Merged-In: Ic6f65de51757803b5ba95975bab3b9322a91c837</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2c697fb</span>
-                                        <span class="message">Revert "Added handling apps query response from context hub"
+                                        <span class="sha">#b28db4a</span>
+                                        <span class="message">Resets the refill action/timing info after a pool fill event.
 
-This reverts commit adf75e31f52a7a935a66a884fb55631c7309ee75.
-
-Change-Id: I8391eb57c3a53e686bd817d27860fa6f785113f1</span>
+Bug: 132794985
+Bug: 146614089
+Test: m &amp; flash &amp; launch more apps than USAPs in the pool
+Change-Id: I9ee74d76692fa8aeba9c70765b3e8f98ea9105bc
+Merged-In: I9ee74d76692fa8aeba9c70765b3e8f98ea9105bc</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2513fc3</span>
-                                        <span class="message">Track libcore commit cf86f3319e738c76c5e97ad95bb8a4e30654a787
+                                        <span class="sha">#eabbf87</span>
+                                        <span class="message">Make the USAP Pool refill delay configurable.
 
-Bug: 27960078
-Change-Id: If89390ad1ddc3088a8552107bf27a51b1d3c6d02</span>
+This patch fetches the USAP pool refill delay value from device_config
+instead of hardcoding it.
+
+Bug: 131362095
+Bug: 146614089
+Test: Build and launch 10+ apps successfully
+Change-Id: Idfeb30fa62fa296492da211b2b44902ff4f99b18
+Merged-In: Idfeb30fa62fa296492da211b2b44902ff4f99b18</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#439a298</span>
-                                        <span class="message">Merge "Revert "Ensuring builds compile for both 32 bit and 64 bit targets."" into nyc-dev</span>
+                                        <span class="sha">#7e9f83e</span>
+                                        <span class="message">Re-adds a trace  point that was accidentally removed.
+
+Test: Built and collected a trace to verify slice ended
+Bug: 146614089
+Change-Id: Ic75d65fc7b2a417fc3a58c2df8ec9deb795fb418
+Merged-In: Ic75d65fc7b2a417fc3a58c2df8ec9deb795fb418</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c75f7c2</span>
-                                        <span class="message">Revert "Ensuring builds compile for both 32 bit and 64 bit targets."
+                                        <span class="sha">#9091be3</span>
+                                        <span class="message">Moved some thread priority changes.
 
-This reverts commit 85e093bc03d747f69b3ada658c9e82f442cda334.
+The previous place I had moved these changes resulted in runtime threads
+being created at the wrong priority.  This patch moves the calls to the
+correct location.
 
-Change-Id: I9346929e6016e36beb3b6949ccec9fce73da91c4</span>
+Test: atest CtsJvmtiRunTest924HostTestCases
+Bug: 146614089
+Change-Id: Iad2e17cd137eab81c595cb6816608a36b009da8b
+Merged-In: Iad2e17cd137eab81c595cb6816608a36b009da8b</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0614c16</span>
-                                        <span class="message">Add metrics for keyboard shortcuts
+                                        <span class="sha">#80993a6</span>
+                                        <span class="message">Adjust Java Language thread priority in new processes.
 
-Change-Id: I3a63efd856f25cc33d61b734970675b77645a26d
-Fixed: 27942360</span>
+Previously init started the Zygote with -20 nice value and then
+immediately switched it to 0 in ZygoteInit.main so that new applications
+forked from the Zygote have the correct Java Language thread priority.
+This patch delays this priority change so that it only affects the new
+processes and not the priority of the Zygote.
+
+Test: m &amp; flash &amp; check ps
+Bug: 146614089
+Change-Id: Id00d0cfd642f02640c40b6e7b2aa8933a320b60c
+Merged-In: Id00d0cfd642f02640c40b6e7b2aa8933a320b60c</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5fe5ee2</span>
-                                        <span class="message">Merge "Clean up Dialog annotations, lint warnings, and declarations" into nyc-dev am: f045808
-am: b02fc79
+                                        <span class="sha">#0b2fbfc</span>
+                                        <span class="message">Adjusts the USAP pool refill mechanism.
 
-* commit 'b02fc79930fb6f0e5da66b7b93efad58bb1b43cd':
-  Clean up Dialog annotations, lint warnings, and declarations
+This patch adjusts the USAP pool refill mechanism so that it is less
+disruptive to launching applications.  Refill events are now delayed
+by several (3) seconds if delaying wouldn't cause the pool to be below
+the minimum population size.
 
-Change-Id: I2943f62dbe414818b26f2191c54dfabafcd4da44</span>
+This patch also adjusts the process priorities for the USAPs and other
+processes spawned from the Zygote so that they behave better in the
+context they are spawned in.
+
+Bug: 131362095
+Bug: 146614089
+Test: booted &amp; launched apps &amp; checked logs
+Change-Id: I7328f304c9b744cfdbfbdbe522a5f9aeea5233bb
+Merged-In: I7328f304c9b744cfdbfbdbe522a5f9aeea5233bb</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b02fc79</span>
-                                        <span class="message">Merge "Clean up Dialog annotations, lint warnings, and declarations" into nyc-dev
-am: f045808
+                                        <span class="sha">#82cde3e</span>
+                                        <span class="message">Change USAP name to application name as soon as possible.
 
-* commit 'f04580852d387fae556de0250cb18d32169c2cdb':
-  Clean up Dialog annotations, lint warnings, and declarations
+This patch changes the location where the process's name is changed to
+that of the application being launched.  It also attempts to use the
+package name if the "nice name" is missing.
 
-Change-Id: Ic6de44b10c04ccd5f94e60c6be47166cf64f317e</span>
+Test: m &amp; flash &amp; boot
+Bug: 146614089
+Change-Id: Id3a3d0b2b66d31c48274f8a986e86e9ed1d28f34
+Merged-In: Id3a3d0b2b66d31c48274f8a986e86e9ed1d28f34</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#056b7d5</span>
-                                        <span class="message">Removed improper check on mCalledExitCoordinator.
+                                        <span class="sha">#e138515</span>
+                                        <span class="message">DO NOT MERGE - Merge qt-qpr1-dev-plus-aosp-without-vendor (6129114) into stage-aosp-master
 
-Bug 27969302
-
-mCalledExitCoordinator can be nulled before the onResume is called,
-so it cannot be used to determine whether or not the Activity is
-a caller or called.
-
-Change-Id: Ie3696ed59b89cfc8c6145d22bc230111f0813701</span>
+Bug: 146167222
+Change-Id: Ifeb003ec9b3bf824f04d31a117aea65d517241fb</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d9855c7</span>
-                                        <span class="message">Change UCE permissions from dangerous to signatureOrSystem
-
-Bug: 27812202
-Change-Id: Icf9d97e4d3f802bc0b3ea26d61835e6471082118</span>
+                                        <span class="sha">#ff27c7a</span>
+                                        <span class="message">Merge "Add new system API constant DEFAULT_PREFERRED_NETWORK_MODE"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f045808</span>
-                                        <span class="message">Merge "Clean up Dialog annotations, lint warnings, and declarations" into nyc-dev</span>
+                                        <span class="sha">#bbc2aae</span>
+                                        <span class="message">Merge changes from topic "barring-info"
+
+* changes:
+  Add a BARRING_TYPE_UNKNOWN for Unreported Barring
+  Add Callback to notify changes of barring status</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#73fdc54</span>
-                                        <span class="message">Merge "introduce GET_PASSWORD_PRIVILEDGED permission." into nyc-dev am: bb5e52f
-am: 5a2dccb
-
-* commit '5a2dccbc7067640de03c816676eaebb23d5e6ffd':
-  introduce GET_PASSWORD_PRIVILEDGED permission.
-
-Change-Id: Ie371d08e1307af6f3df9260d16be99435d065fa8</span>
+                                        <span class="sha">#224c904</span>
+                                        <span class="message">Merge "Improve exception handling in SoundTrigger"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e283557</span>
-                                        <span class="message">Merge "actually cancel sounds when we get a quiet update" into nyc-dev am: b38fa4e
-am: 305db96
-
-* commit '305db96ef3942b5f09f89c3cbc967bd5e278df73':
-  actually cancel sounds when we get a quiet update
-
-Change-Id: I34b5b565f1ff27a543eb3d2c2ae8ff4d6d200dd3</span>
+                                        <span class="sha">#68b8332</span>
+                                        <span class="message">Merge "Add AppSearch.java, containing the Document class, base Builder, and Email."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6b7c135</span>
-                                        <span class="message">Merge "Ensuring builds compile for both 32 bit and 64 bit targets." into nyc-dev am: 0dac5f2
-am: f6e92fc
-
-* commit 'f6e92fca37fc7b6f4497459501dc21a6b1b18002':
-  Ensuring builds compile for both 32 bit and 64 bit targets.
-
-Change-Id: I75e045abb18562c97a406ad930bfed6af10477f1</span>
+                                        <span class="sha">#6df25f7</span>
+                                        <span class="message">Merge "Change "Storage" permission group label"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5a2dccb</span>
-                                        <span class="message">Merge "introduce GET_PASSWORD_PRIVILEDGED permission." into nyc-dev
-am: bb5e52f
+                                        <span class="sha">#38b3e3a</span>
+                                        <span class="message">UserManagerService: Add UserHandle extra to user added/removed broadcast
 
-* commit 'bb5e52f928c2215256ea46bc2592fa3c077c15b0':
-  introduce GET_PASSWORD_PRIVILEDGED permission.
+Also, renamed a local variable.
 
-Change-Id: I6866ef20ad4bf4850601f53ea141168d091f8845</span>
+Bug: 147611548
+Test: Compiles
+Change-Id: I4de739c7719321c83ebdd32df13395d9a218c4ad</span>
                                     </div>
                                 </div>
                             </section>
@@ -1987,195 +1893,285 @@ Change-Id: I6866ef20ad4bf4850601f53ea141168d091f8845</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5ee420c</span>
-                                        <span class="message">Merge "Remove PROPERTY_WORK_CALL" into nyc-dev</span>
+                                        <span class="sha">#be1592e</span>
+                                        <span class="message">[automerger skipped] Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c am: 3ea02b9c0a -s ours
+am skip reason: Change-Id I2510de0ab1ce40c8d191a17dbae7f4c33418006c with SHA-1 75e6aa2764 is in history
+
+Change-Id: Ib4c8895efc2411d7f744d24ae2ec46667cf85eea</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f60a4af</span>
-                                        <span class="message">Catching all exceptions when docking.
+                                        <span class="sha">#474bceb</span>
+                                        <span class="message">[automerger skipped] Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25 am: 3939375a3a -s ours
+am skip reason: Change-Id I43c7e088e46e40f38d8114548e0fc4e39d7f91cb with SHA-1 77a7ea65fd is in history
 
-- Catch all exceptions thrown when docking an activity (similar to when
-  we start an activity) to allow us to gracefully handle the failure and
-  animate the task back into the stack.
-
-Bug: 28867188
-Change-Id: I3f80d261343c0161c5cbfd08a05a1fc6157f653e</span>
+Change-Id: Ia8b26d50299dfb07178d0adef52cc422317070e9</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#14447d2</span>
-                                        <span class="message">Merge "Add demonstration unittest for TetherInterfaceSM"</span>
+                                        <span class="sha">#e4ec044</span>
+                                        <span class="message">[automerger skipped] Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6 am: 4fa2cd2bf2 -s ours
+am skip reason: Change-Id I0fb0e7e466a0188f04db595b8e417870666005ba with SHA-1 7125d3ba10 is in history
+
+Change-Id: If5b0208edcfb7b1a764758282080c1aa5da064d4</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#047dcbe</span>
-                                        <span class="message">Merge "Extract TetherInterfaceSM to its own class."</span>
+                                        <span class="sha">#4d9a575</span>
+                                        <span class="message">[automerger skipped] Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44 am: 6fc8ead685 -s ours
+am skip reason: Change-Id Iffd9351d2170a496639eced2c4618819f522494c with SHA-1 ac37b6344d is in history
+
+Change-Id: I9f23eb07c789feab8674cea9246e76ea8653be73</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8aa4856</span>
-                                        <span class="message">Correct height of add printer list separator
+                                        <span class="sha">#de13132</span>
+                                        <span class="message">Merge "Added multi-band support"
+am: bae34cb9f9
 
-Do not use listPreferredItemHeightSmall a height for list separator.
-
-Fixes: 28907033
-Change-Id: Ibe9744f28e7bd17fb5a298fa3cff0e3d403de10f</span>
+Change-Id: I3e4d86f2e5eb4e17b6c0271c8312d9f3a1f3ce72</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#fd07efa</span>
-                                        <span class="message">Load WebView even if WebView relro creation times out.
-
-There are cases in which the WebView Update Service can stop switching
-WebView providers (if the update service is notified about relro
-creations an incorrect number of times) and in those cases apps will
-fail to load WebView.
-
-In this CL we mitigate this problem by allowing apps to load WebView
-even if the time-out is reached and we also decrease the time-out so
-apps are less likely to ANR when waiting for the time-out.
-
-This CL does not prevent the update service from ending up in a bad
-state - so we will still end up crashing apps if the current WebView
-implementation is uninstalled after relro creation fails.
-
-Bug: 28860862
-Change-Id: Ib6af3722e17a13db77ef34c37581a6a0e1d045bb</span>
+                                        <span class="sha">#bbc9afb</span>
+                                        <span class="message">Merge "Remove XML serialization/parsing code from the app integrity component."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f04fab1</span>
-                                        <span class="message">Recording activity notification: return list of configuration
-
-Use a list of configurations instead of an array
-
-Bug 28819230
-
-Change-Id: Ia4a3cdabf8337cfb98abe4d0055d497bcab8a5ee</span>
+                                        <span class="sha">#bae34cb</span>
+                                        <span class="message">Merge "Added multi-band support"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a4aba6e</span>
-                                        <span class="message">Fixed enforceMeteredApnPolicy when Data Saver is on.
+                                        <span class="sha">#3ea02b9</span>
+                                        <span class="message">Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c
 
-When enforceMeteredApnPolicy() is called when Data Saver mode is on and
-the caller's UID is not whitelisted, it should add a
-NET_CAPABILITY_NOT_METERED to the capabilities.
-
-Change-Id: Ieed4f4a7634ee023ec58c91859263655e0ba62d4
-Fixes: 28608499 (and https://code.google.com/p/android/issues/detail?id=208478)</span>
+Change-Id: Ibcd39a40b4cd33804112783ecedaf248562f7942</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#12753de</span>
-                                        <span class="message">Fix Certificate authority installed notification is gone when turning off and on the work mode.
+                                        <span class="sha">#3939375</span>
+                                        <span class="message">Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25
 
-cause: Work mode is turned on before entering USER_STOPPED state.
-Thus, BOOT_COMPLETED broadcast is not sent, but the notification has been dismissed.
-
-use USER_STARTED + USER_UNLOCKED because both are foreground.
-
-Bug: 28864104
-Change-Id: I4796b61586e194d8367b9e52a9c56f858cbcbe7d</span>
+Change-Id: I08a8a0800d11a643281775d2f9dea5d13334c8f7</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#3b549fc</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev am: 6a983faab3  -s ours am: 5745dc0e45  -s ours
-am: 9306f9d98a  -s ours
+                                        <span class="sha">#4fa2cd2</span>
+                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6
 
-* commit '9306f9d98ae25c6056b8571d73f48c48f7ce7f22':
-
-Change-Id: I24d12b853256d7b029da6262ae17ae4bbf5e7a79</span>
+Change-Id: I1f56da2c4cc38a9cacf1af71927903a6c66c5f73</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a4ada4c</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev am: 7d1246e95d  -s ours am: f2475c29e1  -s ours
-am: 7b71c6095d  -s ours
+                                        <span class="sha">#6fc8ead</span>
+                                        <span class="message">Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44
 
-* commit '7b71c6095ddead961cf4da2c484f04dfcf714888':
-
-Change-Id: I35d3845a38b4ef9eb5b93a02a98681f8cb319268</span>
+Change-Id: Id7d2af05341e64faf53100741dc300800bb2bfc2</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5d56a23</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-dev am: 05be3b4541  -s ours am: 0b9b896202  -s ours" into nyc-mr1-dev-plus-aosp
-am: bc1848662b  -s ours
+                                        <span class="sha">#924ef75</span>
+                                        <span class="message">Temporary bubble hack for new insets
 
-* commit 'bc1848662b5f3d2a24017f3f79d00fba52a2d031':
+Offset the view instead of using setForwardedInsets which doesn't
+work anymore with the new insets system. That should resolve
+itself automatically once we migrate Bubbles off VD.
 
-Change-Id: I45ce61469e0bf9c253f20b692339791bb99a854d</span>
+Also, make sure we don't consider a window to be animating when
+being insets controlled since it breaks syncInputWindows, for
+example.
+
+Bug: 111084606
+Test: Open Bubbles test app, open IME.
+Change-Id: Idb4d32a77e96924e106688c4e11c63e8cff3ae1f</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d9a2eb9</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-dev am: 6a983faab3  -s ours am: a882b8c150  -s ours" into nyc-mr1-dev-plus-aosp
-am: fa764c3fa3  -s ours
+                                        <span class="sha">#b2cf59c</span>
+                                        <span class="message">Merge "PhoneCapability cleanup"
+am: b922a13760
 
-* commit 'fa764c3fa3959ca94766b0a7ed406aab410f772a':
-  Import translations. DO NOT MERGE
-
-Change-Id: If98ee299365005e4ccf892062ba1028ec62e261a</span>
+Change-Id: I8c102995c2223e744805ab7e4696013b675acb94</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bb7813a</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-dev am: 7d1246e95d  -s ours am: 712c2cb2d2  -s ours" into nyc-mr1-dev-plus-aosp
-am: d5f71b7f7d  -s ours
+                                        <span class="sha">#559d10d</span>
+                                        <span class="message">Merge "API changes for IPv6 MTU support"
+am: 6c1ee55b63
 
-* commit 'd5f71b7f7dd8491cd519c0a309f56189ce82b273':
-  Import translations. DO NOT MERGE
-
-Change-Id: Ibc01e69354ce33cd24d6de318c29395bf176e5a6</span>
+Change-Id: I80f206245b9340a9df8b65c0e42413617eecadfb</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d345b4a</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-dev am: 05be3b4541  -s ours am: 1a49e73d2a  -s ours" into nyc-mr1-dev-plus-aosp
-am: 71caaa9f9d  -s ours
+                                        <span class="sha">#5c96a4a</span>
+                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band"
+am: 7b2d5183dd
 
-* commit '71caaa9f9d65e707a74188b0a6db8f05a75112c6':
-  Import translations. DO NOT MERGE
-
-Change-Id: I65de625fa8270176de5e164ff959fee9dc01c794</span>
+Change-Id: I0301f0ad7cadda7c45a39f76fa4693f16f38b298</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ff382e6</span>
-                                        <span class="message">Merge "Merge "Merge "Import translations. DO NOT MERGE" into nyc-dev am: fa65d11a21  -s ours" into nyc-mr1-dev am: bb434299c7  -s ours" into nyc-mr1-dev-plus-aosp
-am: 720c041b1a  -s ours
+                                        <span class="sha">#9e1b398</span>
+                                        <span class="message">Multi-Plmn and CSG Support For CellInfo
+am: 955614761c
 
-* commit '720c041b1a233e7b5e775056b92144494bd9000c':
-
-Change-Id: I961a0ef7d2d71dafff563b3afc32c68096919993</span>
+Change-Id: I29a783212d40f684426b1c70ab31b30ec3e5844e</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e426faf</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev am: 18947ba2fa  -s ours" into nyc-mr1-dev-plus-aosp
-am: 71f8032a6a  -s ours
-
-* commit '71f8032a6a9f4de4337e7157918614bbd67257a6':
-  Import translations. DO NOT MERGE
-
-Change-Id: Iac961329f40592c1f23cec49ee9a0a5e8bfc52d0</span>
+                                        <span class="sha">#b922a13</span>
+                                        <span class="message">Merge "PhoneCapability cleanup"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#71f88b4</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev am: 7b9f32be79  -s ours" into nyc-mr1-dev-plus-aosp
-am: b8b4aba44f  -s ours
-
-* commit 'b8b4aba44f952aa79a52603749fcf51965df1044':
-  Import translations. DO NOT MERGE
-
-Change-Id: I49b846c4fb947beef95cfcfe20ab7ef1be652233</span>
+                                        <span class="sha">#6c1ee55</span>
+                                        <span class="message">Merge "API changes for IPv6 MTU support"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e577b65</span>
-                                        <span class="message">Merge "Merge "Import translations. DO NOT MERGE" into nyc-mr1-dev am: 2e354740de  -s ours" into nyc-mr1-dev-plus-aosp
-am: 16dd875f8a  -s ours
+                                        <span class="sha">#7b2d518</span>
+                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band"
 
-* commit '16dd875f8a7c29d5d8093b545b1c84c071067674':
-  Import translations. DO NOT MERGE
-
-Change-Id: I0b7186cfc4c89ab730fd60e6ea41064a51d0968b</span>
+* changes:
+  Added NR band support
+  Multi-Plmn and CSG Support For CellInfo</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#103104d</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE" into nyc-dev am: fa65d11a21  -s ours am: ddf0507239  -s ours
-am: 90c743f621  -s ours
+                                        <span class="sha">#6af94e4</span>
+                                        <span class="message">[automerger skipped] Fix potential double destroy of AssetManager am: 93320661ca am: aefc05c016 am: 8e5d6a25b2 -s ours am: e38a710477 -s ours am: b5357be3a9 -s ours am: 7a091e335c -s ours am: 46a2bb6fac -s ours
+am skip reason: Change-Id Ia938502d2443f5a6de6a3cabdb7ce1d41d3ff6d1 with SHA-1 0a8a1e9d40 is in history
 
-* commit '90c743f6216edd66024de0c10473428fe8ca2d60':
-  Import translations. DO NOT MERGE
+Change-Id: I495ade5c369293aab036ef8f4c3697e5c9bfc6f0</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">android12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#bb11a52</span>
+                                        <span class="message">Merge "Remove duplicated compat config."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ca56379</span>
+                                        <span class="message">Merge "Update references to sdkextensions cts"
+am: 2c54508955
 
-Change-Id: Idd2ee937d504112501ddb57378015720c80a33a6</span>
+Change-Id: Ida3ecddc5732d67cc4a8958dc850315885a43402</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8187d53</span>
+                                        <span class="message">Merge "Update system api for applyPayload"
+am: c8f699d327
+
+Change-Id: I7f8c371488fb152cf6fb7aba939ab5be053b6a8c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fee904a</span>
+                                        <span class="message">Merge "Rename android.util.TimestampedValue to android.os"
+am: 641fa6730a
+
+Change-Id: I7b60d640763eb2c0fba975a885fe59be199f1813</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#657d1a7</span>
+                                        <span class="message">Merge changes from topic "revert-for-b/147407617"
+
+* changes:
+  Revert "Convert NotificationContentInflater to singleton"
+  Revert "Move a bunch of row setters into an init method."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#850892b</span>
+                                        <span class="message">Add new switchToInputMethod API
+
+Make accessibility service able to set the current input method
+for current user.
+
+Bug: 145710994
+Test: atest AccessibilitySoftKeyboardTest
+   1. Get current enabled IMEs
+   $ adb shell settings get secure enabled_input_methods
+   com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+   com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+   2. Get current default IME
+   $ adb shell settings get secure default_input_method
+   3. Set current default IME
+   $ adb shell settings put secure default_input_method
+     com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+Change-Id: I00aa2170ef2fcc4daf50d09a57b8e2ad16c0a6cb</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8089bc4</span>
+                                        <span class="message">Multiple shortcut menu for android R (4/n).
+
+Implementation for deleting the target.
+
+Fix: b/146967898
+Test: manual test
+Change-Id: Id5d10fa3cc7e1b3b818787837a4f5cb86b2e777f</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2c54508</span>
+                                        <span class="message">Merge "Update references to sdkextensions cts"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a013dfc</span>
+                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea am: 47173f4481
+
+Change-Id: I202ba0c2fe026186c59bb0d7b58d8bb8b5be98c2</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f16a616</span>
+                                        <span class="message">[automerger skipped] Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp am: 4666dc1d5c -s ours
+am skip reason: Change-Id I6ab53570aca580fbee1fcc927871caa09780f58f with SHA-1 e23a0eb5ee is in history
+
+Change-Id: I482a10562741c2d0fdf9f36ff64083447a5c2d3f</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#89a117a</span>
+                                        <span class="message">Merge "Remove @hide for CarrierConfigManager constant"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#47173f4</span>
+                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea
+
+Change-Id: I6bf8b0646d2a9c9df8451feb51b05bf00739c4c3</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c8f699d</span>
+                                        <span class="message">Merge "Update system api for applyPayload"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9926692</span>
+                                        <span class="message">Merge "Implement a tracked bit reader (BitTrackedInputStream) which is capable of moving the file reading cursor forward when needed."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4666dc1</span>
+                                        <span class="message">Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#641fa67</span>
+                                        <span class="message">Merge "Rename android.util.TimestampedValue to android.os"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#19c2ed4</span>
+                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"
+am: 44780ff920
+
+Change-Id: Ie432bee8641bd0c2e94adb04329ea6e80e8ed72c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#44780ff</span>
+                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c20fe0c</span>
+                                        <span class="message">Merge "Fix crash and QQS session issues, visual updates"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c3648a8</span>
+                                        <span class="message">Refine documentation for Process.setThreadPriority
+
+Add more description for the tid parameter.
+
+Bug: 139521784
+Test: compile
+Change-Id: I5ccfef865d49207172df301520cf38e942e03e21</span>
                                     </div>
                                 </div>
                             </section>
@@ -2185,7 +2181,7 @@ Change-Id: Idd2ee937d504112501ddb57378015720c80a33a6</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 20:24:36 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 21:32:53 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
