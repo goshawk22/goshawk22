@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2472" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2827" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -1360,22 +1360,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 0 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1000 commits in
                                         <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
                                     </div>
@@ -1383,161 +1367,138 @@
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2dbe444</span>
-                                        <span class="message">Merge "Properly generate systemUiVisibilityChanged callbacks." into ics-factoryrom</span>
+                                        <span class="sha">#69b4017</span>
+                                        <span class="message">am 8cdfd60d: am 15319ded: am 460abe97: Merge "Add support for Caller Name Display"
+
+* commit '8cdfd60d27e244171468fbfcefbbfeab2873a9c8':
+  Add support for Caller Name Display</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#cc22b99</span>
-                                        <span class="message">Merge "Revert "Allow views to setSystemUiVisibility() with the same value and have it work."" into ics-factoryrom</span>
+                                        <span class="sha">#8cdfd60</span>
+                                        <span class="message">am 15319ded: am 460abe97: Merge "Add support for Caller Name Display"
+
+* commit '15319ded1545dbb266273439063caf6ca23629f5':
+  Add support for Caller Name Display</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bedc1eb</span>
-                                        <span class="message">Merge "Bug 5279842: mis alignment after scroll"</span>
+                                        <span class="sha">#15319de</span>
+                                        <span class="message">am 460abe97: Merge "Add support for Caller Name Display"
+
+* commit '460abe97b06fd42cc37bdebb7f0ad4a7ef0e8bde':
+  Add support for Caller Name Display</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#63fe6fa</span>
-                                        <span class="message">docs: update Notification dev guide with info about custom notification text colors
+                                        <span class="sha">#7dc4c08</span>
+                                        <span class="message">am 12f0104e: am 4d6a0df3: Merge "Do not cancel animations when switching." into jb-dev
 
-Change-Id: Ic73fc70e9c5b40f7d02393ac752d69a1e81d1d51</span>
+* commit '12f0104ec729346d078a0afc9a79ab9fc023cce0':
+  Do not cancel animations when switching.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a410748</span>
-                                        <span class="message">Merge "docs: clean the slate of newness for all side navs"</span>
+                                        <span class="sha">#a803371</span>
+                                        <span class="message">Set detached wallpaper on the scale up animation.
+
+This keeps the background wallpaper from disappearing when expanding an
+app that has a wallpaper background (e.g. clock).
+
+Fixes bug 6649988. The second half of the bug, the first half will be
+reissued as a new bug.
+
+Change-Id: I209c9038469e4133586a927c92ef64ae43fb937f</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9ed517d</span>
-                                        <span class="message">docs: clean the slate of newness for all side navs
+                                        <span class="sha">#12f0104</span>
+                                        <span class="message">am 4d6a0df3: Merge "Do not cancel animations when switching." into jb-dev
 
-Change-Id: I0d027199168d3e0e5fd1ed243438d8dc1b150f23</span>
+* commit '4d6a0df37930309f8e138499785483d9dcadf7d9':
+  Do not cancel animations when switching.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5ce3486</span>
-                                        <span class="message">Merge "Fix 5335993, calculate correct size of lockscreen buttons"</span>
+                                        <span class="sha">#4d6a0df</span>
+                                        <span class="message">Merge "Do not cancel animations when switching." into jb-dev</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#17fc7f6</span>
-                                        <span class="message">merge in ics-factoryrom-release history after reset to ics-factoryrom</span>
+                                        <span class="sha">#ca309f2</span>
+                                        <span class="message">Print extended SQLite error code.
+
+Bug: 6538393
+Change-Id: I2b010c6a1127887717af67ec588c3df8bf41afe6</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9f48d63</span>
-                                        <span class="message">Fix comment
-
-Change-Id: Ic0fd15d0b1b4d2c24eb177a6b22e0cc08ec1de99</span>
+                                        <span class="sha">#95fc7a2</span>
+                                        <span class="message">Merge "Remove ViewTreeObserver allocations"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b4f95be</span>
-                                        <span class="message">Update camera javadoc about AE and AWB lock.
+                                        <span class="sha">#c39ed4a</span>
+                                        <span class="message">Remove ViewTreeObserver allocations
 
-- Autofocus does not lock AE and AWB.
-- stopPreview and takePicture do not clear AE and AWB locks.
+A couple of allocations remain to handle possibly recursive listeners.
 
-bug:5356404
-
-Change-Id: I55d9b35f4ff746ecd2bff112c2674f1aa2543aca</span>
+Change-Id: I72fd271c2fc4f4ad427a27e0665f780cae117aea</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#013ccb7</span>
-                                        <span class="message">Merge "Modified loadPlugIns to load from /vendor and /system; skip libraries that are already loaded. BUG: 5284436"</span>
+                                        <span class="sha">#460abe9</span>
+                                        <span class="message">Merge "Add support for Caller Name Display"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#aab6fe2</span>
-                                        <span class="message">Modified loadPlugIns to load from /vendor and /system; skip libraries that are already loaded.
-BUG: 5284436
+                                        <span class="sha">#0b1d806</span>
+                                        <span class="message">am 05fee7bd: am 085c4825: Merge "Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so" into jb-dev
 
-Change-Id: I99267c81a488860c3c7edb747100d44f3083bfc2</span>
+* commit '05fee7bddba9a00ed33392e78fddefbebf79b0b4':
+  Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b35914b</span>
-                                        <span class="message">Merge "Disallow 180 rotation for phones. Bug: 4981385"</span>
+                                        <span class="sha">#e9f6b86</span>
+                                        <span class="message">am 4d3448db: am 4cabbef8: Merge "Make sure to stop noHistory="true" activities properly" into jb-dev
+
+* commit '4d3448db54e274b8c5f10ddef204882320e631ec':
+  Make sure to stop noHistory="true" activities properly</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a829e16</span>
-                                        <span class="message">Merge "Handle orientation changes more systematically. Bug: 4981385"</span>
+                                        <span class="sha">#c4283c6</span>
+                                        <span class="message">am 980d7b45: am 36eeb6a5: Merge "StatusBar: Respond properly to global expand message" into jb-dev
+
+* commit '980d7b45ffef0f747e4cb3020c3c8a1e421b5f9e':
+  StatusBar: Respond properly to global expand message</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#79df532</span>
-                                        <span class="message">Fix bug #5332081 TextLayoutCache needs to be able to have more cache hits
+                                        <span class="sha">#7834663</span>
+                                        <span class="message">am fbd982c1: (-s ours) am 9c463d9d: Merge "Import translations. DO NOT MERGE" into jb-dev
 
-- makes TextLayoutCache not carring about start/count. Basically he will cache the result for
-the full string and gives back the "chunk" corresponding to start/count
-- changed the TextLayoutCacheValue API to take start/count parameters
-- add Harfbuzz LogClusters in TextLayoutCacheValue as it is needed for extracting the start/count "chunk"
-
-Change-Id: I4b38a4442428606de9a093303bbbe98181e1f89c</span>
+* commit 'fbd982c14f3507b8d85413096d8f38cf3f36c75f':
+  Import translations. DO NOT MERGE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d3187e3</span>
-                                        <span class="message">Disallow 180 rotation for phones.
-Bug: 4981385
+                                        <span class="sha">#05fee7b</span>
+                                        <span class="message">am 085c4825: Merge "Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so" into jb-dev
 
-Change-Id: Icaed9cfe4ee9771ca5951abcd1173024d87a024b</span>
+* commit '085c4825897bbbfa0f8564c2de45f74d7bea4029':
+  Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#01a98dd</span>
-                                        <span class="message">Handle orientation changes more systematically.
-Bug: 4981385
-
-Simplify the orientation changing code path in the
-WindowManager.  Instead of the policy calling setRotation()
-when the sensor determined orientation changes, it calls
-updateRotation(), which figures everything out.  For the most
-part, the rotation actually passed to setRotation() was
-more or less ignored and just added confusion, particularly
-when handling deferred orientation changes.
-
-Ensure that 180 degree rotations are disallowed even when
-the application specifies SCREEN_ORIENTATION_SENSOR_*.
-These rotations are only enabled when docked upside-down for
-some reason or when the application specifies
-SCREEN_ORIENTATION_FULL_SENSOR.
-
-Ensure that special modes like HDMI connected, lid switch,
-dock and rotation lock all cause the sensor to be ignored
-even when the application asks for sensor-based orientation
-changes.  The sensor is not relevant in these modes because
-some external factor (or the user) is determining the
-preferred rotation.
-
-Currently, applications can still override the preferred
-rotation even when there are special modes in play that
-might say otherwise.  We could tweak this so that some
-special modes trump application choices completely
-(resulting in a letter-boxed application, perhaps).
-I tested this sort of tweak (not included in the patch)
-and it seems to work fine, including transitions between
-applications with varying orientation.
-
-Delete dead code related to animFlags.
-
-Handle pausing/resuming orientation changes more precisely.
-Ensure that a deferred orientation change is performed when
-a drag completes, even if endDragLw() is not called because the
-drag was aborted before the drop happened.  We pause
-the orientation change in register() and resume in unregister()
-because those methods appear to always be called as needed.
-
-Change-Id: If0a31de3d057251e581fdee64819f2b19e676e9a</span>
+                                        <span class="sha">#085c482</span>
+                                        <span class="message">Merge "Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so" into jb-dev</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#df8e00f</span>
-                                        <span class="message">am 624181af: Merge "Settings are restored in alphabetical order rather in order of dependency." into ics-factoryrom
+                                        <span class="sha">#c6693f6</span>
+                                        <span class="message">Add NOTICE and MODULE_LICENSE_APACH2 to libvideoeditor_jni.so
 
-* commit '624181af38f7f9e4fe4a18ca3e15204f30609312':
-  Settings are restored in alphabetical order rather in order of dependency.</span>
+Change-Id: Ibe37c2e6ede6143dc4e27c6072867bc58aa1c08a
+related-to-bug: 6647465</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b2beb92</span>
-                                        <span class="message">Bug 5279842: mis alignment after scroll
+                                        <span class="sha">#9b2cd15</span>
+                                        <span class="message">Invert the sense of the two-figner direction on tablets.
 
-Refactored.
-
-Original problem was the ALIGN_RIGHT case that was not handled.
-
-Change-Id: Id01b75ac404b7ee92143e8cf6e3a3a838b794da8</span>
+Bug: 6506376
+Change-Id: Ife336c6695608f14554e18e32ea35f118d7f12e2</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#624181a</span>
-                                        <span class="message">Merge "Settings are restored in alphabetical order rather in order of dependency." into ics-factoryrom</span>
+                                        <span class="sha">#4d3448d</span>
+                                        <span class="message">am 4cabbef8: Merge "Make sure to stop noHistory="true" activities properly" into jb-dev
+
+* commit '4cabbef8266c909997cf608d008920f5a2f49937':
+  Make sure to stop noHistory="true" activities properly</span>
                                     </div>
                                 </div>
                             </section>
@@ -1556,364 +1517,158 @@ Change-Id: Id01b75ac404b7ee92143e8cf6e3a3a838b794da8</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e90bed1</span>
-                                        <span class="message">Added an add to dictionary option in suggestions for misspelled words
-
-Change-Id: I031f17a76b4a81ae375b778046b8c391f9b8b2b2</span>
+                                        <span class="sha">#1deb589</span>
+                                        <span class="message">Merge "Don't copy paints for 9patches"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#db97f60</span>
-                                        <span class="message">Fix logic for power button overridding the "wait for prox negative state" after a call
+                                        <span class="sha">#be6f9dc</span>
+                                        <span class="message">Don't copy paints for 9patches
 
-When in a phone call, we keep the screen off while the prox sensor returns positive
-and the device is oriented in a vertical position.
-If the call is terminated on the other end, we keep the screen off
-until the proximity sensor returns negative.
-We do this to avoid having the screen turn on as soon as the other end
-hangs up while the phone is still next to your head.
-
-However, we allow the power button to wake the screen while waiting for the proximity
-sensor to go negative as a precaution in case there is a problem with the proximity sensor.
-But unfortunately that logic broke due to a change in the call path used to turn the screen
-on from the power button (it previously called userActivity, now it uses a wake lock).
-This change adds code to handle the new code path so the power button will wake the screen
-while we are waiting for the proximity sensor to go negative after a call.
-
-Bug: 5184524
-
-Change-Id: I7d1e0f0d1f78680c552a05d68a392647823250ab
-Signed-off-by: Mike Lockwood &lt;lockwood@android.com&gt;</span>
+Change-Id: I863100a0dc53fec1a3a1b2acbdeb76e6049ffe58</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#382b884</span>
-                                        <span class="message">opengl: EGL: special case for GLES emulation
+                                        <span class="sha">#e0fd693</span>
+                                        <span class="message">Improve geofencing: throttle location updates with distance to fence.
 
-This patch modifies the library loaded in libEGL.so to
-handle the case of GLES emulation as follows:
+Previously any geofence (proximity alert) would turn the GPS on at full rate.
+Now, we modify the GPS interval with the distance to the nearest geofence.
+A speed of 100m/s is assumed to calculate the next GPS update.
 
-- if we detect that we run inside the emulator, check the
-  GPU emulation status through ro.kernel.qemu.gles, which
-  will be set to 1 if supported, or 0 otherwise.
+Also
+o Major refactor of geofencing code, to make it easier to continue to improve.
+o Discard proximity alerts when an app is removed.
+o Misc cleanup of nearby code. There are other upcoming changes
+  that make this a good time for some house-keeping.
 
-  When trying to run on an older version of the emulator,
-  the kernel parameter will not be defined at all.
+TODO:
+The new geofencing heuristics are much better than before, but still
+relatively naive. The next steps could be:
+- Improve boundary detection
+- Improve update thottling for large geofences
+- Consider velocity when throttling
 
-- if GPU emulation is supported, use egl.cfg as usual.
-  It will contain a line like "0 0 emulation" that will
-  load libEGL_android.so appropriately.
-
-- nothing is changed if we don't run inside the emulator.
-
-NOTE: Ideally, we would modify libEGL_emulation.so to
-      redirect all calls to libEGL_android.so in this case.
-
-      However, this turns out to be extremely tedious to implement
-      (too many functions with different signatures).
-
-      As such,  it is much simpler to make the check before
-      loading the library.
-
-Change-Id: I9930bc168d9013cc8700feedc57b979384467c37</span>
+Change-Id: Ie6e23d2cb2b931eba5d2a2fc759543bb96e2f7d0</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bffb83e</span>
-                                        <span class="message">Merge "Add an option for the implicitly selected subtype"</span>
+                                        <span class="sha">#f08a8b7</span>
+                                        <span class="message">Fixing issue where you couldn't set null RemoteViews for a widget
+
+-&gt; As noted here: http://code.google.com/p/android/issues/detail?id=35014
+
+Change-Id: Id5d1c47b6961d4b448453d8b16700801c0137f2b</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a86f5e4</span>
-                                        <span class="message">Add an option for the implicitly selected subtype
+                                        <span class="sha">#1696af9</span>
+                                        <span class="message">am 6d1e7ca3: (-s ours) am 6b7b9b4a: Import translations. DO NOT MERGE
 
-Bug: 5057886
-Change-Id: Iddde4724891501b4f18cade6a3d2c64b6124e58a</span>
+* commit '6d1e7ca30e3dc68f20c8b796748dfc822905f267':
+  Import translations. DO NOT MERGE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1d477c5</span>
-                                        <span class="message">Merge "Require INTERNET permission for network-based content. Bug #1870981"</span>
+                                        <span class="sha">#6d1e7ca</span>
+                                        <span class="message">am 6b7b9b4a: Import translations. DO NOT MERGE
+
+* commit '6b7b9b4abe3a55a5349951f64a348826e90996c9':
+  Import translations. DO NOT MERGE</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#fc301b0</span>
-                                        <span class="message">Require INTERNET permission for network-based content.
-Bug #1870981
-
-Change-Id: Ia3ad166390c4d60cea19c3783895b078a2c4c15f</span>
+                                        <span class="sha">#215f806</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ee5e77c</span>
-                                        <span class="message">Make setAdditionalInputMethodSubtypes async
-
-Bug: 5120261
-Change-Id: Ic7869cfaa5361531e08d58d7dfa5ba0feab0613e</span>
+                                        <span class="sha">#a232ed6</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8b1f350</span>
-                                        <span class="message">Fix 5240036: Generate a reasonable bitrate for intermediate clips.
+                                        <span class="sha">#a45a568</span>
+                                        <span class="message">Import translations. DO NOT MERGE
 
-Change-Id: I96bf9a7d0e2ce78fd19cce7bccbd4ac318748709</span>
+Change-Id: I7b2ac5e0d46af6ba80cb6ad1cb38b143f9e4a4a5
+Auto-generated-cl: translation import</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#117999d</span>
-                                        <span class="message">Make the spell checker session static
+                                        <span class="sha">#7fffed5</span>
+                                        <span class="message">Import translations. DO NOT MERGE
 
-Change-Id: I66d51f33e005f46465232d3fc460cda0609609ea</span>
+Change-Id: Ie0adf80bdc9ab6f2eb8cbf05c743c7cfeb9efd6f
+Auto-generated-cl: translation import</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a2f69c9</span>
-                                        <span class="message">Merge "Make the constructor of InputMethodSubtype hidden."</span>
+                                        <span class="sha">#6b7b9b4</span>
+                                        <span class="message">Import translations. DO NOT MERGE
+
+Change-Id: I90c2a81acb707d11c4268ed78c8c06871370faa6
+Auto-generated-cl: translation import</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#3889e49</span>
-                                        <span class="message">Make the constructor of InputMethodSubtype hidden.
+                                        <span class="sha">#7b756e6</span>
+                                        <span class="message">Doc change: API diffs for 16.
 
-The constructor is not open sourced yet.
-
-Change-Id: I69385b05cb3b5ee761a5ece9be877a8682c5fe55</span>
+Change-Id: Id6c4f7f1f7d869847de580d8b2431b37e69260b4</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#15d161f</span>
-                                        <span class="message">Ensure appwidgets are loaded before usage.
+                                        <span class="sha">#77cfe91</span>
+                                        <span class="message">Doc change: Fixes to IAB purchase state docs.
 
-Before accessing appwidget details, always ensure that configuration
-is loaded from disk.
-
-Change-Id: Ic71dd62fcdb1d1e5f7bae397efa8dce787434ba5</span>
+Change-Id: I7ae5db84c3783085e2c3fbbf3b43fab68e6e89e9</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e916f70</span>
-                                        <span class="message">Fix notification ticker info text alignment.
+                                        <span class="sha">#ef86370</span>
+                                        <span class="message">Switch to split status/nav bars on all device sizes.
 
-Bug: 5215277
-Change-Id: I8df97a56056cd79b44a69b1c8b9852e2082c87b9</span>
+Change-Id: Ie76aa4bdfd76e4a0ffb3949424ab28ef86ec54a1</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1d5f9cd</span>
-                                        <span class="message">Merge "Prepare for exposing p2p API"</span>
+                                        <span class="sha">#c80aba4</span>
+                                        <span class="message">Merge "Removing a workaround for incorrect window position on window move."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9b69a04</span>
-                                        <span class="message">Merge "Sample network statistics for sanity check."</span>
+                                        <span class="sha">#c9c9a48</span>
+                                        <span class="message">Removing a workaround for incorrect window position on window move.
+
+1. The window manager was not notifying a window when the latter
+   has been moved. This was causing incorrect coordinates of the
+   nodes reported to accessibility services. To workaround that
+   we have carried the correct window location when making a
+   call from the accessibility layer into a window. Now the
+   window manager notifies the window when it is moved and the
+   workaround is no longer needed. This change takes it out.
+
+2. The left and right in the attach info were not updated properly
+   after a report that the window has moved.
+
+3. The accessibility manager service was calling directly methods
+   on the window manager service without going through the interface
+   of the latter. This leads to unnecessary coupling and in the
+   long rung increases system complexity and reduces maintability.
+
+bug:6623031
+
+Change-Id: Iacb734b1bf337a47fad02c827ece45bb2f53a79d</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c7f159e</span>
-                                        <span class="message">Merge "Selectively add stats based on iface active state."</span>
+                                        <span class="sha">#565e3e7</span>
+                                        <span class="message">am 4094fb3c: am 8d170421: Merge "Fix wrong condition."
+
+* commit '4094fb3c5b95c88d689238cbf0a9e2c169a5e557':
+  Fix wrong condition.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ff71302</span>
-                                        <span class="message">Merge "Close idle connections on pause timers"</span>
+                                        <span class="sha">#4094fb3</span>
+                                        <span class="message">am 8d170421: Merge "Fix wrong condition."
+
+* commit '8d1704215e80ebec61f6d77c503d83b32d881096':
+  Fix wrong condition.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c6acd68</span>
-                                        <span class="message">Fix issue #4554429: API REVIEW: deprecate Live Folders
-
-Change-Id: Iddb5a55866469d24a20cc61a28c4dbe146bfd0bf</span>
+                                        <span class="sha">#8d17042</span>
+                                        <span class="message">Merge "Fix wrong condition."</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bd9d030</span>
-                                        <span class="message">Don't overwrite pending port setting change if there are more than one port setting change event.
+                                        <span class="sha">#357d9cb</span>
+                                        <span class="message">Add a tiny bit of javadoc to PackageMonitor.
 
-Change-Id: I3413f5235b191031252aa3785f5aaef00caef1ce
-related-to-bug: 5122512</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 997 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8f8dae1</span>
-                                        <span class="message">Merge "Add private permission for sending SMS via Messaging app"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b038168</span>
-                                        <span class="message">Add private permission for sending SMS via Messaging app
-
-When the phone dialer sends an sms, it will use the Messaging app.
-That way the sent messages will end up in the messaging provider db
-and sending will be more reliable. Currently, the phone dialer
-uses the SmsManager directly. For now, the feature is only
-available to system apps and the permission is private. Bug 4563486
-
-Change-Id: I10f7e1042683164ee61d01a2aaf738d19084da72</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3939c35</span>
-                                        <span class="message">Fix xml coding style (turn tabs to spaces)
-
-Bug: 5128762
-Change-Id: Idc67a7f35e53ec4ccade37f95c3648430b2674a2</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#dc5bbe9</span>
-                                        <span class="message">Handle SIP authentication response for BYE.
-
-Bug: 5159669
-Change-Id: I029684334500d4d0db176783084c9b7d1db87e40</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b724c34</span>
-                                        <span class="message">Revert "Use a weakreference to prevent the static variable from holding an Activity."
-Bug was fixed in a different way.
-
-This reverts commit 352c01e2133b71918fa1cb2783a0a10e56117775.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#167d69a</span>
-                                        <span class="message">Voice search icon replaced by X on typing.
-
-Also, adjust width measurements to work for 32dip icons in actionbar.
-
-Bug: 5160466
-Change-Id: I7197d710de16f92af8ea797ac504a3a73ee090d9</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7ec9e02</span>
-                                        <span class="message">docs: fix for bug 5057581
-
-Change-Id: I0f0fafe879e750d810137fa99f87d3097f0f30ef</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#375db02</span>
-                                        <span class="message">docs: cherrypick from hc-mr2 Change-Id: I42d2befab1c848dc0b9aa5b4c5ac25ee50bd9a7b
-
-Change-Id: I951e77feba4f8ba491e153b513c5a6d24397dbbf</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#84029a8</span>
-                                        <span class="message">Add a function to query the available memory on the device.
-
-This function is called over JNI to determine wheter a particular
-size of memory allocation will leave us in a low memory state.
-
-Bug: 5142892
-Change-Id: I3d0f85075497c2a374cd866b0223eecaaa4b5f46</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e713576</span>
-                                        <span class="message">Renaming com.google.i18n.phonenumbers to com.android.i18n.phonenumbers
-to avoid name collision.
-
-Bug: 5157607
-Change-Id: Ic397f371e381a71f17b0b70b955e89d08f7a9867</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#35c6ec2</span>
-                                        <span class="message">Stagefright: fix a compiler warning
-
-Change-Id: Ia6b2027dfe80960450156d918bdd7fe1567cafea</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aea743a</span>
-                                        <span class="message">P2p enhancements
-
-- ConnectivityService interaction and support for running dhcp server
-and client
-
-- State machine enhancements for connectivity interaction
-
-Change-Id: Iba3beb8c87554ffd67a7b7e852bbb4dd8666a4f5</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fa23c5a</span>
-                                        <span class="message">Add NativeDaemonConnector users to watchdog.
-
-To catch instances where NativeDaemonConnector hangs while executing
-commands, add users to system_server watchdog.  Also moved qtaguid
-enabler to separate thread to prevent blocking systemReady().
-
-Bug: 5145437
-Change-Id: I4c6c1dc09864a1c05f9486a31faa1b366548e911</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0d67c89</span>
-                                        <span class="message">Adding accessibility support to the PIN lock screen.
-
-1. The password lock screen is accessible and with this
-   change the PIN lock screen is accessibile as well.
-   This is enough to cover the enterprise use case of
-   imposed lock of the deivce. we will hide the options
-   for pattern since it is hard for use by a blind person.
-   We may reconsider this for subsequent releases.
-
-bug:4978246
-
-Change-Id: I67ef783b799ffd64ebff6cdb614c03025fc911e6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1137341</span>
-                                        <span class="message">Throw exception on odd length Signatures
-
-The old version of this code would silently truncate odd-length
-Signatures. However, this masks some bugs. Add a throw of
-IllegalArgumentException so users can easily see where they're getting
-bad input for Signatures.
-
-Also, go through the existing code and catch this exception or
-pre-check the input strings so system_server doesn't crash later.
-
-Bug: 5092338
-Change-Id: I8c672c5eaeb738a92c4581ce0df09baf719980ef</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8c6c79f</span>
-                                        <span class="message">Adding a callback to ShareActionProvider + make ActivityChooserView popup hide on action bar hide.
-
-1. Added a callback to ShareActionProvider allowing clients to be notified
-   when an activity is chosed given them a change to say update their UI and
-   also decide whether to handle the activity launch themselves.
-
-2. The popup of the ActivityChooserView was not hiding on hiding the action bar.
-
-bug:5094963
-bug:5095004
-
-Change-Id: I6c8e8cc1f22d07e707e2218eb108f9101417b23b</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b1dec71</span>
-                                        <span class="message">NEW_API: Add real-time Effects.
-
-Add simple effects API, based on the mobile filter framework.
-
-Bug-Id: 4966161
-
-Change-Id: I1fa8aa6effd0f13029e6dd09d6e0a6c3f29f6cda</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3e066c3</span>
-                                        <span class="message">b/5080166 Enalbe multi-touch on external touch escreen.
-
-Change-Id: I49d44528283a6b47a4caa95bec3c1837f500b004</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#33eafef</span>
-                                        <span class="message">Add C++ thread API androidGetThreadSchedulingGroup
-
-This API is intended for applications that need to read a thread's
-scheduling group, while using the higher-level (C++) family of thread APIs.
-
-Change-Id: I5e58017f74c3989b20b5b1cc2bc4483c95720520</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#78f9fff</span>
-                                        <span class="message">Handle stopping of services with still bound applications.
-
-When a service is stopping we get unbindFinished when all connections
-are unbinded. If applications are still bound to this Service we will
-rebind the connection making the service hang in stopping state. This
-fixed issues with ANR during CTS test
-android.os.cts.BinderTest#testTransact
-
-Change-Id: I9402aebd0d2d0fa3e0e6381fb51d3189d530f31b</span>
+Change-Id: I1f9a56f44b4189d77df1327cc4f8c8ccf25db4b9</span>
                                     </div>
                                 </div>
                             </section>
@@ -1932,115 +1687,459 @@ Change-Id: I9402aebd0d2d0fa3e0e6381fb51d3189d530f31b</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8ce53e3</span>
-                                        <span class="message">am 9a87deb5: DataConnection: Clear cid when entering inactive state.
+                                        <span class="sha">#d34dd71</span>
+                                        <span class="message">Fix hang/crash in native path code
 
-* commit '9a87deb538caed347621e57c5c83e0185a963bb4':
-  DataConnection: Clear cid when entering inactive state.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c8ec222</span>
-                                        <span class="message">Merge "Destroy layers and flush layers cache when a window is destroyed."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e516893</span>
-                                        <span class="message">Grant AID_NET_BW_STATS to system service.
+An optimization for paths is to only create a texture for the original native
+Path object, and have all copies of that object use that texture. This works in
+most cases, but sometimes that original path object may get destroyed (when the
+SDK path object is finalized) while we are still referencing and using that object
+in the DisplayList code. This causes undefined errors such as crashes and hanging
+as we iterate through the operations of a destroyed (and garbage-filled) path object.
 
-NetworkManagementService is reading stats /proc/ files, which are now
-being protected by GID.
+The fix is to use the existing ResourceCache to refcount the original path until
+we are done with it.
 
-Bug: 5087530
-Change-Id: I29b35a97ab621999544b6acc8ad4cf72ee053b79</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6d7475d</span>
-                                        <span class="message">Destroy layers and flush layers cache when a window is destroyed.
+Issue #6414050 Analytics Dogfood App crashes reliably on Jellybean
 
-Change-Id: I3fa1bc3ff50fb99e3d2e490925bd6b0a0f809fff</span>
+Change-Id: I5dbec5c069f7d6a1e68c13424f454976a7d188e9</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6f9e6ea</span>
-                                        <span class="message">Merge "Will not disable wifi on wifi-only devices."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#93b2182</span>
-                                        <span class="message">AccessibilityNodeInfo reports no children for the topmost view in the tree.
+                                        <span class="sha">#5da992b</span>
+                                        <span class="message">am b8eba14f: am 43b8fd76: Merge "Fix nested cross-scrolling for ScrollView/HorizontalScrollView" into jb-dev
 
-1. My previous change to restrain AccessibilityNodeInfo to report children
-   if it is root namespace did not take into account that the tompost view
-   i.e. the decor view actually is a root namespace. Adding check to allow
-   the info to report children of rthe topmost view but do not do so if a
-   descendant is flagged as root namespace.
+* commit 'b8eba14f133997f3ab6de490afd2e4fad55913e8':
+  Fix nested cross-scrolling for ScrollView/HorizontalScrollView</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7c5de58</span>
+                                        <span class="message">am 449fa826: am 57e6136c: Merge "Hide TextDirectionHeuristics" into jb-dev
 
-bug:5086988
+* commit '449fa82612deb196e705cbf97460c98b612edc39':
+  Hide TextDirectionHeuristics</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8360211</span>
+                                        <span class="message">am e43a4e90: am f27ba974: Merge "JB API cleanup; ActionMode and View docs" into jb-dev
 
-Change-Id: Ib82b8ebe5a2c287ab1c5333d130ec50eb9ced78c</span>
+* commit 'e43a4e90173cdb1a8e22a8e8e05356c12df44a0e':
+  JB API cleanup; ActionMode and View docs</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c8b7ac1</span>
-                                        <span class="message">Merge "Reset input dispatcher targets when focus changes apps."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4f35092</span>
-                                        <span class="message">Merge "Move extract native libraries to JNI code"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3d5a703</span>
-                                        <span class="message">Merge "Report the external display size to the input reader."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#be922d6</span>
-                                        <span class="message">Merge "Handle stylus buttons and tool types."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#388432a</span>
-                                        <span class="message">Merge "Change ZipFile flags anonymous enum"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d3cb204</span>
-                                        <span class="message">Merge "Drop hack for drivers that emit zero ABS_MT_TOUCH_MAJOR. Bug: 5064702"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d02fa35</span>
-                                        <span class="message">Merge "Revise data limit notifs, watch kernel alerts."</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ccc8362</span>
-                                        <span class="message">Merge "UsbDeviceManager: Don't show USB notification for RNDIS"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#257466d</span>
-                                        <span class="message">Merge "Bug 5076788 - Optimize the building and invalidation of menus"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#24f2936</span>
-                                        <span class="message">Merge "Use WebTextView overlay to render text fields/areas much faster"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#89b09da</span>
-                                        <span class="message">Bug 5076788 - Optimize the building and invalidation of menus
+                                        <span class="sha">#844bcc3</span>
+                                        <span class="message">am c420d268: am 1f2077c3: Merge "Fix AlertDialog positioning for dialogs spawned from DialogWhenLarge activities" into jb-dev
 
-Fix cases that weren't batching menu presenter changes correctly.
-
-Have FragmentManager invalidate the options menu less often.
-
-Change-Id: Ia66fcd09ada8b0a084ad6b08d4340a8fa0c8fc5d</span>
+* commit 'c420d268de68a5ec08f20a512226b46495502121':
+  Fix AlertDialog positioning for dialogs spawned from DialogWhenLarge activities</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e1b9259</span>
-                                        <span class="message">Merge "Not user generated accessibility events can change the interrogation allowing window."</span>
+                                        <span class="sha">#b8eba14</span>
+                                        <span class="message">am 43b8fd76: Merge "Fix nested cross-scrolling for ScrollView/HorizontalScrollView" into jb-dev
+
+* commit '43b8fd76c03fe4d3c46919e98af91a18176c2654':
+  Fix nested cross-scrolling for ScrollView/HorizontalScrollView</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9a87deb</span>
-                                        <span class="message">DataConnection: Clear cid when entering inactive state.
+                                        <span class="sha">#449fa82</span>
+                                        <span class="message">am 57e6136c: Merge "Hide TextDirectionHeuristics" into jb-dev
 
-Bug: 5083242
-
-Change-Id: I0657739da54bc424433063a2244d045e47411e5f</span>
+* commit '57e6136ce79241348b3563c4368a327ca2906610':
+  Hide TextDirectionHeuristics</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#43a5d6e</span>
-                                        <span class="message">Merge "Bug 4599730 Get audio channel count on MediaPlayer"</span>
+                                        <span class="sha">#9515163</span>
+                                        <span class="message">Update docs for YV12 format and camera preview callbacks.
+
+- Define stride for YV12 when using it for preview callbacks
+
+- Include equations for calculating stride and start indexes of Y, U,
+  and V planes for YV12.
+
+- Add more cross-references so that equations are easier to find.
+
+Bug: 6330501
+Change-Id: I85a78757ec767d08173b9fe714adb715835244b4</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#43b8fd7</span>
+                                        <span class="message">Merge "Fix nested cross-scrolling for ScrollView/HorizontalScrollView" into jb-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#57e6136</span>
+                                        <span class="message">Merge "Hide TextDirectionHeuristics" into jb-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e43a4e9</span>
+                                        <span class="message">am f27ba974: Merge "JB API cleanup; ActionMode and View docs" into jb-dev
+
+* commit 'f27ba974d5af68baf071282de65a22ca6e59244c':
+  JB API cleanup; ActionMode and View docs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c420d26</span>
+                                        <span class="message">am 1f2077c3: Merge "Fix AlertDialog positioning for dialogs spawned from DialogWhenLarge activities" into jb-dev
+
+* commit '1f2077c3a0ae20caa4343dc9f66db959a939a054':
+  Fix AlertDialog positioning for dialogs spawned from DialogWhenLarge activities</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f27ba97</span>
+                                        <span class="message">Merge "JB API cleanup; ActionMode and View docs" into jb-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1f2077c</span>
+                                        <span class="message">Merge "Fix AlertDialog positioning for dialogs spawned from DialogWhenLarge activities" into jb-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1d7c1f1</span>
+                                        <span class="message">Rename isTimeZoneFixNeeded to shouldFixTimeZoneNow.
+
+Change-Id: I01c73a0afaa17793f9dea1b78c9fe49fa138f787</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#68d3f58</span>
+                                        <span class="message">am 48306353: am c793d626: Merge "On first boot and NTP lookup, set the time even if it\'s not off by 5+ secs." into jb-dev
+
+* commit '48306353ef315db72e1d3cf898b67dae5d990210':
+  On first boot and NTP lookup, set the time even if it's not off by 5+ secs.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4830635</span>
+                                        <span class="message">am c793d626: Merge "On first boot and NTP lookup, set the time even if it\'s not off by 5+ secs." into jb-dev
+
+* commit 'c793d62613b8cee340ce6c20856f6db81575f034':
+  On first boot and NTP lookup, set the time even if it's not off by 5+ secs.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c793d62</span>
+                                        <span class="message">Merge "On first boot and NTP lookup, set the time even if it's not off by 5+ secs." into jb-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b3d30e4</span>
+                                        <span class="message">am 7ecf3dc6: am eaca069a: Merge "Fix clicking on a fake element (address, phone number, etc..)" into jb-dev
+
+* commit '7ecf3dc6fc6ae4a152e19fe6be14787c6372cb9f':
+  Fix clicking on a fake element (address, phone number, etc..)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f05c1d6</span>
+                                        <span class="message">Avoid deadlocks when calling autoFocus from onAutoFocus callback.
+
+Applicatons may use different threads for calling autoFocus and
+onAutoFocus callback.
+
+bug:6026574
+
+Change-Id: I114a60240e22af15ca469b591e080121367db8e2</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">android12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4d6a82d</span>
+                                        <span class="message">Unhide new animation runnable API on View.
+
+Change-Id: Id626688d6c7d632c01d9897777c854cb601d3301</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#918e840</span>
+                                        <span class="message">Unhiding J API's for Renderscript.
+
+Change-Id: I8c2d43ccca94549bc6ca1a914106567ccc125503</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0a1c6c8</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e14d679</span>
+                                        <span class="message">Merge "Import translations. DO NOT MERGE"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#df3ae4f</span>
+                                        <span class="message">Invalidate for scrolling animations on the animation timer
+
+Change View methods awakenScrollBars and scrollTo to post their
+invalidation on the animation timer. Since these are often used in
+computeScroll or similar to continue scrolling or flinging it should
+not prevent other posted events from being processed before the frame
+is actually drawn. (All changes in scroll position, etc. are
+immediately reflected after the calls and do not need a draw to
+present correct data about scroll position to apps.)
+
+Don't accumulate floating point error while dragging
+ScrollView/HorizontalScrollView.
+
+Change-Id: I05b57d75f89a806488e46a8fb79b85d80f56d45d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f320645</span>
+                                        <span class="message">Import translations. DO NOT MERGE
+
+Change-Id: I165a1adbaf48551ff98259bf3878de6373b7f9af</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7e6ee74</span>
+                                        <span class="message">am 4e53730b: am f1e17d8d: am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '4e53730b12f47c4dec98c86a2d293a48ac9787c5':</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4e53730</span>
+                                        <span class="message">am f1e17d8d: am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit 'f1e17d8d47cf7746452e6e4b632209773bdd366c':</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3151282</span>
+                                        <span class="message">Import translations. DO NOT MERGE
+
+Change-Id: I0ccad7d90521504398872d516201309a5198b67f</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cc43a72</span>
+                                        <span class="message">Merge "Fix a race condition in SyncManager.onAccountsUpdated()"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f99f0c3</span>
+                                        <span class="message">Merge "Add tests for rootn() to math_conformance."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aac7f0a</span>
+                                        <span class="message">am 047b8f3c: am 06874425: am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '047b8f3ccc280914defc35049d029d5b92a07269':
+  docs: add 101 class about intents, Interacting with Other Apps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#047b8f3</span>
+                                        <span class="message">am 06874425: am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '068744258bce3fa5f47aa40f591793bbfa006613':
+  docs: add 101 class about intents, Interacting with Other Apps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f1e17d8</span>
+                                        <span class="message">am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '71e8f4c152a84ff420dcf834bc0acd73644f0cb0':
+  docs: add 101 class about intents, Interacting with Other Apps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7d4a2ad</span>
+                                        <span class="message">am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '71e8f4c152a84ff420dcf834bc0acd73644f0cb0':
+  docs: add 101 class about intents, Interacting with Other Apps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0687442</span>
+                                        <span class="message">am 71e8f4c1: Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1
+
+* commit '71e8f4c152a84ff420dcf834bc0acd73644f0cb0':
+  docs: add 101 class about intents, Interacting with Other Apps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#71e8f4c</span>
+                                        <span class="message">Merge "docs: add 101 class about intents, Interacting with Other Apps" into ics-mr1</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d1f3de4</span>
+                                        <span class="message">Merge "Be more careful about exceptions in input callbacks."</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#de368ff</span>
+                                        <span class="message">Change window manager to use fixed size for the status bar.
+
+Unlike the nav bar, it only uses a fixed size for determining
+how to layout elements around it; it lets the status bar window
+itself be whatever size it wants.
+
+Change-Id: Id04278981ab38915280a47368fccc7ec14bb97ec</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f29f236</span>
+                                        <span class="message">Fix a race condition in SyncManager.onAccountsUpdated()
+
+Get the full list of accounts from AccountManagerService in one shot
+instead of getting them per user.
+
+Bug: 6263091
+
+Change-Id: I488f24749a96281ef1e2a620820399c97f471024</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">android12</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d3975a9</span>
+                                        <span class="message">Fix WifiManager async API
+
+Fix the current asynchronous API to use callback like the way
+was done with p2p API.
+
+In the process, fix the use of WPS
+
+Change-Id: Ib6f8714cf51b3525b655948268804e7eaaf17587</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0f4e09</span>
+                                        <span class="message">dumpstate: move some of the cheaper-to-collect info earlier.
+
+Some of the state gathering commands take time (ping,...).
+They give the system a chance to reboot when things are going belly-up.
+We now move some of the cheaper ones (dmesg, last_kmsg, /proc/*...)
+earlier in the dump.
+
+Change-Id: I9ffc50ef9105a63193072bc34922dc0bc2bfbd38</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5bb59da</span>
+                                        <span class="message">Merge: Send UpdateLock broadcasts to manifest receivers
+
+So that e.g. the system update service doesn't need to run all the time.
+
+Bug 5543442
+
+Change-Id: I4cd38240e67851daa5542a2962953e5dbed15b86</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a231071</span>
+                                        <span class="message">am 9d36dcc0: am dcc910ea: Merge "docs: fix bug 5878445" into ics-mr1
+
+* commit '9d36dcc0f29d7afc7656d9320dd3a5edfb980989':</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b4afb9a</span>
+                                        <span class="message">am 8125b0b4: am dcc910ea: Merge "docs: fix bug 5878445" into ics-mr1
+
+* commit '8125b0b4343b7f480196ce73103ca00cdf64f9e5':
+  docs: fix bug 5878445</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8125b0b</span>
+                                        <span class="message">am dcc910ea: Merge "docs: fix bug 5878445" into ics-mr1
+
+* commit 'dcc910ea6eb724fe7e0a415afcdf1a5aefc42f06':
+  docs: fix bug 5878445</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9d36dcc</span>
+                                        <span class="message">am dcc910ea: Merge "docs: fix bug 5878445" into ics-mr1
+
+* commit 'dcc910ea6eb724fe7e0a415afcdf1a5aefc42f06':
+  docs: fix bug 5878445</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dcc910e</span>
+                                        <span class="message">Merge "docs: fix bug 5878445" into ics-mr1</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#faf88b8</span>
+                                        <span class="message">Merge "Instead of hardcoding OMX component names in our code, support"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4b1afab</span>
+                                        <span class="message">extend timeout to allow for more time for the device to connect.
+
+Change-Id: If3929ca69a5025c7048d57276813c270229a76db</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#52cb1e5</span>
+                                        <span class="message">Fixes to DrmConvertedStatus, DrmInfoStatus, and DrmSupportInfo classes
+
+o added missing javadoc comment for some public fields
+o added checks for arguments
+o DrmSupportInfo should have not been exposed as public.
+  A default package access modifier appears to be more proper but we may
+  not be able to change the modifier.
+
+Change-Id: I5b284c17219c5121f241ee2934fb3e859ce7c827</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d8f45c1</span>
+                                        <span class="message">Merge "Small tweak to Canvas.drawPath() GL implementation"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dd7c8e4</span>
+                                        <span class="message">Small tweak to Canvas.drawPath() GL implementation
+
+Change-Id: I1d668a912996e1267bcf2127058888e489a2d9b3</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#148c5da</span>
+                                        <span class="message">Merge "Clean up Surface Texture on Java side"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3d3864f</span>
+                                        <span class="message">Instead of hardcoding OMX component names in our code, support
+
+a config file instead.
+
+Change-Id: I5835903ab9f1c4a22ccc605ca99ed966767adf57</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fdd646b</span>
+                                        <span class="message">Clean up Surface Texture on Java side
+
+bug:6079959
+
+Change-Id: I5869d4fe4dc6eb12a117937b95a8277897d71ebb</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#393acac</span>
+                                        <span class="message">Merge "[maguro] Add Cheers' MCCMNC in SIMRecords.java"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#efa4943</span>
+                                        <span class="message">am 4f306bec: Reconcile with ics-mr1-release
+
+* commit '4f306becef17ea986522202cc8c90b0e32e2ded1':</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4f306be</span>
+                                        <span class="message">Reconcile with ics-mr1-release
+
+Change-Id: If1919ebd98b63a6380de01d761107ee78e2bda9a</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#859b7ef</span>
+                                        <span class="message">[maguro] Add Cheers' MCCMNC in SIMRecords.java
+
+[issue 5963659]
+Result:
+There is no APN information for Cheers
+
+Expected Result:
+Mobile internet APN name for Cheers should be displayed
+
+Change-Id: Iab29cfbd06ab15559048ced23136abae1fcab8f3</span>
                                     </div>
                                 </div>
                             </section>
@@ -2050,7 +2149,7 @@ Change-Id: I0657739da54bc424433063a2244d045e47411e5f</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 16:36:37 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 17:31:20 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
