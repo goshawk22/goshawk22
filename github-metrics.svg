@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2807" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2679" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -336,7 +337,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.45
+                            Average per day at ~1.98
                         </div>
                     </section>
                 </div>
@@ -474,14 +475,14 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.428571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -600,9 +601,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.714285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.285714285714286 0,3.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2857142857142856 1.7,4.285714285714286 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.285714285714286 0,3.2857142857142856 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2857142857142856 1.7,4.285714285714286 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -617,14 +618,14 @@
                         </g>
                         <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 3.4285714285714284)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -654,14 +655,14 @@
                         </g>
                         <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 4.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-1.7, 3.2857142857142856)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.714285714285714 0,4.714285714285714 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.714285714285714 1.7,5.714285714285714 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.714285714285714 0,4.714285714285714 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.714285714285714 1.7,5.714285714285714 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -716,26 +717,26 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                         </g>
                         <g transform="translate(17, 10)">
                             <g transform="translate(0, 4.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -765,9 +766,9 @@
                         </g>
                         <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 4.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -785,9 +786,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-6.8, 6.571428571428571)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -817,9 +818,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -832,9 +833,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                         </g>
                         <g transform="translate(22.099999999999998, 13)">
@@ -864,14 +865,14 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.428571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.142857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
                         <g transform="translate(23.8, 14)">
@@ -906,16 +907,16 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.428571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                         </g>
                         <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 4.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -923,9 +924,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -938,31 +939,31 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.142857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.142857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
                         <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 3.4285714285714284)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -980,9 +981,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.428571428571429)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
                         <g transform="translate(28.9, 17)">
@@ -1012,9 +1013,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.142857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1024,9 +1025,9 @@
                         </g>
                         <g transform="translate(30.599999999999998, 18)">
                             <g transform="translate(0, 4.285714285714286)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1071,9 +1072,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.428571428571429)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1091,9 +1092,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.428571428571429)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
                         <g transform="translate(34, 20)">
@@ -1330,16 +1331,11 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.857142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1371,158 +1367,158 @@
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2f7e887</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours am: 73b407caba -s ours
+                                        <div class="sha">#2f7e887</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours am: 73b407caba -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
 
-Change-Id: I0a0430df2aeaf2c656d8dace804e89bea146ab72</span>
+Change-Id: I0a0430df2aeaf2c656d8dace804e89bea146ab72</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#922a15c</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 762326338e -s ours
+                                        <div class="sha">#922a15c</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 762326338e -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806214
 
-Change-Id: Idb711f70a1ffe48dfee70cf9154b116c4b7cbc77</span>
+Change-Id: Idb711f70a1ffe48dfee70cf9154b116c4b7cbc77</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e658dc4</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 54296def63 -s ours
+                                        <div class="sha">#e658dc4</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 54296def63 -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806411
 
-Change-Id: Ib1451178c6bffebc1f274c38e6ed622d9f1eec5b</span>
+Change-Id: Ib1451178c6bffebc1f274c38e6ed622d9f1eec5b</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1a01ce9</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 2107755bdd -s ours
+                                        <div class="sha">#1a01ce9</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 2107755bdd -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806665
 
-Change-Id: If31a94099f7aacc72b83b0772e9dcfb9eaaf8c8f</span>
+Change-Id: If31a94099f7aacc72b83b0772e9dcfb9eaaf8c8f</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a7e6ae3</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 50a4da21bd -s ours
+                                        <div class="sha">#a7e6ae3</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 50a4da21bd -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807020
 
-Change-Id: If3555ed8d74a5a6f8ed4f456e3c0b06fddb03ae0</span>
+Change-Id: If3555ed8d74a5a6f8ed4f456e3c0b06fddb03ae0</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#14bb10c</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: c26cd981f0 -s ours
+                                        <div class="sha">#14bb10c</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: c26cd981f0 -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807557
 
-Change-Id: Icfd1544241557a8b13fe0c20fefd02c41d4b010d</span>
+Change-Id: Icfd1544241557a8b13fe0c20fefd02c41d4b010d</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8aa7ec2</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 1c5b9275b5 -s ours
+                                        <div class="sha">#8aa7ec2</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 1c5b9275b5 -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807887
 
-Change-Id: I26f14afa8241ec73cd352790e8be9c43b1bb9c86</span>
+Change-Id: I26f14afa8241ec73cd352790e8be9c43b1bb9c86</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e0b1072</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: aaf9602410 -s ours
+                                        <div class="sha">#e0b1072</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: aaf9602410 -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810223
 
-Change-Id: I4be3635e9f14379d560da7d9f694c41ec7fc40f3</span>
+Change-Id: I4be3635e9f14379d560da7d9f694c41ec7fc40f3</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#73b407c</span>
-                                        <span class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours
+                                        <div class="sha">#73b407c</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours
 
 am skip reason: subject contains skip directive
 
 Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
 
-Change-Id: I8c253ab7df706c19123de83aaa5478a6bc4d71df</span>
+Change-Id: I8c253ab7df706c19123de83aaa5478a6bc4d71df</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7623263</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                        <div class="sha">#7623263</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#761f529</span>
-                                        <span class="message">Merge changes from topic "presubmit-am-9775583256df468cab6420b6719fce49" into sc-qpr1-dev
+                                        <div class="sha">#761f529</div>
+                                        <div class="message">Merge changes from topic "presubmit-am-9775583256df468cab6420b6719fce49" into sc-qpr1-dev
 
 * changes:
   [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 3e7b073541
-  Import translations. DO NOT MERGE ANYWHERE</span>
+  Import translations. DO NOT MERGE ANYWHERE</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#758c3c9</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev</span>
+                                        <div class="sha">#758c3c9</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#54296de</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                        <div class="sha">#54296de</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5f90e5c</span>
-                                        <span class="message">Merge changes from topic "presubmit-am-fa6802abdeff4b8ea35356d58a58bda6" into sc-qpr1-dev
+                                        <div class="sha">#5f90e5c</div>
+                                        <div class="message">Merge changes from topic "presubmit-am-fa6802abdeff4b8ea35356d58a58bda6" into sc-qpr1-dev
 
 * changes:
   [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: b5c9411929
-  Import translations. DO NOT MERGE ANYWHERE</span>
+  Import translations. DO NOT MERGE ANYWHERE</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2107755</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                        <div class="sha">#2107755</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#544a701</span>
-                                        <span class="message">Merge changes from topic "presubmit-am-b1e8854305b244f1a96abfcc97b3ccd7" into sc-qpr1-dev
+                                        <div class="sha">#544a701</div>
+                                        <div class="message">Merge changes from topic "presubmit-am-b1e8854305b244f1a96abfcc97b3ccd7" into sc-qpr1-dev
 
 * changes:
   [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 97fa83e0ec
-  Import translations. DO NOT MERGE ANYWHERE</span>
+  Import translations. DO NOT MERGE ANYWHERE</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#50a4da2</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                        <div class="sha">#50a4da2</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#abfea44</span>
-                                        <span class="message">Merge changes from topic "presubmit-am-1bbd0f65340f4740a2eb6e4b49c5bdca" into sc-qpr1-dev
+                                        <div class="sha">#abfea44</div>
+                                        <div class="message">Merge changes from topic "presubmit-am-1bbd0f65340f4740a2eb6e4b49c5bdca" into sc-qpr1-dev
 
 * changes:
   [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 8a31f4aba3
-  Import translations. DO NOT MERGE ANYWHERE</span>
+  Import translations. DO NOT MERGE ANYWHERE</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c26cd98</span>
-                                        <span class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</span>
+                                        <div class="sha">#c26cd98</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2e5b8ba</span>
-                                        <span class="message">Merge changes from topic "presubmit-am-bb4a824ed94f498799af04d5ca2829b8" into sc-qpr1-dev
+                                        <div class="sha">#2e5b8ba</div>
+                                        <div class="message">Merge changes from topic "presubmit-am-bb4a824ed94f498799af04d5ca2829b8" into sc-qpr1-dev
 
 * changes:
   [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: c7b64e0b7b
-  Import translations. DO NOT MERGE ANYWHERE</span>
+  Import translations. DO NOT MERGE ANYWHERE</div>
                                     </div>
                                 </div>
                             </section>
@@ -1541,43 +1537,43 @@ Change-Id: I8c253ab7df706c19123de83aaa5478a6bc4d71df</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#7125d3b</span>
-                                        <span class="message">Added NR band support
+                                        <div class="sha">#7125d3b</div>
+                                        <div class="message">Added NR band support
 
 Added band info in cell identity.
 
 Test: Telephony sanity tests
 Bug: 131061889
-Change-Id: I0fb0e7e466a0188f04db595b8e417870666005ba</span>
+Change-Id: I0fb0e7e466a0188f04db595b8e417870666005ba</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#67c89f3</span>
-                                        <span class="message">Handle ParcelableException instead of crashing system server
+                                        <div class="sha">#67c89f3</div>
+                                        <div class="message">Handle ParcelableException instead of crashing system server
 
 Unhandled exception is causing system server to crash.
 
 Bug: 146790672
 Test: builds successfully
 Change-Id: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5
-Merged-In: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5</span>
+Merged-In: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#34bf53f</span>
-                                        <span class="message">CameraManager: Add physical camera availability callback
+                                        <div class="sha">#34bf53f</div>
+                                        <div class="message">CameraManager: Add physical camera availability callback
 
 Add CameraManager callback for physical camera availability.
 
 Bug: 119325027
 Test: Camera CTS
-Change-Id: Ibe0357f5034769511576cc71c04365a1009a2be1</span>
+Change-Id: Ibe0357f5034769511576cc71c04365a1009a2be1</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0e4d731</span>
-                                        <span class="message">Merge "Delete NetworkFactory from frameworks/base/core."</span>
+                                        <div class="sha">#0e4d731</div>
+                                        <div class="message">Merge "Delete NetworkFactory from frameworks/base/core."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ac37b63</span>
-                                        <span class="message">Multi-Plmn and CSG Support For CellInfo
+                                        <div class="sha">#ac37b63</div>
+                                        <div class="message">Multi-Plmn and CSG Support For CellInfo
 
 Add CellIdentity support for HAL 1.5
 
@@ -1588,96 +1584,96 @@ Add CellIdentity support for HAL 1.5
 
 Bug: 135921133
 Test: wip
-Change-Id: Iffd9351d2170a496639eced2c4618819f522494c</span>
+Change-Id: Iffd9351d2170a496639eced2c4618819f522494c</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5561857</span>
-                                        <span class="message">Merge "Revert "Adds a new ACCESS_CONTEXT_HUB permission""</span>
+                                        <div class="sha">#5561857</div>
+                                        <div class="message">Merge "Revert "Adds a new ACCESS_CONTEXT_HUB permission""</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9d744e5</span>
-                                        <span class="message">Adds more flags for cursor control features.
+                                        <div class="sha">#9d744e5</div>
+                                        <div class="message">Adds more flags for cursor control features.
 
  - The delta height &amp; opacity for the insertion handle.
  - The zoom factor &amp; aspect ratio for the new magnifier.
 
 Test: m -j &amp; manual tested.
 Bug: 145558249, 145550493, 145545591, 145555868
-Change-Id: Ie69bd606ff738b19f3af166e7beeac2c32c705ba</span>
+Change-Id: Ie69bd606ff738b19f3af166e7beeac2c32c705ba</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#26a8cbe</span>
-                                        <span class="message">Merge "API changes for IPv6 MTU support"</span>
+                                        <div class="sha">#26a8cbe</div>
+                                        <div class="message">Merge "API changes for IPv6 MTU support"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#49161ea</span>
-                                        <span class="message">Merge "Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e"</span>
+                                        <div class="sha">#49161ea</div>
+                                        <div class="message">Merge "Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#709517e</span>
-                                        <span class="message">Merge "Add CrossProfileApps#startActivity which takes an Intent."</span>
+                                        <div class="sha">#709517e</div>
+                                        <div class="message">Merge "Add CrossProfileApps#startActivity which takes an Intent."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0fff065</span>
-                                        <span class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e
+                                        <div class="sha">#0fff065</div>
+                                        <div class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e
 
-Change-Id: I2d9a1db2b952f9c1a3a0df2541a2468d261f3ba8</span>
+Change-Id: I2d9a1db2b952f9c1a3a0df2541a2468d261f3ba8</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0b19cd9</span>
-                                        <span class="message">Merge "Pipe windowToken of window requesting IME"</span>
+                                        <div class="sha">#0b19cd9</div>
+                                        <div class="message">Merge "Pipe windowToken of window requesting IME"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#12d0ea4</span>
-                                        <span class="message">Merge "Add system API for building document URI with user ID."</span>
+                                        <div class="sha">#12d0ea4</div>
+                                        <div class="message">Merge "Add system API for building document URI with user ID."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#969feb5</span>
-                                        <span class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4
+                                        <div class="sha">#969feb5</div>
+                                        <div class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4
 
-Change-Id: I1a7bcf699cb3f62f3cb555ad668c8a64345ebb18</span>
+Change-Id: I1a7bcf699cb3f62f3cb555ad668c8a64345ebb18</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#017d58e</span>
-                                        <span class="message">Merge changes from topic "delete_scs_pullers"
+                                        <div class="sha">#017d58e</div>
+                                        <div class="message">Merge changes from topic "delete_scs_pullers"
 
 * changes:
   Delete StatsCompanionServicePuller
-  Migrate Debug(Failing)ElapsedClock to new API</span>
+  Migrate Debug(Failing)ElapsedClock to new API</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7bb1610</span>
-                                        <span class="message">Merge "Expose ImsConfig constants as part of API."
+                                        <div class="sha">#7bb1610</div>
+                                        <div class="message">Merge "Expose ImsConfig constants as part of API."
 am: 48f7f07d52
 
-Change-Id: I186a61a907571f9ae4b842230e6745246a5482f0</span>
+Change-Id: I186a61a907571f9ae4b842230e6745246a5482f0</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f8cb893</span>
-                                        <span class="message">Merge "Add isDocumentType in MediaFile and fix test case fail"</span>
+                                        <div class="sha">#f8cb893</div>
+                                        <div class="message">Merge "Add isDocumentType in MediaFile and fix test case fail"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#48f7f07</span>
-                                        <span class="message">Merge "Expose ImsConfig constants as part of API."</span>
+                                        <div class="sha">#48f7f07</div>
+                                        <div class="message">Merge "Expose ImsConfig constants as part of API."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#73b85a6</span>
-                                        <span class="message">Add power manager to critical bug section
+                                        <div class="sha">#73b85a6</div>
+                                        <div class="message">Add power manager to critical bug section
 
 Add critical level to power manager service dump priority.
 
 Bug: 142112504
 Test: dumpsys -l --priority CRITICAL with power manager in the list.
 Test: dumpsys --priority CRITICAL with power manager dumpsys in result.
-Change-Id: I04919a5d31e01fc01d685845ce643cbba8656caa</span>
+Change-Id: I04919a5d31e01fc01d685845ce643cbba8656caa</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d59b90a</span>
-                                        <span class="message">Merge changes from topic "system_usages"
+                                        <div class="sha">#d59b90a</div>
+                                        <div class="message">Merge changes from topic "system_usages"
 
 * changes:
   Add API for setting supported system usages
-  Adding System Usages to AudioAttributes</span>
+  Adding System Usages to AudioAttributes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1696,30 +1692,30 @@ Change-Id: I04919a5d31e01fc01d685845ce643cbba8656caa</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2b9e33d</span>
-                                        <span class="message">Merge "Adds a flag to force the Nav Bar handle to remain visible"</span>
+                                        <div class="sha">#2b9e33d</div>
+                                        <div class="message">Merge "Adds a flag to force the Nav Bar handle to remain visible"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6c27294</span>
-                                        <span class="message">Merge "Add tmp renderer for Inline Presentation UI until extServices implemented."</span>
+                                        <div class="sha">#6c27294</div>
+                                        <div class="message">Merge "Add tmp renderer for Inline Presentation UI until extServices implemented."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e4e8b75</span>
-                                        <span class="message">Merge "Add NR to ServiceState#isLte and rename to isPsOnlyTech"</span>
+                                        <div class="sha">#e4e8b75</div>
+                                        <div class="message">Merge "Add NR to ServiceState#isLte and rename to isPsOnlyTech"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8f35860</span>
-                                        <span class="message">Unregister native pull atom callback
+                                        <div class="sha">#8f35860</div>
+                                        <div class="message">Unregister native pull atom callback
 
 Statsd changes to unregister a native puller.
 
 Bug:14437325
 Test: builds, boots
-Change-Id: I1a1841de6e913f681c51919fcb9b18e30eb37801</span>
+Change-Id: I1a1841de6e913f681c51919fcb9b18e30eb37801</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ce55f80</span>
-                                        <span class="message">Fixed an issue Zygote initialization.
+                                        <div class="sha">#ce55f80</div>
+                                        <div class="message">Fixed an issue Zygote initialization.
 
 An assignment to a flag and a call to a function that uses that flag
 were in the wrong order.
@@ -1727,11 +1723,11 @@ were in the wrong order.
 Bug: 146614089
 Test: Treehugger
 Change-Id: If046aa62084892b8dae10497f15cf4c685d226db
-Merged-In: If046aa62084892b8dae10497f15cf4c685d226db</span>
+Merged-In: If046aa62084892b8dae10497f15cf4c685d226db</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d8ef116</span>
-                                        <span class="message">Improved timekeeping logic for USAP Pool refill mechanism.
+                                        <div class="sha">#d8ef116</div>
+                                        <div class="message">Improved timekeeping logic for USAP Pool refill mechanism.
 
 This patch makes two changes to increase the reliability of the USAP
 pool refill mechanism.  The first is to change the storage type of the
@@ -1745,21 +1741,21 @@ the initial event triggered the refill delay, the delay will now be reset.
 Bug: 146614089
 Test: Treehugger
 Change-Id: Ic6f65de51757803b5ba95975bab3b9322a91c837
-Merged-In: Ic6f65de51757803b5ba95975bab3b9322a91c837</span>
+Merged-In: Ic6f65de51757803b5ba95975bab3b9322a91c837</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b28db4a</span>
-                                        <span class="message">Resets the refill action/timing info after a pool fill event.
+                                        <div class="sha">#b28db4a</div>
+                                        <div class="message">Resets the refill action/timing info after a pool fill event.
 
 Bug: 132794985
 Bug: 146614089
 Test: m &amp; flash &amp; launch more apps than USAPs in the pool
 Change-Id: I9ee74d76692fa8aeba9c70765b3e8f98ea9105bc
-Merged-In: I9ee74d76692fa8aeba9c70765b3e8f98ea9105bc</span>
+Merged-In: I9ee74d76692fa8aeba9c70765b3e8f98ea9105bc</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#eabbf87</span>
-                                        <span class="message">Make the USAP Pool refill delay configurable.
+                                        <div class="sha">#eabbf87</div>
+                                        <div class="message">Make the USAP Pool refill delay configurable.
 
 This patch fetches the USAP pool refill delay value from device_config
 instead of hardcoding it.
@@ -1768,20 +1764,20 @@ Bug: 131362095
 Bug: 146614089
 Test: Build and launch 10+ apps successfully
 Change-Id: Idfeb30fa62fa296492da211b2b44902ff4f99b18
-Merged-In: Idfeb30fa62fa296492da211b2b44902ff4f99b18</span>
+Merged-In: Idfeb30fa62fa296492da211b2b44902ff4f99b18</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7e9f83e</span>
-                                        <span class="message">Re-adds a trace  point that was accidentally removed.
+                                        <div class="sha">#7e9f83e</div>
+                                        <div class="message">Re-adds a trace  point that was accidentally removed.
 
 Test: Built and collected a trace to verify slice ended
 Bug: 146614089
 Change-Id: Ic75d65fc7b2a417fc3a58c2df8ec9deb795fb418
-Merged-In: Ic75d65fc7b2a417fc3a58c2df8ec9deb795fb418</span>
+Merged-In: Ic75d65fc7b2a417fc3a58c2df8ec9deb795fb418</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9091be3</span>
-                                        <span class="message">Moved some thread priority changes.
+                                        <div class="sha">#9091be3</div>
+                                        <div class="message">Moved some thread priority changes.
 
 The previous place I had moved these changes resulted in runtime threads
 being created at the wrong priority.  This patch moves the calls to the
@@ -1790,11 +1786,11 @@ correct location.
 Test: atest CtsJvmtiRunTest924HostTestCases
 Bug: 146614089
 Change-Id: Iad2e17cd137eab81c595cb6816608a36b009da8b
-Merged-In: Iad2e17cd137eab81c595cb6816608a36b009da8b</span>
+Merged-In: Iad2e17cd137eab81c595cb6816608a36b009da8b</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#80993a6</span>
-                                        <span class="message">Adjust Java Language thread priority in new processes.
+                                        <div class="sha">#80993a6</div>
+                                        <div class="message">Adjust Java Language thread priority in new processes.
 
 Previously init started the Zygote with -20 nice value and then
 immediately switched it to 0 in ZygoteInit.main so that new applications
@@ -1805,11 +1801,11 @@ processes and not the priority of the Zygote.
 Test: m &amp; flash &amp; check ps
 Bug: 146614089
 Change-Id: Id00d0cfd642f02640c40b6e7b2aa8933a320b60c
-Merged-In: Id00d0cfd642f02640c40b6e7b2aa8933a320b60c</span>
+Merged-In: Id00d0cfd642f02640c40b6e7b2aa8933a320b60c</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0b2fbfc</span>
-                                        <span class="message">Adjusts the USAP pool refill mechanism.
+                                        <div class="sha">#0b2fbfc</div>
+                                        <div class="message">Adjusts the USAP pool refill mechanism.
 
 This patch adjusts the USAP pool refill mechanism so that it is less
 disruptive to launching applications.  Refill events are now delayed
@@ -1824,11 +1820,11 @@ Bug: 131362095
 Bug: 146614089
 Test: booted &amp; launched apps &amp; checked logs
 Change-Id: I7328f304c9b744cfdbfbdbe522a5f9aeea5233bb
-Merged-In: I7328f304c9b744cfdbfbdbe522a5f9aeea5233bb</span>
+Merged-In: I7328f304c9b744cfdbfbdbe522a5f9aeea5233bb</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#82cde3e</span>
-                                        <span class="message">Change USAP name to application name as soon as possible.
+                                        <div class="sha">#82cde3e</div>
+                                        <div class="message">Change USAP name to application name as soon as possible.
 
 This patch changes the location where the process's name is changed to
 that of the application being launched.  It also attempts to use the
@@ -1837,48 +1833,48 @@ package name if the "nice name" is missing.
 Test: m &amp; flash &amp; boot
 Bug: 146614089
 Change-Id: Id3a3d0b2b66d31c48274f8a986e86e9ed1d28f34
-Merged-In: Id3a3d0b2b66d31c48274f8a986e86e9ed1d28f34</span>
+Merged-In: Id3a3d0b2b66d31c48274f8a986e86e9ed1d28f34</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e138515</span>
-                                        <span class="message">DO NOT MERGE - Merge qt-qpr1-dev-plus-aosp-without-vendor (6129114) into stage-aosp-master
+                                        <div class="sha">#e138515</div>
+                                        <div class="message">DO NOT MERGE - Merge qt-qpr1-dev-plus-aosp-without-vendor (6129114) into stage-aosp-master
 
 Bug: 146167222
-Change-Id: Ifeb003ec9b3bf824f04d31a117aea65d517241fb</span>
+Change-Id: Ifeb003ec9b3bf824f04d31a117aea65d517241fb</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ff27c7a</span>
-                                        <span class="message">Merge "Add new system API constant DEFAULT_PREFERRED_NETWORK_MODE"</span>
+                                        <div class="sha">#ff27c7a</div>
+                                        <div class="message">Merge "Add new system API constant DEFAULT_PREFERRED_NETWORK_MODE"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bbc2aae</span>
-                                        <span class="message">Merge changes from topic "barring-info"
+                                        <div class="sha">#bbc2aae</div>
+                                        <div class="message">Merge changes from topic "barring-info"
 
 * changes:
   Add a BARRING_TYPE_UNKNOWN for Unreported Barring
-  Add Callback to notify changes of barring status</span>
+  Add Callback to notify changes of barring status</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#224c904</span>
-                                        <span class="message">Merge "Improve exception handling in SoundTrigger"</span>
+                                        <div class="sha">#224c904</div>
+                                        <div class="message">Merge "Improve exception handling in SoundTrigger"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#68b8332</span>
-                                        <span class="message">Merge "Add AppSearch.java, containing the Document class, base Builder, and Email."</span>
+                                        <div class="sha">#68b8332</div>
+                                        <div class="message">Merge "Add AppSearch.java, containing the Document class, base Builder, and Email."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6df25f7</span>
-                                        <span class="message">Merge "Change "Storage" permission group label"</span>
+                                        <div class="sha">#6df25f7</div>
+                                        <div class="message">Merge "Change "Storage" permission group label"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#38b3e3a</span>
-                                        <span class="message">UserManagerService: Add UserHandle extra to user added/removed broadcast
+                                        <div class="sha">#38b3e3a</div>
+                                        <div class="message">UserManagerService: Add UserHandle extra to user added/removed broadcast
 
 Also, renamed a local variable.
 
 Bug: 147611548
 Test: Compiles
-Change-Id: I4de739c7719321c83ebdd32df13395d9a218c4ad</span>
+Change-Id: I4de739c7719321c83ebdd32df13395d9a218c4ad</div>
                                     </div>
                                 </div>
                             </section>
@@ -1897,75 +1893,75 @@ Change-Id: I4de739c7719321c83ebdd32df13395d9a218c4ad</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#be1592e</span>
-                                        <span class="message">[automerger skipped] Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c am: 3ea02b9c0a -s ours
+                                        <div class="sha">#be1592e</div>
+                                        <div class="message">[automerger skipped] Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c am: 3ea02b9c0a -s ours
 am skip reason: Change-Id I2510de0ab1ce40c8d191a17dbae7f4c33418006c with SHA-1 75e6aa2764 is in history
 
-Change-Id: Ib4c8895efc2411d7f744d24ae2ec46667cf85eea</span>
+Change-Id: Ib4c8895efc2411d7f744d24ae2ec46667cf85eea</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#474bceb</span>
-                                        <span class="message">[automerger skipped] Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25 am: 3939375a3a -s ours
+                                        <div class="sha">#474bceb</div>
+                                        <div class="message">[automerger skipped] Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25 am: 3939375a3a -s ours
 am skip reason: Change-Id I43c7e088e46e40f38d8114548e0fc4e39d7f91cb with SHA-1 77a7ea65fd is in history
 
-Change-Id: Ia8b26d50299dfb07178d0adef52cc422317070e9</span>
+Change-Id: Ia8b26d50299dfb07178d0adef52cc422317070e9</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e4ec044</span>
-                                        <span class="message">[automerger skipped] Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6 am: 4fa2cd2bf2 -s ours
+                                        <div class="sha">#e4ec044</div>
+                                        <div class="message">[automerger skipped] Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6 am: 4fa2cd2bf2 -s ours
 am skip reason: Change-Id I0fb0e7e466a0188f04db595b8e417870666005ba with SHA-1 7125d3ba10 is in history
 
-Change-Id: If5b0208edcfb7b1a764758282080c1aa5da064d4</span>
+Change-Id: If5b0208edcfb7b1a764758282080c1aa5da064d4</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4d9a575</span>
-                                        <span class="message">[automerger skipped] Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44 am: 6fc8ead685 -s ours
+                                        <div class="sha">#4d9a575</div>
+                                        <div class="message">[automerger skipped] Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44 am: 6fc8ead685 -s ours
 am skip reason: Change-Id Iffd9351d2170a496639eced2c4618819f522494c with SHA-1 ac37b6344d is in history
 
-Change-Id: I9f23eb07c789feab8674cea9246e76ea8653be73</span>
+Change-Id: I9f23eb07c789feab8674cea9246e76ea8653be73</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#de13132</span>
-                                        <span class="message">Merge "Added multi-band support"
+                                        <div class="sha">#de13132</div>
+                                        <div class="message">Merge "Added multi-band support"
 am: bae34cb9f9
 
-Change-Id: I3e4d86f2e5eb4e17b6c0271c8312d9f3a1f3ce72</span>
+Change-Id: I3e4d86f2e5eb4e17b6c0271c8312d9f3a1f3ce72</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bbc9afb</span>
-                                        <span class="message">Merge "Remove XML serialization/parsing code from the app integrity component."</span>
+                                        <div class="sha">#bbc9afb</div>
+                                        <div class="message">Merge "Remove XML serialization/parsing code from the app integrity component."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#bae34cb</span>
-                                        <span class="message">Merge "Added multi-band support"</span>
+                                        <div class="sha">#bae34cb</div>
+                                        <div class="message">Merge "Added multi-band support"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#3ea02b9</span>
-                                        <span class="message">Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c
+                                        <div class="sha">#3ea02b9</div>
+                                        <div class="message">Merge "PhoneCapability cleanup" am: b922a13760 am: b2cf59c78c
 
-Change-Id: Ibcd39a40b4cd33804112783ecedaf248562f7942</span>
+Change-Id: Ibcd39a40b4cd33804112783ecedaf248562f7942</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#3939375</span>
-                                        <span class="message">Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25
+                                        <div class="sha">#3939375</div>
+                                        <div class="message">Merge "API changes for IPv6 MTU support" am: 6c1ee55b63 am: 559d10dc25
 
-Change-Id: I08a8a0800d11a643281775d2f9dea5d13334c8f7</span>
+Change-Id: I08a8a0800d11a643281775d2f9dea5d13334c8f7</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4fa2cd2</span>
-                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6
+                                        <div class="sha">#4fa2cd2</div>
+                                        <div class="message">Merge changes from topics "multi-plmn", "nr_band" am: 7b2d5183dd am: 5c96a4a2d6
 
-Change-Id: I1f56da2c4cc38a9cacf1af71927903a6c66c5f73</span>
+Change-Id: I1f56da2c4cc38a9cacf1af71927903a6c66c5f73</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6fc8ead</span>
-                                        <span class="message">Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44
+                                        <div class="sha">#6fc8ead</div>
+                                        <div class="message">Multi-Plmn and CSG Support For CellInfo am: 955614761c am: 9e1b398d44
 
-Change-Id: Id7d2af05341e64faf53100741dc300800bb2bfc2</span>
+Change-Id: Id7d2af05341e64faf53100741dc300800bb2bfc2</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#924ef75</span>
-                                        <span class="message">Temporary bubble hack for new insets
+                                        <div class="sha">#924ef75</div>
+                                        <div class="message">Temporary bubble hack for new insets
 
 Offset the view instead of using setForwardedInsets which doesn't
 work anymore with the new insets system. That should resolve
@@ -1977,58 +1973,58 @@ example.
 
 Bug: 111084606
 Test: Open Bubbles test app, open IME.
-Change-Id: Idb4d32a77e96924e106688c4e11c63e8cff3ae1f</span>
+Change-Id: Idb4d32a77e96924e106688c4e11c63e8cff3ae1f</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b2cf59c</span>
-                                        <span class="message">Merge "PhoneCapability cleanup"
+                                        <div class="sha">#b2cf59c</div>
+                                        <div class="message">Merge "PhoneCapability cleanup"
 am: b922a13760
 
-Change-Id: I8c102995c2223e744805ab7e4696013b675acb94</span>
+Change-Id: I8c102995c2223e744805ab7e4696013b675acb94</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#559d10d</span>
-                                        <span class="message">Merge "API changes for IPv6 MTU support"
+                                        <div class="sha">#559d10d</div>
+                                        <div class="message">Merge "API changes for IPv6 MTU support"
 am: 6c1ee55b63
 
-Change-Id: I80f206245b9340a9df8b65c0e42413617eecadfb</span>
+Change-Id: I80f206245b9340a9df8b65c0e42413617eecadfb</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5c96a4a</span>
-                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band"
+                                        <div class="sha">#5c96a4a</div>
+                                        <div class="message">Merge changes from topics "multi-plmn", "nr_band"
 am: 7b2d5183dd
 
-Change-Id: I0301f0ad7cadda7c45a39f76fa4693f16f38b298</span>
+Change-Id: I0301f0ad7cadda7c45a39f76fa4693f16f38b298</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9e1b398</span>
-                                        <span class="message">Multi-Plmn and CSG Support For CellInfo
+                                        <div class="sha">#9e1b398</div>
+                                        <div class="message">Multi-Plmn and CSG Support For CellInfo
 am: 955614761c
 
-Change-Id: I29a783212d40f684426b1c70ab31b30ec3e5844e</span>
+Change-Id: I29a783212d40f684426b1c70ab31b30ec3e5844e</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b922a13</span>
-                                        <span class="message">Merge "PhoneCapability cleanup"</span>
+                                        <div class="sha">#b922a13</div>
+                                        <div class="message">Merge "PhoneCapability cleanup"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6c1ee55</span>
-                                        <span class="message">Merge "API changes for IPv6 MTU support"</span>
+                                        <div class="sha">#6c1ee55</div>
+                                        <div class="message">Merge "API changes for IPv6 MTU support"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7b2d518</span>
-                                        <span class="message">Merge changes from topics "multi-plmn", "nr_band"
+                                        <div class="sha">#7b2d518</div>
+                                        <div class="message">Merge changes from topics "multi-plmn", "nr_band"
 
 * changes:
   Added NR band support
-  Multi-Plmn and CSG Support For CellInfo</span>
+  Multi-Plmn and CSG Support For CellInfo</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#6af94e4</span>
-                                        <span class="message">[automerger skipped] Fix potential double destroy of AssetManager am: 93320661ca am: aefc05c016 am: 8e5d6a25b2 -s ours am: e38a710477 -s ours am: b5357be3a9 -s ours am: 7a091e335c -s ours am: 46a2bb6fac -s ours
+                                        <div class="sha">#6af94e4</div>
+                                        <div class="message">[automerger skipped] Fix potential double destroy of AssetManager am: 93320661ca am: aefc05c016 am: 8e5d6a25b2 -s ours am: e38a710477 -s ours am: b5357be3a9 -s ours am: 7a091e335c -s ours am: 46a2bb6fac -s ours
 am skip reason: Change-Id Ia938502d2443f5a6de6a3cabdb7ce1d41d3ff6d1 with SHA-1 0a8a1e9d40 is in history
 
-Change-Id: I495ade5c369293aab036ef8f4c3697e5c9bfc6f0</span>
+Change-Id: I495ade5c369293aab036ef8f4c3697e5c9bfc6f0</div>
                                     </div>
                                 </div>
                             </section>
@@ -2047,41 +2043,41 @@ Change-Id: I495ade5c369293aab036ef8f4c3697e5c9bfc6f0</span>
                                 <div class="details">
                                     <div>on branch <span class="code">android12</span></div>
                                     <div class="commit">
-                                        <span class="sha">#bb11a52</span>
-                                        <span class="message">Merge "Remove duplicated compat config."</span>
+                                        <div class="sha">#bb11a52</div>
+                                        <div class="message">Merge "Remove duplicated compat config."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#ca56379</span>
-                                        <span class="message">Merge "Update references to sdkextensions cts"
+                                        <div class="sha">#ca56379</div>
+                                        <div class="message">Merge "Update references to sdkextensions cts"
 am: 2c54508955
 
-Change-Id: Ida3ecddc5732d67cc4a8958dc850315885a43402</span>
+Change-Id: Ida3ecddc5732d67cc4a8958dc850315885a43402</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8187d53</span>
-                                        <span class="message">Merge "Update system api for applyPayload"
+                                        <div class="sha">#8187d53</div>
+                                        <div class="message">Merge "Update system api for applyPayload"
 am: c8f699d327
 
-Change-Id: I7f8c371488fb152cf6fb7aba939ab5be053b6a8c</span>
+Change-Id: I7f8c371488fb152cf6fb7aba939ab5be053b6a8c</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#fee904a</span>
-                                        <span class="message">Merge "Rename android.util.TimestampedValue to android.os"
+                                        <div class="sha">#fee904a</div>
+                                        <div class="message">Merge "Rename android.util.TimestampedValue to android.os"
 am: 641fa6730a
 
-Change-Id: I7b60d640763eb2c0fba975a885fe59be199f1813</span>
+Change-Id: I7b60d640763eb2c0fba975a885fe59be199f1813</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#657d1a7</span>
-                                        <span class="message">Merge changes from topic "revert-for-b/147407617"
+                                        <div class="sha">#657d1a7</div>
+                                        <div class="message">Merge changes from topic "revert-for-b/147407617"
 
 * changes:
   Revert "Convert NotificationContentInflater to singleton"
-  Revert "Move a bunch of row setters into an init method."</span>
+  Revert "Move a bunch of row setters into an init method."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#850892b</span>
-                                        <span class="message">Add new switchToInputMethod API
+                                        <div class="sha">#850892b</div>
+                                        <div class="message">Add new switchToInputMethod API
 
 Make accessibility service able to set the current input method
 for current user.
@@ -2097,85 +2093,85 @@ Test: atest AccessibilitySoftKeyboardTest
    3. Set current default IME
    $ adb shell settings put secure default_input_method
      com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
-Change-Id: I00aa2170ef2fcc4daf50d09a57b8e2ad16c0a6cb</span>
+Change-Id: I00aa2170ef2fcc4daf50d09a57b8e2ad16c0a6cb</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8089bc4</span>
-                                        <span class="message">Multiple shortcut menu for android R (4/n).
+                                        <div class="sha">#8089bc4</div>
+                                        <div class="message">Multiple shortcut menu for android R (4/n).
 
 Implementation for deleting the target.
 
 Fix: b/146967898
 Test: manual test
-Change-Id: Id5d10fa3cc7e1b3b818787837a4f5cb86b2e777f</span>
+Change-Id: Id5d10fa3cc7e1b3b818787837a4f5cb86b2e777f</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2c54508</span>
-                                        <span class="message">Merge "Update references to sdkextensions cts"</span>
+                                        <div class="sha">#2c54508</div>
+                                        <div class="message">Merge "Update references to sdkextensions cts"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a013dfc</span>
-                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea am: 47173f4481
+                                        <div class="sha">#a013dfc</div>
+                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea am: 47173f4481
 
-Change-Id: I202ba0c2fe026186c59bb0d7b58d8bb8b5be98c2</span>
+Change-Id: I202ba0c2fe026186c59bb0d7b58d8bb8b5be98c2</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#f16a616</span>
-                                        <span class="message">[automerger skipped] Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp am: 4666dc1d5c -s ours
+                                        <div class="sha">#f16a616</div>
+                                        <div class="message">[automerger skipped] Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp am: 4666dc1d5c -s ours
 am skip reason: Change-Id I6ab53570aca580fbee1fcc927871caa09780f58f with SHA-1 e23a0eb5ee is in history
 
-Change-Id: I482a10562741c2d0fdf9f36ff64083447a5c2d3f</span>
+Change-Id: I482a10562741c2d0fdf9f36ff64083447a5c2d3f</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#89a117a</span>
-                                        <span class="message">Merge "Remove @hide for CarrierConfigManager constant"</span>
+                                        <div class="sha">#89a117a</div>
+                                        <div class="message">Merge "Remove @hide for CarrierConfigManager constant"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#47173f4</span>
-                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea
+                                        <div class="sha">#47173f4</div>
+                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea
 
-Change-Id: I6bf8b0646d2a9c9df8451feb51b05bf00739c4c3</span>
+Change-Id: I6bf8b0646d2a9c9df8451feb51b05bf00739c4c3</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c8f699d</span>
-                                        <span class="message">Merge "Update system api for applyPayload"</span>
+                                        <div class="sha">#c8f699d</div>
+                                        <div class="message">Merge "Update system api for applyPayload"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9926692</span>
-                                        <span class="message">Merge "Implement a tracked bit reader (BitTrackedInputStream) which is capable of moving the file reading cursor forward when needed."</span>
+                                        <div class="sha">#9926692</div>
+                                        <div class="message">Merge "Implement a tracked bit reader (BitTrackedInputStream) which is capable of moving the file reading cursor forward when needed."</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4666dc1</span>
-                                        <span class="message">Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp</span>
+                                        <div class="sha">#4666dc1</div>
+                                        <div class="message">Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#641fa67</span>
-                                        <span class="message">Merge "Rename android.util.TimestampedValue to android.os"</span>
+                                        <div class="sha">#641fa67</div>
+                                        <div class="message">Merge "Rename android.util.TimestampedValue to android.os"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#19c2ed4</span>
-                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"
+                                        <div class="sha">#19c2ed4</div>
+                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"
 am: 44780ff920
 
-Change-Id: Ie432bee8641bd0c2e94adb04329ea6e80e8ed72c</span>
+Change-Id: Ie432bee8641bd0c2e94adb04329ea6e80e8ed72c</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#44780ff</span>
-                                        <span class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"</span>
+                                        <div class="sha">#44780ff</div>
+                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c20fe0c</span>
-                                        <span class="message">Merge "Fix crash and QQS session issues, visual updates"</span>
+                                        <div class="sha">#c20fe0c</div>
+                                        <div class="message">Merge "Fix crash and QQS session issues, visual updates"</div>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#c3648a8</span>
-                                        <span class="message">Refine documentation for Process.setThreadPriority
+                                        <div class="sha">#c3648a8</div>
+                                        <div class="message">Refine documentation for Process.setThreadPriority
 
 Add more description for the tid parameter.
 
 Bug: 139521784
 Test: compile
-Change-Id: I5ccfef865d49207172df301520cf38e942e03e21</span>
+Change-Id: I5ccfef865d49207172df301520cf38e942e03e21</div>
                                     </div>
                                 </div>
                             </section>
@@ -2185,7 +2181,7 @@ Change-Id: I5ccfef865d49207172df301520cf38e942e03e21</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 02:41:03 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 20 Jan 2022, 03:20:30 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
