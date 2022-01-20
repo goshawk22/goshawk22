@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2679" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2330" class="">
     <defs>
         <style/>
     </defs>
@@ -1357,6 +1357,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">sc-WIP</span>
+                                        in
+                                        <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2029,159 +2045,12 @@ Change-Id: I495ade5c369293aab036ef8f4c3697e5c9bfc6f0</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bb11a52</div>
-                                        <div class="message">Merge "Remove duplicated compat config."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca56379</div>
-                                        <div class="message">Merge "Update references to sdkextensions cts"
-am: 2c54508955
-
-Change-Id: Ida3ecddc5732d67cc4a8958dc850315885a43402</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8187d53</div>
-                                        <div class="message">Merge "Update system api for applyPayload"
-am: c8f699d327
-
-Change-Id: I7f8c371488fb152cf6fb7aba939ab5be053b6a8c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fee904a</div>
-                                        <div class="message">Merge "Rename android.util.TimestampedValue to android.os"
-am: 641fa6730a
-
-Change-Id: I7b60d640763eb2c0fba975a885fe59be199f1813</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#657d1a7</div>
-                                        <div class="message">Merge changes from topic "revert-for-b/147407617"
-
-* changes:
-  Revert "Convert NotificationContentInflater to singleton"
-  Revert "Move a bunch of row setters into an init method."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#850892b</div>
-                                        <div class="message">Add new switchToInputMethod API
-
-Make accessibility service able to set the current input method
-for current user.
-
-Bug: 145710994
-Test: atest AccessibilitySoftKeyboardTest
-   1. Get current enabled IMEs
-   $ adb shell settings get secure enabled_input_methods
-   com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
-   com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
-   2. Get current default IME
-   $ adb shell settings get secure default_input_method
-   3. Set current default IME
-   $ adb shell settings put secure default_input_method
-     com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
-Change-Id: I00aa2170ef2fcc4daf50d09a57b8e2ad16c0a6cb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8089bc4</div>
-                                        <div class="message">Multiple shortcut menu for android R (4/n).
-
-Implementation for deleting the target.
-
-Fix: b/146967898
-Test: manual test
-Change-Id: Id5d10fa3cc7e1b3b818787837a4f5cb86b2e777f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c54508</div>
-                                        <div class="message">Merge "Update references to sdkextensions cts"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a013dfc</div>
-                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea am: 47173f4481
-
-Change-Id: I202ba0c2fe026186c59bb0d7b58d8bb8b5be98c2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f16a616</div>
-                                        <div class="message">[automerger skipped] Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp am: 4666dc1d5c -s ours
-am skip reason: Change-Id I6ab53570aca580fbee1fcc927871caa09780f58f with SHA-1 e23a0eb5ee is in history
-
-Change-Id: I482a10562741c2d0fdf9f36ff64083447a5c2d3f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89a117a</div>
-                                        <div class="message">Merge "Remove @hide for CarrierConfigManager constant"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47173f4</div>
-                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods" am: 44780ff920 am: 19c2ed44ea
-
-Change-Id: I6bf8b0646d2a9c9df8451feb51b05bf00739c4c3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8f699d</div>
-                                        <div class="message">Merge "Update system api for applyPayload"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9926692</div>
-                                        <div class="message">Merge "Implement a tracked bit reader (BitTrackedInputStream) which is capable of moving the file reading cursor forward when needed."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4666dc1</div>
-                                        <div class="message">Merge "Use new UnsupportedAppUsage annotation." into qt-qpr1-dev-plus-aosp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#641fa67</div>
-                                        <div class="message">Merge "Rename android.util.TimestampedValue to android.os"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19c2ed4</div>
-                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"
-am: 44780ff920
-
-Change-Id: Ie432bee8641bd0c2e94adb04329ea6e80e8ed72c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44780ff</div>
-                                        <div class="message">Merge "Expose DhcpInfo parcelable interface implementation methods"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c20fe0c</div>
-                                        <div class="message">Merge "Fix crash and QQS session issues, visual updates"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3648a8</div>
-                                        <div class="message">Refine documentation for Process.setThreadPriority
-
-Add more description for the tid parameter.
-
-Bug: 139521784
-Test: compile
-Change-Id: I5ccfef865d49207172df301520cf38e942e03e21</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 16:32:20 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 17:23:46 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
