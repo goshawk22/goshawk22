@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1664" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="964" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 379 repositories
+                            Starred 381 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1325,6 +1325,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">helium/longfi-arduino</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">helium/HIP</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1370,337 +1396,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2f7e887</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours am: 73b407caba -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
-
-Change-Id: I0a0430df2aeaf2c656d8dace804e89bea146ab72</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#922a15c</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 762326338e -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806214
-
-Change-Id: Idb711f70a1ffe48dfee70cf9154b116c4b7cbc77</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e658dc4</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 54296def63 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806411
-
-Change-Id: Ib1451178c6bffebc1f274c38e6ed622d9f1eec5b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a01ce9</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 2107755bdd -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15806665
-
-Change-Id: If31a94099f7aacc72b83b0772e9dcfb9eaaf8c8f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7e6ae3</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 50a4da21bd -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807020
-
-Change-Id: If3555ed8d74a5a6f8ed4f456e3c0b06fddb03ae0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14bb10c</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: c26cd981f0 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807557
-
-Change-Id: Icfd1544241557a8b13fe0c20fefd02c41d4b010d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa7ec2</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 1c5b9275b5 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15807887
-
-Change-Id: I26f14afa8241ec73cd352790e8be9c43b1bb9c86</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0b1072</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: aaf9602410 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810223
-
-Change-Id: I4be3635e9f14379d560da7d9f694c41ec7fc40f3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73b407c</div>
-                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into rvc-qpr-dev am: c2a03f945e -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/15810217
-
-Change-Id: I8c253ab7df706c19123de83aaa5478a6bc4d71df</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7623263</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#761f529</div>
-                                        <div class="message">Merge changes from topic "presubmit-am-9775583256df468cab6420b6719fce49" into sc-qpr1-dev
-
-* changes:
-  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 3e7b073541
-  Import translations. DO NOT MERGE ANYWHERE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#758c3c9</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54296de</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f90e5c</div>
-                                        <div class="message">Merge changes from topic "presubmit-am-fa6802abdeff4b8ea35356d58a58bda6" into sc-qpr1-dev
-
-* changes:
-  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: b5c9411929
-  Import translations. DO NOT MERGE ANYWHERE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2107755</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#544a701</div>
-                                        <div class="message">Merge changes from topic "presubmit-am-b1e8854305b244f1a96abfcc97b3ccd7" into sc-qpr1-dev
-
-* changes:
-  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 97fa83e0ec
-  Import translations. DO NOT MERGE ANYWHERE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50a4da2</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abfea44</div>
-                                        <div class="message">Merge changes from topic "presubmit-am-1bbd0f65340f4740a2eb6e4b49c5bdca" into sc-qpr1-dev
-
-* changes:
-  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: 8a31f4aba3
-  Import translations. DO NOT MERGE ANYWHERE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c26cd98</div>
-                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e5b8ba</div>
-                                        <div class="message">Merge changes from topic "presubmit-am-bb4a824ed94f498799af04d5ca2829b8" into sc-qpr1-dev
-
-* changes:
-  [automerged blank] Import translations. DO NOT MERGE ANYWHERE 2p: c7b64e0b7b
-  Import translations. DO NOT MERGE ANYWHERE</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">CalyxOS-SDM710/platform_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">android12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7125d3b</div>
-                                        <div class="message">Added NR band support
-
-Added band info in cell identity.
-
-Test: Telephony sanity tests
-Bug: 131061889
-Change-Id: I0fb0e7e466a0188f04db595b8e417870666005ba</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67c89f3</div>
-                                        <div class="message">Handle ParcelableException instead of crashing system server
-
-Unhandled exception is causing system server to crash.
-
-Bug: 146790672
-Test: builds successfully
-Change-Id: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5
-Merged-In: Ibfe53ee0309dcec6fd3b24f8b67fcb78f5ce7fd5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34bf53f</div>
-                                        <div class="message">CameraManager: Add physical camera availability callback
-
-Add CameraManager callback for physical camera availability.
-
-Bug: 119325027
-Test: Camera CTS
-Change-Id: Ibe0357f5034769511576cc71c04365a1009a2be1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e4d731</div>
-                                        <div class="message">Merge "Delete NetworkFactory from frameworks/base/core."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac37b63</div>
-                                        <div class="message">Multi-Plmn and CSG Support For CellInfo
-
-Add CellIdentity support for HAL 1.5
-
--Add new constructors for HAL 1.5
--Add APIs to get additional PLMNs advertised
- by the cell beyond the first, for MOCN networks.
--Add support for CSG info in WCDMA, TD-SCDMA, and LTE
-
-Bug: 135921133
-Test: wip
-Change-Id: Iffd9351d2170a496639eced2c4618819f522494c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5561857</div>
-                                        <div class="message">Merge "Revert "Adds a new ACCESS_CONTEXT_HUB permission""</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d744e5</div>
-                                        <div class="message">Adds more flags for cursor control features.
-
- - The delta height &amp; opacity for the insertion handle.
- - The zoom factor &amp; aspect ratio for the new magnifier.
-
-Test: m -j &amp; manual tested.
-Bug: 145558249, 145550493, 145545591, 145555868
-Change-Id: Ie69bd606ff738b19f3af166e7beeac2c32c705ba</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26a8cbe</div>
-                                        <div class="message">Merge "API changes for IPv6 MTU support"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49161ea</div>
-                                        <div class="message">Merge "Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#709517e</div>
-                                        <div class="message">Merge "Add CrossProfileApps#startActivity which takes an Intent."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fff065</div>
-                                        <div class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4 am: 969feb570e
-
-Change-Id: I2d9a1db2b952f9c1a3a0df2541a2468d261f3ba8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b19cd9</div>
-                                        <div class="message">Merge "Pipe windowToken of window requesting IME"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12d0ea4</div>
-                                        <div class="message">Merge "Add system API for building document URI with user ID."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#969feb5</div>
-                                        <div class="message">Merge "Expose ImsConfig constants as part of API." am: 48f7f07d52 am: 7bb16100a4
-
-Change-Id: I1a7bcf699cb3f62f3cb555ad668c8a64345ebb18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#017d58e</div>
-                                        <div class="message">Merge changes from topic "delete_scs_pullers"
-
-* changes:
-  Delete StatsCompanionServicePuller
-  Migrate Debug(Failing)ElapsedClock to new API</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bb1610</div>
-                                        <div class="message">Merge "Expose ImsConfig constants as part of API."
-am: 48f7f07d52
-
-Change-Id: I186a61a907571f9ae4b842230e6745246a5482f0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8cb893</div>
-                                        <div class="message">Merge "Add isDocumentType in MediaFile and fix test case fail"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48f7f07</div>
-                                        <div class="message">Merge "Expose ImsConfig constants as part of API."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73b85a6</div>
-                                        <div class="message">Add power manager to critical bug section
-
-Add critical level to power manager service dump priority.
-
-Bug: 142112504
-Test: dumpsys -l --priority CRITICAL with power manager in the list.
-Test: dumpsys --priority CRITICAL with power manager dumpsys in result.
-Change-Id: I04919a5d31e01fc01d685845ce643cbba8656caa</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d59b90a</div>
-                                        <div class="message">Merge changes from topic "system_usages"
-
-* changes:
-  Add API for setting supported system usages
-  Adding System Usages to AudioAttributes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2022, 21:14:58 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 21 Jan 2022, 22:20:34 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
