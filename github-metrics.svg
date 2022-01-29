@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1997" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}svg.large .track{width:25%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            517 Commits
+                            519 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -337,7 +337,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2
+                            Average per day at ~2.05
                         </div>
                     </section>
                 </div>
@@ -1109,9 +1109,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.142857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1150,15 +1150,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
-                            <g transform="translate(-5.1, 5.857142857142857)">
+                            <g transform="translate(-5.1, 5.285714285714286)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.142857142857143 0,4.142857142857143 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.142857142857143 1.7,5.142857142857143 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.714285714285714 0,4.714285714285714 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.714285714285714 1.7,5.714285714285714 z"/>
                             </g>
-                            <g transform="translate(-6.8, 7.428571428571429)">
+                            <g transform="translate(-6.8, 7.142857142857143)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.857142857142857 0,3.8571428571428568 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8571428571428568 1.7,4.857142857142857 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1172,15 +1172,15 @@
                             </g>
                         </g>
                         <g transform="translate(37.4, 22)">
-                            <g transform="translate(0, 1.4285714285714288)">
+                            <g transform="translate(0, 0.5714285714285714)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.571428571428571 0,5.571428571428571 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.571428571428571 1.7,6.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.428571428571429 0,6.428571428571429 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.428571428571429 1.7,7.428571428571429 z"/>
                             </g>
-                            <g transform="translate(-1.7, 1.8571428571428574)">
+                            <g transform="translate(-1.7, 1.285714285714286)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.142857142857142 0,6.142857142857142 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.142857142857142 1.7,7.142857142857142 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.7142857142857135 0,6.7142857142857135 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.7142857142857135 1.7,7.7142857142857135 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.285714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1197,10 +1197,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.714285714285714)">
+                            <g transform="translate(-8.5, 10.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1330,11 +1330,710 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">th-ch/youtube-music</span>
+                                        Pushed 28 commits in
+                                        <span class="repo">proton-RMX1971/android_build_make</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f7c85aa</div>
+                                        <div class="message">fonts: Don't build Cutive Mono and Roboto fonts
+
+We're going to replace these with different font families.
+
+Change-Id: I1520b0900cdedaea8ab6ca2a155b7527712b44b8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6f9180</div>
+                                        <div class="message">Version bump to SQ1D.211205.016.A4 [core/build_id.mk]
+
+Change-Id: Iea03d2e318a267330eadb629f5d62ddce91791da</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1cd720</div>
+                                        <div class="message">Version bump to SQ1D.211205.016.A3 [core/build_id.mk]
+
+Change-Id: I35937c3677db73cc6f8717db4b4460f0488829d5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9de8d0d</div>
+                                        <div class="message">Version bump to SQ1D.211205.016.A2 [core/build_id.mk]
+
+Change-Id: I66bc142e06df9da59cfe21d464898f327d758081</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e93a3f9</div>
+                                        <div class="message">Version bump to SQ1D.211205.016.A1 [core/build_id.mk]
+
+Change-Id: I43828658db59164893bcaafc4095992ed67b4017</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22ac533</div>
+                                        <div class="message">Always use release-keys for ro.build.tags
+
+This can no longer be overridden elsewhere now that duplicate sysprops
+are detected as errors. BUILD_KEYS is preserved to keep the display
+build ID and other system info accurate.
+
+Change-Id: If1d3f3af4e47b1b11b0b9bc1ad55cc6207db497b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d84a9f3</div>
+                                        <div class="message">product: Disable artifact path enforcement
+
+For simplicity, we build additional packages with unified vendor hooks
+in vendor/proton that don't require device tree changes. Allow
+vendor/proton/build/product.mk to build system_ext and produce packages
+without breaking device artifact paths.
+
+Change-Id: If96d09598d1d4152a35489a613506a7b15286b1a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cf87ec</div>
+                                        <div class="message">Don't build QuickSearchBox
+
+We don't want this ancient search box from Android 2.x.
+
+Change-Id: Iaaf4623971d58e6eab6125a07a05f4c36c60fe79</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d3d213</div>
+                                        <div class="message">Use Unix epoch time for build number
+
+Google Camera 8.2.400 crashes when attempting to take a picture with
+Night Sight on custom ROMs because the build number doesn't match the
+expected format: a signed 32-bit integer.
+
+The parsed number is used as a gate for a burst-related change. The
+minimum threshold is 7168887 for RQ3A builds. The current Unix epoch
+time in seconds happens to be greater than this and conveys the same
+information as the old eng build number (except the username, which we
+don't want there anyway), so let's use it as the incremental build
+number.
+
+NB: We change BUILD_NUMBER here instead of vendorsetup because it needs
+to be unique to each build, not lunch session.
+
+Change-Id: If2b0caade2fa874719dd971a9ea7fce37f0b2af4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#695ef02</div>
+                                        <div class="message">product: Don't build Source Sans Pro fonts
+
+We'll ship a newer version, Source Sans 3, in our vendor module.
+
+Change-Id: Ia9646a5e1f5fcd97e0b48172f588c8aade0ecec0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#329f9eb</div>
+                                        <div class="message">product: Remove default AOSP sounds
+
+We'll ship a different collection of sounds in our vendor module.
+
+Change-Id: I30383b8fd75c1171ce3f4c5059d75995c0399bad</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba4e99c</div>
+                                        <div class="message">build: Only use RRO for framework on mainline products
+
+Ideally, we would disable RRO for all packages for performance
+(especially framework-res), but there's a bug in our framework overlay
+that causes quick settings to have the wrong background color in dark
+mode.
+
+Change-Id: I58bb9c82bb29c0ea860cb2f2d56a70050106c7e1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7f841d</div>
+                                        <div class="message">mainline: Don't deduplicate ext4 images
+
+Deduplication makes it impossible to write to the created ext4
+filesystems. We want to be able to write to them for installing gapps
+packages and debugging purposes.
+
+Change-Id: I85c2ebcc198787ce10716d453ea365620565ad69</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13c8570</div>
+                                        <div class="message">build: Add Lineage config.mk support
+
+[kdrag0n: Extracted from "build: Add Lineage build support"]
+
+Change-Id: I1fe5f97507a34d3951679d5dafe0d34e1781fab5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c98f283</div>
+                                        <div class="message">build: Include ProtonAOSP vendor hooks
+
+The target hook is now responsible for building our fonts and boot
+animation, so we don't need to modify build/make so much. The new early
+hook adds our custom version property to the system build.prop.
+
+Change-Id: I5b6885f24ca03a6ce54fc13cea6c4fe6a3ef14d3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b635c2</div>
+                                        <div class="message">fonts: Don't build Cutive Mono and Roboto fonts
+
+We're going to replace these with different font families.
+
+Change-Id: I1520b0900cdedaea8ab6ca2a155b7527712b44b8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ced0ce7</div>
+                                        <div class="message">Make change and version bump to SQ1D.220105.007
+
+Change-Id: I47f272ab39c75bc6077b48347ffbc7458b13b62e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d9d163</div>
+                                        <div class="message">[DO NOT MERGE]
+Update Security String to 2022-01-05
+
+Bug: 207022948
+Change-Id: Ie4afce5ae2b2a1b60fb0fc78ea014d220e08a981
+(cherry picked from commit 9e20227ea50a20b0b014e33fde3bf8f3589c6416)
+Merged-In:Ie4afce5ae2b2a1b60fb0fc78ea014d220e08a981</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa96a7e</div>
+                                        <div class="message">Version bump to SQ1D.220105.006 [core/build_id.mk]
+
+Change-Id: I457aa735cfa8edefb9a944fccf7d5b2845cdfca9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#339c8de</div>
+                                        <div class="message">Version bump to SQ1D.211205.017 [core/build_id.mk]
+
+Change-Id: Ie1a869945aa8f2e806414d67c8f646aae3f3249b</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f8cfd50</div>
+                                        <div class="message">permission: Change protection level of signature spoofing
+
+Change protectionLevel for FAKE_PACKAGE_SIGNATURE to signature|dangerous to give microG permission by default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed937b5</div>
+                                        <div class="message">Support for device specific key handlers
+
+This is a squash commit of the following changes,
+only modified for the new SDK.
+
+  Author: Alexander Hofbauer &lt;alex@derhofbauer.at&gt;
+  Date:   Thu Apr 12 01:24:24 2012 +0200
+
+      Dispatch keys to a device specific key handler
+
+      Injects a device key handler into the input path to handle additional
+      keys (as found on some docks with a hardware keyboard).
+
+      Configurable via overlay settings config_deviceKeyHandlerLib and
+      config_deviceKeyHandlerClass.
+
+      Change-Id: I6678c89c7530fdb1d4d516ba4f1d2c9e30ce79a4
+
+  Author: Jorge Ruesga &lt;jorge@ruesga.com&gt;
+  Date:   Thu Jan 24 02:34:49 2013 +0100
+
+      DeviceKeyHandle: The device should consume only known keys
+
+      When the device receive the key, only should consume it if the device
+      know about the key. Otherwise, the key must be handle by the active app.
+      Also make mDeviceKeyHandler private (is not useful outside this class)
+
+      Change-Id: I4b9ea57b802e8c8c88c8b93a63d510f5952b0700
+      Signed-off-by: Jorge Ruesga &lt;jorge@ruesga.com&gt;
+
+  Author: Danesh Mondegarian &lt;daneshm90@gmail.com&gt;
+  Date:   Sun Oct 20 00:34:48 2013 -0700
+
+      DeviceKeyHandler : Allow handling keyevents while screen off
+
+      Some devices require the keyevents to be processed while the screen
+      is off, this patchset addresses that by moving the filter up in the call
+      hierarchy.
+
+      Change-Id: If71beecc81aa5e453dcd08aba72b7bea5c210590
+
+  Author: Steve Kondik &lt;steve@cyngn.com&gt;
+  Date:   Sun Sep 11 00:49:41 2016 -0700
+
+      policy: Use PathClassLoader for loading the keyhandler
+
+       * Fix crash on start due to getCacheDir throwing an exception.
+       * We can't do this anymore due to the new storage/crypto in N.
+
+      Change-Id: I28426a5df824460ebc74aa19068192adb00d4f7c
+
+  Author: Zhao Wei Liew &lt;zhaoweiliew@gmail.com&gt;
+  Date:   Sun Nov 20 08:20:15 2016 +0800
+
+      PhoneWindowManager: Support multiple key handlers
+
+      Convert the string overlay to a string-array overlay
+      to allow devices to specify an array of key handlers.
+
+      Note that the keyhandlers towards the start of the
+      array take precedence when loading.
+
+      Change-Id: Iaaab737f1501a97d7016d8d519ccf127ca059218
+
+  Author: Paul Keith &lt;javelinanddart@gmail.com&gt;
+  Date:   Thu Nov 23 21:47:51 2017 +0100
+
+      fw/b: Return a KeyEvent instead of a boolean in KeyHandler
+
+      * Allows handlers to modify the event before sending it off
+        to another KeyHandler class, to handle things like rotation
+
+      Change-Id: I481107e050f6323c5897260a5d241e64b4e031ac
+
+Change-Id: Ie65a89cd7efd645622d99d47699df847bc3ad96b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc7185f</div>
+                                        <div class="message">BiometricScheduler: Cancel operation if not idle
+
+- some hals fail to report success/failure (for ex. realme fp hals)
+
+Signed-off-by: SagarMakhar &lt;sagarmakhar@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55544d7</div>
+                                        <div class="message">Merge tag 'android-12.0.0_r27' into sc
+
+Android 12.0.0 release 27
+
+Change-Id: I06da9d8449697d2a4064a64d73f11773cb8dbd57
+
+# -----BEGIN PGP SIGNATURE-----
+#
+# iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCYeHDlgAKCRDorT+BmrEO
+# eCt5AJ9xUdcwnVMVuDf3a2qL7Hi16E1GfwCfUUEKikOgExkOWXy7ebwsIws8HhQ=
+# =10zk
+# -----END PGP SIGNATURE-----
+# gpg: Signature made Fri 14 Jan 2022 10:40:22 AM PST
+# gpg:                using DSA key 4340D13570EF945E83810964E8AD3F819AB10E78
+# gpg: Good signature from "The Android Open Source Project &lt;initial-contribution@android.com&gt;" [unknown]
+# gpg: WARNING: This key is not certified with a trusted signature!
+# gpg:          There is no indication that the signature belongs to the owner.
+# Primary key fingerprint: 4340 D135 70EF 945E 8381  0964 E8AD 3F81 9AB1 0E78</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d0212f</div>
+                                        <div class="message">Merge cherrypicks of [16117045, 16077739, 16211938, 16091135, 16220980, 16214442, 16233501, 16286398, 16333337, 16372369, 16374477, 16374638] into sc-qpr1-d-release.
+
+Change-Id: Ie9b5dc629bd203c50f341eb1aa59fd6635c11d71</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c203888</div>
+                                        <div class="message">Show scrimmed bouncer from BiometricUnlockCtrl
+
+Test: manual
+Test: atest BiometrisUnlockControllerTest
+Fixes: 206423147
+Bug: 205556311
+Change-Id: Ib3def01e7ffd04ac950f06cbee7d213927110b5b
+(cherry picked from commit 7c64f2cd038e54fdb4df885420dda0f7c6846801)
+Merged-In: Ib3def01e7ffd04ac950f06cbee7d213927110b5b
+(cherry picked from commit 80d6a378b9943fa072458be23c675a0bba8e83fd)
+Merged-In:Ib3def01e7ffd04ac950f06cbee7d213927110b5b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90fbe59</div>
+                                        <div class="message">Allow udfps when strong auth is required
+
+Only disallow UDFPS usage if the device is
+in lockdown or reboot. Otherwise, (for reasons like TIMEOUT), we
+allow the user to use fingerprint to authenticate.
+
+Test: manual
+Test: atest KeyguardUpdateMonitorTest
+Fixes: 205556311
+Change-Id: Ia7e56b7d9b857a76036161cbd6edd981bed3bb6c
+Merged-In: Ia7e56b7d9b857a76036161cbd6edd981bed3bb6c
+(cherry picked from commit 83dd25e77cc3e898b68077b25dd597cba51c6bfd)
+(cherry picked from commit 90d73e4e93807e52e39d85306da0d28c6aef0a34)
+Merged-In:Ia7e56b7d9b857a76036161cbd6edd981bed3bb6c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3046d5</div>
+                                        <div class="message">Ignore ui mode change caused by Morris overlay in PiP
+
+When entering PiP from GMM with Morris overlay enabled, there will be a
+display change callback caused by ui mode change that tend to shift the
+PiP window. For PiP, such ui mode change from app is not quite relevant
+and we can simply ignore in PipController.
+
+Bug: 201589034
+Video: http://recall/-/aaaaaabFQoRHlzixHdtY/dmI3KCeKPAH118BRqnhgNO
+Test: enter PiP from GMM with Morris overlay, see video
+Merged-In: I2d72e166fb8de1e503415b5441c03f0685de9573
+Change-Id: I2d72e166fb8de1e503415b5441c03f0685de9573
+(cherry picked from commit 391f372726af62c6d9ba9b221508003c37e8ff8a)
+(cherry picked from commit 166f263128010f6a885efa17a5ebc3aa94d3b3d6)
+Merged-In:I2d72e166fb8de1e503415b5441c03f0685de9573</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a11429</div>
+                                        <div class="message">Fix issue with alphas not being applied to the same view on unlock
+
+- It's possible for the nav bar configuration to change between locking
+  and unlocking the phone, which will prevent the alpha from being
+  restored on the bar layout correctly. This change updates the alpha
+  of both vertical/horizontal layouts in NavBarView since they should
+  always be in sync.
+
+Bug: 206733387
+Test: atest SystemUITests
+Test: Lock screen in landscape app, turn screen on and unlock
+
+
+Change-Id: I265d04e6e2192f2bb57b1f8d77390664236427fc
+(cherry picked from commit 9b53d2ecabe2472a464007dd463593f95b4e19d5)
+(cherry picked from commit acb755ce9e27832bc1b02670098d144231b300e0)
+Merged-In:I265d04e6e2192f2bb57b1f8d77390664236427fc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7868c4</div>
+                                        <div class="message">Fix SysUI volume controls not appearing
+
+SysUI listens to volume change events to trigger showing its
+volume control overlay UI. Normally when a hardware volume
+key is pressed, a volume (either locally or for a session
+corresponding to a remote playback) is changed, SysUI receives
+an event and the UI is displayed.
+
+In the case that a remote session doesn't allow volume
+adjustment, the key event is still routed to the session if
+that session is top of the stack. However, since the volume is
+not adjusted and an event is not dispatched, the SysUI volume
+control overlay doesn't appear. To the user it seems like the
+volume hardware key is broken, neither adjusting a volume or
+displaying the volume control overlay UI.
+
+This change fires volume change events for sessions that
+don't support actually changing the volume, to ensure that
+the SysUI is still displayed. It also seems more consistent,
+since there are other existing cases where the volume doesn't
+actually change for which an event is still fired (e.g.,
+adjusting up when already at max volume).
+
+An alternative would be to change MediaSessionRecord's
+canHandleVolumeKey to return false for sessions that don't
+support volume adjustment, which would mean the key event
+would be handled by the next session in the stack (or, in
+most cases, to make a local volume adjustment). This is likely
+more confusing, since the user will generally expect the top
+session to be adjusted (surfacing that it could not is less
+confusing than just adjusting some other volume instead).
+
+Bug: 197586676
+Bug: 202500642
+Test: manual
+Merged-In: Ic44b48bb5605699b476af05407b90f2be5d70cd3
+Change-Id: Ic44b48bb5605699b476af05407b90f2be5d70cd3
+(cherry picked from commit 771b7ebe5d10f867a44101aa7a0b0a779bacfd32)
+Merged-In:Ic44b48bb5605699b476af05407b90f2be5d70cd3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57358e9</div>
+                                        <div class="message">Plumb config to output switcher indication chip
+
+Bug: 197586676
+Bug: 202500642
+Test: manual
+Merged-In: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
+Change-Id: I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c
+(cherry picked from commit 92013ed958dbc7e666ced0c4b0337f03ff9381c8)
+Merged-In:I71d7f11b9d88dfb9ef74814e9ac7f9d28b0e652c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03847f2</div>
+                                        <div class="message">Re-enable volume control for non-grouped devices
+
+Bug: 197586676
+Bug: 202500642
+Test: make -j50 RunSettingsRoboTests
+Merged-In: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
+Change-Id: I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74
+(cherry picked from commit b7f52f4468a1daa7408e44fafb362b54eec20897)
+Merged-In:I7740d78f3a7dca62d64e6cf7b8c9ffa1578c8e74</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba6ab16</div>
+                                        <div class="message">Tweak volume adjustment rules
+
+Test: manual
+Bug: 197586676
+Bug: 202500642
+Merged-In: If531a23f5e7b242d3d637966b74b67acfd303199
+Change-Id: If531a23f5e7b242d3d637966b74b67acfd303199
+(cherry picked from commit 022081595bf4a082f8354b852eae6d5a015be3fe)
+Merged-In:If531a23f5e7b242d3d637966b74b67acfd303199</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d4d1e6</div>
+                                        <div class="message">Only register listeners if setView was success.
+
+Found a memory leak on ViewRootImpl. If the view wasn't been set
+to the VRI successfully, there would keep the registed listeners to the
+AccessibilityManager and DisplayManager forever because there didn't
+need to deatch anything from window.
+Another reasonable way is to register all listeners after setView
+success.
+
+Bug: 200843755
+Test: manual, hard code to force addWindow fail and monitor no more
+ViewRootImpl object leaked to AccessibilityManager and DisplayManager.
+
+Change-Id: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
+Merged-In: I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f
+(cherry picked from commit d69deffd3551c7b008957763d218e6ed1b706384)
+Merged-In:I3c9cc52d0ca4595c74c1dc3c51d286d9e6e3897f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97cccd7</div>
+                                        <div class="message">setTurnScreenOn can only used as wakeup
+
+setTurnScreenOn shouldn't dismiss keyguard automatically even when the
+keyguard is insecure.
+The keyguard state should only be affected by requestDismissKeyguard
+and/or setShowWhenLocked, and for either case setTurnScreenOn can be
+used to wakeup device if the activity is going to be resumed and
+visible.
+
+Bug: 201103497
+Test: atest ActivityVisibilityTests KeyguardTests KeyguardLockedTests
+Change-Id: I283dea469a33286fc9cf835e39ee5a3be2444739
+(cherry picked from commit f3a1274a38ca891c1f2e86db2c1926293c90c6fa)
+(cherry picked from commit 966a61366e10c5a65f9661d4b934e64b4c088d87)
+Merged-In:I283dea469a33286fc9cf835e39ee5a3be2444739</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5801f8f</div>
+                                        <div class="message">Block SHELL_UID from overlay fabricate and clear shell overlays on boot
+
+Prevents non-root shell from fabricating overlays and removes all
+overlays with their creating package as shell on boot.
+
+Prevents unapproved usages of the fabrication API and cleans up
+any potentially broken overlays respectively.
+
+Bug: 202768292
+
+Test: sts-tradefed run sts-engbuild-no-spl-lock \
+        -m StsHostTestCases -t android.security.sts.Bug_202768292
+
+Change-Id: I184cc498e49c416e184cc0855a8810b57dd08175
+(cherry picked from commit 627d5eb68e19a8ea18c3c1405701b3a33f073315)
+Merged-In:I184cc498e49c416e184cc0855a8810b57dd08175</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd44af4</div>
+                                        <div class="message">Fix black frame flicker in UNOCCLUDE transition.
+
+When an activity which occludes the keyguard finishes, WindowManager
+immediately updatees the keyguard occluded status, so show-when-locked
+wallpaper was not used anymore. However sysui needed some time to finish
+keyguard occluded status change in their side, and meantime no wallpaper
+target existed.
+
+With this change, we keep using show-when-locked wallpaper until app
+transition finishes.
+
+Bug: 201560359
+Test: manual. Show assist app on the lockscreen and close.
+Change-Id: I4958a2f5ecdd12b3db43b44ee4a221972070ab2c
+(cherry picked from commit f5a613e5282542ea356c20b3f397276f06d68fe9)
+Merged-In:I4958a2f5ecdd12b3db43b44ee4a221972070ab2c</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">proton-RMX1971/android_vendor_proton</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d4d332c</div>
+                                        <div class="message">proton: Conditionally inherit foss apps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7a4a1</div>
+                                        <div class="message">proton: apps: Add back jelly
+
+It overrides Browser2 which is just ugly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9dfc76</div>
+                                        <div class="message">overlays: Enable WiFi by default
+
+A large majority of people will set their phone up on WiFi as opposed to mobile data, so enable it by default.
+Also, if there is no mobile reception, the Internet QS tile looks really ugly until Wifi is enabled.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bbac83</div>
+                                        <div class="message">proton: apps: Build missing packages and reorganise
+
+Build messaging
+Drop Jelly as we don't need it and don't track it
+Update names for OctaviOS apps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#342171a</div>
+                                        <div class="message">overlay: Allow toggling camera and microphone
+
+Co-authored-by: TheScarastic &lt;warabhishek@gmail.com&gt;
+Co-authored-by: Adam Lawson &lt;dev@goshawk22.uk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47986b2</div>
+                                        <div class="message">proton: Add build time to final zip [1/2]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de09057</div>
+                                        <div class="message">proton: interfaces: usb: Have the basic HAL override AOSP &amp; QTI.
+
+ * If a device defines the basic USB HAL in their tree
+   it should not build the AOSP &amp; QTI USB HAL.
+
+Change-Id: I1ad33487e66f1879d57782e2f5a0677265b835d1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3239630</div>
+                                        <div class="message">proton: Add vintf_fragments to android.hardware.usb@1.0-service.basic.
+
+Change-Id: I032144a0774eb1580f9f027496f5bdfcd6abf603</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b02c68e</div>
+                                        <div class="message">proton: Add basic USB HAL that reports no status change.
+
+Change-Id: I38bfe869f9b1b66db0e13249f65e438878d06eff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#644283e</div>
+                                        <div class="message">proton: set max cached processes to 32
+
+Signed-off-by: orges &lt;me@orgesified.ml&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b05bd3</div>
+                                        <div class="message">proton: Use Pixel charger animation
+
+Signed-off-by: Arseniy Graur &lt;argraur@gmail.com&gt;
+Change-Id: Ie0d25e37912fffd337731d4c5eb9e9ccf09a2696</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b37a522</div>
+                                        <div class="message">proton: build AOSP charger images by default
+
+Change-Id: If7550631523a0ec1301b68f96a72ba6457dab09e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4e7bd6</div>
+                                        <div class="message">prebuilts: Add libstdc++ to libjni_latinimegoogle shared libs
+
+Change-Id: I9d09b992c3d769672c72f3a5a4313969b80d1378</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ae7bba</div>
+                                        <div class="message">proton: Add prebuilt keyboard swipe lib google version
+
+Change-Id: I23c44619dff1dd48420fc7a07f470ff1875af59e
+Signed-off-by: mydongistiny &lt;jaysonedson@gmail.com&gt;
+
+prebuilt: Convert keyboard gesture lib to Android.bp
+
+So we don't have to have both libs in image
+
+Change-Id: Ic31774ec3a8b6a9ef78071b9ce7e56f26294bfac
+Signed-off-by: mydongistiny &lt;jaysonedson@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0403f96</div>
+                                        <div class="message">proton: Add families for kernel versions.
+
+ * Wanted by some component checks, inspired by the way
+   LOS handles families.
+
+Change-Id: I63f0367ee7d6a1372c5d392bddbd3ec1153680a1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf1d88c</div>
+                                        <div class="message">proton: Import QCOM board utilities
+
+Change-Id: I77eee7bc8892d836e14564d99b13250b426ead35</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d49e802</div>
+                                        <div class="message">version: Bump to 12.2.1-test1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd312d</div>
+                                        <div class="message">overlay: Add config for Repainter integration service
+
+This configures the privileged system service that allows Repainter,
+my app for customizable dynamic themes on any Android 12 ROM, to work
+with full functionality on custom ROMs - no root required. Adding and
+building the service (RepainterServicePriv) is all it takes; after
+that, Repainter will automatically discover and use the service.
+
+Benefits of the privileged service:
+  - Faster and more reliable than root and Shizuku backends
+  - Full functionality with all customization (no limitations), even on
+    the January security patch
+  - ROM-specific configuration: dynamic boot animation colors, etc.
+
+More info about Repainter: https://repainter.kdrag0n.dev
+
+Privileged service: https://github.com/kdrag0n/android_apps_packages_RepainterServicePriv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c195b5b</div>
+                                        <div class="message">apps: Build Repainter integration service (RepainterServicePriv)
+
+https://github.com/kdrag0n/android_packages_apps_RepainterServicePriv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e31100c</div>
+                                        <div class="message">overlay: core: Disable OtaSuggestionSummaryProvider from GMS
+
+GMS now uses OtaSuggestionSummaryProvider to push update notifications,
+both in the status bar and as a dialog pop-up. Disable it.
+
+Change-Id: I51c039a1dbbb781e5ffabdd313d062feda308b89</div>
                                     </div>
                                 </div>
                             </section>
@@ -1347,14 +2046,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">goshawk22/deep-chess</span>
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa21aa5</div>
-                                        <div class="message">train: Update paramaters</div>
+                                        <div class="sha">#57441e6</div>
+                                        <div class="message">manifest: Fix fetch of our vendor</div>
                                     </div>
                                 </div>
                             </section>
@@ -1366,49 +2065,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">HHScience/tbeam-helium-mapper</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#91e0688</div>
-                                        <div class="message">Update configuration for our needs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#297b57d</div>
-                                        <div class="message">Be more verbose over serial</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb66c20</div>
-                                        <div class="message">We use 868Mhz</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">mikalhart/TinyGPSPlus</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">matthijskooijman/arduino-lmic</span>
+                                        <div class="sha">#92aebc9</div>
+                                        <div class="message">manifest: Track our manifest</div>
                                     </div>
                                 </div>
                             </section>
@@ -1418,7 +2083,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2022, 10:21:23 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 29 Jan 2022, 11:18:32 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
