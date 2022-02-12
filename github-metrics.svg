@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.introduction{white-space:normal;margin:0 13px 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            530 Commits
+                            535 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -337,7 +337,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.15
+                            Average per day at ~2.17
                         </div>
                     </section>
                 </div>
@@ -1246,10 +1246,10 @@
                             </g>
                         </g>
                         <g transform="translate(40.8, 24)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 5.428571428571429)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1293,10 +1293,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.7142857142857135)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1326,6 +1326,236 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb564b1</div>
+                                        <div class="message">sdm710-common: sepolicy: address some denials</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b8c11b2</div>
+                                        <div class="message">sdm710-common: Fix sensors hal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b683b4</div>
+                                        <div class="message">Revert "sdm710-common: Drop non-functional soundtrigger * Fixes google assistant voice match in android 11"
+
+This reverts commit daabf7dba23939c9f54164be8e1f1d921284b549.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9624af1</div>
+                                        <div class="message">Revert "sdm710-common: Build some sensor packages"
+
+This reverts commit 027f495580d1a5b9475d3026788b2763232592bc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77fa34f</div>
+                                        <div class="message">sdm710-common: Define WIFI_DRIVER_STATE_CTRL_PARAM to write WLAN status
+
+Define path of WIFI_DRIVER_STATE_CTRL_PARAM i.e /dev/wlan
+to update status of WLAN Driver on loaded/unloaded by writing
+ON/OFF.
+
+Change-Id: I9964a7a3b779f036975b3f461118e86e093a13ea
+CRs-Fixed: 2706935</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b79d069</div>
+                                        <div class="message">sdm710-common: Switch to AOSP WFD</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b19e2e1</div>
+                                        <div class="message">sdm710-common: Enable call recording
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9df080c</div>
+                                        <div class="message">sdm710-common: Import CarrierConfig from `LA.UM.9.8.r1-04200-SDM710.0`
+
+Signed-off-by: AkaruiAikara &lt;vall@aikara.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9068341</div>
+                                        <div class="message">sdm710-common: Switch audio HAL to V7
+
+Updated audio policy manager configuration files to comply
+with the changes in the XML schema.
+
+* Also drop bitness
+
+Bug: 142480271
+Test: atest VtsHalAudioV7_0TargetTest
+Test: atest VtsHalAudioEffectV7_0TargetTest
+Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#daabf7d</div>
+                                        <div class="message">sdm710-common: Drop non-functional soundtrigger
+* Fixes google assistant voice match in android 11
+
+Signed-off-by: AkaruiAikara &lt;vall@aikara.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf95c10</div>
+                                        <div class="message">sdm710-common: Uprev bluetooth audio HIDL impl to 2.1
+
+* We get free LC3 support, isn't it poggers?
+* Also drop bitness
+
+Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;
+Signed-off-by: AkaruiAikara &lt;vall@aikara.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4aa78e</div>
+                                        <div class="message">sdm710-common: Enable config_avoidGfxAccel
+
+- This flag turns off GPU/CPU intensive UI effects and
+  reduces the RAM footprint.
+
+- Using this is a better compromise than the 'low_ram' flag
+  as this does not disable features in the rom but still
+  reduces RAM usage and gives better smoothness in the UI.
+
+Signed-off-by: Chuck439 &lt;firmankediri123@gmail.com&gt;
+Signed-off-by: AkaruiAikara &lt;vall@aikara.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2341a38</div>
+                                        <div class="message">sdm710-common: rootdir: remove mounting of debugfs
+
+Mounting debugfs is no longer allowed in android S from rc scripts.
+
+Change-Id: I06cc05b7578b204c7cc25b19571be029dab1cf9d
+Signed-off-by: AkaruiAikara &lt;vall@aikara.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#562c5be</div>
+                                        <div class="message">sdm710-common: Remove config_jitzygoteBootImagePinnerServiceFiles list
+
+- obsolete on android-12
+
+Ref: I97738435edd07e8b6770372cd935218c1a9cd984
+Change-Id: Ibbc8d35961d919ccdc454ef2043824f38191637e
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37342b5</div>
+                                        <div class="message">sdm710-common: Don't warn user about FC in Google TTS
+
+This happens on almost all FDE devices, I don't see any workaround other than hiding these dialogs
+
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#102e0ad</div>
+                                        <div class="message">sdm710-common: Use Vulkan for UI rendering
+
+Looks like the hwui renderthread with OpenGL is a little broken on
+android 12. It triggers the following Scudo error when scrolling
+quickly in certain apps:
+
+F DEBUG   : Abort message: 'Scudo ERROR: corrupted chunk header at address 0x200006fc78920a0
+F DEBUG   : '
+F DEBUG   :     x0  0000000000000000  x1  00000000000025fd  x2  0000000000000006  x3  0000006df7c0b8b0
+F DEBUG   :     x4  0080808080808080  x5  0080808080808080  x6  0080808080808080  x7  8080808080808080
+F DEBUG   :     x8  00000000000000f0  x9  494ac435077451cb  x10 0000000000000000  x11 ffffff80fffffbdf
+F DEBUG   :     x12 0000000000000001  x13 00000000dc94e9a5  x14 001176d2f9e6b000  x15 0000000000000010
+F DEBUG   :     x16 000000713c299050  x17 000000713c2769b0  x18 0000006df5e2e000  x19 000000000000258b
+F DEBUG   :     x20 00000000000025fd  x21 00000000ffffffff  x22 0000000000000000  x23 0000006eb78da910
+F DEBUG   :     x24 000000713de01d88  x25 0000006ee7882a00  x26 0000000000000040  x27 0000000000000040
+F DEBUG   :     x28 0000006df7b13000  x29 0000006df7c0b930
+F DEBUG   :     lr  000000713c2297a4  sp  0000006df7c0b890  pc  000000713c2297d0  pst 0000000000000000
+F DEBUG   : backtrace:
+F DEBUG   :       #00 pc 000000000004f7d0  /apex/com.android.runtime/lib64/bionic/libc.so (abort+164) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #01 pc 0000000000040224  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::die()+8) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #02 pc 000000000004097c  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::ScopedErrorReport::~ScopedErrorReport()+32) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #03 pc 0000000000040a44  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::reportHeaderCorruption(void*)+60) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #04 pc 00000000000421a4  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::Allocator&lt;scudo::AndroidConfig, &amp;(scudo_malloc_postinit)&gt;::deallocate(void*, scudo::Chunk::Origin, unsigned long, unsigned long)+296) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #05 pc 000000000041535c  /system/lib64/libhwui.so (android::uirenderer::renderthread::CanvasContext::~CanvasContext()+1020) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #06 pc 0000000000414f4c  /system/lib64/libhwui.so (android::uirenderer::renderthread::CanvasContext::~CanvasContext()+16) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #07 pc 000000000020c690  /system/lib64/libhwui.so (_ZNSt3__110__function6__funcIZN7android10uirenderer9WorkQueue7runSyncIZNS3_12renderthread11RenderProxy14destroyContextEvE3$_1EEDTclfp_EEOT_EUlvE_NS_9allocatorISC_EEFvvEEclEv$34d70ca82a4a2946342a621a4c655d1c+88) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #08 pc 00000000003c8ef4  /system/lib64/libhwui.so (android::uirenderer::WorkQueue::process()+156) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #09 pc 00000000003c8c60  /system/lib64/libhwui.so (android::uirenderer::renderthread::RenderThread::threadLoop()+84) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #10 pc 0000000000011f9c  /system/lib64/libutils.so (android::Thread::_threadLoop(void*)+260) (BuildId: d9d3222cb4e074a3a09934b924844959)
+
+Meanwhile, Skia Vulkan is totally fine, so let's give Vulkan another
+try.
+
+Test: scrolling quickly through Twitter feed when images and videos
+      are still loading
+Test: scrolling quickly through a Spotify playlist with lots of
+      album pictures
+
+This reverts commit ac6fa063eb75421636c2b9c77ee8499e4250a08a.
+
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b2a36b</div>
+                                        <div class="message">sdm710-common: overlay: Update config_ims_rcs_package to use new ImsService
+
+Change-Id: I77fcd2a3451c99df5fa47136fa0cd36a5abab9fe
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9082eb</div>
+                                        <div class="message">RMX1921: Remove legacy persist path entries from init script
+
+Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#027f495</div>
+                                        <div class="message">sdm710-common: Build some sensor packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16cd5d0</div>
+                                        <div class="message">RMX1921: rootdir: assign groups to init.class_main.sh
+
+ * give proper access to avoid dac_* denials
+
+Signed-off-by: orges &lt;me@orgesified.ml&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e09ae3</div>
+                                        <div class="message">sdm660-common: Remove console code from post boot
+
+Not required and this gets rid of denial while reading prop persist.console.silent.config
+
+Change-Id: I28283baa00878a02bf364412e7236b3030f2b965</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1365,38 +1595,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Tyrrrz/DiscordChatExporter</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">threeme3/WsprryPi</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2022, 07:18:09 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 12 Feb 2022, 08:23:49 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
