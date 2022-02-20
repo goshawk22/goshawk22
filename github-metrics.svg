@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1364" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1497" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 118 repositories
+                            Contributed to 119 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            541 Commits
+                            546 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1338,21 +1338,156 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">proton-RMX1971/android_vendor_qcom-opensource_commonsys-intf_display</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sc-base</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ec7a221</div>
-                                        <div class="message">drivers: staging: ion: Fix merge conflict
+                                        <div class="sha">#4345607</div>
+                                        <div class="message">Merge e12efe70b07a8330eb48b78415e1abcc403885ef on remote branch
 
-../drivers/staging/android/ion/ion.c:550:27: error: static declaration of '__ion_alloc' follows non-static declaration
-static struct ion_handle *__ion_alloc(
-                          ^
-./../include/linux/../../drivers/staging/android/ion/ion.h:132:20: note: previous declaration is here
-struct ion_handle *__ion_alloc(struct ion_client *client, size_t len,</div>
+Change-Id: I6d1bf8032d26e8e6e939287b4b1f0bcbdeb9fffd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e12efe7</div>
+                                        <div class="message">composer_extn: Make DisplayInfo optional.
+
+Change-Id: Idc94d8e672caecfb280ca280c16d10ce2954c11d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c47e84</div>
+                                        <div class="message">commonsys-intf: Smomo support for multi-display
+
+CRs-Fixed: 3100828
+Change-Id: If86ab632aeb58d583b089d03b57f40f0525f3530</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3a8dd2</div>
+                                        <div class="message">commonsys-intf: Add Smomo CreateV2 API
+
+CRs-Fixed: 3100828
+Change-Id: I90ca72fb06438e699a51069a7a7ae13cc709eb4c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bbb89c</div>
+                                        <div class="message">commonsys-intf: Move smomo to composer extn
+
+CRs-Fixed: 3100828
+Change-Id: I29e7b385886d95b8e63f0c2e7277d727143c6ed9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ff8166</div>
+                                        <div class="message">display: Add EndUnifiedDraw interface
+
+Change-Id: I72cb8aecdb17c5a42c834fb9ef1173185a262cf7</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">proton-RMX1971/android_vendor_qcom-opensource_data-ipa-cfg-mgr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c62aa1c</div>
+                                        <div class="message">Merge tag 'LA.UM.9.8.r1-04600-SDM710.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/data-ipa-cfg-mgr into sc
+
+"LA.UM.9.8.r1-04600-SDM710.0"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e5889e</div>
+                                        <div class="message">Merge 8ac036130549b770794208a03c2549ab28716b31 on remote branch
+
+Change-Id: I8f41ea2db2a20f67387465a19303eeee98d6abe0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#369e5b6</div>
+                                        <div class="message">Merge 22cba6c627d222cbf9b0630dce3c6a8053c3c011 on remote branch
+
+Change-Id: Ie19704bd4e07c9477955cfffdff06ea3fa1839ce</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34b82bb</div>
+                                        <div class="message">Merge 65b72aca50c99d5ca55524249b9a5206a26dfca2 on remote branch
+
+Change-Id: Ibdf08dbcf76eefa539f6779c3e3681ac2a31b28a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2668196</div>
+                                        <div class="message">Merge 286830306063751378d274cb85d405cc8f5d53d1 on remote branch
+
+Change-Id: I27b868e480306a5d2941731ac9c5a384ce38c956</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ae315b</div>
+                                        <div class="message">Merge 45b1741dd55eabfe674dc8ce6fd3f825553c18ad on remote branch
+
+Change-Id: I8891fe457fd73d1a2153614ae013dadf40df42c5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7ea3c1</div>
+                                        <div class="message">Merge 50b9701ad29f45ae0f49a189f58972e41cdbd1af on remote branch
+
+Change-Id: Ibd3043c4e6334aa7c6775911af27423880ad88e3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8105281</div>
+                                        <div class="message">Merge e0ad041f1575b9ff77ebc2ac85e21a8a9084e868 on remote branch
+
+Change-Id: I2e672669d044c9944a3d6e5e9b88aa0b7cfd12c1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a74cf6a</div>
+                                        <div class="message">Merge bcdbbcfa0bb1fed621ad997e8e6cfaa2e5f1b50a on remote branch
+
+Change-Id: I5c14dc9a1546a61dd9f91d7f479c0daf5cff693e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f533a59</div>
+                                        <div class="message">Merge 330317a31a848a32dd52668907acf6055bd02794 on remote branch
+
+Change-Id: If9483cb4afb461e0a270e6d6bd43f345587f32b6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c9229e</div>
+                                        <div class="message">Merge 6facc43568f6de2ca4142bb497077639c83db7cd on remote branch
+
+Change-Id: Ibb08a9e44374bbf975364c7eb8c624ccae77e11b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1c727c</div>
+                                        <div class="message">Merge fdb76daef85b4855cc507c65f5f5e51e29c13fb6 on remote branch
+
+Change-Id: Ibd25827f2db2b90fc13ed18f9445ea6539157f24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c63902</div>
+                                        <div class="message">Merge 34f7bc8331a3deb3acf7b59be160e619486467d3 on remote branch
+
+Change-Id: Ic0b94d83da0fd20b8f319fc3bf8ae40de2cdecd3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a48c70</div>
+                                        <div class="message">Merge 5a520856fbd2e3978564dceefa6ed7a5c33841e5 on remote branch
+
+Change-Id: I0f618b1b362a20dd1b0f77165cb74656e78bdcea</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f088f7</div>
+                                        <div class="message">Merge b22549698cb2afeaa16eb851bbfdd97852789b45 on remote branch
+
+Change-Id: Ib39667cf47a7184850b3f6597a891428b067a540</div>
                                     </div>
                                 </div>
                             </section>
@@ -1365,27 +1500,22 @@ struct ion_handle *__ion_alloc(struct ion_client *client, size_t len,</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                                        <span class="repo">proton-RMX1971/android_vendor_qcom-opensource_cryptfs_hw</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sc-base</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f92d91</div>
-                                        <div class="message">drivers: soc: qcom: Fix DEFINE_PER_CPU
+                                        <div class="sha">#cbb4629</div>
+                                        <div class="message">Merge tag 'LA.UM.9.8.r1-04600-SDM710.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/cryptfs_hw into sc
 
-../drivers/soc/qcom/event_timer.c:54:3: error: field designator 'head' does not refer to any field in type 'typeof(struct timerqueue_head)' (aka 'struct timerqueue_head')
-        .head = RB_ROOT,
-         ^
-../drivers/soc/qcom/event_timer.c:55:3: error: field designator 'next' does not refer to any field in type 'typeof(struct timerqueue_head)' (aka 'struct timerqueue_head')
-        .next = NULL,
-         ^
-2 errors generated.
-Needed after ef2e64035f074bfeef14c28347aaec0b486a9e9f</div>
+"LA.UM.9.8.r1-04600-SDM710.0"</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6def641</div>
-                                        <div class="message">Merge branch 'android-4.9-q' of https://android.googlesource.com/kernel/common into patch-1</div>
+                                        <div class="sha">#1130e32</div>
+                                        <div class="message">Merge f9ddb744de137f8acfb5807e24c095c79c67f910 on remote branch
+
+Change-Id: I59e40273988918d4a7d8aaecbeae02f0485722af</div>
                                     </div>
                                 </div>
                             </section>
@@ -1397,633 +1527,27 @@ Needed after ef2e64035f074bfeef14c28347aaec0b486a9e9f</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 299 commits in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">proton-RMX1971/hardware_qcom_display</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sc-base</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c450c00</div>
-                                        <div class="message">mac80211: initialize variable have_higher_than_11mbit
+                                        <div class="sha">#a95b1d5</div>
+                                        <div class="message">Merge tag 'LA.UM.10.3.r1-00900-sdm845.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into sc
 
-commit 68a18ad71378a56858141c4449e02a30c829763e upstream.
-
-Clang static analysis reports this warnings
-
-mlme.c:5332:7: warning: Branch condition evaluates to a
-  garbage value
-    have_higher_than_11mbit)
-    ^~~~~~~~~~~~~~~~~~~~~~~
-
-have_higher_than_11mbit is only set to true some of the time in
-ieee80211_get_rates() but is checked all of the time.  So
-have_higher_than_11mbit needs to be initialized to false.
-
-Fixes: 5d6a1b069b7f ("mac80211: set basic rates earlier")
-Signed-off-by: Tom Rix &lt;trix@redhat.com&gt;
-Reviewed-by: Nick Desaulniers &lt;ndesaulniers@google.com&gt;
-Link: https://lore.kernel.org/r/20211223162848.3243702-1-trix@redhat.com
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+"LA.UM.10.3.r1-00900-sdm845.0"</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0bae09b</div>
-                                        <div class="message">ieee802154: atusb: fix uninit value in atusb_set_extended_addr
+                                        <div class="sha">#dcdb531</div>
+                                        <div class="message">Merge 3dc40321b0ffc6f01e8334d539f2ba2859cc9d75 on remote branch
 
-commit 754e4382354f7908923a1949d8dc8d05f82f09cb upstream.
-
-Alexander reported a use of uninitialized value in
-atusb_set_extended_addr(), that is caused by reading 0 bytes via
-usb_control_msg().
-
-Fix it by validating if the number of bytes transferred is actually
-correct, since usb_control_msg() may read less bytes, than was requested
-by caller.
-
-Fail log:
-
-BUG: KASAN: uninit-cmp in ieee802154_is_valid_extended_unicast_addr include/linux/ieee802154.h:310 [inline]
-BUG: KASAN: uninit-cmp in atusb_set_extended_addr drivers/net/ieee802154/atusb.c:1000 [inline]
-BUG: KASAN: uninit-cmp in atusb_probe.cold+0x29f/0x14db drivers/net/ieee802154/atusb.c:1056
-Uninit value used in comparison: 311daa649a2003bd stack handle: 000000009a2003bd
- ieee802154_is_valid_extended_unicast_addr include/linux/ieee802154.h:310 [inline]
- atusb_set_extended_addr drivers/net/ieee802154/atusb.c:1000 [inline]
- atusb_probe.cold+0x29f/0x14db drivers/net/ieee802154/atusb.c:1056
- usb_probe_interface+0x314/0x7f0 drivers/usb/core/driver.c:396
-
-Fixes: 7490b008d123 ("ieee802154: add support for atusb transceiver")
-Reported-by: Alexander Potapenko &lt;glider@google.com&gt;
-Acked-by: Alexander Aring &lt;aahringo@redhat.com&gt;
-Signed-off-by: Pavel Skripkin &lt;paskripkin@gmail.com&gt;
-Link: https://lore.kernel.org/r/20220104182806.7188-1-paskripkin@gmail.com
-Signed-off-by: Stefan Schmidt &lt;stefan@datenfreihafen.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+Change-Id: Ia8d4ff8bc62922a3b7d17175fc1079d8565828cd</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#67cebcd</div>
-                                        <div class="message">
-                                            virtio_pci: Support surprise removal of virtio pci device
-
-commit 43bb40c5b92659966bdf4bfe584fde0a3575a049 upstream.
-
-When a virtio pci device undergo surprise removal (aka async removal in
-PCIe spec), mark the device as broken so that any upper layer drivers can
-abort any outstanding operation.
-
-When a virtio net pci device undergo surprise removal which is used by a
-NetworkManager, a below call trace was observed.
-
-kernel:watchdog: BUG: soft lockup - CPU#1 stuck for 26s! [kworker/1
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            27059]
-watchdog: BUG: soft lockup - CPU#1 stuck for 52s! [kworker/1
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            27059]
-CPU: 1 PID: 27059 Comm: kworker/1:1 Tainted: G S      W I  L    5.13.0-hotplug+ #8
-Hardware name: Dell Inc. PowerEdge R640/0H28RR, BIOS 2.9.4 11/06/2020
-Workqueue: events linkwatch_event
-RIP: 0010:virtnet_send_command+0xfc/0x150 [virtio_net]
-Call Trace:
- virtnet_set_rx_mode+0xcf/0x2a7 [virtio_net]
- ? __hw_addr_create_ex+0x85/0xc0
- __dev_mc_add+0x72/0x80
- igmp6_group_added+0xa7/0xd0
- ipv6_mc_up+0x3c/0x60
- ipv6_find_idev+0x36/0x80
- addrconf_add_dev+0x1e/0xa0
- addrconf_dev_config+0x71/0x130
- addrconf_notify+0x1f5/0xb40
- ? rtnl_is_locked+0x11/0x20
- ? __switch_to_asm+0x42/0x70
- ? finish_task_switch+0xaf/0x2c0
- ? raw_notifier_call_chain+0x3e/0x50
- raw_notifier_call_chain+0x3e/0x50
- netdev_state_change+0x67/0x90
- linkwatch_do_dev+0x3c/0x50
- __linkwatch_run_queue+0xd2/0x220
- linkwatch_event+0x21/0x30
- process_one_work+0x1c8/0x370
- worker_thread+0x30/0x380
- ? process_one_work+0x370/0x370
- kthread+0x118/0x140
- ? set_kthread_struct+0x40/0x40
- ret_from_fork+0x1f/0x30
-
-Hence, add the ability to abort the command on surprise removal
-which prevents infinite loop and system lockup.
-
-Signed-off-by: Parav Pandit &lt;parav@nvidia.com&gt;
-Link: https://lore.kernel.org/r/20210721142648.1525924-5-parav@nvidia.com
-Signed-off-by: Michael S. Tsirkin &lt;mst@redhat.com&gt;
-Signed-off-by: Yang Wei &lt;yang.wei@linux.alibaba.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0edf5cd</div>
-                                        <div class="message">tracing: Tag trace_percpu_buffer as a percpu pointer
-
-commit f28439db470cca8b6b082239314e9fd10bd39034 upstream.
-
-Tag trace_percpu_buffer as a percpu pointer to resolve warnings
-reported by sparse:
-  /linux/kernel/trace/trace.c:3218:46: warning: incorrect type in initializer (different address spaces)
-  /linux/kernel/trace/trace.c:3218:46:    expected void const [noderef] __percpu *__vpp_verify
-  /linux/kernel/trace/trace.c:3218:46:    got struct trace_buffer_struct *
-  /linux/kernel/trace/trace.c:3234:9: warning: incorrect type in initializer (different address spaces)
-  /linux/kernel/trace/trace.c:3234:9:    expected void const [noderef] __percpu *__vpp_verify
-  /linux/kernel/trace/trace.c:3234:9:    got int *
-
-Link: https://lkml.kernel.org/r/ebabd3f23101d89cb75671b68b6f819f5edc830b.1640255304.git.naveen.n.rao@linux.vnet.ibm.com
-
-Cc: stable@vger.kernel.org
-Reported-by: kernel test robot &lt;lkp@intel.com&gt;
-Fixes: 07d777fe8c398 ("tracing: Add percpu buffers for trace_printk()")
-Signed-off-by: Naveen N. Rao &lt;naveen.n.rao@linux.vnet.ibm.com&gt;
-Signed-off-by: Steven Rostedt &lt;rostedt@goodmis.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b71cf66</div>
-                                        <div class="message">tracing: Fix check for trace_percpu_buffer validity in get_trace_buf()
-
-commit 823e670f7ed616d0ce993075c8afe0217885f79d upstream.
-
-With the new osnoise tracer, we are seeing the below splat:
-    Kernel attempted to read user page (c7d880000) - exploit attempt? (uid: 0)
-    BUG: Unable to handle kernel data access on read at 0xc7d880000
-    Faulting instruction address: 0xc0000000002ffa10
-    Oops: Kernel access of bad area, sig: 11 [#1]
-    LE PAGE_SIZE=64K MMU=Radix SMP NR_CPUS=2048 NUMA pSeries
-    ...
-    NIP [c0000000002ffa10] __trace_array_vprintk.part.0+0x70/0x2f0
-    LR [c0000000002ff9fc] __trace_array_vprintk.part.0+0x5c/0x2f0
-    Call Trace:
-    [c0000008bdd73b80] [c0000000001c49cc] put_prev_task_fair+0x3c/0x60 (unreliable)
-    [c0000008bdd73be0] [c000000000301430] trace_array_printk_buf+0x70/0x90
-    [c0000008bdd73c00] [c0000000003178b0] trace_sched_switch_callback+0x250/0x290
-    [c0000008bdd73c90] [c000000000e70d60] __schedule+0x410/0x710
-    [c0000008bdd73d40] [c000000000e710c0] schedule+0x60/0x130
-    [c0000008bdd73d70] [c000000000030614] interrupt_exit_user_prepare_main+0x264/0x270
-    [c0000008bdd73de0] [c000000000030a70] syscall_exit_prepare+0x150/0x180
-    [c0000008bdd73e10] [c00000000000c174] system_call_vectored_common+0xf4/0x278
-
-osnoise tracer on ppc64le is triggering osnoise_taint() for negative
-duration in get_int_safe_duration() called from
-trace_sched_switch_callback()-&gt;thread_exit().
-
-The problem though is that the check for a valid trace_percpu_buffer is
-incorrect in get_trace_buf(). The check is being done after calculating
-the pointer for the current cpu, rather than on the main percpu pointer.
-Fix the check to be against trace_percpu_buffer.
-
-Link: https://lkml.kernel.org/r/a920e4272e0b0635cf20c444707cbce1b2c8973d.1640255304.git.naveen.n.rao@linux.vnet.ibm.com
-
-Cc: stable@vger.kernel.org
-Fixes: e2ace001176dc9 ("tracing: Choose static tp_printk buffer by explicit nesting count")
-Signed-off-by: Naveen N. Rao &lt;naveen.n.rao@linux.vnet.ibm.com&gt;
-Signed-off-by: Steven Rostedt &lt;rostedt@goodmis.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c574bc</div>
-                                        <div class="message">Bluetooth: btusb: Apply QCA Rome patches for some ATH3012 models
-
-commit 803cdb8ce584198cd45825822910cac7de6378cb upstream.
-
-In commit f44cb4b19ed4 ("Bluetooth: btusb: Fix quirk for Atheros
-1525/QCA6174") we tried to address the non-working Atheros BT devices
-by changing the quirk from BTUSB_ATH3012 to BTUSB_QCA_ROME.  This made
-such devices working while it turned out to break other existing chips
-with the very same USB ID, hence it was reverted afterwards.
-
-This is another attempt to tackle the issue.  The essential point to
-use BTUSB_QCA_ROME is to apply the btusb_setup_qca() and do RAM-
-patching.  And the previous attempt failed because btusb_setup_qca()
-returns -ENODEV if the ROM version doesn't match with the expected
-ones.  For some devices that have already the "correct" ROM versions,
-we may just skip the setup procedure and continue the rest.
-
-So, the first fix we'll need is to add a check of the ROM version in
-the function to skip the setup if the ROM version looks already sane,
-so that it can be applied for all ath devices.
-
-However, the world is a bit more complex than that simple solution.
-Since BTUSB_ATH3012 quirk checks the bcdDevice and bails out when it's
-0x0001 at the beginning of probing, so the device probe always aborts
-here.
-
-In this patch, we add another check of ROM version again, and if the
-device needs patching, the probe continues.  For that, a slight
-refactoring of btusb_qca_send_vendor_req() was required so that the
-probe function can pass usb_device pointer directly before allocating
-hci_dev stuff.
-
-Fixes: commit f44cb4b19ed4 ("Bluetooth: btusb: Fix quirk for Atheros 1525/QCA6174")
-Bugzilla: http://bugzilla.opensuse.org/show_bug.cgi?id=1082504
-Tested-by: Ivan Levshin &lt;ivan.levshin@microfocus.com&gt;
-Signed-off-by: Takashi Iwai &lt;tiwai@suse.de&gt;
-Signed-off-by: Marcel Holtmann &lt;marcel@holtmann.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#710bf39</div>
-                                        <div class="message">Linux 4.9.296
-
-Link: https://lore.kernel.org/r/20220103142051.979780231@linuxfoundation.org
-Tested-by: Florian Fainelli &lt;f.fainelli@gmail.com&gt;
-Tested-by: Guenter Roeck &lt;linux@roeck-us.net&gt;
-Tested-by: Jon Hunter &lt;jonathanh@nvidia.com&gt;
-Tested-by: Linux Kernel Functional Testing &lt;lkft@linaro.org&gt;
-Tested-by: Shuah Khan &lt;skhan@linuxfoundation.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e73164e</div>
-                                        <div class="message">net: fix use-after-free in tw_timer_handler
-
-commit e22e45fc9e41bf9fcc1e92cfb78eb92786728ef0 upstream.
-
-A real world panic issue was found as follow in Linux 5.4.
-
-    BUG: unable to handle page fault for address: ffffde49a863de28
-    PGD 7e6fe62067 P4D 7e6fe62067 PUD 7e6fe63067 PMD f51e064067 PTE 0
-    RIP: 0010:tw_timer_handler+0x20/0x40
-    Call Trace:
-     &lt;IRQ&gt;
-     call_timer_fn+0x2b/0x120
-     run_timer_softirq+0x1ef/0x450
-     __do_softirq+0x10d/0x2b8
-     irq_exit+0xc7/0xd0
-     smp_apic_timer_interrupt+0x68/0x120
-     apic_timer_interrupt+0xf/0x20
-
-This issue was also reported since 2017 in the thread [1],
-unfortunately, the issue was still can be reproduced after fixing
-DCCP.
-
-The ipv4_mib_exit_net is called before tcp_sk_exit_batch when a net
-namespace is destroyed since tcp_sk_ops is registered befrore
-ipv4_mib_ops, which means tcp_sk_ops is in the front of ipv4_mib_ops
-in the list of pernet_list. There will be a use-after-free on
-net-&gt;mib.net_statistics in tw_timer_handler after ipv4_mib_exit_net
-if there are some inflight time-wait timers.
-
-This bug is not introduced by commit f2bf415cfed7 ("mib: add net to
-NET_ADD_STATS_BH") since the net_statistics is a global variable
-instead of dynamic allocation and freeing. Actually, commit
-61a7e26028b9 ("mib: put net statistics on struct net") introduces
-the bug since it put net statistics on struct net and free it when
-net namespace is destroyed.
-
-Moving init_ipv4_mibs() to the front of tcp_init() to fix this bug
-and replace pr_crit() with panic() since continuing is meaningless
-when init_ipv4_mibs() fails.
-
-[1] https://groups.google.com/g/syzkaller/c/p1tn-_Kc6l4/m/smuL_FMAAgAJ?pli=1
-
-Fixes: 61a7e26028b9 ("mib: put net statistics on struct net")
-Signed-off-by: Muchun Song &lt;songmuchun@bytedance.com&gt;
-Cc: Cong Wang &lt;cong.wang@bytedance.com&gt;
-Cc: Fam Zheng &lt;fam.zheng@bytedance.com&gt;
-Cc: &lt;stable@vger.kernel.org&gt;
-Link: https://lore.kernel.org/r/20211228104145.9426-1-songmuchun@bytedance.com
-Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3ede00</div>
-                                        <div class="message">Input: spaceball - fix parsing of movement data packets
-
-commit bc7ec91718c49d938849697cfad98fcd9877cc26 upstream.
-
-The spaceball.c module was not properly parsing the movement reports
-coming from the device.  The code read axis data as signed 16-bit
-little-endian values starting at offset 2.
-
-In fact, axis data in Spaceball movement reports are signed 16-bit
-big-endian values starting at offset 3.  This was determined first by
-visually inspecting the data packets, and later verified by consulting:
-http://spacemice.org/pdf/SpaceBall_2003-3003_Protocol.pdf
-
-If this ever worked properly, it was in the time before Git...
-
-Signed-off-by: Leo L. Schwab &lt;ewhac@ewhac.org&gt;
-Link: https://lore.kernel.org/r/20211221101630.1146385-1-ewhac@ewhac.org
-Cc: stable@vger.kernel.org
-Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1962f2</div>
-                                        <div class="message">Input: appletouch - initialize work before device registration
-
-commit 9f3ccdc3f6ef10084ceb3a47df0961bec6196fd0 upstream.
-
-Syzbot has reported warning in __flush_work(). This warning is caused by
-work-&gt;func == NULL, which means missing work initialization.
-
-This may happen, since input_dev-&gt;close() calls
-cancel_work_sync(&amp;dev-&gt;work), but dev-&gt;work initalization happens _after_
-input_register_device() call.
-
-So this patch moves dev-&gt;work initialization before registering input
-device
-
-Fixes: 5a6eb676d3bc ("Input: appletouch - improve powersaving for Geyser3 devices")
-Reported-and-tested-by: syzbot+b88c5eae27386b252bbd@syzkaller.appspotmail.com
-Signed-off-by: Pavel Skripkin &lt;paskripkin@gmail.com&gt;
-Link: https://lore.kernel.org/r/20211230141151.17300-1-paskripkin@gmail.com
-Cc: stable@vger.kernel.org
-Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11fbb0f</div>
-                                        <div class="message">scsi: vmw_pvscsi: Set residual data length conditionally
-
-commit 142c779d05d1fef75134c3cb63f52ccbc96d9e1f upstream.
-
-The PVSCSI implementation in the VMware hypervisor under specific
-configuration ("SCSI Bus Sharing" set to "Physical") returns zero dataLen
-in the completion descriptor for READ CAPACITY(16). As a result, the kernel
-can not detect proper disk geometry. This can be recognized by the kernel
-message:
-
-  [ 0.776588] sd 1:0:0:0: [sdb] Sector size 0 reported, assuming 512.
-
-The PVSCSI implementation in QEMU does not set dataLen at all, keeping it
-zeroed. This leads to a boot hang as was reported by Shmulik Ladkani.
-
-It is likely that the controller returns the garbage at the end of the
-buffer. Residual length should be set by the driver in that case. The SCSI
-layer will erase corresponding data. See commit bdb2b8cab439 ("[SCSI] erase
-invalid data returned by device") for details.
-
-Commit e662502b3a78 ("scsi: vmw_pvscsi: Set correct residual data length")
-introduced the issue by setting residual length unconditionally, causing
-the SCSI layer to erase the useful payload beyond dataLen when this value
-is returned as 0.
-
-As a result, considering existing issues in implementations of PVSCSI
-controllers, we do not want to call scsi_set_resid() when dataLen ==
-0. Calling scsi_set_resid() has no effect if dataLen equals buffer length.
-
-Link: https://lore.kernel.org/lkml/20210824120028.30d9c071@blondie/
-Link: https://lore.kernel.org/r/20211220190514.55935-1-amakhalov@vmware.com
-Fixes: e662502b3a78 ("scsi: vmw_pvscsi: Set correct residual data length")
-Cc: Matt Wang &lt;wwentao@vmware.com&gt;
-Cc: Martin K. Petersen &lt;martin.petersen@oracle.com&gt;
-Cc: Vishal Bhakta &lt;vbhakta@vmware.com&gt;
-Cc: VMware PV-Drivers &lt;pv-drivers@vmware.com&gt;
-Cc: James E.J. Bottomley &lt;jejb@linux.ibm.com&gt;
-Cc: linux-scsi@vger.kernel.org
-Cc: stable@vger.kernel.org
-Reported-and-suggested-by: Shmulik Ladkani &lt;shmulik.ladkani@gmail.com&gt;
-Signed-off-by: Alexey Makhalov &lt;amakhalov@vmware.com&gt;
-Signed-off-by: Martin K. Petersen &lt;martin.petersen@oracle.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc8c802</div>
-                                        <div class="message">usb: gadget: f_fs: Clear ffs_eventfd in ffs_data_clear.
-
-commit b1e0887379422975f237d43d8839b751a6bcf154 upstream.
-
-ffs_data_clear is indirectly called from both ffs_fs_kill_sb and
-ffs_ep0_release, so it ends up being called twice when userland closes ep0
-and then unmounts f_fs.
-If userland provided an eventfd along with function's USB descriptors, it
-ends up calling eventfd_ctx_put as many times, causing a refcount
-underflow.
-NULL-ify ffs_eventfd to prevent these extraneous eventfd_ctx_put calls.
-
-Also, set epfiles to NULL right after de-allocating it, for readability.
-
-For completeness, ffs_data_clear actually ends up being called thrice, the
-last call being before the whole ffs structure gets freed, so when this
-specific sequence happens there is a second underflow happening (but not
-being reported):
-
-/sys/kernel/debug/tracing# modprobe usb_f_fs
-/sys/kernel/debug/tracing# echo ffs_data_clear &gt; set_ftrace_filter
-/sys/kernel/debug/tracing# echo function &gt; current_tracer
-/sys/kernel/debug/tracing# echo 1 &gt; tracing_on
-(setup gadget, run and kill function userland process, teardown gadget)
-/sys/kernel/debug/tracing# echo 0 &gt; tracing_on
-/sys/kernel/debug/tracing# cat trace
- smartcard-openp-436     [000] .....  1946.208786: ffs_data_clear &lt;-ffs_data_closed
- smartcard-openp-431     [000] .....  1946.279147: ffs_data_clear &lt;-ffs_data_closed
- smartcard-openp-431     [000] .n...  1946.905512: ffs_data_clear &lt;-ffs_data_put
-
-Warning output corresponding to above trace:
-[ 1946.284139] WARNING: CPU: 0 PID: 431 at lib/refcount.c:28 refcount_warn_saturate+0x110/0x15c
-[ 1946.293094] refcount_t: underflow; use-after-free.
-[ 1946.298164] Modules linked in: usb_f_ncm(E) u_ether(E) usb_f_fs(E) hci_uart(E) btqca(E) btrtl(E) btbcm(E) btintel(E) bluetooth(E) nls_ascii(E) nls_cp437(E) vfat(E) fat(E) bcm2835_v4l2(CE) bcm2835_mmal_vchiq(CE) videobuf2_vmalloc(E) videobuf2_memops(E) sha512_generic(E) videobuf2_v4l2(E) sha512_arm(E) videobuf2_common(E) videodev(E) cpufreq_dt(E) snd_bcm2835(CE) brcmfmac(E) mc(E) vc4(E) ctr(E) brcmutil(E) snd_soc_core(E) snd_pcm_dmaengine(E) drbg(E) snd_pcm(E) snd_timer(E) snd(E) soundcore(E) drm_kms_helper(E) cec(E) ansi_cprng(E) rc_core(E) syscopyarea(E) raspberrypi_cpufreq(E) sysfillrect(E) sysimgblt(E) cfg80211(E) max17040_battery(OE) raspberrypi_hwmon(E) fb_sys_fops(E) regmap_i2c(E) ecdh_generic(E) rfkill(E) ecc(E) bcm2835_rng(E) rng_core(E) vchiq(CE) leds_gpio(E) libcomposite(E) fuse(E) configfs(E) ip_tables(E) x_tables(E) autofs4(E) ext4(E) crc16(E) mbcache(E) jbd2(E) crc32c_generic(E) sdhci_iproc(E) sdhci_pltfm(E) sdhci(E)
-[ 1946.399633] CPU: 0 PID: 431 Comm: smartcard-openp Tainted: G         C OE     5.15.0-1-rpi #1  Debian 5.15.3-1
-[ 1946.417950] Hardware name: BCM2835
-[ 1946.425442] Backtrace:
-[ 1946.432048] [&lt;c08d60a0&gt;] (dump_backtrace) from [&lt;c08d62ec&gt;] (show_stack+0x20/0x24)
-[ 1946.448226]  r7:00000009 r6:0000001c r5:c04a948c r4:c0a64e2c
-[ 1946.458412] [&lt;c08d62cc&gt;] (show_stack) from [&lt;c08d9ae0&gt;] (dump_stack+0x28/0x30)
-[ 1946.470380] [&lt;c08d9ab8&gt;] (dump_stack) from [&lt;c0123500&gt;] (__warn+0xe8/0x154)
-[ 1946.482067]  r5:c04a948c r4:c0a71dc8
-[ 1946.490184] [&lt;c0123418&gt;] (__warn) from [&lt;c08d6948&gt;] (warn_slowpath_fmt+0xa0/0xe4)
-[ 1946.506758]  r7:00000009 r6:0000001c r5:c0a71dc8 r4:c0a71e04
-[ 1946.517070] [&lt;c08d68ac&gt;] (warn_slowpath_fmt) from [&lt;c04a948c&gt;] (refcount_warn_saturate+0x110/0x15c)
-[ 1946.535309]  r8:c0100224 r7:c0dfcb84 r6:ffffffff r5:c3b84c00 r4:c24a17c0
-[ 1946.546708] [&lt;c04a937c&gt;] (refcount_warn_saturate) from [&lt;c0380134&gt;] (eventfd_ctx_put+0x48/0x74)
-[ 1946.564476] [&lt;c03800ec&gt;] (eventfd_ctx_put) from [&lt;bf5464e8&gt;] (ffs_data_clear+0xd0/0x118 [usb_f_fs])
-[ 1946.582664]  r5:c3b84c00 r4:c2695b00
-[ 1946.590668] [&lt;bf546418&gt;] (ffs_data_clear [usb_f_fs]) from [&lt;bf547cc0&gt;] (ffs_data_closed+0x9c/0x150 [usb_f_fs])
-[ 1946.609608]  r5:bf54d014 r4:c2695b00
-[ 1946.617522] [&lt;bf547c24&gt;] (ffs_data_closed [usb_f_fs]) from [&lt;bf547da0&gt;] (ffs_fs_kill_sb+0x2c/0x30 [usb_f_fs])
-[ 1946.636217]  r7:c0dfcb84 r6:c3a12260 r5:bf54d014 r4:c229f000
-[ 1946.646273] [&lt;bf547d74&gt;] (ffs_fs_kill_sb [usb_f_fs]) from [&lt;c0326d50&gt;] (deactivate_locked_super+0x54/0x9c)
-[ 1946.664893]  r5:bf54d014 r4:c229f000
-[ 1946.672921] [&lt;c0326cfc&gt;] (deactivate_locked_super) from [&lt;c0326df8&gt;] (deactivate_super+0x60/0x64)
-[ 1946.690722]  r5:c2a09000 r4:c229f000
-[ 1946.698706] [&lt;c0326d98&gt;] (deactivate_super) from [&lt;c0349a28&gt;] (cleanup_mnt+0xe4/0x14c)
-[ 1946.715553]  r5:c2a09000 r4:00000000
-[ 1946.723528] [&lt;c0349944&gt;] (cleanup_mnt) from [&lt;c0349b08&gt;] (__cleanup_mnt+0x1c/0x20)
-[ 1946.739922]  r7:c0dfcb84 r6:c3a12260 r5:c3a126fc r4:00000000
-[ 1946.750088] [&lt;c0349aec&gt;] (__cleanup_mnt) from [&lt;c0143d10&gt;] (task_work_run+0x84/0xb8)
-[ 1946.766602] [&lt;c0143c8c&gt;] (task_work_run) from [&lt;c010bdc8&gt;] (do_work_pending+0x470/0x56c)
-[ 1946.783540]  r7:5ac3c35a r6:c0d0424c r5:c200bfb0 r4:c200a000
-[ 1946.793614] [&lt;c010b958&gt;] (do_work_pending) from [&lt;c01000c0&gt;] (slow_work_pending+0xc/0x20)
-[ 1946.810553] Exception stack(0xc200bfb0 to 0xc200bff8)
-[ 1946.820129] bfa0:                                     00000000 00000000 000000aa b5e21430
-[ 1946.837104] bfc0: bef867a0 00000001 bef86840 00000034 bef86838 bef86790 bef86794 bef867a0
-[ 1946.854125] bfe0: 00000000 bef86798 b67b7a1c b6d626a4 60000010 b5a23760
-[ 1946.865335]  r10:00000000 r9:c200a000 r8:c0100224 r7:00000034 r6:bef86840 r5:00000001
-[ 1946.881914]  r4:bef867a0
-[ 1946.888793] ---[ end trace 7387f2a9725b28d0 ]---
-
-Fixes: 5e33f6fdf735 ("usb: gadget: ffs: add eventfd notification about ffs events")
-Cc: stable &lt;stable@vger.kernel.org&gt;
-Signed-off-by: Vincent Pelletier &lt;plr.vincent@gmail.com&gt;
-Link: https://lore.kernel.org/r/f79eeea29f3f98de6782a064ec0f7351ad2f598f.1639793920.git.plr.vincent@gmail.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d575894</div>
-                                        <div class="message">xhci: Fresco FL1100 controller should not have BROKEN_MSI quirk set.
-
-commit e4844092581ceec22489b66c42edc88bc6079783 upstream.
-
-The Fresco Logic FL1100 controller needs the TRUST_TX_LENGTH quirk like
-other Fresco controllers, but should not have the BROKEN_MSI quirks set.
-
-BROKEN_MSI quirk causes issues in detecting usb drives connected to docks
-with this FL1100 controller.
-The BROKEN_MSI flag was apparently accidentally set together with the
-TRUST_TX_LENGTH quirk
-
-Original patch went to stable so this should go there as well.
-
-Fixes: ea0f69d82119 ("xhci: Enable trust tx length quirk for Fresco FL11 USB controller")
-Cc: stable@vger.kernel.org
-cc: Nikolay Martynov &lt;mar.kolya@gmail.com&gt;
-Signed-off-by: Mathias Nyman &lt;mathias.nyman@linux.intel.com&gt;
-Link: https://lore.kernel.org/r/20211221112825.54690-2-mathias.nyman@linux.intel.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4985e75</div>
-                                        <div class="message">uapi: fix linux/nfc.h userspace compilation errors
-
-commit 7175f02c4e5f5a9430113ab9ca0fd0ce98b28a51 upstream.
-
-Replace sa_family_t with __kernel_sa_family_t to fix the following
-linux/nfc.h userspace compilation errors:
-
-/usr/include/linux/nfc.h:266:2: error: unknown type name 'sa_family_t'
-  sa_family_t sa_family;
-/usr/include/linux/nfc.h:274:2: error: unknown type name 'sa_family_t'
-  sa_family_t sa_family;
-
-Fixes: 23b7869c0fd0 ("NFC: add the NFC socket raw protocol")
-Fixes: d646960f7986 ("NFC: Initial LLCP support")
-Cc: &lt;stable@vger.kernel.org&gt;
-Signed-off-by: Dmitry V. Levin &lt;ldv@altlinux.org&gt;
-Reviewed-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@canonical.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2975dc</div>
-                                        <div class="message">nfc: uapi: use kernel size_t to fix user-space builds
-
-commit 79b69a83705e621b258ac6d8ae6d3bfdb4b930aa upstream.
-
-Fix user-space builds if it includes /usr/include/linux/nfc.h before
-some of other headers:
-
-  /usr/include/linux/nfc.h:281:9: error: unknown type name ‘size_t’
-    281 |         size_t service_name_len;
-        |         ^~~~~~
-
-Fixes: d646960f7986 ("NFC: Initial LLCP support")
-Cc: &lt;stable@vger.kernel.org&gt;
-Signed-off-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@canonical.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35174d1</div>
-                                        <div class="message">fsl/fman: Fix missing put_device() call in fman_port_probe
-
-[ Upstream commit bf2b09fedc17248b315f80fb249087b7d28a69a6 ]
-
-The reference taken by 'of_find_device_by_node()' must be released when
-not needed anymore.
-Add the corresponding 'put_device()' in the and error handling paths.
-
-Fixes: 18a6c85fcc78 ("fsl/fman: Add FMan Port Support")
-Signed-off-by: Miaoqian Lin &lt;linmq006@gmail.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#120fb31</div>
-                                        <div class="message">selinux: initialize proto variable in selinux_ip_postroute_compat()
-
-commit 732bc2ff080c447f8524f40c970c481f5da6eed3 upstream.
-
-Clang static analysis reports this warning
-
-hooks.c:5765:6: warning: 4th function call argument is an uninitialized
-                value
-        if (selinux_xfrm_postroute_last(sksec-&gt;sid, skb, &amp;ad, proto))
-            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-selinux_parse_skb() can return ok without setting proto.  The later call
-to selinux_xfrm_postroute_last() does an early check of proto and can
-return ok if the garbage proto value matches.  So initialize proto.
-
-Cc: stable@vger.kernel.org
-Fixes: eef9b41622f2 ("selinux: cleanup selinux_xfrm_sock_rcv_skb() and selinux_xfrm_postroute_last()")
-Signed-off-by: Tom Rix &lt;trix@redhat.com&gt;
-[PM: typo/spelling and checkpatch.pl description fixes]
-Signed-off-by: Paul Moore &lt;paul@paul-moore.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce6cba6</div>
-                                        <div class="message">recordmcount.pl: fix typo in s390 mcount regex
-
-commit 4eb1782eaa9fa1c224ad1fa0d13a9f09c3ab2d80 upstream.
-
-Commit 85bf17b28f97 ("recordmcount.pl: look for jgnop instruction as well
-as bcrl on s390") added a new alternative mnemonic for the existing brcl
-instruction. This is required for the combination old gcc version (pre 9.0)
-and binutils since version 2.37.
-However at the same time this commit introduced a typo, replacing brcl with
-bcrl. As a result no mcount locations are detected anymore with old gcc
-versions (pre 9.0) and binutils before version 2.37.
-Fix this by using the correct mnemonic again.
-
-Reported-by: Miroslav Benes &lt;mbenes@suse.cz&gt;
-Cc: Jerome Marchand &lt;jmarchan@redhat.com&gt;
-Cc: &lt;stable@vger.kernel.org&gt;
-Fixes: 85bf17b28f97 ("recordmcount.pl: look for jgnop instruction as well as bcrl on s390")
-Link: https://lore.kernel.org/r/alpine.LSU.2.21.2112230949520.19849@pobox.suse.cz
-Signed-off-by: Heiko Carstens &lt;hca@linux.ibm.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cbc2b5</div>
-                                        <div class="message">platform/x86: apple-gmux: use resource_size() with res
-
-[ Upstream commit eb66fb03a727cde0ab9b1a3858de55c26f3007da ]
-
-This should be (res-&gt;end - res-&gt;start + 1) here actually,
-use resource_size() derectly.
-
-Signed-off-by: Wang Qing &lt;wangqing@vivo.com&gt;
-Link: https://lore.kernel.org/r/1639484316-75873-1-git-send-email-wangqing@vivo.com
-Reviewed-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
-Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33e2a59</div>
-                                        <div class="message">HID: asus: Add depends on USB_HID to HID_ASUS Kconfig option
-
-commit c4f0126d487f3c68ab19ccb7c561e8fbf3ea2247 upstream.
-
-Since commit 4bc43a421218 ("HID: asus: Add
-hid_is_using_ll_driver(usb_hid_driver) check") the hid-asus.c depends
-on the usb_hid_driver symbol. Add a depends on USB_HID to Kconfig to
-fix missing symbols errors in hid-asus when USB_HID is not enabled.
-
-Fixes: 4bc43a421218 ("HID: asus: Add hid_is_using_ll_driver(usb_hid_driver) check")
-Reported-by: kbuild test robot &lt;lkp@intel.com&gt;
-Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
-Signed-off-by: Jiri Kosina &lt;jkosina@suse.cz&gt;
-Cc: Jason Self &lt;jason@bluehome.net&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                        <div class="sha">#3dc4032</div>
+                                        <div class="message">Merge "hwc2: Update secure flag for FB target after set client target" into display.lnx.4.4</div>
                                     </div>
                                 </div>
                             </section>
@@ -2032,27 +1556,26 @@ Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">sc-base</span>
-                                        in
-                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">jkctech/Telegram-Trilateration</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#baff1cf</div>
+                                        <div class="message">Merge tag 'v12.2.1' into sc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e10fc0</div>
+                                        <div class="message">proton: Add vendor/google_devices</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3e1b6e</div>
+                                        <div class="message">proton: Fix Repainter service revision</div>
                                     </div>
                                 </div>
                             </section>
@@ -2062,7 +1585,7 @@ Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2022, 12:32:14 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 20 Feb 2022, 13:21:32 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
