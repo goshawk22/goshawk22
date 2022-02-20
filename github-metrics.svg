@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1497" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
     <defs>
         <style/>
     </defs>
@@ -1335,6 +1335,61 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">sc-new-kernel</span>
+                                        in
+                                        <span class="repo">proton-RMX1971/android_device_realme_sdm710-common</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">proton-RMX1971/kernel_realme_RMX1971</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc-base</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fc26e2c</div>
+                                        <div class="message">Merge tag 'LA.UM.10.3.r1-00900-sdm845.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.9 into patch-1
+
+"LA.UM.10.3.r1-00900-sdm845.0"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a9b62c</div>
+                                        <div class="message">drm/atomic: Remove WARN_ON for invalid plane configuration.
+
+Userspace can set a FB_ID on a plane without setting CRTC_ID, which
+will fail with -EINVAL, but the kernel shouldn't warn about that.
+
+Same for !FB_ID and CRTC_ID being set.
+
+Change-Id: Iee21baf7efbe44a1ede9f4d3bfa84fa12f784891
+Signed-off-by: Maarten Lankhorst &lt;maarten.lankhorst@linux.intel.com&gt;
+Acked-by: Daniel Vetter &lt;daniel.vetter@ffwll.ch&gt;
+Cc: Daniel Vetter &lt;daniel.vetter@ffwll.ch&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20180130102704.28016-1-maarten.lankhorst@linux.intel.com
+Reviewed-by: Harry Wentland &lt;harry.wentland@amd.com&gt;
+Signed-off-by: Raghavendra Ambadas &lt;quic_c_rambad@quicinc.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1520,72 +1575,12 @@ Change-Id: I59e40273988918d4a7d8aaecbeae02f0485722af</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">proton-RMX1971/hardware_qcom_display</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a95b1d5</div>
-                                        <div class="message">Merge tag 'LA.UM.10.3.r1-00900-sdm845.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into sc
-
-"LA.UM.10.3.r1-00900-sdm845.0"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dcdb531</div>
-                                        <div class="message">Merge 3dc40321b0ffc6f01e8334d539f2ba2859cc9d75 on remote branch
-
-Change-Id: Ia8d4ff8bc62922a3b7d17175fc1079d8565828cd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dc4032</div>
-                                        <div class="message">Merge "hwc2: Update secure flag for FB target after set client target" into display.lnx.4.4</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">proton-RMX1971/android_manifest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#baff1cf</div>
-                                        <div class="message">Merge tag 'v12.2.1' into sc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e10fc0</div>
-                                        <div class="message">proton: Add vendor/google_devices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3e1b6e</div>
-                                        <div class="message">proton: Fix Repainter service revision</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2022, 13:21:32 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 20 Feb 2022, 14:18:37 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
