@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1434" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1117" class="">
     <defs>
         <style/>
     </defs>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 407 repositories
+                            Starred 409 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1348,6 +1348,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">o2sh/onefetch</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">wuseman/Hack_Any_Samsung_Device_with_Android_12-Installed</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1454,146 +1480,12 @@ Change-Id: I72cb8aecdb17c5a42c834fb9ef1173185a262cf7</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">proton-RMX1971/android_vendor_qcom-opensource_data-ipa-cfg-mgr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c62aa1c</div>
-                                        <div class="message">Merge tag 'LA.UM.9.8.r1-04600-SDM710.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/data-ipa-cfg-mgr into sc
-
-"LA.UM.9.8.r1-04600-SDM710.0"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e5889e</div>
-                                        <div class="message">Merge 8ac036130549b770794208a03c2549ab28716b31 on remote branch
-
-Change-Id: I8f41ea2db2a20f67387465a19303eeee98d6abe0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#369e5b6</div>
-                                        <div class="message">Merge 22cba6c627d222cbf9b0630dce3c6a8053c3c011 on remote branch
-
-Change-Id: Ie19704bd4e07c9477955cfffdff06ea3fa1839ce</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34b82bb</div>
-                                        <div class="message">Merge 65b72aca50c99d5ca55524249b9a5206a26dfca2 on remote branch
-
-Change-Id: Ibdf08dbcf76eefa539f6779c3e3681ac2a31b28a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2668196</div>
-                                        <div class="message">Merge 286830306063751378d274cb85d405cc8f5d53d1 on remote branch
-
-Change-Id: I27b868e480306a5d2941731ac9c5a384ce38c956</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ae315b</div>
-                                        <div class="message">Merge 45b1741dd55eabfe674dc8ce6fd3f825553c18ad on remote branch
-
-Change-Id: I8891fe457fd73d1a2153614ae013dadf40df42c5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7ea3c1</div>
-                                        <div class="message">Merge 50b9701ad29f45ae0f49a189f58972e41cdbd1af on remote branch
-
-Change-Id: Ibd3043c4e6334aa7c6775911af27423880ad88e3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8105281</div>
-                                        <div class="message">Merge e0ad041f1575b9ff77ebc2ac85e21a8a9084e868 on remote branch
-
-Change-Id: I2e672669d044c9944a3d6e5e9b88aa0b7cfd12c1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a74cf6a</div>
-                                        <div class="message">Merge bcdbbcfa0bb1fed621ad997e8e6cfaa2e5f1b50a on remote branch
-
-Change-Id: I5c14dc9a1546a61dd9f91d7f479c0daf5cff693e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f533a59</div>
-                                        <div class="message">Merge 330317a31a848a32dd52668907acf6055bd02794 on remote branch
-
-Change-Id: If9483cb4afb461e0a270e6d6bd43f345587f32b6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c9229e</div>
-                                        <div class="message">Merge 6facc43568f6de2ca4142bb497077639c83db7cd on remote branch
-
-Change-Id: Ibb08a9e44374bbf975364c7eb8c624ccae77e11b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1c727c</div>
-                                        <div class="message">Merge fdb76daef85b4855cc507c65f5f5e51e29c13fb6 on remote branch
-
-Change-Id: Ibd25827f2db2b90fc13ed18f9445ea6539157f24</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c63902</div>
-                                        <div class="message">Merge 34f7bc8331a3deb3acf7b59be160e619486467d3 on remote branch
-
-Change-Id: Ic0b94d83da0fd20b8f319fc3bf8ae40de2cdecd3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a48c70</div>
-                                        <div class="message">Merge 5a520856fbd2e3978564dceefa6ed7a5c33841e5 on remote branch
-
-Change-Id: I0f618b1b362a20dd1b0f77165cb74656e78bdcea</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f088f7</div>
-                                        <div class="message">Merge b22549698cb2afeaa16eb851bbfdd97852789b45 on remote branch
-
-Change-Id: Ib39667cf47a7184850b3f6597a891428b067a540</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">proton-RMX1971/android_vendor_qcom-opensource_cryptfs_hw</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cbb4629</div>
-                                        <div class="message">Merge tag 'LA.UM.9.8.r1-04600-SDM710.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/cryptfs_hw into sc
-
-"LA.UM.9.8.r1-04600-SDM710.0"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1130e32</div>
-                                        <div class="message">Merge f9ddb744de137f8acfb5807e24c095c79c67f910 on remote branch
-
-Change-Id: I59e40273988918d4a7d8aaecbeae02f0485722af</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2022, 07:19:44 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 08:25:34 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
