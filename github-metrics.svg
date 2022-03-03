@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1650" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1700" class="">
     <defs>
         <style/>
     </defs>
@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            560 Commits
+                            562 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -319,7 +319,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 1 day
+                            Current streak 2 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -343,7 +343,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.23
+                            Average per day at ~2.26
                         </div>
                     </section>
                 </div>
@@ -976,10 +976,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.714285714285714)">
+                            <g transform="translate(-6.8, 9.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1104,20 +1104,20 @@
                             </g>
                         </g>
                         <g transform="translate(34, 20)">
-                            <g transform="translate(0, 4.571428571428571)">
+                            <g transform="translate(0, 4.285714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 6.857142857142858)">
+                            <g transform="translate(-1.7, 5.857142857142858)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.142857142857143 0,2.142857142857143 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.142857142857143 1.7,3.142857142857143 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 6.571428571428571)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1336,10 +1336,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.7142857142857135)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1359,6 +1359,223 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">OctaviOS-Devices/device_realme_RMX1971-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4da1a69</div>
+                                        <div class="message">sdm710-common: Add some more OctaviOS Props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a592822</div>
+                                        <div class="message">sdm710-common: overlay: Disable AOD by default</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30872a8</div>
+                                        <div class="message">sdm710-common: Use the correct kernel directory</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#632971c</div>
+                                        <div class="message">sdm710-common: Add OctaviOS Props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f84218</div>
+                                        <div class="message">[DNM] sdm710-common: Ignore neverallows
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57da6c2</div>
+                                        <div class="message">sdm710-common: Import init.recovery.qcom.rc from CAF
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#821b5b5</div>
+                                        <div class="message">sdm710-common: Remove config_jitzygoteBootImagePinnerServiceFiles list
+
+- obsolete on android-12
+
+Ref: I97738435edd07e8b6770372cd935218c1a9cd984
+Change-Id: Ibbc8d35961d919ccdc454ef2043824f38191637e
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d826c22</div>
+                                        <div class="message">sdm710-common: Switch to AOSP WFD</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#946ac81</div>
+                                        <div class="message">Revert "sdm710-common: Update WFD, Display, Graphics Blobs from RUI2"
+
+This reverts commit 2bc52dd01fae02440793844e3064b9004133a518.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96e54bc</div>
+                                        <div class="message">Revert "sdm710-common: Pin RUI2 Blobs"
+
+This reverts commit df2880c97085e3eed90665a0b7f3c202e977c3a9.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6968630</div>
+                                        <div class="message">sdm710-common: Enable call recording
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee8637d</div>
+                                        <div class="message">Revert "sdm845-common: Switch to Audio HAL V6"
+
+All target devices use pre-R audio.bluetooth_qti.default.so and
+pre-R audio hal, in which the new set_event_callback API is not
+implemented and the audio service will crash due to mismatched struct.
+
+jjpprrrr:
+The audio flinger also warns about event callback when playing
+audio through a USB audio adapter with DAC. Let's go back to v5
+to avoid calling these unimplemented features at all.
+
+...
+D AudioFlinger: Failed to add event callback
+...
+
+This reverts commit a05e1447a86b68ab22abb1ee9c0052567adbaf4d.
+
+Change-Id: Ia330ac05d84d3dfb3a639458d66a3dc29689e67c
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59afe54</div>
+                                        <div class="message">sdm710-common: Don't warn user about FC in Google TTS
+
+This happens on almost all FDE devices, I don't see any workaround other than hiding these dialogs
+
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72ba3d4</div>
+                                        <div class="message">sdm710-common: Use Vulkan for UI rendering
+
+Looks like the hwui renderthread with OpenGL is a little broken on
+android 12. It triggers the following Scudo error when scrolling
+quickly in certain apps:
+
+F DEBUG   : Abort message: 'Scudo ERROR: corrupted chunk header at address 0x200006fc78920a0
+F DEBUG   : '
+F DEBUG   :     x0  0000000000000000  x1  00000000000025fd  x2  0000000000000006  x3  0000006df7c0b8b0
+F DEBUG   :     x4  0080808080808080  x5  0080808080808080  x6  0080808080808080  x7  8080808080808080
+F DEBUG   :     x8  00000000000000f0  x9  494ac435077451cb  x10 0000000000000000  x11 ffffff80fffffbdf
+F DEBUG   :     x12 0000000000000001  x13 00000000dc94e9a5  x14 001176d2f9e6b000  x15 0000000000000010
+F DEBUG   :     x16 000000713c299050  x17 000000713c2769b0  x18 0000006df5e2e000  x19 000000000000258b
+F DEBUG   :     x20 00000000000025fd  x21 00000000ffffffff  x22 0000000000000000  x23 0000006eb78da910
+F DEBUG   :     x24 000000713de01d88  x25 0000006ee7882a00  x26 0000000000000040  x27 0000000000000040
+F DEBUG   :     x28 0000006df7b13000  x29 0000006df7c0b930
+F DEBUG   :     lr  000000713c2297a4  sp  0000006df7c0b890  pc  000000713c2297d0  pst 0000000000000000
+F DEBUG   : backtrace:
+F DEBUG   :       #00 pc 000000000004f7d0  /apex/com.android.runtime/lib64/bionic/libc.so (abort+164) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #01 pc 0000000000040224  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::die()+8) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #02 pc 000000000004097c  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::ScopedErrorReport::~ScopedErrorReport()+32) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #03 pc 0000000000040a44  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::reportHeaderCorruption(void*)+60) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #04 pc 00000000000421a4  /apex/com.android.runtime/lib64/bionic/libc.so (scudo::Allocator&lt;scudo::AndroidConfig, &amp;(scudo_malloc_postinit)&gt;::deallocate(void*, scudo::Chunk::Origin, unsigned long, unsigned long)+296) (BuildId: 75c8be16f616c1bbff9f4199f75a87af)
+F DEBUG   :       #05 pc 000000000041535c  /system/lib64/libhwui.so (android::uirenderer::renderthread::CanvasContext::~CanvasContext()+1020) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #06 pc 0000000000414f4c  /system/lib64/libhwui.so (android::uirenderer::renderthread::CanvasContext::~CanvasContext()+16) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #07 pc 000000000020c690  /system/lib64/libhwui.so (_ZNSt3__110__function6__funcIZN7android10uirenderer9WorkQueue7runSyncIZNS3_12renderthread11RenderProxy14destroyContextEvE3$_1EEDTclfp_EEOT_EUlvE_NS_9allocatorISC_EEFvvEEclEv$34d70ca82a4a2946342a621a4c655d1c+88) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #08 pc 00000000003c8ef4  /system/lib64/libhwui.so (android::uirenderer::WorkQueue::process()+156) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #09 pc 00000000003c8c60  /system/lib64/libhwui.so (android::uirenderer::renderthread::RenderThread::threadLoop()+84) (BuildId: 196cd621979b48671bd0aab714b2c1bd)
+F DEBUG   :       #10 pc 0000000000011f9c  /system/lib64/libutils.so (android::Thread::_threadLoop(void*)+260) (BuildId: d9d3222cb4e074a3a09934b924844959)
+
+Meanwhile, Skia Vulkan is totally fine, so let's give Vulkan another
+try.
+
+Test: scrolling quickly through Twitter feed when images and videos
+      are still loading
+Test: scrolling quickly through a Spotify playlist with lots of
+      album pictures
+
+This reverts commit ac6fa063eb75421636c2b9c77ee8499e4250a08a.
+
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0341f49</div>
+                                        <div class="message">sdm710-common: overlay: Update config_ims_rcs_package to use new ImsService
+
+Change-Id: I77fcd2a3451c99df5fa47136fa0cd36a5abab9fe
+Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53cc0ab</div>
+                                        <div class="message">sdm710-common: Cancel fingerprint operation if not idle
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df2880c</div>
+                                        <div class="message">sdm710-common: Pin RUI2 Blobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bc52dd</div>
+                                        <div class="message">sdm710-common: Update WFD, Display, Graphics Blobs from RUI2
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6909018</div>
+                                        <div class="message">Revert "sdm710-common: create and symlink a dummy /metadata/apex"
+
+This reverts commit 30325549c1214e1a024e834feda19680cf02b100.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3f4b38</div>
+                                        <div class="message">Revert "sdm710-common: move dummy metadata to init"
+
+This reverts commit efdad8420c655e60ca6bb84a6f3845b17353f97e.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OctaviOS-Devices/kernel_realme_RMX1971</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a0721bc</div>
+                                        <div class="message">usb: gadget: Fixup f_accessory.c
+
+For some reason f_accessory.c was missing commits from a while ago so update stuff that was causing merge conflicts.
+From https://android.googlesource.com/kernel/common/+/fea950d90933972c5298fa83d687c30b0ce2d9f2/drivers/usb/gadget/function/f_accessory.c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d4597b</div>
+                                        <div class="message">include: overflow: Bring back array_size
+
+Some stuff still uses it and adding it back as a commit resolves future merge conflicts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2224,212 +2441,12 @@ Change-Id: I26fadb036b8aab801c0ba5e7e5ed99170cf0f783</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 310 commits in
-                                        <span class="repo">OctaviOS-Devices/kernel_realme_RMX1971</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dcf9571</div>
-                                        <div class="message">fw-api: CL 16530757 - update fw common interface files
-
-Change-Id: I81e4daa4a721d95b36e879b9357afefff487480e
-WMI: add cal fail event TLV in FLUSH_COMPLETE_EVENT msg
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e146fb</div>
-                                        <div class="message">fw-api: CL 16496860 - update fw common interface files
-
-Change-Id: I03c98e63bb1c3b043f5c103fed67f23499053c04
-HTT: add MLO_MCAST reinject reason; WMI: add mlo_mcast_vdev flag
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc6b10a</div>
-                                        <div class="message">fw-api: CL 16481341 - update fw common interface files
-
-expand wlan_dbg_data_stall_type enum
-
-Change-Id: I6456375e19b35fa5b1d9b9eca09a9f4946ac8588
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ccc986</div>
-                                        <div class="message">fw-api: CL 16464894 - update fw common interface files
-
-Change-Id: I46df244651f041467106fb8a7d32bf106f18a3e8
-WMI: add TX_SEND_PARAM_RETRY_LIMIT_EXT bit field
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b30ec</div>
-                                        <div class="message">fw-api: CL 16461719 - update fw common interface files
-
-Change-Id: Ieef94917033ce236d2149b42a65d8bdf4531e74e
-WMI: add CRM sub ID extension bitfield
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a855ce2</div>
-                                        <div class="message">fw-api: kiwi: Get E3.R38 HW header files for kiwi
-
-Bring in E3.R38 HW header files for kiwi, as the final set of header
-files from emulation drop. In addition cleanup header files w.r.t comments,
-add appropriate copyright header.
-
-Change-Id: I3cee05e506c4171f8641193a0f12456f5cfaf890
-CRs-Fixed: 2850521</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37cd57d</div>
-                                        <div class="message">fw-api: CL 16433800 - update fw common interface files
-
-Change-Id: Ia2dc80fa155f9251fff10d08bdd419d814e3c521
-WMI: provide per-BW eht_supp_mcs_ext for 2.4 GHz, 5 GHz
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c792a7</div>
-                                        <div class="message">fw-api: CL 16422098 - update fw common interface files
-
-HTT: link default MSDU queues to a service class
-Define HTT messages for associating a peer-TIDs default MSDU queues with a service class.HTT_H2T_SAWF_DEF_QUEUES_MAP_REQ: link the specified peer-TIDs default MSDU queues with the specified service class HTT_H2T_SAWF_DEF_QUEUES_UNMAP_REQ: remove any link between the specified peer-TIDs default MSDU queues and any service classes HTT_[H2T,T2H]_SAWF_DEF_QUEUES_MAP_REPORT_[REQ,CONF]: show what service class (if any) the specified peer-TIDs default MSDU queues are linked to
-
-Change-Id: I88ad609da1ea7296ec7c7ed13768c2c94b4ac2da
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d26f33</div>
-                                        <div class="message">fw-api: CL 16377032 - update fw common interface files
-
-add WLAN_MODULE_MLO_SYNC_SEQ_NUM def
-
-Change-Id: Iaa805b755db21e65b53458e208956ef417cace93
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0d8374</div>
-                                        <div class="message">fw-api: CL 16377025 - update fw common interface files
-
-Change-Id: I16e48e5fcd35e9e0c8ecb3ccc74d5e9eb28f0259
-HTT: define TCL metadata V2 structs
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62a368f</div>
-                                        <div class="message">fw-api: CL 16352893 - update fw common interface files
-
-Change-Id: Ic6c84baea71f2314b393bf9b1350f028f4d1a42d
-WMI: add vdev_stats_id to vdev_create cmd msg
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91a6563</div>
-                                        <div class="message">fw-api: CL 16334195 - update fw common interface files
-
-HTT stats: add 11be UL MU stats
-
-Change-Id: I8a4627c7dcb4604d4c7c26aeda37af2b56b4c606
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78f7c8f</div>
-                                        <div class="message">fw-api: CL 16323376 - update fw common interface files
-
-Change-Id: Ia480284e010f002069f045267107bd24aceabbc9
-WMI: add ROAM_FRAME_EVENT msg def
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2395316</div>
-                                        <div class="message">fw-api: CL 16300054 - update fw common interface files
-
-Change-Id: I1a9f396cb4616e67ca417636856a54f7f32df043
-HTT: add tx dropped bytes counters
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81e2859</div>
-                                        <div class="message">fw-api: CL 16295127 - update fw common interface files
-
-WMI msgs for configuring SAWF service classes
-
-Change-Id: Ia70fa6dd981c512009f992356c67acaa112784f9
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8662fb1</div>
-                                        <div class="message">fw-api: CL 16288213 - update fw common interface files
-
-add WMI_PEER_EXT_DMS_CAPABLE def
-
-Change-Id: Ic5450d6b9fb4e3e8229faad06fe92bc25f4da10a
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfec47f</div>
-                                        <div class="message">fw-api: CL 16267319 - update fw common interface files
-
-extend enet.h and if_eapol.h defs
-
-Change-Id: Idaad91407642ef1941e096e8e2f93564de10ed93
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#431d668</div>
-                                        <div class="message">fw-api: CL 16257393 - update fw common interface files
-
-Change-Id: I2977f0f64bd52e044bae9efa4a2d79aa93724509
-WMI: provide retry expansion factor to FW
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e41f05</div>
-                                        <div class="message">fw-api: CL 16253037 - update fw common interface files
-
-Change-Id: I3b69b7425d6b2a1b2fee258fc3c5ff85bdf56d83
-WMI: add tag ID for wmi_mlo_set_active_link_number_param
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f4081e</div>
-                                        <div class="message">fw-api: CL 16086231 - update fw common interface files
-
-Change-Id: I446c81ab50840c76e089382ae79a704aeb7c6964
-WMI: change field from reserved to flags in wow_hostwakeup_from_sleep msg
-CRs-Fixed: 2262693</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">MHProDev/MHDDoS</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2022, 18:25:54 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 19:17:56 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
