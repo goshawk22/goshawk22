@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2413" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2013" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1328,6 +1328,42 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc-v2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cd6f77d</div>
+                                        <div class="message">manifest: android_vendor_google --&gt; android_vendor_google_devices</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">sc-v2</span>
+                                        in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 653 commits in
                                         <span class="repo">proton-RMX1971/android_build_soong</span>
                                     </div>
@@ -1776,276 +1812,12 @@ Change-Id: Ica6da59b933b0dcff940215d4e537a670bac52cb</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53a7330</div>
-                                        <div class="message">Remove unnecessary null check to make code consistent
-
-Bug: 209459024
-Test: manual test
-atest -c InternetAdapterTest \
-         InternetDialogControllerTest \
-         InternetDialogTest
-
-Change-Id: I64df820d24260a6169396e038ecf5a52096c3bdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa07bb5</div>
-                                        <div class="message">Add some java doc in the VoiceInteractionSession
-
-Add the new case that we will also set AssistStructure to null.
-
-Bug: 193512972
-Test: build and manual
-Change-Id: I431ba7d89787ec0b23cf8d1968dd23ac9178a59e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#488d992</div>
-                                        <div class="message">Do not show buttons in screen pinning dialog on tablets
-
-Change-Id: Ic8ab687ae9eef5c24e30d3e61b43547588468156
-Fixes: 199544447
-Test: manual</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58fb1ca</div>
-                                        <div class="message">Tweak the way to get the enabled component
-
-Prior to this cl, we only can get the default value set in the AndroidManifest.xml.
-It won't return the real enabled state after we modified the component state.
-
-Test: Install apk and see if the search highlight works.
-Bug: 204405245
-Change-Id: I9bf0b178c591f2fbbbfc733bb2140a5725a07166</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb2f88b</div>
-                                        <div class="message">Remove behavior that closes the notification/qs panel when tapping on an empty area.
-
-Test: Manually on device
-Bug: 202900378
-Fixes: 202900378
-Change-Id: I0ea9393175af24bf60526b4b5e7d08b893c9ffa1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#483910b</div>
-                                        <div class="message">Center EmptyShadeView vertically and horizontally.
-
-Test: StackScrollAlgorithmTest + Manually on device
-Bug: 192830851
-Change-Id: Ie5c3e417160cfe23449bcb67258be1407e4705b4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45e4bcf</div>
-                                        <div class="message">Reduce unnecessary overhead of SystemUiContext
-
-- Do not report change when initializing DisplayContent
-  (DisplayContent#isReady() is false).
-  This reduces boot time by dozen of milliseconds
-  (RootWindowContainer#setWindowManager).
-- Only create SystemUiContext if needed. Most of processes don't
-  use it. This reduces many registrations (e.g. according to the
-  number of processes, it maybe from ~60 to ~10), which involve
-  binder/listener creation/invocation, especially the extra cost
-  of dispatching configuration to the context which no one uses.
-- Store token as IWindowToken to avoid object creation every time
-  by asInterface.
-
-Bug: 207620458
-Test: atest InputMethodMenuControllerTest WindowContextControllerTest
-Change-Id: I867e9f81116796c42048195406d74feccf4772d3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d43efc9</div>
-                                        <div class="message">Merge "Override the fillsParent() on TaskFragment" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#571c1f9</div>
-                                        <div class="message">Override the fillsParent() on TaskFragment
-
-The default implementation of fillsParent() on TaskFragment which
-results in the system can not get the specified orientation from the
-activity in TaskFragment when traversing the windowContainers with
-getOrientation().
-
-Move the implementation of fillsParent() from Task to TaskFragment.
-Report the taskFragment fills the parent in a full screen window
-or matches the parents' bounds. So, we can get the orientation from
-activity successfully.
-
-Bug: 207605841
-Test: Launch wallpaper picker and check the orientation when rotate
-Change-Id: Ieb7e7e009fcfb337b2c7def1b892831d09d98951</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04728f7</div>
-                                        <div class="message">Remove unnecessary clean up of targets
-
-- removeTaskInternal can trigger the rotation to change immediately
-  (ie. https://paste.googleplex.com/5205159639515136?raw), which will
-  inadvertently trigger the screenshotRecentTasks() path, which is
-  unnecessary when cleaning up (and can lead to a lingering snapshot
-  surface.
-
-  Since these pending new task targets are already added to
-  mPendingAnimations when they are created in
-  createTaskRemoteAnimation(), the tasks will be cleaned up along with
-  everything else in cleanupAnimation()
-
-Bug: 207189813
-Test: atest WmTests:RecentsAnimationControllerTest
-Test: Ensure the live-tile + rotation path still triggers screenshot
-Test: Ensure quickswitch still works
-Change-Id: Ia9d2fb01b4c0b205f2fa4615d3be3b2b7070e488</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3f4a20</div>
-                                        <div class="message">Merge "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf2416d</div>
-                                        <div class="message">Merge "Auto resuming app switch for visible apps" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94f224b</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: c2188d60ee -s ours am: 5e154e8d5b -s ours am: c47c8f1b83 -s ours am: 712a05c34b -s ours am: bf23a64da9 -s ours am: 862c1c871a -s ours am: cff660f915 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375907
-
-Change-Id: I2adc37fdf7e06076e1e9a195520889b445f25d43</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eac6df2</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: 4d91b5aa0b am: 6910c87745 -s ours am: 87bdfa2e73 -s ours am: d6e95039fd -s ours am: d2a7720607 -s ours am: e4ad87bb3d -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16379915
-
-Change-Id: Ie0fbd00d61ebce1d2942866be60c6ac933370e5d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4055649</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: c2188d60ee -s ours am: 5e154e8d5b -s ours am: c47c8f1b83 -s ours am: 712a05c34b -s ours am: 30bc37e513 -s ours am: b1eac463c2 -s ours am: cfb883cb01 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375907
-
-Change-Id: I1665da3bcc51bbee56763b49177595002e89a645</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcef8d4</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: 4d91b5aa0b am: 6910c87745 -s ours am: 87bdfa2e73 -s ours am: 6a6a36aa0d -s ours am: e14cbc8d3b -s ours am: afc54eeaa2 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16379915
-
-Change-Id: I26c85637c4ab5a7bc81bd5ab17b92239d6ba16c2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cff660f</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: c2188d60ee -s ours am: 5e154e8d5b -s ours am: c47c8f1b83 -s ours am: 712a05c34b -s ours am: bf23a64da9 -s ours am: 862c1c871a -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375907
-
-Change-Id: I1ddd9d91878f2e562a7a4918b7bf54e5168c13e2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ad87b</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: 4d91b5aa0b am: 6910c87745 -s ours am: 87bdfa2e73 -s ours am: d6e95039fd -s ours am: d2a7720607 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16379915
-
-Change-Id: I30be49da75c8d8890dab28580685bac075bbb3a8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfb883c</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: c2188d60ee -s ours am: 5e154e8d5b -s ours am: c47c8f1b83 -s ours am: 712a05c34b -s ours am: 30bc37e513 -s ours am: b1eac463c2 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375907
-
-Change-Id: Ic2e9d6bc7d8aa9b8c2cc22caa6be680f0ba3f2b5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afc54ee</div>
-                                        <div class="message">[automerger skipped] DO NOT MERGE: Decode the input of both setStream and setResource calls first am: 4d91b5aa0b am: 6910c87745 -s ours am: 87bdfa2e73 -s ours am: 6a6a36aa0d -s ours am: e14cbc8d3b -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16379915
-
-Change-Id: I326c43d0dfcd646166d5da61741d0e41124e469a</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">proton-RMX1971/android_vendor_proton</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#285d923</div>
-                                        <div class="message">Merge tag 'v12.3.0' into sc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b84094</div>
-                                        <div class="message">version: Bump to 12.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cf251c</div>
-                                        <div class="message">device_config: Convert location indicators to soft config
-
-Along with SimpleDeviceConfig and Settings updates, this allows users to
-toggle location indiactors while still shipping it enabled by default.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#925dce9</div>
-                                        <div class="message">overlay: SystemUI: Remove obsolete flags
-
-- Monet: enabled by default
-- Combined icons: no longer a res flag. Just disable it due to popular
-  opposition.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2022, 19:17:55 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 20:22:44 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
