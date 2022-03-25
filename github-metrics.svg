@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="964" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2413" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -886,10 +886,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.199999999999999)">
+                            <g transform="translate(-3.4, 5.9)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8 0,2.8 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8 1.7,3.8 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.1 0,3.0999999999999996 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0999999999999996 1.7,4.1 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.7)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1325,11 +1325,37 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ReVancedTeam/revanced-patcher</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">proton-RMX1971/android_vendor_proton</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#285d923</div>
+                                        <div class="message">Merge tag 'v12.3.0' into sc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b84094</div>
+                                        <div class="message">version: Bump to 12.3.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cf251c</div>
+                                        <div class="message">device_config: Convert location indicators to soft config
+
+Along with SimpleDeviceConfig and Settings updates, this allows users to
+toggle location indiactors while still shipping it enabled by default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#925dce9</div>
+                                        <div class="message">overlay: SystemUI: Remove obsolete flags
+
+- Monet: enabled by default
+- Combined icons: no longer a res flag. Just disable it due to popular
+  opposition.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1341,15 +1367,165 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/goshawk22.github.io</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">proton-RMX1971/android_packages_modules_Connectivity</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1b572a</div>
-                                        <div class="message">Link to bibble</div>
+                                        <div class="sha">#249c296</div>
+                                        <div class="message">[automerger skipped] Merge "Update APIs based on API review feedback" am: 5d4e9ee83d am: ccaf092fc0 am: 5dba5e229a -s ours am: a9e718f59d -s ours
+
+am skip reason: skip tag Change-Id Ie542e5ad631388d9948dd27de21bc218b5b5b8f2 with SHA-1 7f46cda1aa is already in history
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1679670
+
+Change-Id: I6634afb697735e7d470b897435ead71224a4c049</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e657e63</div>
+                                        <div class="message">Snap for 7310088 from 15d5f55256248f720535763c65b06d33f3a45169 to sc-v2-release
+
+Change-Id: Id96ed8e51ba840b8215913f0c22df7c1f7a532f7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c77566</div>
+                                        <div class="message">Merge "Release mobile request when default upstream is not mobile" am: 07f8a618d2 am: d4b21984e9 am: 2827638c7e am: 15d5f55256
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1679667
+
+Change-Id: I0a589bfb9f7f72e49e860f50f431f370e9c2c389</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d391ceb</div>
+                                        <div class="message">Merge "Release mobile request when default upstream is not mobile" am: 07f8a618d2 am: d4b21984e9 am: 81cb8cf02c am: 4534e88bc1
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1679667
+
+Change-Id: I981ca1da7393db438cde1c16de958d77a96b564c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1315d70</div>
+                                        <div class="message">Merge "Update doc in TestUtils" am: 8027d24eaf am: 3b5fd3154a am: 81fa7cc8d6 am: 67bc25eb33
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1684726
+
+Change-Id: I65e768f6ef0f9f94198e4b5b632bc29918836873</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82a6980</div>
+                                        <div class="message">Merge "Update doc in TestUtils" am: 8027d24eaf am: 3b5fd3154a am: 6d7a9fa2cb am: 786749aa60
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1684726
+
+Change-Id: Id95b1efed114147d7dbe29163e2f809555782be0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86ed11c</div>
+                                        <div class="message">Snap for 7306623 from 733780fd4b5efbcc23b1a15f64c9bd1a0c42d837 to sc-v2-release
+
+Change-Id: Ifb148191a1a933ac8be0b47abdd92be3eb887964</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f15428</div>
+                                        <div class="message">Merge "Update APIs based on API review feedback" into sc-dev am: 789811f267
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/14248600
+
+Change-Id: I668a77389a24d310080a79d95cdd891da36cd9c1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e41184</div>
+                                        <div class="message">Merge "Fix testKeepaliveWifiUnsupported failure" am: 3b55c68cc2 am: c856c57a92 am: 455ef41ef5 am: 733780fd4b
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1684429
+
+Change-Id: Ifa637b8058c63134124fe0f0c2eb8caf80b46a8a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bb652c</div>
+                                        <div class="message">Merge "Fix testKeepaliveWifiUnsupported failure" am: 3b55c68cc2 am: c856c57a92 am: 367e8bdc75 am: c041940b5c
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1684429
+
+Change-Id: I9671e44d9173cb010d6b6ac3f8065308106ed116</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cb4bb4</div>
+                                        <div class="message">Merge "Adjust a test for policy scoring" into sc-dev am: a2755fbae3
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/14272003
+
+Change-Id: Ie10098475a2a43b4cc1aad85782c2f6dd93904be</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abf20bf</div>
+                                        <div class="message">Merge "Add test for NetworkRequest.Builder(NetworkRequest)" am: 28f3e69a25 am: 44f9593f24 am: 1230993fb4 am: f55413a5d9
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1650232
+
+Change-Id: I289f2d9b065131894065738677e55358431190b9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4e1005</div>
+                                        <div class="message">Merge "Add test for NetworkRequest.Builder(NetworkRequest)" am: 28f3e69a25 am: 44f9593f24 am: 9f699e0815 am: 6bf5db23c7
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1650232
+
+Change-Id: I857c2f03d6d4eeb37c68530a02df4758d9ef42da</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33727e2</div>
+                                        <div class="message">Snap for 7302914 from e5ca854bb6e38830e24f18ee624824970406da0b to sc-v2-release
+
+Change-Id: Ibccd9277e4daa40a988093743ddfdbfcf139ecbd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#feff5b4</div>
+                                        <div class="message">Merge changes from topic "sp32" into sc-dev am: e5ca854bb6
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/13973146
+
+Change-Id: I1c27009e59ec25fb57cf7a63d109f24f2389a78b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#890c3fc</div>
+                                        <div class="message">[SP32.3] No-op refactoring of OffloadControllerTest am: 36aa3f237c
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/14234078
+
+Change-Id: I2ccc042de4348211169b97e61cb3d94191b87661</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76adfa2</div>
+                                        <div class="message">Snap for 7295815 from 5a46aa4608f83c872a2a10f0186f7fe93ed2f860 to sc-v2-release
+
+Change-Id: Ia3977eb56cde8e5db5f338809198de43ed71bb54</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3e0d8d</div>
+                                        <div class="message">Merge "Allow callers of startTethering to choose local-only mode." am: ac9ce08d45 am: af691a13b6 am: 45e5965e2f am: 5a46aa4608
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1674232
+
+Change-Id: I2d4026a932eb8c736ff7f113f06cc73fa9c3192d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a434ea</div>
+                                        <div class="message">Merge "Allow callers of startTethering to choose local-only mode." am: ac9ce08d45 am: af691a13b6 am: f772ab1c61 am: ffdc597a11
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1674232
+
+Change-Id: I73a77d087da7c28ac73b5c363f1d0ba8afb425e0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21099d3</div>
+                                        <div class="message">Merge "Move CtsHostsideNetworkTests to group presubmit-large" am: c3bac64a94 am: b0e2855252 am: 7a4a243750 am: dcb5161417
+
+Original change: https://android-review.googlesource.com/c/platform/packages/modules/Connectivity/+/1674227
+
+Change-Id: Iab2ffd8526509ef8036f3f98677cdb48dd24aeee</div>
                                     </div>
                                 </div>
                             </section>
@@ -1358,11 +1534,150 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">taichi-dev/taichi_elements</span>
+                                        Pushed 369 commits in
+                                        <span class="repo">proton-RMX1971/android_system_core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ce8a60</div>
+                                        <div class="message">Snap for 7135444 from dfb35a50f26dd80478a023868082cd6310eca38e to sc-v2-release
+
+Change-Id: I269d9b0ecdd70127141396757f4f3a22c4625148</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67ceed6</div>
+                                        <div class="message">Snap for 7133097 from d9eb80532e15700f25ed316b9c54e7e22292f739 to sc-v2-release
+
+Change-Id: I36fede73c269afe483f7cf762de69bbfa69559f0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24494cb</div>
+                                        <div class="message">Snap for 7129394 from af45dd8fe2cdd35ac5d3dc8c8ee8c367c168fd22 to sc-v2-release
+
+Change-Id: Ic78fe882eabac485ff6555c778473c9943515cd4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da5014</div>
+                                        <div class="message">Snap for 7128142 from 515978f1d1f86b8a2261825565ea8c9de8c3335d to sc-v2-release
+
+Change-Id: I1cd3114d166d8b186d93b1d8dd87a5dccc1562f5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e6a9be</div>
+                                        <div class="message">Snap for 7125381 from 5f0d0851c6edc02d5a034a77cdd1191bdc50c76b to sc-v2-release
+
+Change-Id: I168af20e24144c7edee4dc28c7226ea753cc7ae5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2c6c55</div>
+                                        <div class="message">Snap for 7122685 from 987ee2267d707095794d04691c04ce586767ed35 to sc-v2-release
+
+Change-Id: I69176fa80507f63462cffca34a1020db1156e5c7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdcb846</div>
+                                        <div class="message">Snap for 7120416 from 2102c2bf50321702fe9969fb56f72521597a16e5 to sc-v2-release
+
+Change-Id: I0eb3c4ea59c8fca1eb615bbd7a740cd2f2227b2d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbf2497</div>
+                                        <div class="message">Merge cherrypicks of [13456626, 13454822] into sc-v2-release
+
+Change-Id: I61489b15428dbb84d9a9ad11344604b1b790359f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cb6e78</div>
+                                        <div class="message">Revert "Remove ART APEX from the bootstrap apexes"
+
+Revert submission 1563392-remove_art_from_bootstrap
+
+Reason for revert: Bug: 179002105
+Reverted Changes:
+I65e2a2089:Remove ART APEX from the bootstrap apexes
+Ic20df80e2:Remove ART APEX from the bootstrap apexes
+
+Change-Id: I474ab95805c5ca28e0bba91f3d226e8db5a7a9ea
+(cherry picked from commit 6d869dd6abb2dab2997ec8344948cffd8928521b)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a68376</div>
+                                        <div class="message">Snap for 7117025 from 9ac4fc1a3fa281a5010d2430f0323f427815c9ce to sc-v2-release
+
+Change-Id: I4281b5ae9b6606766674ec468d09559bd07adb72</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abba3d0</div>
+                                        <div class="message">Merge cherrypicks of [13455661, 13455662] into sc-v2-release
+
+Change-Id: I82e899f9c4be7d5cc216ef5cd2b4c52d4f830723</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fb834a</div>
+                                        <div class="message">Revert "Remove ART APEX from the bootstrap apexes"
+
+Revert submission 1563392-remove_art_from_bootstrap
+
+Reason for revert: Bug: 179002105
+Reverted Changes:
+I65e2a2089:Remove ART APEX from the bootstrap apexes
+Ic20df80e2:Remove ART APEX from the bootstrap apexes
+
+Change-Id: I474ab95805c5ca28e0bba91f3d226e8db5a7a9ea
+(cherry picked from commit 6d869dd6abb2dab2997ec8344948cffd8928521b)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a6589</div>
+                                        <div class="message">Snap for 7114676 from 53cb529744fe69419663a69c3e5b32b5d8c0c27c to sc-v2-release
+
+Change-Id: I8b7fb114de9cc5942b26470493bfa642fcd18924</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6126a80</div>
+                                        <div class="message">Snap for 7113567 from 391f695eda04f0795f5a8e9dc16e88892ab1d4e3 to sc-v2-release
+
+Change-Id: I5117cecf8e0a8cf44fded21ead13bb8fc15ea66f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbd5a58</div>
+                                        <div class="message">Snap for 7112378 from 9f41123556e9673a0d27fca62bb8dbaee246f381 to sc-v2-release
+
+Change-Id: Ia3d44db7a6f95090a09eff573d5cae7ca43a71e9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37f66ae</div>
+                                        <div class="message">Snap for 7110204 from 6d7918ac92d8a84dfb2845a7cbb7a660456da54d to sc-v2-release
+
+Change-Id: Ieff51618d786652a5c76f55a9cc5d059dd2be5bb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec560b1</div>
+                                        <div class="message">Snap for 7107824 from ce28a266f982ad9f4b94836e39bcd02f7a6a9e77 to sc-v2-release
+
+Change-Id: I7dbd29aae5db941bf00cf5cc26d5e4735a9963b9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0bd306</div>
+                                        <div class="message">Snap for 7105071 from e2b0d1a80939140042ad64c9e5def88b24d310df to sc-v2-release
+
+Change-Id: Ibdd8a03bc7c2b63705c5ef9faf01f828ea1e6291</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b774724</div>
+                                        <div class="message">Snap for 7102381 from 262e7ca1f6a3340fbdfad458a03bc75aa8ac43cb to sc-v2-release
+
+Change-Id: I277684276f44d846cd820a8be54766b26917a0c1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#993e75a</div>
+                                        <div class="message">Snap for 7101549 from 839083be0b125c9781086d33a141eff1be0a46d0 to sc-v2-release
+
+Change-Id: I5947a4cf4af39858ca3f12b575ae259855a71846</div>
                                     </div>
                                 </div>
                             </section>
@@ -1371,11 +1686,134 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">kboghdady/youTube_ads_4_pi-hole</span>
+                                        Pushed 78 commits in
+                                        <span class="repo">proton-RMX1971/android_frameworks_libs_net</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0966f47</div>
+                                        <div class="message">Snap for 7194211 from 4030538131006a15aa5579eca9a23433042efa38 to sc-v2-release
+
+Change-Id: I5144b6a54c9a0601e5777ad0121dd298e60c5a93</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7114a70</div>
+                                        <div class="message">Snap for 7185571 from 977e05bfb9a42c8d2bbbeab6144c29f2d6cdde08 to sc-v2-release
+
+Change-Id: Idc0c7c0ffd34a7abfd2aeb77d9cd4364411c2718</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83f8e7a</div>
+                                        <div class="message">Snap for 7183400 from d4fed1acf430575e6b99eb2c0ef1f24f233bc5be to sc-v2-release
+
+Change-Id: I36dbfb7678290a2615c7f2ecbb5c717c95b01c5f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7ae198</div>
+                                        <div class="message">Snap for 7180829 from 128c3ffd2f0b36f07d4f33ec2bc0afe5e241aa12 to sc-v2-release
+
+Change-Id: I93692bd4f0d4a84c69a5e2f5e130df881c481d0c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20afd41</div>
+                                        <div class="message">Snap for 7178253 from d00b735e5c74705a8d94d46e8c648acdade0cc68 to sc-v2-release
+
+Change-Id: I30466aaf636123680a3dfa0c80d78e85807dc28a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7859fe0</div>
+                                        <div class="message">Snap for 7175096 from 9ec329a1a0fa249861b9e66e029ba1670ea71867 to sc-v2-release
+
+Change-Id: Ic3965696dca03c59f18d0a4d8ad32897e9c6e03d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1b42f9</div>
+                                        <div class="message">Snap for 7168754 from 83fdd2ef7201d1dfae5fba55e2643d75fa6a1706 to sc-v2-release
+
+Change-Id: I6dc5b54ec5dc90ea6e3ca5cadfdcb8be9cda9a60</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7307a8</div>
+                                        <div class="message">Snap for 7166403 from 71de632b1705e8815bbe2fd00d0a1b05f59ff952 to sc-v2-release
+
+Change-Id: I0e23b355d32d772998f33f7154a79c38306a0459</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bc9a34</div>
+                                        <div class="message">Snap for 7160059 from bd9fd204ede82ab7c88ed444886292122d60dc52 to sc-v2-release
+
+Change-Id: I692dc1d41c88e6d2c86bbb11d90c071150052fe5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f103cd</div>
+                                        <div class="message">Snap for 7155219 from 0b34313dae1c04000dde28b4d36659d3a42eb03a to sc-v2-release
+
+Change-Id: I250cce831ba289282fc8478bd3ac6584ab1c836f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e305f68</div>
+                                        <div class="message">Snap for 7140885 from 91b76786c868ca7624b601f5ea86da183cd5bf11 to sc-v2-release
+
+Change-Id: I9818797d3d0b2cbf586db60e1baa9c0413822831</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2d907e</div>
+                                        <div class="message">Snap for 7135444 from 35c73aeddd60928fb2f825d2c9c4d87be00f91c8 to sc-v2-release
+
+Change-Id: I9f50f1c70478d89410441e819d9fee34a5261a6c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d15845b</div>
+                                        <div class="message">Snap for 7133097 from 4fc9e37566b99a63776f0865b289da9b0a13255c to sc-v2-release
+
+Change-Id: I09b4ca4251484facf6f06c0e9577dd2787496788</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62e20a</div>
+                                        <div class="message">Snap for 7129394 from 2af8221e45d278ac2046ca394ad84d9e675f25ae to sc-v2-release
+
+Change-Id: Iade49528ae5c8e8ab43609a9d1591f3863c53cc8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d228ded</div>
+                                        <div class="message">Snap for 7125381 from a1532d61a7648eb9eba761e05d45453faed3b9f8 to sc-v2-release
+
+Change-Id: I517e941ca60727806ee2b9656c537bab3a2b828b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edb7611</div>
+                                        <div class="message">Snap for 7122685 from c8d9b2ad1e3b085ba91ea0952a0c93c4b2fd2bb7 to sc-v2-release
+
+Change-Id: I11f5078be979d1d3159bbd3bb1ef8867348162ce</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e34470</div>
+                                        <div class="message">Snap for 7120416 from b5ae91f9a24f34bb87acdb72e7a3ffc51bddf684 to sc-v2-release
+
+Change-Id: Ieb3126d189206ae3c85e223bd7bcb4ce75f906b4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60e3e46</div>
+                                        <div class="message">Snap for 7117025 from 5e2b1b3b0e9f057d7b464788538391a5bd5d917a to sc-v2-release
+
+Change-Id: If9a874823ed800a5a9e5c972f75f51581433196c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16d74b0</div>
+                                        <div class="message">Snap for 7110204 from b9302daea87995e1bd0cf3241cfa4377405c70e2 to sc-v2-release
+
+Change-Id: Ib88fb42a3141e867058b568c4dd12febbbf8edb6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01a503a</div>
+                                        <div class="message">Snap for 7101549 from 9eedf89279c2ee512eb684869937f9e8460e3382 to sc-v2-release
+
+Change-Id: I3e52c693952e99b80f601ca53073281096e99718</div>
                                     </div>
                                 </div>
                             </section>
@@ -1384,11 +1822,134 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">AzamServer/pihole-doh</span>
+                                        Pushed 903 commits in
+                                        <span class="repo">proton-RMX1971/android_frameworks_native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0a41ffb</div>
+                                        <div class="message">Snap for 7144110 from 2804272fd6ddb209706343438d61bfd878845877 to sc-v2-release
+
+Change-Id: If8709e25bc8a532eb703ff01f35db2dabc735a32</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63c26d2</div>
+                                        <div class="message">Snap for 7142207 from 97792f96d7760311383ca9c94590d5039a025583 to sc-v2-release
+
+Change-Id: Ib4638817b6550e682ce78914e6cf9025fe49b7f7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b5bcfa</div>
+                                        <div class="message">Snap for 7140885 from e06403fa179494d6c5cafd0b4ffce767413eb14c to sc-v2-release
+
+Change-Id: I57f336181e80cc6cd9c1c39164cb5895ca01d212</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf3d751</div>
+                                        <div class="message">Snap for 7137523 from 55e57de6ca9420b3f101701e8e89ffe3b631050f to sc-v2-release
+
+Change-Id: I3a2a0bb464e2e89e061d324ece9ab2d6560e953a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f0a9b2</div>
+                                        <div class="message">Snap for 7135444 from d486b821b2534d73fcdb33c0456f441fd9b6f6f3 to sc-v2-release
+
+Change-Id: I5f1f93298ecdaac58839b09c439ca84e071c047f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6404b5a</div>
+                                        <div class="message">Snap for 7133097 from 4cd01842d4b1ba10eed64fd947c03b53c4fe3105 to sc-v2-release
+
+Change-Id: I825cde98b32a7a4368f402ea1ce90350ce8902cb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd59852</div>
+                                        <div class="message">Snap for 7130616 from bc4c5f4e10d9e9db95ba879e29de852bbbdacba4 to sc-v2-release
+
+Change-Id: I5441433a121c2175946ba394c5c015c2568ea113</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45680e2</div>
+                                        <div class="message">Snap for 7129394 from aa85ac849f48efe26066b82c56095f01113b3793 to sc-v2-release
+
+Change-Id: Ieb976f645974eee7b0643929198040f7a271e272</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46eda7c</div>
+                                        <div class="message">Snap for 7128142 from cf1509d02044f11420eee050d9f83e3f056397e5 to sc-v2-release
+
+Change-Id: Id8fd1406793343568f4e81069318bbb8ee57e2dd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4120164</div>
+                                        <div class="message">Snap for 7125381 from b7f2bccb3e19207b7b5c59fa8eafe83fc0e29263 to sc-v2-release
+
+Change-Id: I1f060db71b6e5a0bc8d2236169c9027a5ec61f90</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc312b0</div>
+                                        <div class="message">Snap for 7122685 from 8d5cbd917b59c747fed6eeb61d0a8534362c1529 to sc-v2-release
+
+Change-Id: I9285f61fe3ce2a913d16e5214f0ee0570533cfd9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cad1a6d</div>
+                                        <div class="message">Snap for 7120416 from d39555c1ecd2d0bf6dbe2e21b332ea761bb906c4 to sc-v2-release
+
+Change-Id: Ifa33a067cd20c1e7d38d878e847259c0ae8fa0a1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b90de84</div>
+                                        <div class="message">Snap for 7117025 from 1dd4590df64a64618d1d7f6174b3da2d83ae9fe4 to sc-v2-release
+
+Change-Id: Ic5853aa652bdad388fdfb6889c60fe61200d3e88</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8db4fea</div>
+                                        <div class="message">Snap for 7113567 from ab7a201e6ace9520b3f6e8768684d8ae3165c8d6 to sc-v2-release
+
+Change-Id: I7c5856bb42722258fb2caf4cedfc764b183606a3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a8b8ca</div>
+                                        <div class="message">Snap for 7112378 from 65a3e173d169e59b5165db3d645ad047fb218d74 to sc-v2-release
+
+Change-Id: I8280383869bfddd4aab57573eaeabc5737bc8040</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ada5e6</div>
+                                        <div class="message">Snap for 7110204 from dd5bfa93b0c6633b7372c87fc8d7a83a73a5cd1c to sc-v2-release
+
+Change-Id: Ieef1fa102dfd216e2a7e8c50f0b613c3ab299684</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bba378</div>
+                                        <div class="message">Snap for 7107824 from 814bc2250c245ddc03f505e8d0424aae66b3567f to sc-v2-release
+
+Change-Id: Id59c7df298add309589a58d323037a02ca2bdcc4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ab30e3</div>
+                                        <div class="message">Snap for 7105071 from 2f342bab8ce1e76767b73d7481429f2b756ccf9b to sc-v2-release
+
+Change-Id: I539ad072a76fc1e47fe08e84e5c52049d233085a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9febc3d</div>
+                                        <div class="message">Snap for 7102381 from 1d602a11165e94b9cb8bff510dce3916fd131b6b to sc-v2-release
+
+Change-Id: Ia96abfb7e3c6ad5d45f8a8c9497ad40b67c4321a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af8dd98</div>
+                                        <div class="message">Snap for 7101549 from 263aff5505f0efdcc8f36db3150b8e1c9137c765 to sc-v2-release
+
+Change-Id: I857af192f3922f459bb29a7948bdbcfb9d74ca27</div>
                                     </div>
                                 </div>
                             </section>
@@ -1398,7 +1959,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2022, 17:23:14 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 18:29:46 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
