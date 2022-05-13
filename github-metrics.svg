@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1164" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            669 Commits
+                            671 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.37m added, 727k removed
+                                    1.43m added, 760k removed
                                 </div>
                             </section>
                             <section>
@@ -1335,6 +1335,104 @@
                                 <div class="details">
                                     <div>on branch <span class="code">bibble</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6facffc</div>
+                                        <div class="message">Merge pull request #58 from goshawk22/dependabot/npm_and_yarn/bibble/types/node-17.0.33
+
+Bump @types/node from 17.0.32 to 17.0.33</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb59693</div>
+                                        <div class="message">Bump @types/node from 17.0.32 to 17.0.33
+
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.32 to 17.0.33.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/bibble</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble_hard</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e288ce</div>
+                                        <div class="message">Merge pull request #57 from goshawk22/dependabot/npm_and_yarn/bibble_hard/types/node-17.0.33
+
+Bump @types/node from 17.0.32 to 17.0.33</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58e9b28</div>
+                                        <div class="message">Bump @types/node from 17.0.32 to 17.0.33
+
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.32 to 17.0.33.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/bibble</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#13bf186</div>
+                                        <div class="message">Dependabot: Too many PRs!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/bibble</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0130ad5</div>
                                         <div class="message">Merge pull request #51 from goshawk22/dependabot/npm_and_yarn/bibble/types/jest-27.5.1
 
@@ -1399,130 +1497,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">goshawk22/bibble</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bibble_hard</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#27d13ad</div>
-                                        <div class="message">Merge pull request #53 from goshawk22/dependabot/npm_and_yarn/bibble_hard/lint-staged-12.4.1
-
-Bump lint-staged from 12.3.2 to 12.4.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16b7122</div>
-                                        <div class="message">Bump lint-staged from 12.3.2 to 12.4.1
-
-Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.3.2 to 12.4.1.
-- [Release notes](https://github.com/okonet/lint-staged/releases)
-- [Commits](https://github.com/okonet/lint-staged/compare/v12.3.2...v12.4.1)
-
----
-updated-dependencies:
-- dependency-name: lint-staged
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">goshawk22/bibble</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bibble_hard</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6442f0f</div>
-                                        <div class="message">Merge pull request #54 from goshawk22/dependabot/npm_and_yarn/bibble_hard/types/node-17.0.32
-
-Bump @types/node from 17.0.31 to 17.0.32</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#389d083</div>
-                                        <div class="message">Bump @types/node from 17.0.31 to 17.0.32
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.31 to 17.0.32.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: "@types/node"
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">goshawk22/bibble</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bibble</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d8e81fc</div>
-                                        <div class="message">Merge pull request #55 from goshawk22/dependabot/npm_and_yarn/bibble/testing-library/user-event-14.2.0
-
-Bump @testing-library/user-event from 14.1.1 to 14.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c50b97</div>
-                                        <div class="message">Bump @testing-library/user-event from 14.1.1 to 14.2.0
-
-Bumps [@testing-library/user-event](https://github.com/testing-library/user-event) from 14.1.1 to 14.2.0.
-- [Release notes](https://github.com/testing-library/user-event/releases)
-- [Changelog](https://github.com/testing-library/user-event/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/testing-library/user-event/compare/v14.1.1...v14.2)
-
----
-updated-dependencies:
-- dependency-name: "@testing-library/user-event"
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2022, 09:29:10 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 10:24:57 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
