@@ -1443,7 +1443,7 @@ This version sends an uplink every 30 seconds, whether GPS is available or not. 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2022, 16:25:53 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 17:35:58 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
