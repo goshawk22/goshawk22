@@ -1432,7 +1432,7 @@ Instead of using su to do everything as root, use sudo from your user account.</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2022, 13:45:55 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 31 May 2022, 14:46:38 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
