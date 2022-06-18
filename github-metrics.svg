@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1014" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1181" class="">
     <defs>
         <style/>
     </defs>
@@ -1333,31 +1333,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">HHScience/balloon-tracker</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/react-wordle</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">bibble</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b1dbd7</div>
-                                        <div class="message">We should stop sending status uplinks as soon as we recieve an ack
+                                        <div class="sha">#29baa10</div>
+                                        <div class="message">Merge pull request #31 from goshawk22/dependabot/npm_and_yarn/prettier-2.7.1
 
-If we miss and ack, say just after boot, the ack counter and status uplink counter will permanently be out of sync, even if we start receiving acks again. We should only transmit status uplinks when we have no acks at all and cannot guarantee if our data is being received.</div>
+Bump prettier from 2.5.1 to 2.7.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f23cd55</div>
-                                        <div class="message">Cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd636c2</div>
-                                        <div class="message">Add ping uplink to decoder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6625e</div>
-                                        <div class="message">Include GPS location in ping uplink
+                                        <div class="sha">#a396782</div>
+                                        <div class="message">Bump prettier from 2.5.1 to 2.7.1
 
-We'll need this to calculate distance</div>
+Bumps [prettier](https://github.com/prettier/prettier) from 2.5.1 to 2.7.1.
+- [Release notes](https://github.com/prettier/prettier/releases)
+- [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/prettier/compare/2.5.1...2.7.1)
+
+---
+updated-dependencies:
+- dependency-name: prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1366,11 +1370,37 @@ We'll need this to calculate distance</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Shabinder/SpotiFlyer</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/react-wordle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f488aa</div>
+                                        <div class="message">Merge pull request #32 from goshawk22/dependabot/npm_and_yarn/typescript-4.7.4
+
+Bump typescript from 4.5.4 to 4.7.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e6c4fb</div>
+                                        <div class="message">Bump typescript from 4.5.4 to 4.7.4
+
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.4 to 4.7.4.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.4...v4.7.4)
+
+---
+updated-dependencies:
+- dependency-name: typescript
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1379,11 +1409,37 @@ We'll need this to calculate distance</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Aliucord/Aliucord</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/react-wordle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#23deddd</div>
+                                        <div class="message">Merge pull request #29 from goshawk22/dependabot/npm_and_yarn/husky-8.0.1
+
+Bump husky from 7.0.4 to 8.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef6d024</div>
+                                        <div class="message">Bump husky from 7.0.4 to 8.0.1
+
+Bumps [husky](https://github.com/typicode/husky) from 7.0.4 to 8.0.1.
+- [Release notes](https://github.com/typicode/husky/releases)
+- [Commits](https://github.com/typicode/husky/compare/v7.0.4...v8.0.1)
+
+---
+updated-dependencies:
+- dependency-name: husky
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1392,11 +1448,38 @@ We'll need this to calculate distance</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Psyhackological/AAA</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/react-wordle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#90ee386</div>
+                                        <div class="message">Merge pull request #30 from goshawk22/dependabot/npm_and_yarn/web-vitals-2.1.4
+
+Bump web-vitals from 2.1.3 to 2.1.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a08a24</div>
+                                        <div class="message">Bump web-vitals from 2.1.3 to 2.1.4
+
+Bumps [web-vitals](https://github.com/GoogleChrome/web-vitals) from 2.1.3 to 2.1.4.
+- [Release notes](https://github.com/GoogleChrome/web-vitals/releases)
+- [Changelog](https://github.com/GoogleChrome/web-vitals/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/GoogleChrome/web-vitals/compare/v2.1.3...v2.1.4)
+
+---
+updated-dependencies:
+- dependency-name: web-vitals
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1405,11 +1488,38 @@ We'll need this to calculate distance</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">thomaschampagne/elevate</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/react-wordle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bibble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aa07987</div>
+                                        <div class="message">Merge pull request #3 from goshawk22/dependabot/npm_and_yarn/testing-library/react-12.1.5
+
+Bump @testing-library/react from 12.1.2 to 12.1.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45fc550</div>
+                                        <div class="message">Bump @testing-library/react from 12.1.2 to 12.1.5
+
+Bumps [@testing-library/react](https://github.com/testing-library/react-testing-library) from 12.1.2 to 12.1.5.
+- [Release notes](https://github.com/testing-library/react-testing-library/releases)
+- [Changelog](https://github.com/testing-library/react-testing-library/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/testing-library/react-testing-library/compare/v12.1.2...v12.1.5)
+
+---
+updated-dependencies:
+- dependency-name: "@testing-library/react"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1419,7 +1529,7 @@ We'll need this to calculate distance</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 16:22:39 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 17:30:26 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
