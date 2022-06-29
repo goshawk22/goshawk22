@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2083" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1767" class="">
     <defs>
         <style/>
     </defs>
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            765 Commits
+                            766 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1361,6 +1361,28 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ba1cff</div>
+                                        <div class="message">proton: Update to sc-qpr3 branch
+
+Didn't get merged for some reason</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">proton-RMX1971/android_manifest</span>
                                     </div>
@@ -1987,181 +2009,12 @@ Change-Id: I67e859d6b6c2444fa12bf737732af2e8bf6d5593</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc_old</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04ea4d5</div>
-                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours am: 58a85e0738 -s ours am: 2ffdbbf5c3 -s ours
-
-am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: Ic1c47432164265c485336e52388d7e75fdfa8425</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b7568a</div>
-                                        <div class="message">Merge "Reduce unnecessary overhead of SystemUiContext" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#953b900</div>
-                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: 33a0a408f4 -s ours am: 7814c61670 -s ours
-
-am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: If584ee269130be3e34feab63eef183bc0e5b5db0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ffdbbf</div>
-                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours am: 58a85e0738 -s ours
-
-am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: Ic2abd125a41c1d8db5126cd7fd8b040a220e11fd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7814c61</div>
-                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: 33a0a408f4 -s ours
-
-am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: Ic69427a4aadcbead09d1efef2ad866a2db4f977f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a85e0</div>
-                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours
-
-am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: I99cdc5614f62c59aefa5ed900d7346732803137f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33a0a40</div>
-                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: I0608080ff7ed174d3456c2b2b2ab8783cf83bdcc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d793b33</div>
-                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
-
-Change-Id: I7f65b792e08ac5d9d3ae95d7cbb829bd86c0932e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d994d14</div>
-                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7bea44</div>
-                                        <div class="message">Merge "Allow uid processes in foreground task to start activity in FG app switch state" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ee75c6</div>
-                                        <div class="message">Merge "Add dwell ripple shader" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84d6585</div>
-                                        <div class="message">[Output Switcher] Set title on window
-
-set window title in dialog to prevent Talkback announce "System UI"(app
-name) when dialog pop up.
-
-Test: verify on device
-Bug: 204946806
-Change-Id: I595c92139e21cb4dce9376e9b34e3333df972f43</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93124d6</div>
-                                        <div class="message">Merge "Document the split-screen action" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a1a9c3</div>
-                                        <div class="message">Snap for 7985315 from aebceb03257368cc7af82f94b3afa49ef016cf06 to sc-v2-release
-
-Change-Id: I43db3d1a2efb9754e8c18f696a10ddc9d1052272</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e202263</div>
-                                        <div class="message">Add dwell ripple shader
-
-Bug:206986888
-Test: patch ag/16375647 and "adb shell cmd statusbar auth-ripple dwell"
-
-Change-Id: I99e18d1d8415204d291bbfd3782bef7bed0e99b4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c557cd</div>
-                                        <div class="message">Merge "Show unlock icon on AOD" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21ac89f</div>
-                                        <div class="message">Merge "Tweak the way to get the enabled component" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03ac8ee</div>
-                                        <div class="message">Merge "Do not show buttons in screen pinning dialog on tablets" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af89f8d</div>
-                                        <div class="message">Merge "Show 'press to open' after face auth success" into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fecc199</div>
-                                        <div class="message">Mark bubbles as updated when they're added to the stack
-
-If you add a bubble via the button on the notification but
-if the notif for it is older than the notifs for the bubbles
-in the stack, then that added bubble is removed immediately.
-
-This isn't expected and can result in the view state being
-out of sync with bubble data, i.e. BubbleStackView contains
-the view but BubbleData doesn't have the bubble so it can
-get added again (but the view is already in BSV causing the
-crash).
-
-This fixes the issue by marking newly added bubbles as
-"updated" which will ensure the newly added bubble won't
-be immediately removed.
-
-Had to adjust the tests to be setting a current time since
-that's what's used to mark the update time.
-
-Test: atest BubbleDataTest
-Bug: 207083906
-Change-Id: I425de9c1ca514066340f9123b6004820e98674fd</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2022, 15:19:39 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 16:53:50 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
