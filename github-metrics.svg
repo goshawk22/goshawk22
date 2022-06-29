@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1334" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2349" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 120 repositories
+                            Contributed to 121 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            760 Commits
+                            764 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,7 +228,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    31 Languages
+                    32 Languages
                 </h2>
             </section>
             <section class="column">
@@ -343,7 +343,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.21
+                            Average per day at ~2.22
                         </div>
                     </section>
                 </div>
@@ -406,10 +406,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.384615384615384 0,5.384615384615384 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.384615384615384 1.7,6.384615384615384 z"/>
                             </g>
-                            <g transform="translate(-1.7, 2.1538461538461537)">
+                            <g transform="translate(-1.7, 1.9230769230769231)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.846153846153847 0,5.846153846153847 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.846153846153847 1.7,6.846153846153847 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.076923076923077 0,6.076923076923077 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.076923076923077 1.7,7.076923076923077 z"/>
                             </g>
                             <g transform="translate(-3.4, 4.538461538461538)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1358,29 +1358,342 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">borisdayma/dalle-mini</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#200 Update SearXNG guide</span>
+                                        Pushed 47 commits in
+                                        <span class="repo">proton-RMX1971/android_system_core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">LukeSmithxyz/landchad</span></div>
-                                    <div>1 file changed <span class="code">++4 --2</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ea98b60</div>
+                                        <div class="message">libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset
+
+UserLifecycleTests test disables all Little cores in the course of the
+test, which causes attempts to add a process into /dev/cpuset/restricted
+cpuset cgroup to fail with ENOSPC error code, indicating that a process
+is joining a cpuset cgroup with no online cpus. Current libprocessgroup
+implementation will log an error on each such occurrence, which spams
+the logs and makes it hard to analyze test results. Because this
+situation does not happen in production environment (we do not offline
+cpus), we can prevent flooding the logs by identifying this case,
+logging an appropriate error one time and ignore all later similar errors.
+
+Bug: 158766131
+Test: adb shell "echo 0 &gt; /sys/devices/system/cpu/cpu[0-3]/online"
+Test: start some apps, observe libprocessgroup errors in the logcat
+Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
+(cherry picked from commit ae42d601d09fa32b5c33758432cbd306b60f58ee)
+(cherry picked from commit 48e692cecd21059c9e94b9a399b96056f3b66289)
+Merged-In: Ia91d8839d86787569c255481bde077be51c43d93
+Change-Id: Ia91d8839d86787569c255481bde077be51c43d93</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc1d624</div>
+                                        <div class="message">Snap for 8119866 from 672cae47e9ca9318a684d431efa3087810f8fbd8 to sc-qpr3-release
+
+Change-Id: I65955ff1edf5b7275038724ae3cad697febc3349</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2727e16</div>
+                                        <div class="message">storageproxyd: Use alternate data path if in DSU state
+
+Adds a check for a DSU mode boot in storageproxyd. Changes path handling
+so that storageproxyd will not allow opening a file in the root data
+path in DSU mode. Instead, storageproxyd creates an "alternate/"
+directory in the data directory and the TA must use this directory to
+store its backing file.
+
+Re-landing reverted change: Iad68872dc6915f64eaf26cd3c92c04d9071ef169
+
+Test: Boot into DSU and inspect logs for "Cannot open root data file"
+Test: Test that TD writes in DSU mode don't corrupt host image storage
+when using a compatible storage TA that supports alternate data mode.
+Bug: 203719297
+
+Merged-In: I1d07e7c3d15dc1beba2d340181d1b11a7988f869
+Change-Id: I1d07e7c3d15dc1beba2d340181d1b11a7988f869</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#672cae4</div>
+                                        <div class="message">Merge changes from topic "SetProcessProfilesCached" into sc-v2-dev
+
+* changes:
+  init.rc: Set permissions to cgroup.procs files
+  libprocessgroup: Add fd caching support for SetProcessProfiles
+  libprocessgroup: Move fd caching code into FdCacheHelper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#459d814</div>
+                                        <div class="message">Snap for 8116027 from 8d3065db3cc3e5eda439b760fc826c73948fcf67 to sc-qpr3-release
+
+Change-Id: I79862e8ab0d273ff2937a854ca11cddb2a8bed66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65f3d09</div>
+                                        <div class="message">init: Wait for snapuserd before starting second stage
+
+This is a race between init process and bionic libc initialization of
+snapuserd.
+
+init-&gt;fork() ----------------&gt; SecondStageMain() -&gt; PropertyInit()
+       |
+       |
+       v
+      execveat ---&gt; __libc_init_common() -&gt; __system_properties_init()
+     (snapuserd)
+
+When init process calls PropertyInit(), /dev/__properties__ directory
+is created. When bionic libc of snapuserd daemon invokes __system_properties_init
+_after_ init process PropertyInit() function is invoked, libc will
+try to initialize the property by reading
+/system/etc/selinux/plat_property_contexts. Since any reads on /system
+has to be served by snapuserd, this specific read from libc cannot be
+serviced leading to deadlock.
+
+Reproduce the race by inducing a sleep of 1500ms just before execveat()
+so that init process calls PropertyInit() before bionic libc
+initialization. This leads to deadlock
+immediately and with additional kernel instrumentation with debug
+logs confirms the failure:
+
+======================================================
+init: Relaunched snapuserd with pid: 428
+ext4_file_open: SNAPUSERD: path /system/etc/selinux/plat_property_contexts - Pid: 428 comm 8
+ext4_file_read_iter: SNAPUSERD for path: /system/etc/selinux/plat_property_contexts pid: 428 comm 8
+
+[   25.418043][  T428]  ext4_file_read_iter+0x3dc/0x3e0
+[   25.423000][  T428]  vfs_read+0x2e0/0x354
+[   25.426986][  T428]  ksys_read+0x7c/0xec
+[   25.430894][  T428]  __arm64_sys_read+0x20/0x30
+[   25.435419][  T428]  el0_svc_common.llvm.17612735770287389485+0xd0/0x1e0
+[   25.442095][  T428]  do_el0_svc+0x28/0xa0
+[   25.446100][  T428]  el0_svc+0x14/0x24
+[   25.449825][  T428]  el0_sync_handler+0x88/0xec
+[   25.454343][  T428]  el0_sync+0x1c0/0x200
+
+=====================================================
+
+Fix:
+
+Before starting init second stage, we will wait
+for snapuserd daemon to be up and running. We do a simple probe by
+reading system partition. This read will eventually be serviced by
+daemon confirming that daemon is up and running. Furthermore,
+we are still in the kernel domain and sepolicy has not been enforced yet.
+Thus, access to these device mapper block devices are ok even though
+we may see audit logs.
+
+Note that daemon will re-initialize the __system_property_init()
+as part of WaitForSocket() call. This is subtle but important; since
+bionic libc initialized had failed silently, it is important
+that this re-initialization is done.
+
+Bug: 207298357
+Test: Induce the failure by explicitly delaying the call of execveat().
+      With fix, no issues observed.
+      Tested incremental OTA on pixel ~15 times.
+
+Ignore-AOSP-First: cherry-pick from AOSP
+Signed-off-by: Akilesh Kailash &lt;akailash@google.com&gt;
+Change-Id: I86c2de977de052bfe9dcdc002dcbd9026601d0f3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5b8f80</div>
+                                        <div class="message">init.rc: Set permissions to cgroup.procs files
+
+Set permissions to cgroup.procs files in cgroup hierarchies similar to
+permissions for tasks files so that SetProcessProfiles can access them.
+
+Bug: 215557553
+Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
+Change-Id: Id0c82288392146c8d536d273790a0252580c4203
+Merged-In: Id0c82288392146c8d536d273790a0252580c4203</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b6ba30</div>
+                                        <div class="message">libprocessgroup: Add fd caching support for SetProcessProfiles
+
+Process profiles operating on paths that do not depend on pid or uid of
+the process can cache the fd of the file they are operating on. Add
+support for fd caching similar to how SetTaskProfiles caches the fd
+of the file it needs to write to.
+
+Bug: 215557553
+Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
+Change-Id: Ie73ebcbbf1919d90409f40c1f6b08743f4edf97c
+Merged-In: Ie73ebcbbf1919d90409f40c1f6b08743f4edf97c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f79cfb5</div>
+                                        <div class="message">libprocessgroup: Move fd caching code into FdCacheHelper
+
+Refactor file descriptor caching code and move it into FdCacheHelper
+because later on when we introduce fd caching for SetProcessProfiles
+the children of CachedFdProfileAction become different enough that
+sharing the same parent becomes a hindrance.
+
+Bug: 215557553
+Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
+Change-Id: If3812a0090c81a29e25f0888b0511cfaf48edea3
+Merged-In: If3812a0090c81a29e25f0888b0511cfaf48edea3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d3065d</div>
+                                        <div class="message">[DO NOT MERGE] Allow to run fsck.f2fs in first_stage_ramdisk
+
+[   23.065933][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/sda8
+[   23.067470][    T1] logwrapper: Cannot log to file /dev/fscklogs/log
+[   23.067829][    T1] logwrapper:
+[   23.068997][  T332] logwrapper: executing /system/bin/fsck.f2fs failed: Permission denied
+[   23.069759][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: Permission denied
+[   23.071659][  T332] logwrapper:
+[   23.083283][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
+[   23.083283][    T1]
+[   23.111166][    T1] F2FS-fs (sda8): Found nat_bits in checkpoint
+[   23.121242][    T1] F2FS-fs (sda8): Mounted with checkpoint version = 6a65cb64
+[   23.121831][    T1] init: [libfs_mgr]__mount(source=/dev/block/platform/14700000.ufs/by-name/metadata,target=/metadata,type=f2fs)=0: Success
+
+Bug: 210589189
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: I720e2aa4b1ab845af96610cd0d9c6e3c9b4cae03
+Merged-In: Change-Id: I720e2aa4b1ab845af96610cd0d9c6e3c9b4cae03</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11bea35</div>
+                                        <div class="message">[DO NOT MERGE] Mount /mnt/scracth with -o sync,nodiscard
+
+"-o discard" issues UNMAP commands to loopback resulting in punch_hole
+on the pinned file in /data. That will break the pinned block map.
+
+Bug: 210589189
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: Ia927c43fc75164ce5929173f5740737eac4de484
+Merged-In: Ia927c43fc75164ce5929173f5740737eac4de484</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#312ad83</div>
+                                        <div class="message">[DO NOT MERGE] Run check_fs only /data is mounted
+
+After switching to /system from ramdisk, first_stage_init has no required
+libraries for check_fs.
+
+[   20.838811][    T1] init: [libfs_mgr]Created logical partition scratch on device /dev/block/dm-6
+[   20.972704][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/dm-6
+[   20.977879][  T345] logwrapper: executing /system/bin/fsck.f2fs failed: No such file or directory
+[   20.978470][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: No such file or directory
+[   20.981137][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
+[   21.002958][    T1] init: [libfs_mgr]__mount(source=/dev/block/dm-6,target=/mnt/scratch,type=f2fs)=0: Success
+[   21.017748][    T1] init: [libfs_mgr]umount(/mnt/scratch)
+[   21.021028][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/dm-6
+[   21.028759][  T347] logwrapper: executing /system/bin/fsck.f2fs failed: No such file or directory
+[   21.028793][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: No such file or directory
+[   21.049100][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
+[   21.068101][    T1] init: [libfs_mgr]__mount(source=/dev/block/dm-6,target=/mnt/scratch,type=f2fs)=0: Success
+
+Bug: 210589189
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: Ie41cba4e7553860fdb48996d9b58a34093f0b723
+Merged-In: Ie41cba4e7553860fdb48996d9b58a34093f0b723</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9efc42e</div>
+                                        <div class="message">[DO NOT MERGE] Don't use FSCK_LOG_FILE used for ext4 only
+
+Bug: 210589189
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: Iaf7a61c6c9c6cd557f953b1a665e7a1640d357ae
+Merged-In: Iaf7a61c6c9c6cd557f953b1a665e7a1640d357ae</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80a8fee</div>
+                                        <div class="message">[DO NOT MERGE] Don't try to mount if the disk has no FS magic
+
+This avoids:
+[   22.932529][    T1] init: [libfs_mgr]Invalid f2fs superblock on '/dev/block/platform/14700000.ufs/by-name/metadata'
+[   22.934609][    T1] F2FS-fs (sda8): Magic Mismatch, valid(0xf2f52010) - read(0x0)
+[   22.935061][    T1] F2FS-fs (sda8): Can't find valid F2FS filesystem in 1th superblock
+[   22.937306][    T1] F2FS-fs (sda8): Magic Mismatch, valid(0xf2f52010) - read(0x0)
+[   22.943700][    T1] F2FS-fs (sda8): Can't find valid F2FS filesystem in 2th superblock
+[   22.951937][    T1] init: [libfs_mgr]__mount(source=/dev/block/platform/14700000.ufs/by-name/metadata,target=/metadata,type=f2fs)=-1: Invalid argument
+
+Bug: 210589189
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: I27989b25769eae83eb06ac86146f27baf288b7e1
+Merged-In: I27989b25769eae83eb06ac86146f27baf288b7e1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdff9a3</div>
+                                        <div class="message">[DO NOT MERGE] Retry to unmount /data
+
+If we fail to umount /data, device won't boot up at all.
+
+Bug: 208161227
+Bug: 214203920
+Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
+Change-Id: I92d34a253039eb677d4df9fad8a0821fbc684f57
+Merged-In: I92d34a253039eb677d4df9fad8a0821fbc684f57</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdae2d1</div>
+                                        <div class="message">Snap for 8099527 from ae5fe46ece70b797206cef277c6f19dcf7ec5539 to sc-qpr3-release
+
+Change-Id: I0d7fbbc771621ba6d75949f40b1b9a2e9e9cc9ed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae5fe46</div>
+                                        <div class="message">Merge changes Id79f9e10,Ia91d8839 into sc-v2-dev
+
+* changes:
+  libprocessgroup: Use WriteStringToFd for WriteFileAction
+  libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#383ba40</div>
+                                        <div class="message">Snap for 8090301 from 71429a9738471920772df0d5d50a820aa0d50fbe to sc-qpr3-release
+
+Change-Id: I86c910ecf926bfa3be1ed20b9ef6781dde5723c0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e808841</div>
+                                        <div class="message">libprocessgroup: Use WriteStringToFd for WriteFileAction
+
+Using WriteStringToFile will hold kernfs_mutex which is a big lock,
+so use WriteStringToFd instead. Besides, also support fd cache for it.
+
+Bug: 206970384
+Test: build pass
+Change-Id: Id79f9e1095f52079393c58edb9a4d526f4cc6b5e
+Merged-In: Id79f9e1095f52079393c58edb9a4d526f4cc6b5e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae42d60</div>
+                                        <div class="message">libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset
+
+UserLifecycleTests test disables all Little cores in the course of the
+test, which causes attempts to add a process into /dev/cpuset/restricted
+cpuset cgroup to fail with ENOSPC error code, indicating that a process
+is joining a cpuset cgroup with no online cpus. Current libprocessgroup
+implementation will log an error on each such occurrence, which spams
+the logs and makes it hard to analyze test results. Because this
+situation does not happen in production environment (we do not offline
+cpus), we can prevent flooding the logs by identifying this case,
+logging an appropriate error one time and ignore all later similar errors.
+
+Bug: 158766131
+Test: adb shell "echo 0 &gt; /sys/devices/system/cpu/cpu[0-3]/online"
+Test: start some apps, observe libprocessgroup errors in the logcat
+Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
+Change-Id: Ia91d8839d86787569c255481bde077be51c43d93
+Merged-In: Ia91d8839d86787569c255481bde077be51c43d93</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1391,99 +1704,229 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">goshawk22/landchad</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">sc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a5b9cef</div>
-                                        <div class="message">searxng: Fix iptables
+                                        <div class="sha">#50950b8</div>
+                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours am: 2a6c047393 -s ours am: 413b806a7c -s ours
 
-Fixes #190 thanks to @LencoDigitexer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4858688</div>
-                                        <div class="message">searxng: Document using root user
+am skip reason: subject contains skip directive
 
-If logged in as root user, installation will fail as other users created by install scripts won't have permission to access the git repository. Fixes #186 thanks to @kevxyz</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98fa01c</div>
-                                        <div class="message">fix #197</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7fbeb0</div>
-                                        <div class="message">close #179</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d5ab8e</div>
-                                        <div class="message">git tutorial fixes, fix #158</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9f7a69</div>
-                                        <div class="message">Merge branch 'denizat-master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9f6892</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dce407b</div>
-                                        <div class="message">merge rainloop into preexisting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1043a8e</div>
-                                        <div class="message">close #178</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6e7f09</div>
-                                        <div class="message">readme returns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d02422</div>
-                                        <div class="message">use user-specific cache dir</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e74a03</div>
-                                        <div class="message">convert to hugo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9675941</div>
-                                        <div class="message">Merge branch 'master' of github.com:LukeSmithxyz/landchad</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41fdd11</div>
-                                        <div class="message">disendorsement of bat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2db64d5</div>
-                                        <div class="message">unlicense</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81fac50</div>
-                                        <div class="message">Merge pull request #183 from marhu98/radicale-correction
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
 
-Usind md5 is insecure. Bcrypt is better</div>
+Change-Id: I456db8e70c2cc29245e1d5a5f55b62c0d5c572e2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#14094ed</div>
-                                        <div class="message">Usind md5 is insecure. Bcrypt is better</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d2a4e1</div>
-                                        <div class="message">Merge pull request #182 from goshawk22/master
+                                        <div class="sha">#413b806</div>
+                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours am: 2a6c047393 -s ours
 
-Added SearXNG Tutorial</div>
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
+
+Change-Id: Ie2c4ec5f9a60a3b921681dd2b9b026e8713ad618</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bcda600</div>
-                                        <div class="message">fixed logo position</div>
+                                        <div class="sha">#2a6c047</div>
+                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
+
+Change-Id: I7cb0e66b4c5651c28a3cf38ac94c698737e25786</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#79ea142</div>
-                                        <div class="message">rainloop</div>
+                                        <div class="sha">#d9a89e4</div>
+                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
+
+Change-Id: I910c6754829f45d012104c992bcbc2a026622c1a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a4864e</div>
+                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
+
+Change-Id: I44b5939f05d3d4bb3f7d78e79e32403de64e47f1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e2939b</div>
+                                        <div class="message">Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d4aa63</div>
+                                        <div class="message">DO NOT MERGE DozeScreenState unregisters for AuthControllerCB
+
+Test: atest DozeScreenStateTest
+Fixes: 218885442
+Change-Id: Ib6cbdf14c2a1ec6aedfb0924ed30983779f7d624</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21e48cf</div>
+                                        <div class="message">[DO NOT MERGE] Keyguard - Treat messsages to lock with priority
+
+When switching users and attempting to lock the device, the sysui main
+thread becomes overwhelmed with events, creating a significant lag
+between the time a message is posted and processed on the main
+thread. This can be dangerous when these events are critical for
+security, such as calls coming from PhoneWindowManager#lockNow() that
+call KeyguardViewMediator#doKeyguardTimeout(). On older devices with
+slower CPUs and less memory, the delay in processing can be
+significant (15 - 30s).
+
+The result of not prioritizing these events leads to a window of time
+where a guest user can switch back to the owner, and gain access to
+the owner's homescreen without needing to unlock the device with the
+owner's credentials.
+
+As a mitigation, prioritize two events originating in two specific
+methods to make sure the device locks as soon as possible as well as
+have the system server preemptively update its local cache.
+
+Bug: 151095871
+Test: Very manual race condition - follow steps listed in bug
+Change-Id: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
+Merged-In: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
+(cherry picked from commit 28c53ab8bca26af58b45625c1ebba8b9051c107d)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32b7c35</div>
+                                        <div class="message">Remove QQS brightness controller
+
+This was not being used and it was leaking ContentObservers
+
+Test: heapdump, switching between splitshade and not splitshade many
+times
+Test: atest com.android.systemui.qs
+Fixes: 218888308
+
+Change-Id: I63501bf573e006f52379192b7b766283fea40dda
+Merged-In: I63501bf573e006f52379192b7b766283fea40dda</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d497c9</div>
+                                        <div class="message">Merge "Changes PM so apps are not installed for pre-created users." into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#563fdf4</div>
+                                        <div class="message">[DO NOT MERGE] Keyguard - Treat messsages to lock with priority
+
+When switching users and attempting to lock the device, the sysui main
+thread becomes overwhelmed with events, creating a significant lag
+between the time a message is posted and processed on the main
+thread. This can be dangerous when these events are critical for
+security, such as calls coming from PhoneWindowManager#lockNow() that
+call KeyguardViewMediator#doKeyguardTimeout(). On older devices with
+slower CPUs and less memory, the delay in processing can be
+significant (15 - 30s).
+
+The result of not prioritizing these events leads to a window of time
+where a guest user can switch back to the owner, and gain access to
+the owner's homescreen without needing to unlock the device with the
+owner's credentials.
+
+As a mitigation, prioritize two events originating in two specific
+methods to make sure the device locks as soon as possible as well as
+have the system server preemptively update its local cache.
+
+Bug: 151095871
+Test: Very manual race condition - follow steps listed in bug
+Change-Id: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
+Merged-In: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
+(cherry picked from commit 28c53ab8bca26af58b45625c1ebba8b9051c107d)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f957ea7</div>
+                                        <div class="message">DO NOT MERGE: Downbranch don't need this adjustment [Output Switcher] Keep the check for single device of add button
+
+Test: atest MediaOutputAdapterTest
+Bug: 192631896
+Change-Id: I5030ce21bef9ec37dded3dedff0d6486eef2d8e4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a268d26</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours am: ebcdd5df68 -s ours am: ce05ecb877 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
+
+Change-Id: I3885d56bf13a77add0ad197b95ac23dd5a070d45</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce05ecb</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours am: ebcdd5df68 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
+
+Change-Id: I7ee33ef24ea32b7465c3fc13c06292f912ac69b0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebcdd5d</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
+
+Change-Id: Ie3a34a59446b574f439f1ce962d0997e781432ea</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6e8249</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours
+
+am skip reason: Merged-In Iadc00568b09d0e122eefbe25c0c44820b3c24815 with SHA-1 4612f3c1c1 is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
+
+Change-Id: Ia0806040569cfc7ee18702a6d5d794a70bed0c0d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e410b7d</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours am: 0b44f5da4a -s ours am: a1a5d515bc -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
+
+Change-Id: I8b4f9966e6c1b3dd2a9da69978084cba31cd6931</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12fb3fb</div>
+                                        <div class="message">Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1a5d51</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours am: 0b44f5da4a -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
+
+Change-Id: I9688ceea130c8b58a243bd151685bad34c626ab7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b44f5d</div>
+                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
+
+Change-Id: I67e859d6b6c2444fa12bf737732af2e8bf6d5593</div>
                                     </div>
                                 </div>
                             </section>
@@ -1492,11 +1935,14 @@ Added SearXNG Tutorial</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">blutjens/awesome-MIT-ai-for-climate-change</span>
+                                        Created new
+                      branch
+                                        <span class="code">sc_old</span>
+                                        in
+                                        <span class="repo">proton-RMX1971/android_system_core</span>
                                     </div>
                                 </div>
                             </section>
@@ -1505,11 +1951,336 @@ Added SearXNG Tutorial</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">blutjens/awesome-forests</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc_old</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#04ea4d5</div>
+                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours am: 58a85e0738 -s ours am: 2ffdbbf5c3 -s ours
+
+am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: Ic1c47432164265c485336e52388d7e75fdfa8425</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b7568a</div>
+                                        <div class="message">Merge "Reduce unnecessary overhead of SystemUiContext" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#953b900</div>
+                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: 33a0a408f4 -s ours am: 7814c61670 -s ours
+
+am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: If584ee269130be3e34feab63eef183bc0e5b5db0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ffdbbf</div>
+                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours am: 58a85e0738 -s ours
+
+am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: Ic2abd125a41c1d8db5126cd7fd8b040a220e11fd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7814c61</div>
+                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: 33a0a408f4 -s ours
+
+am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: Ic69427a4aadcbead09d1efef2ad866a2db4f977f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58a85e0</div>
+                                        <div class="message">[automerger skipped] Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2 am: d793b3396e -s ours
+
+am skip reason: Merged-In Ibb921b8e718c5c9cd86c5580010cb163125d8fae with SHA-1 50aa93d6af is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: I99cdc5614f62c59aefa5ed900d7346732803137f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33a0a40</div>
+                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: I0608080ff7ed174d3456c2b2b2ab8783cf83bdcc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d793b33</div>
+                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev am: d994d146c2
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16375870
+
+Change-Id: I7f65b792e08ac5d9d3ae95d7cbb829bd86c0932e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d994d14</div>
+                                        <div class="message">Merge "Disable the test (1/n)" into rvc-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7bea44</div>
+                                        <div class="message">Merge "Allow uid processes in foreground task to start activity in FG app switch state" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ee75c6</div>
+                                        <div class="message">Merge "Add dwell ripple shader" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84d6585</div>
+                                        <div class="message">[Output Switcher] Set title on window
+
+set window title in dialog to prevent Talkback announce "System UI"(app
+name) when dialog pop up.
+
+Test: verify on device
+Bug: 204946806
+Change-Id: I595c92139e21cb4dce9376e9b34e3333df972f43</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93124d6</div>
+                                        <div class="message">Merge "Document the split-screen action" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a1a9c3</div>
+                                        <div class="message">Snap for 7985315 from aebceb03257368cc7af82f94b3afa49ef016cf06 to sc-v2-release
+
+Change-Id: I43db3d1a2efb9754e8c18f696a10ddc9d1052272</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e202263</div>
+                                        <div class="message">Add dwell ripple shader
+
+Bug:206986888
+Test: patch ag/16375647 and "adb shell cmd statusbar auth-ripple dwell"
+
+Change-Id: I99e18d1d8415204d291bbfd3782bef7bed0e99b4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c557cd</div>
+                                        <div class="message">Merge "Show unlock icon on AOD" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21ac89f</div>
+                                        <div class="message">Merge "Tweak the way to get the enabled component" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03ac8ee</div>
+                                        <div class="message">Merge "Do not show buttons in screen pinning dialog on tablets" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af89f8d</div>
+                                        <div class="message">Merge "Show 'press to open' after face auth success" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fecc199</div>
+                                        <div class="message">Mark bubbles as updated when they're added to the stack
+
+If you add a bubble via the button on the notification but
+if the notif for it is older than the notifs for the bubbles
+in the stack, then that added bubble is removed immediately.
+
+This isn't expected and can result in the view state being
+out of sync with bubble data, i.e. BubbleStackView contains
+the view but BubbleData doesn't have the bubble so it can
+get added again (but the view is already in BSV causing the
+crash).
+
+This fixes the issue by marking newly added bubbles as
+"updated" which will ensure the newly added bubble won't
+be immediately removed.
+
+Had to adjust the tests to be setting a current time since
+that's what's used to mark the update time.
+
+Test: atest BubbleDataTest
+Bug: 207083906
+Change-Id: I425de9c1ca514066340f9123b6004820e98674fd</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 137 commits in
+                                        <span class="repo">proton-RMX1971/android_build_make</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1abfcfa</div>
+                                        <div class="message">Make change and version bump to SQ3A.220126.001
+
+Change-Id: I66cc77d6e2841588e1027f7d5fcf7e45fefc5010</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45e27df</div>
+                                        <div class="message">Make change and version bump to SQ3A.220125.001
+
+Change-Id: I47bcb64a4cc2bb06f9a74e35552bf80fe6e75efb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#606437c</div>
+                                        <div class="message">Make change and version bump to SQ3A.220124.001
+
+Change-Id: Idccf383da065c579ce1668a8d5d75683a6ed9d2a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3496735</div>
+                                        <div class="message">Make change and version bump to SQ3A.220123.001
+
+Change-Id: I7a64eafe21eb459f02153fd9f0f5c083d38b7f88</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dabb5eb</div>
+                                        <div class="message">Make change and version bump to SQ3A.220122.001
+
+Change-Id: I49ab54a231e86f28aa15d1c46b1fc1e092c6f0b0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cf7887</div>
+                                        <div class="message">Make change and version bump to SQ3A.220121.001
+
+Change-Id: I7ffdab766ab1f401fd777dd6d0e840560296307d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e3e32</div>
+                                        <div class="message">Make change and version bump to SQ3A.220120.001
+
+Change-Id: I24377deff80b4a7559a349416d8d2a505186c0b8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eff4ca1</div>
+                                        <div class="message">Make change and version bump to SQ3A.220119.001
+
+Change-Id: I2bb9167ffec4d6439e1a17432d8140d726bca967</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50652dc</div>
+                                        <div class="message">[automerger skipped] Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47 am: 6b683065ea am: 8c19435f5a -s ours
+
+am skip reason: Merged-In Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863 with SHA-1 16caffd2e7 is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: Ie7dee86ccc5529e6ebbc5bd19fa99cb639eb118e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1bb191</div>
+                                        <div class="message">[automerger skipped] Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc am: 6833559fbd am: ac9415f174 -s ours
+
+am skip reason: Merged-In Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863 with SHA-1 16caffd2e7 is already in history
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16644783
+
+Change-Id: I15b77b09b4587dcbc20bd2ffc4860a337261bf66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c19435</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47 am: 6b683065ea
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: Ie211c616f7ad1336d6e082fc576df24b398cbb1c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac9415f</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc am: 6833559fbd
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Bug: 214731054
+Bug: 211820647
+
+Change-Id: Ifd4306f79809fb8c744d2c601bb2dec4038c5782
+Merged-In: Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b68306</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: I9541d529c6c20906bb78d6a4f79cb827db9d36e5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6833559</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: I652af09a72cae6f5d9ea9d74b505e36e115c7a5b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8959f0e</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: I901e7c0ca2054502bda6542c223f07b129ac461f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87a9201</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: I6587646279387e16f46698d11b28b36ad887e286</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1d6c0</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: Ifbb2444e7140a95f841f3d31c59aed0b278ec9e0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da53945</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: I3d02490cbef81683eab9b2aa02f3c5a7fcf9822e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb389ab</div>
+                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
+
+Change-Id: Iaba1fff7f3f45062087c7c276a48467324389b52</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#389f219</div>
+                                        <div class="message">Update security string to 2022-03-01
+
+Bug: 211820647
+
+Change-Id: I9afb39715b0e470866a344246566e6414071ae6a
+Merged-In: Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863</div>
                                     </div>
                                 </div>
                             </section>
@@ -1519,7 +2290,7 @@ Added SearXNG Tutorial</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2022, 10:24:20 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 11:26:43 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
