@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2349" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2083" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            764 Commits
+                            765 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1361,6 +1361,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">proton-RMX1971/android_manifest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d3527ce</div>
+                                        <div class="message">Merge tag 'android-12.1.0_r8' of https://android.googlesource.com/platform/manifest into sc
+
+Android 12.1.0 Release 8 (SQ3A.220605.009.B1)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1351440</div>
+                                        <div class="message">Manifest for Android 12.1.0 Release 8 (SQ3A.220605.009.B1)
+
+Change-Id: I71fb111e21c46ffa284d11554e66903909e46bab</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bd0a14</div>
+                                        <div class="message">Manifest for Android 12.1.0 Release 7 (SQ3A.220605.009.A1)
+
+Change-Id: I53c3693f18c992985f1416c6c526fde28b631ebd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d597eb</div>
+                                        <div class="message">Manifest for Android 12.1.0 Release 6 (SP2A.220505.006)
+
+Change-Id: Ieed9ef429183332f05a1488dcd2968d0c6acb3d2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 47 commits in
                                         <span class="repo">proton-RMX1971/android_system_core</span>
                                     </div>
@@ -2116,181 +2156,12 @@ Change-Id: I425de9c1ca514066340f9123b6004820e98674fd</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 137 commits in
-                                        <span class="repo">proton-RMX1971/android_build_make</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1abfcfa</div>
-                                        <div class="message">Make change and version bump to SQ3A.220126.001
-
-Change-Id: I66cc77d6e2841588e1027f7d5fcf7e45fefc5010</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45e27df</div>
-                                        <div class="message">Make change and version bump to SQ3A.220125.001
-
-Change-Id: I47bcb64a4cc2bb06f9a74e35552bf80fe6e75efb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#606437c</div>
-                                        <div class="message">Make change and version bump to SQ3A.220124.001
-
-Change-Id: Idccf383da065c579ce1668a8d5d75683a6ed9d2a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3496735</div>
-                                        <div class="message">Make change and version bump to SQ3A.220123.001
-
-Change-Id: I7a64eafe21eb459f02153fd9f0f5c083d38b7f88</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dabb5eb</div>
-                                        <div class="message">Make change and version bump to SQ3A.220122.001
-
-Change-Id: I49ab54a231e86f28aa15d1c46b1fc1e092c6f0b0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cf7887</div>
-                                        <div class="message">Make change and version bump to SQ3A.220121.001
-
-Change-Id: I7ffdab766ab1f401fd777dd6d0e840560296307d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39e3e32</div>
-                                        <div class="message">Make change and version bump to SQ3A.220120.001
-
-Change-Id: I24377deff80b4a7559a349416d8d2a505186c0b8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eff4ca1</div>
-                                        <div class="message">Make change and version bump to SQ3A.220119.001
-
-Change-Id: I2bb9167ffec4d6439e1a17432d8140d726bca967</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50652dc</div>
-                                        <div class="message">[automerger skipped] Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47 am: 6b683065ea am: 8c19435f5a -s ours
-
-am skip reason: Merged-In Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863 with SHA-1 16caffd2e7 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: Ie7dee86ccc5529e6ebbc5bd19fa99cb639eb118e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1bb191</div>
-                                        <div class="message">[automerger skipped] Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc am: 6833559fbd am: ac9415f174 -s ours
-
-am skip reason: Merged-In Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863 with SHA-1 16caffd2e7 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16644783
-
-Change-Id: I15b77b09b4587dcbc20bd2ffc4860a337261bf66</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c19435</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47 am: 6b683065ea
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: Ie211c616f7ad1336d6e082fc576df24b398cbb1c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac9415f</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc am: 6833559fbd
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Bug: 214731054
-Bug: 211820647
-
-Change-Id: Ifd4306f79809fb8c744d2c601bb2dec4038c5782
-Merged-In: Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b68306</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 8959f0ef47
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: I9541d529c6c20906bb78d6a4f79cb827db9d36e5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6833559</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e am: 87a92018fc
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: I652af09a72cae6f5d9ea9d74b505e36e115c7a5b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8959f0e</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: I901e7c0ca2054502bda6542c223f07b129ac461f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87a9201</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8 am: 0c1d6c0f4e
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: I6587646279387e16f46698d11b28b36ad887e286</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c1d6c0</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195 am: da539453f8
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: Ifbb2444e7140a95f841f3d31c59aed0b278ec9e0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da53945</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c am: eb389ab195
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: I3d02490cbef81683eab9b2aa02f3c5a7fcf9822e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb389ab</div>
-                                        <div class="message">Update security string to 2022-03-01 am: 389f21950c
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/build/+/16579523
-
-Change-Id: Iaba1fff7f3f45062087c7c276a48467324389b52</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#389f219</div>
-                                        <div class="message">Update security string to 2022-03-01
-
-Bug: 211820647
-
-Change-Id: I9afb39715b0e470866a344246566e6414071ae6a
-Merged-In: Ic0fb477acd4bd79c0ee464bf53b5d688f74e4863</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2022, 12:20:32 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 13:48:55 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
