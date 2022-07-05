@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1813" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1514" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            772 Commits
+                            775 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1350,6 +1350,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b37fd7</div>
+                                        <div class="message">Dockerize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9bd259</div>
+                                        <div class="message">Add some missing requirements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">proton-RMX1971/android_frameworks_base</span>
                                     </div>
@@ -1860,246 +1884,12 @@ Merged-In: Ia91d8839d86787569c255481bde077be51c43d93</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50950b8</div>
-                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours am: 2a6c047393 -s ours am: 413b806a7c -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
-
-Change-Id: I456db8e70c2cc29245e1d5a5f55b62c0d5c572e2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#413b806</div>
-                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours am: 2a6c047393 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
-
-Change-Id: Ie2c4ec5f9a60a3b921681dd2b9b026e8713ad618</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a6c047</div>
-                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours am: d9a89e476c -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
-
-Change-Id: I7cb0e66b4c5651c28a3cf38ac94c698737e25786</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9a89e4</div>
-                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours am: 6a4864ee21 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
-
-Change-Id: I910c6754829f45d012104c992bcbc2a026622c1a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a4864e</div>
-                                        <div class="message">[automerger skipped] Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev am: 5e2939bd21 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16371299
-
-Change-Id: I44b5939f05d3d4bb3f7d78e79e32403de64e47f1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e2939b</div>
-                                        <div class="message">Merge "[DO NOT MERGE] Keyguard - Treat messsages to lock with priority" into pi-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d4aa63</div>
-                                        <div class="message">DO NOT MERGE DozeScreenState unregisters for AuthControllerCB
-
-Test: atest DozeScreenStateTest
-Fixes: 218885442
-Change-Id: Ib6cbdf14c2a1ec6aedfb0924ed30983779f7d624</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21e48cf</div>
-                                        <div class="message">[DO NOT MERGE] Keyguard - Treat messsages to lock with priority
-
-When switching users and attempting to lock the device, the sysui main
-thread becomes overwhelmed with events, creating a significant lag
-between the time a message is posted and processed on the main
-thread. This can be dangerous when these events are critical for
-security, such as calls coming from PhoneWindowManager#lockNow() that
-call KeyguardViewMediator#doKeyguardTimeout(). On older devices with
-slower CPUs and less memory, the delay in processing can be
-significant (15 - 30s).
-
-The result of not prioritizing these events leads to a window of time
-where a guest user can switch back to the owner, and gain access to
-the owner's homescreen without needing to unlock the device with the
-owner's credentials.
-
-As a mitigation, prioritize two events originating in two specific
-methods to make sure the device locks as soon as possible as well as
-have the system server preemptively update its local cache.
-
-Bug: 151095871
-Test: Very manual race condition - follow steps listed in bug
-Change-Id: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
-Merged-In: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
-(cherry picked from commit 28c53ab8bca26af58b45625c1ebba8b9051c107d)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32b7c35</div>
-                                        <div class="message">Remove QQS brightness controller
-
-This was not being used and it was leaking ContentObservers
-
-Test: heapdump, switching between splitshade and not splitshade many
-times
-Test: atest com.android.systemui.qs
-Fixes: 218888308
-
-Change-Id: I63501bf573e006f52379192b7b766283fea40dda
-Merged-In: I63501bf573e006f52379192b7b766283fea40dda</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d497c9</div>
-                                        <div class="message">Merge "Changes PM so apps are not installed for pre-created users." into sc-v2-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563fdf4</div>
-                                        <div class="message">[DO NOT MERGE] Keyguard - Treat messsages to lock with priority
-
-When switching users and attempting to lock the device, the sysui main
-thread becomes overwhelmed with events, creating a significant lag
-between the time a message is posted and processed on the main
-thread. This can be dangerous when these events are critical for
-security, such as calls coming from PhoneWindowManager#lockNow() that
-call KeyguardViewMediator#doKeyguardTimeout(). On older devices with
-slower CPUs and less memory, the delay in processing can be
-significant (15 - 30s).
-
-The result of not prioritizing these events leads to a window of time
-where a guest user can switch back to the owner, and gain access to
-the owner's homescreen without needing to unlock the device with the
-owner's credentials.
-
-As a mitigation, prioritize two events originating in two specific
-methods to make sure the device locks as soon as possible as well as
-have the system server preemptively update its local cache.
-
-Bug: 151095871
-Test: Very manual race condition - follow steps listed in bug
-Change-Id: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
-Merged-In: I7585a0a5eeb308e0e32a4f77f581556d883b5cda
-(cherry picked from commit 28c53ab8bca26af58b45625c1ebba8b9051c107d)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f957ea7</div>
-                                        <div class="message">DO NOT MERGE: Downbranch don't need this adjustment [Output Switcher] Keep the check for single device of add button
-
-Test: atest MediaOutputAdapterTest
-Bug: 192631896
-Change-Id: I5030ce21bef9ec37dded3dedff0d6486eef2d8e4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a268d26</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours am: ebcdd5df68 -s ours am: ce05ecb877 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
-
-Change-Id: I3885d56bf13a77add0ad197b95ac23dd5a070d45</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce05ecb</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours am: ebcdd5df68 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
-
-Change-Id: I7ee33ef24ea32b7465c3fc13c06292f912ac69b0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebcdd5d</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours am: a6e82499df -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
-
-Change-Id: Ie3a34a59446b574f439f1ce962d0997e781432ea</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6e8249</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev am: 12fb3fb9f6 -s ours
-
-am skip reason: Merged-In Iadc00568b09d0e122eefbe25c0c44820b3c24815 with SHA-1 4612f3c1c1 is already in history
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16812576
-
-Change-Id: Ia0806040569cfc7ee18702a6d5d794a70bed0c0d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e410b7d</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours am: 0b44f5da4a -s ours am: a1a5d515bc -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
-
-Change-Id: I8b4f9966e6c1b3dd2a9da69978084cba31cd6931</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12fb3fb</div>
-                                        <div class="message">Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1a5d51</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours am: 0b44f5da4a -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
-
-Change-Id: I9688ceea130c8b58a243bd151685bad34c626ab7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b44f5d</div>
-                                        <div class="message">[automerger skipped] Merge "Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"" into rvc-qpr-dev am: 56f4c6e7a5 -s ours
-
-am skip reason: subject contains skip directive
-
-Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16813026
-
-Change-Id: I67e859d6b6c2444fa12bf737732af2e8bf6d5593</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 08:21:42 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 09:28:31 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
