@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1147" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1114" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            778 Commits
+                            781 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1357,6 +1357,70 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#f51b177</div>
+                                        <div class="message">Multiarch github actions</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#227bf05</div>
+                                        <div class="message">Correct branch in workflow</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#52df8cb</div>
+                                        <div class="message">Add some description</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb4f343</div>
+                                        <div class="message">Separate packets by date as well as device</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1c5ef16</div>
                                         <div class="message">Allow manual trigger of workflow</div>
                                     </div>
@@ -1383,170 +1447,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">goshawk22/helium-http-integration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4b37fd7</div>
-                                        <div class="message">Dockerize</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9bd259</div>
-                                        <div class="message">Add some missing requirements</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">proton-RMX1971/android_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7eda4fb</div>
-                                        <div class="message">permission: Change protection level of signature spoofing
-
-Change protectionLevel for FAKE_PACKAGE_SIGNATURE to signature|dangerous to give microG permission by default.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acc2054</div>
-                                        <div class="message">Support for device specific key handlers
-
-This is a squash commit of the following changes,
-only modified for the new SDK.
-
-  Author: Alexander Hofbauer &lt;alex@derhofbauer.at&gt;
-  Date:   Thu Apr 12 01:24:24 2012 +0200
-
-      Dispatch keys to a device specific key handler
-
-      Injects a device key handler into the input path to handle additional
-      keys (as found on some docks with a hardware keyboard).
-
-      Configurable via overlay settings config_deviceKeyHandlerLib and
-      config_deviceKeyHandlerClass.
-
-      Change-Id: I6678c89c7530fdb1d4d516ba4f1d2c9e30ce79a4
-
-  Author: Jorge Ruesga &lt;jorge@ruesga.com&gt;
-  Date:   Thu Jan 24 02:34:49 2013 +0100
-
-      DeviceKeyHandle: The device should consume only known keys
-
-      When the device receive the key, only should consume it if the device
-      know about the key. Otherwise, the key must be handle by the active app.
-      Also make mDeviceKeyHandler private (is not useful outside this class)
-
-      Change-Id: I4b9ea57b802e8c8c88c8b93a63d510f5952b0700
-      Signed-off-by: Jorge Ruesga &lt;jorge@ruesga.com&gt;
-
-  Author: Danesh Mondegarian &lt;daneshm90@gmail.com&gt;
-  Date:   Sun Oct 20 00:34:48 2013 -0700
-
-      DeviceKeyHandler : Allow handling keyevents while screen off
-
-      Some devices require the keyevents to be processed while the screen
-      is off, this patchset addresses that by moving the filter up in the call
-      hierarchy.
-
-      Change-Id: If71beecc81aa5e453dcd08aba72b7bea5c210590
-
-  Author: Steve Kondik &lt;steve@cyngn.com&gt;
-  Date:   Sun Sep 11 00:49:41 2016 -0700
-
-      policy: Use PathClassLoader for loading the keyhandler
-
-       * Fix crash on start due to getCacheDir throwing an exception.
-       * We can't do this anymore due to the new storage/crypto in N.
-
-      Change-Id: I28426a5df824460ebc74aa19068192adb00d4f7c
-
-  Author: Zhao Wei Liew &lt;zhaoweiliew@gmail.com&gt;
-  Date:   Sun Nov 20 08:20:15 2016 +0800
-
-      PhoneWindowManager: Support multiple key handlers
-
-      Convert the string overlay to a string-array overlay
-      to allow devices to specify an array of key handlers.
-
-      Note that the keyhandlers towards the start of the
-      array take precedence when loading.
-
-      Change-Id: Iaaab737f1501a97d7016d8d519ccf127ca059218
-
-  Author: Paul Keith &lt;javelinanddart@gmail.com&gt;
-  Date:   Thu Nov 23 21:47:51 2017 +0100
-
-      fw/b: Return a KeyEvent instead of a boolean in KeyHandler
-
-      * Allows handlers to modify the event before sending it off
-        to another KeyHandler class, to handle things like rotation
-
-      Change-Id: I481107e050f6323c5897260a5d241e64b4e031ac
-
-Change-Id: Ie65a89cd7efd645622d99d47699df847bc3ad96b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32bc4f7</div>
-                                        <div class="message">BiometricScheduler: Cancel operation if not idle
-
-- some hals fail to report success/failure (for ex. realme fp hals)
-[DarkJoker360 - Switch to overlays]
-
-Change-Id: I442ce063280af36a04c25fcbc3dd45a90f196988
-Signed-off-by: SagarMakhar &lt;sagarmakhar@gmail.com&gt;
-Signed-off-by: DarkJoker360 &lt;simoespo159@gmail.com&gt;
-Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">proton-RMX1971/android_manifest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4ba1cff</div>
-                                        <div class="message">proton: Update to sc-qpr3 branch
-
-Didn't get merged for some reason</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 10:22:18 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 11:25:31 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
