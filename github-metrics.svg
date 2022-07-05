@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1514" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1147" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            775 Commits
+                            778 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1350,6 +1350,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1c5ef16</div>
+                                        <div class="message">Allow manual trigger of workflow</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/helium-http-integration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#21aa465</div>
+                                        <div class="message">Create main.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">goshawk22/helium-http-integration</span>
                                     </div>
@@ -1501,395 +1541,12 @@ Didn't get merged for some reason</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">proton-RMX1971/android_manifest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d3527ce</div>
-                                        <div class="message">Merge tag 'android-12.1.0_r8' of https://android.googlesource.com/platform/manifest into sc
-
-Android 12.1.0 Release 8 (SQ3A.220605.009.B1)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1351440</div>
-                                        <div class="message">Manifest for Android 12.1.0 Release 8 (SQ3A.220605.009.B1)
-
-Change-Id: I71fb111e21c46ffa284d11554e66903909e46bab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bd0a14</div>
-                                        <div class="message">Manifest for Android 12.1.0 Release 7 (SQ3A.220605.009.A1)
-
-Change-Id: I53c3693f18c992985f1416c6c526fde28b631ebd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d597eb</div>
-                                        <div class="message">Manifest for Android 12.1.0 Release 6 (SP2A.220505.006)
-
-Change-Id: Ieed9ef429183332f05a1488dcd2968d0c6acb3d2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 47 commits in
-                                        <span class="repo">proton-RMX1971/android_system_core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ea98b60</div>
-                                        <div class="message">libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset
-
-UserLifecycleTests test disables all Little cores in the course of the
-test, which causes attempts to add a process into /dev/cpuset/restricted
-cpuset cgroup to fail with ENOSPC error code, indicating that a process
-is joining a cpuset cgroup with no online cpus. Current libprocessgroup
-implementation will log an error on each such occurrence, which spams
-the logs and makes it hard to analyze test results. Because this
-situation does not happen in production environment (we do not offline
-cpus), we can prevent flooding the logs by identifying this case,
-logging an appropriate error one time and ignore all later similar errors.
-
-Bug: 158766131
-Test: adb shell "echo 0 &gt; /sys/devices/system/cpu/cpu[0-3]/online"
-Test: start some apps, observe libprocessgroup errors in the logcat
-Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
-(cherry picked from commit ae42d601d09fa32b5c33758432cbd306b60f58ee)
-(cherry picked from commit 48e692cecd21059c9e94b9a399b96056f3b66289)
-Merged-In: Ia91d8839d86787569c255481bde077be51c43d93
-Change-Id: Ia91d8839d86787569c255481bde077be51c43d93</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc1d624</div>
-                                        <div class="message">Snap for 8119866 from 672cae47e9ca9318a684d431efa3087810f8fbd8 to sc-qpr3-release
-
-Change-Id: I65955ff1edf5b7275038724ae3cad697febc3349</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2727e16</div>
-                                        <div class="message">storageproxyd: Use alternate data path if in DSU state
-
-Adds a check for a DSU mode boot in storageproxyd. Changes path handling
-so that storageproxyd will not allow opening a file in the root data
-path in DSU mode. Instead, storageproxyd creates an "alternate/"
-directory in the data directory and the TA must use this directory to
-store its backing file.
-
-Re-landing reverted change: Iad68872dc6915f64eaf26cd3c92c04d9071ef169
-
-Test: Boot into DSU and inspect logs for "Cannot open root data file"
-Test: Test that TD writes in DSU mode don't corrupt host image storage
-when using a compatible storage TA that supports alternate data mode.
-Bug: 203719297
-
-Merged-In: I1d07e7c3d15dc1beba2d340181d1b11a7988f869
-Change-Id: I1d07e7c3d15dc1beba2d340181d1b11a7988f869</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#672cae4</div>
-                                        <div class="message">Merge changes from topic "SetProcessProfilesCached" into sc-v2-dev
-
-* changes:
-  init.rc: Set permissions to cgroup.procs files
-  libprocessgroup: Add fd caching support for SetProcessProfiles
-  libprocessgroup: Move fd caching code into FdCacheHelper</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#459d814</div>
-                                        <div class="message">Snap for 8116027 from 8d3065db3cc3e5eda439b760fc826c73948fcf67 to sc-qpr3-release
-
-Change-Id: I79862e8ab0d273ff2937a854ca11cddb2a8bed66</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65f3d09</div>
-                                        <div class="message">init: Wait for snapuserd before starting second stage
-
-This is a race between init process and bionic libc initialization of
-snapuserd.
-
-init-&gt;fork() ----------------&gt; SecondStageMain() -&gt; PropertyInit()
-       |
-       |
-       v
-      execveat ---&gt; __libc_init_common() -&gt; __system_properties_init()
-     (snapuserd)
-
-When init process calls PropertyInit(), /dev/__properties__ directory
-is created. When bionic libc of snapuserd daemon invokes __system_properties_init
-_after_ init process PropertyInit() function is invoked, libc will
-try to initialize the property by reading
-/system/etc/selinux/plat_property_contexts. Since any reads on /system
-has to be served by snapuserd, this specific read from libc cannot be
-serviced leading to deadlock.
-
-Reproduce the race by inducing a sleep of 1500ms just before execveat()
-so that init process calls PropertyInit() before bionic libc
-initialization. This leads to deadlock
-immediately and with additional kernel instrumentation with debug
-logs confirms the failure:
-
-======================================================
-init: Relaunched snapuserd with pid: 428
-ext4_file_open: SNAPUSERD: path /system/etc/selinux/plat_property_contexts - Pid: 428 comm 8
-ext4_file_read_iter: SNAPUSERD for path: /system/etc/selinux/plat_property_contexts pid: 428 comm 8
-
-[   25.418043][  T428]  ext4_file_read_iter+0x3dc/0x3e0
-[   25.423000][  T428]  vfs_read+0x2e0/0x354
-[   25.426986][  T428]  ksys_read+0x7c/0xec
-[   25.430894][  T428]  __arm64_sys_read+0x20/0x30
-[   25.435419][  T428]  el0_svc_common.llvm.17612735770287389485+0xd0/0x1e0
-[   25.442095][  T428]  do_el0_svc+0x28/0xa0
-[   25.446100][  T428]  el0_svc+0x14/0x24
-[   25.449825][  T428]  el0_sync_handler+0x88/0xec
-[   25.454343][  T428]  el0_sync+0x1c0/0x200
-
-=====================================================
-
-Fix:
-
-Before starting init second stage, we will wait
-for snapuserd daemon to be up and running. We do a simple probe by
-reading system partition. This read will eventually be serviced by
-daemon confirming that daemon is up and running. Furthermore,
-we are still in the kernel domain and sepolicy has not been enforced yet.
-Thus, access to these device mapper block devices are ok even though
-we may see audit logs.
-
-Note that daemon will re-initialize the __system_property_init()
-as part of WaitForSocket() call. This is subtle but important; since
-bionic libc initialized had failed silently, it is important
-that this re-initialization is done.
-
-Bug: 207298357
-Test: Induce the failure by explicitly delaying the call of execveat().
-      With fix, no issues observed.
-      Tested incremental OTA on pixel ~15 times.
-
-Ignore-AOSP-First: cherry-pick from AOSP
-Signed-off-by: Akilesh Kailash &lt;akailash@google.com&gt;
-Change-Id: I86c2de977de052bfe9dcdc002dcbd9026601d0f3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5b8f80</div>
-                                        <div class="message">init.rc: Set permissions to cgroup.procs files
-
-Set permissions to cgroup.procs files in cgroup hierarchies similar to
-permissions for tasks files so that SetProcessProfiles can access them.
-
-Bug: 215557553
-Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
-Change-Id: Id0c82288392146c8d536d273790a0252580c4203
-Merged-In: Id0c82288392146c8d536d273790a0252580c4203</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b6ba30</div>
-                                        <div class="message">libprocessgroup: Add fd caching support for SetProcessProfiles
-
-Process profiles operating on paths that do not depend on pid or uid of
-the process can cache the fd of the file they are operating on. Add
-support for fd caching similar to how SetTaskProfiles caches the fd
-of the file it needs to write to.
-
-Bug: 215557553
-Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
-Change-Id: Ie73ebcbbf1919d90409f40c1f6b08743f4edf97c
-Merged-In: Ie73ebcbbf1919d90409f40c1f6b08743f4edf97c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f79cfb5</div>
-                                        <div class="message">libprocessgroup: Move fd caching code into FdCacheHelper
-
-Refactor file descriptor caching code and move it into FdCacheHelper
-because later on when we introduce fd caching for SetProcessProfiles
-the children of CachedFdProfileAction become different enough that
-sharing the same parent becomes a hindrance.
-
-Bug: 215557553
-Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
-Change-Id: If3812a0090c81a29e25f0888b0511cfaf48edea3
-Merged-In: If3812a0090c81a29e25f0888b0511cfaf48edea3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d3065d</div>
-                                        <div class="message">[DO NOT MERGE] Allow to run fsck.f2fs in first_stage_ramdisk
-
-[   23.065933][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/sda8
-[   23.067470][    T1] logwrapper: Cannot log to file /dev/fscklogs/log
-[   23.067829][    T1] logwrapper:
-[   23.068997][  T332] logwrapper: executing /system/bin/fsck.f2fs failed: Permission denied
-[   23.069759][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: Permission denied
-[   23.071659][  T332] logwrapper:
-[   23.083283][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
-[   23.083283][    T1]
-[   23.111166][    T1] F2FS-fs (sda8): Found nat_bits in checkpoint
-[   23.121242][    T1] F2FS-fs (sda8): Mounted with checkpoint version = 6a65cb64
-[   23.121831][    T1] init: [libfs_mgr]__mount(source=/dev/block/platform/14700000.ufs/by-name/metadata,target=/metadata,type=f2fs)=0: Success
-
-Bug: 210589189
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: I720e2aa4b1ab845af96610cd0d9c6e3c9b4cae03
-Merged-In: Change-Id: I720e2aa4b1ab845af96610cd0d9c6e3c9b4cae03</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11bea35</div>
-                                        <div class="message">[DO NOT MERGE] Mount /mnt/scracth with -o sync,nodiscard
-
-"-o discard" issues UNMAP commands to loopback resulting in punch_hole
-on the pinned file in /data. That will break the pinned block map.
-
-Bug: 210589189
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: Ia927c43fc75164ce5929173f5740737eac4de484
-Merged-In: Ia927c43fc75164ce5929173f5740737eac4de484</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#312ad83</div>
-                                        <div class="message">[DO NOT MERGE] Run check_fs only /data is mounted
-
-After switching to /system from ramdisk, first_stage_init has no required
-libraries for check_fs.
-
-[   20.838811][    T1] init: [libfs_mgr]Created logical partition scratch on device /dev/block/dm-6
-[   20.972704][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/dm-6
-[   20.977879][  T345] logwrapper: executing /system/bin/fsck.f2fs failed: No such file or directory
-[   20.978470][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: No such file or directory
-[   20.981137][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
-[   21.002958][    T1] init: [libfs_mgr]__mount(source=/dev/block/dm-6,target=/mnt/scratch,type=f2fs)=0: Success
-[   21.017748][    T1] init: [libfs_mgr]umount(/mnt/scratch)
-[   21.021028][    T1] init: [libfs_mgr]Running /system/bin/fsck.f2fs -a -c 10000 --debug-cache /dev/block/dm-6
-[   21.028759][  T347] logwrapper: executing /system/bin/fsck.f2fs failed: No such file or directory
-[   21.028793][    T1] fsck.f2fs: executing /system/bin/fsck.f2fs failed: No such file or directory
-[   21.049100][    T1] fsck.f2fs: fsck.f2fs terminated by exit(255)
-[   21.068101][    T1] init: [libfs_mgr]__mount(source=/dev/block/dm-6,target=/mnt/scratch,type=f2fs)=0: Success
-
-Bug: 210589189
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: Ie41cba4e7553860fdb48996d9b58a34093f0b723
-Merged-In: Ie41cba4e7553860fdb48996d9b58a34093f0b723</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9efc42e</div>
-                                        <div class="message">[DO NOT MERGE] Don't use FSCK_LOG_FILE used for ext4 only
-
-Bug: 210589189
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: Iaf7a61c6c9c6cd557f953b1a665e7a1640d357ae
-Merged-In: Iaf7a61c6c9c6cd557f953b1a665e7a1640d357ae</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80a8fee</div>
-                                        <div class="message">[DO NOT MERGE] Don't try to mount if the disk has no FS magic
-
-This avoids:
-[   22.932529][    T1] init: [libfs_mgr]Invalid f2fs superblock on '/dev/block/platform/14700000.ufs/by-name/metadata'
-[   22.934609][    T1] F2FS-fs (sda8): Magic Mismatch, valid(0xf2f52010) - read(0x0)
-[   22.935061][    T1] F2FS-fs (sda8): Can't find valid F2FS filesystem in 1th superblock
-[   22.937306][    T1] F2FS-fs (sda8): Magic Mismatch, valid(0xf2f52010) - read(0x0)
-[   22.943700][    T1] F2FS-fs (sda8): Can't find valid F2FS filesystem in 2th superblock
-[   22.951937][    T1] init: [libfs_mgr]__mount(source=/dev/block/platform/14700000.ufs/by-name/metadata,target=/metadata,type=f2fs)=-1: Invalid argument
-
-Bug: 210589189
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: I27989b25769eae83eb06ac86146f27baf288b7e1
-Merged-In: I27989b25769eae83eb06ac86146f27baf288b7e1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdff9a3</div>
-                                        <div class="message">[DO NOT MERGE] Retry to unmount /data
-
-If we fail to umount /data, device won't boot up at all.
-
-Bug: 208161227
-Bug: 214203920
-Signed-off-by: Jaegeuk Kim &lt;jaegeuk@google.com&gt;
-Change-Id: I92d34a253039eb677d4df9fad8a0821fbc684f57
-Merged-In: I92d34a253039eb677d4df9fad8a0821fbc684f57</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdae2d1</div>
-                                        <div class="message">Snap for 8099527 from ae5fe46ece70b797206cef277c6f19dcf7ec5539 to sc-qpr3-release
-
-Change-Id: I0d7fbbc771621ba6d75949f40b1b9a2e9e9cc9ed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae5fe46</div>
-                                        <div class="message">Merge changes Id79f9e10,Ia91d8839 into sc-v2-dev
-
-* changes:
-  libprocessgroup: Use WriteStringToFd for WriteFileAction
-  libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#383ba40</div>
-                                        <div class="message">Snap for 8090301 from 71429a9738471920772df0d5d50a820aa0d50fbe to sc-qpr3-release
-
-Change-Id: I86c910ecf926bfa3be1ed20b9ef6781dde5723c0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e808841</div>
-                                        <div class="message">libprocessgroup: Use WriteStringToFd for WriteFileAction
-
-Using WriteStringToFile will hold kernfs_mutex which is a big lock,
-so use WriteStringToFd instead. Besides, also support fd cache for it.
-
-Bug: 206970384
-Test: build pass
-Change-Id: Id79f9e1095f52079393c58edb9a4d526f4cc6b5e
-Merged-In: Id79f9e1095f52079393c58edb9a4d526f4cc6b5e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae42d60</div>
-                                        <div class="message">libprocessgroup: Prevent error spam when tests disable all cpus in a cpuset
-
-UserLifecycleTests test disables all Little cores in the course of the
-test, which causes attempts to add a process into /dev/cpuset/restricted
-cpuset cgroup to fail with ENOSPC error code, indicating that a process
-is joining a cpuset cgroup with no online cpus. Current libprocessgroup
-implementation will log an error on each such occurrence, which spams
-the logs and makes it hard to analyze test results. Because this
-situation does not happen in production environment (we do not offline
-cpus), we can prevent flooding the logs by identifying this case,
-logging an appropriate error one time and ignore all later similar errors.
-
-Bug: 158766131
-Test: adb shell "echo 0 &gt; /sys/devices/system/cpu/cpu[0-3]/online"
-Test: start some apps, observe libprocessgroup errors in the logcat
-Signed-off-by: Suren Baghdasaryan &lt;surenb@google.com&gt;
-Change-Id: Ia91d8839d86787569c255481bde077be51c43d93
-Merged-In: Ia91d8839d86787569c255481bde077be51c43d93</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 09:28:31 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 10:22:18 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
