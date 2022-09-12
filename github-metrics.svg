@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1500" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1267" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 106 repositories
+                            Contributed to 107 repositories
                         </div>
                     </section>
                 </div>
@@ -158,7 +158,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            91 Repositories
+                            92 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    27.5 GB used
+                                    27.8 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.42m added, 762k removed
+                                    26.6m added, 763k removed
                                 </div>
                             </section>
                             <section>
@@ -1351,6 +1351,69 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">goshawk22/recovery_device_realme_sdm710</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">twrp-12.1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c7b00a1</div>
+                                        <div class="message">sdm710: Update maintainer and version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1b093a</div>
+                                        <div class="message">Bumb version to 11.1_6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce925df</div>
+                                        <div class="message">Ofox-ify</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24b141a</div>
+                                        <div class="message">Fix Decryption in Android 13
+
+PLATFORM_VERSION := 127
+does not work anymore and will lead to failing decryption on a13.
+
+PLATFORM_VERSION := 16.1.0
+will not affect a12 decryption and will also add support for a13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ce2978</div>
+                                        <div class="message">sdm710: Update security patch and platform version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ef017a</div>
+                                        <div class="message">sdm710: Remove system and vendor mount points in fstab
+
+* We have already defined it in twrp.flags and aren't in a hurry to mount them.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">pjgowtham/recovery_device_realme_sdm710</span>
+                                        to
+                                        <span class="repo">goshawk22/recovery_device_realme_sdm710</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 9 commits in
                                         <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
@@ -1501,649 +1564,12 @@ Needed for rui1 firmware</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">goshawk22/recovery_device_oplus_RMX1971</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#478574e</div>
-                                        <div class="message">tty: n_gsm: fix wrong signal octet encoding in convergence layer type 2
-
-commit 06d5afd4d640eea67f5623e76cd5fc03359b7f3c upstream.
-
-n_gsm is based on the 3GPP 07.010 and its newer version is the 3GPP 27.010.
-See https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1516
-The changes from 07.010 to 27.010 are non-functional. Therefore, I refer to
-the newer 27.010 here. Chapter 5.5.2 describes that the signal octet in
-convergence layer type 2 can be either one or two bytes. The length is
-encoded in the EA bit. This is set 1 for the last byte in the sequence.
-gsmtty_modem_update() handles this correctly but gsm_dlci_data_output()
-fails to set EA to 1. There is no case in which we encode two signal octets
-as there is no case in which we send out a break signal.
-Therefore, always set the EA bit to 1 for the signal octet to fix this.
-
-Fixes: e1eaea46bb40 ("tty: n_gsm line discipline")
-Cc: stable@vger.kernel.org
-Signed-off-by: Daniel Starke &lt;daniel.starke@siemens.com&gt;
-Link: https://lore.kernel.org/r/20220414094225.4527-5-daniel.starke@siemens.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c421e3a</div>
-                                        <div class="message">x86/cpu: Load microcode during restore_processor_state()
-
-commit f9e14dbbd454581061c736bf70bf5cbb15ac927c upstream.
-
-When resuming from system sleep state, restore_processor_state()
-restores the boot CPU MSRs. These MSRs could be emulated by microcode.
-If microcode is not loaded yet, writing to emulated MSRs leads to
-unchecked MSR access error:
-
-  ...
-  PM: Calling lapic_suspend+0x0/0x210
-  unchecked MSR access error: WRMSR to 0x10f (tried to write 0x0...0) at rIP: ... (native_write_msr)
-  Call Trace:
-    &lt;TASK&gt;
-    ? restore_processor_state
-    x86_acpi_suspend_lowlevel
-    acpi_suspend_enter
-    suspend_devices_and_enter
-    pm_suspend.cold
-    state_store
-    kobj_attr_store
-    sysfs_kf_write
-    kernfs_fop_write_iter
-    new_sync_write
-    vfs_write
-    ksys_write
-    __x64_sys_write
-    do_syscall_64
-    entry_SYSCALL_64_after_hwframe
-   RIP: 0033:0x7fda13c260a7
-
-To ensure microcode emulated MSRs are available for restoration, load
-the microcode on the boot CPU before restoring these MSRs.
-
-  [ Pawan: write commit message and productize it. ]
-
-Fixes: e2a1256b17b1 ("x86/speculation: Restore speculation related MSRs during S3 resume")
-Reported-by: Kyle D. Pelton &lt;kyle.d.pelton@intel.com&gt;
-Signed-off-by: Borislav Petkov &lt;bp@suse.de&gt;
-Signed-off-by: Pawan Gupta &lt;pawan.kumar.gupta@linux.intel.com&gt;
-Tested-by: Kyle D. Pelton &lt;kyle.d.pelton@intel.com&gt;
-Cc: stable@vger.kernel.org
-Link: https://bugzilla.kernel.org/show_bug.cgi?id=215841
-Link: https://lore.kernel.org/r/4350dfbf785cd482d3fafa72b2b49c83102df3ce.1650386317.git.pawan.kumar.gupta@linux.intel.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3daf09</div>
-                                        <div class="message">drivers: net: hippi: Fix deadlock in rr_close()
-
-[ Upstream commit bc6de2878429e85c1f1afaa566f7b5abb2243eef ]
-
-There is a deadlock in rr_close(), which is shown below:
-
-   (Thread 1)                |      (Thread 2)
-                             | rr_open()
-rr_close()                   |  add_timer()
- spin_lock_irqsave() //(1)   |  (wait a time)
- ...                         | rr_timer()
- del_timer_sync()            |  spin_lock_irqsave() //(2)
- (wait timer to stop)        |  ...
-
-We hold rrpriv-&gt;lock in position (1) of thread 1 and
-use del_timer_sync() to wait timer to stop, but timer handler
-also need rrpriv-&gt;lock in position (2) of thread 2.
-As a result, rr_close() will block forever.
-
-This patch extracts del_timer_sync() from the protection of
-spin_lock_irqsave(), which could let timer handler to obtain
-the needed lock.
-
-Signed-off-by: Duoming Zhou &lt;duoming@zju.edu.cn&gt;
-Link: https://lore.kernel.org/r/20220417125519.82618-1-duoming@zju.edu.cn
-Signed-off-by: Paolo Abeni &lt;pabeni@redhat.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54c8624</div>
-                                        <div class="message">ASoC: wm8731: Disable the regulator when probing fails
-
-[ Upstream commit 92ccbf17eeacf510cf1eed9c252d9332ca24f02d ]
-
-When the driver fails during probing, the driver should disable the
-regulator, not just handle it in wm8731_hw_init().
-
-The following log reveals it:
-
-[   17.812483] WARNING: CPU: 1 PID: 364 at drivers/regulator/core.c:2257 _regulator_put+0x3ec/0x4e0
-[   17.815958] RIP: 0010:_regulator_put+0x3ec/0x4e0
-[   17.824467] Call Trace:
-[   17.824774]  &lt;TASK&gt;
-[   17.825040]  regulator_bulk_free+0x82/0xe0
-[   17.825514]  devres_release_group+0x319/0x3d0
-[   17.825882]  i2c_device_probe+0x766/0x940
-[   17.829198]  i2c_register_driver+0xb5/0x130
-
-Signed-off-by: Zheyu Ma &lt;zheyuma97@gmail.com&gt;
-Link: https://lore.kernel.org/r/20220405121038.4094051-1-zheyuma97@gmail.com
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4824b5</div>
-                                        <div class="message">bnx2x: fix napi API usage sequence
-
-[ Upstream commit af68656d66eda219b7f55ce8313a1da0312c79e1 ]
-
-While handling PCI errors (AER flow) driver tries to
-disable NAPI [napi_disable()] after NAPI is deleted
-[__netif_napi_del()] which causes unexpected system
-hang/crash.
-
-System message log shows the following:
-=======================================
-[ 3222.537510] EEH: Detected PCI bus error on PHB#384-PE#800000 [ 3222.537511] EEH: This PCI device has failed 2 times in the last hour and will be permanently disabled after 5 failures.
-[ 3222.537512] EEH: Notify device drivers to shutdown [ 3222.537513] EEH: Beginning: 'error_detected(IO frozen)'
-[ 3222.537514] EEH: PE#800000 (PCI 0384:80:00.0): Invoking
-bnx2x-&gt;error_detected(IO frozen)
-[ 3222.537516] bnx2x: [bnx2x_io_error_detected:14236(eth14)]IO error detected [ 3222.537650] EEH: PE#800000 (PCI 0384:80:00.0): bnx2x driver reports:
-'need reset'
-[ 3222.537651] EEH: PE#800000 (PCI 0384:80:00.1): Invoking
-bnx2x-&gt;error_detected(IO frozen)
-[ 3222.537651] bnx2x: [bnx2x_io_error_detected:14236(eth13)]IO error detected [ 3222.537729] EEH: PE#800000 (PCI 0384:80:00.1): bnx2x driver reports:
-'need reset'
-[ 3222.537729] EEH: Finished:'error_detected(IO frozen)' with aggregate recovery state:'need reset'
-[ 3222.537890] EEH: Collect temporary log [ 3222.583481] EEH: of node=0384:80:00.0 [ 3222.583519] EEH: PCI device/vendor: 168e14e4 [ 3222.583557] EEH: PCI cmd/status register: 00100140 [ 3222.583557] EEH: PCI-E capabilities and status follow:
-[ 3222.583744] EEH: PCI-E 00: 00020010 012c8da2 00095d5e 00455c82 [ 3222.583892] EEH: PCI-E 10: 10820000 00000000 00000000 00000000 [ 3222.583893] EEH: PCI-E 20: 00000000 [ 3222.583893] EEH: PCI-E AER capability register set follows:
-[ 3222.584079] EEH: PCI-E AER 00: 13c10001 00000000 00000000 00062030 [ 3222.584230] EEH: PCI-E AER 10: 00002000 000031c0 000001e0 00000000 [ 3222.584378] EEH: PCI-E AER 20: 00000000 00000000 00000000 00000000 [ 3222.584416] EEH: PCI-E AER 30: 00000000 00000000 [ 3222.584416] EEH: of node=0384:80:00.1 [ 3222.584454] EEH: PCI device/vendor: 168e14e4 [ 3222.584491] EEH: PCI cmd/status register: 00100140 [ 3222.584492] EEH: PCI-E capabilities and status follow:
-[ 3222.584677] EEH: PCI-E 00: 00020010 012c8da2 00095d5e 00455c82 [ 3222.584825] EEH: PCI-E 10: 10820000 00000000 00000000 00000000 [ 3222.584826] EEH: PCI-E 20: 00000000 [ 3222.584826] EEH: PCI-E AER capability register set follows:
-[ 3222.585011] EEH: PCI-E AER 00: 13c10001 00000000 00000000 00062030 [ 3222.585160] EEH: PCI-E AER 10: 00002000 000031c0 000001e0 00000000 [ 3222.585309] EEH: PCI-E AER 20: 00000000 00000000 00000000 00000000 [ 3222.585347] EEH: PCI-E AER 30: 00000000 00000000 [ 3222.586872] RTAS: event: 5, Type: Platform Error (224), Severity: 2 [ 3222.586873] EEH: Reset without hotplug activity [ 3224.762767] EEH: Beginning: 'slot_reset'
-[ 3224.762770] EEH: PE#800000 (PCI 0384:80:00.0): Invoking
-bnx2x-&gt;slot_reset()
-[ 3224.762771] bnx2x: [bnx2x_io_slot_reset:14271(eth14)]IO slot reset initializing...
-[ 3224.762887] bnx2x 0384:80:00.0: enabling device (0140 -&gt; 0142) [ 3224.768157] bnx2x: [bnx2x_io_slot_reset:14287(eth14)]IO slot reset
---&gt; driver unload
-
-Uninterruptible tasks
-=====================
-crash&gt; ps | grep UN
-     213      2  11  c000000004c89e00  UN   0.0       0      0  [eehd]
-     215      2   0  c000000004c80000  UN   0.0       0      0
-[kworker/0:2]
-    2196      1  28  c000000004504f00  UN   0.1   15936  11136  wickedd
-    4287      1   9  c00000020d076800  UN   0.0    4032   3008  agetty
-    4289      1  20  c00000020d056680  UN   0.0    7232   3840  agetty
-   32423      2  26  c00000020038c580  UN   0.0       0      0
-[kworker/26:3]
-   32871   4241  27  c0000002609ddd00  UN   0.1   18624  11648  sshd
-   32920  10130  16  c00000027284a100  UN   0.1   48512  12608  sendmail
-   33092  32987   0  c000000205218b00  UN   0.1   48512  12608  sendmail
-   33154   4567  16  c000000260e51780  UN   0.1   48832  12864  pickup
-   33209   4241  36  c000000270cb6500  UN   0.1   18624  11712  sshd
-   33473  33283   0  c000000205211480  UN   0.1   48512  12672  sendmail
-   33531   4241  37  c00000023c902780  UN   0.1   18624  11648  sshd
-
-EEH handler hung while bnx2x sleeping and holding RTNL lock
-===========================================================
-crash&gt; bt 213
-PID: 213    TASK: c000000004c89e00  CPU: 11  COMMAND: "eehd"
-  #0 [c000000004d477e0] __schedule at c000000000c70808
-  #1 [c000000004d478b0] schedule at c000000000c70ee0
-  #2 [c000000004d478e0] schedule_timeout at c000000000c76dec
-  #3 [c000000004d479c0] msleep at c0000000002120cc
-  #4 [c000000004d479f0] napi_disable at c000000000a06448
-                                        ^^^^^^^^^^^^^^^^
-  #5 [c000000004d47a30] bnx2x_netif_stop at c0080000018dba94 [bnx2x]
-  #6 [c000000004d47a60] bnx2x_io_slot_reset at c0080000018a551c [bnx2x]
-  #7 [c000000004d47b20] eeh_report_reset at c00000000004c9bc
-  #8 [c000000004d47b90] eeh_pe_report at c00000000004d1a8
-  #9 [c000000004d47c40] eeh_handle_normal_event at c00000000004da64
-
-And the sleeping source code
-============================
-crash&gt; dis -ls c000000000a06448
-FILE: ../net/core/dev.c
-LINE: 6702
-
-   6697  {
-   6698          might_sleep();
-   6699          set_bit(NAPI_STATE_DISABLE, &amp;n-&gt;state);
-   6700
-   6701          while (test_and_set_bit(NAPI_STATE_SCHED, &amp;n-&gt;state))
-* 6702                  msleep(1);
-   6703          while (test_and_set_bit(NAPI_STATE_NPSVC, &amp;n-&gt;state))
-   6704                  msleep(1);
-   6705
-   6706          hrtimer_cancel(&amp;n-&gt;timer);
-   6707
-   6708          clear_bit(NAPI_STATE_DISABLE, &amp;n-&gt;state);
-   6709  }
-
-EEH calls into bnx2x twice based on the system log above, first through
-bnx2x_io_error_detected() and then bnx2x_io_slot_reset(), and executes
-the following call chains:
-
-bnx2x_io_error_detected()
-  +-&gt; bnx2x_eeh_nic_unload()
-       +-&gt; bnx2x_del_all_napi()
-            +-&gt; __netif_napi_del()
-
-bnx2x_io_slot_reset()
-  +-&gt; bnx2x_netif_stop()
-       +-&gt; bnx2x_napi_disable()
-            +-&gt;napi_disable()
-
-Fix this by correcting the sequence of NAPI APIs usage,
-that is delete the NAPI after disabling it.
-
-Fixes: 7fa6f34081f1 ("bnx2x: AER revised")
-Reported-by: David Christensen &lt;drc@linux.vnet.ibm.com&gt;
-Tested-by: David Christensen &lt;drc@linux.vnet.ibm.com&gt;
-Signed-off-by: Manish Chopra &lt;manishc@marvell.com&gt;
-Signed-off-by: Ariel Elior &lt;aelior@marvell.com&gt;
-Link: https://lore.kernel.org/r/20220426153913.6966-1-manishc@marvell.com
-Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f63d97</div>
-                                        <div class="message">clk: sunxi: sun9i-mmc: check return value after calling platform_get_resource()
-
-[ Upstream commit f58ca215cda1975f77b2b762903684a3c101bec9 ]
-
-It will cause null-ptr-deref if platform_get_resource() returns NULL,
-we need check the return value.
-
-Fixes: 7a6fca879f59 ("clk: sunxi: Add driver for A80 MMC config clocks/resets")
-Signed-off-by: Yang Yingliang &lt;yangyingliang@huawei.com&gt;
-Reviewed-by: Samuel Holland &lt;samuel@sholland.org&gt;
-Signed-off-by: Jernej Skrabec &lt;jernej.skrabec@gmail.com&gt;
-Link: https://lore.kernel.org/r/20220421134308.2885094-1-yangyingliang@huawei.com
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7361ca9</div>
-                                        <div class="message">bus: sunxi-rsb: Fix the return value of sunxi_rsb_device_create()
-
-[ Upstream commit fff8c10368e64e7f8960f149375c12ca5f3b30af ]
-
-This code is really spurious.
-It always returns an ERR_PTR, even when err is known to be 0 and calls
-put_device() after a successful device_register() call.
-
-It is likely that the return statement in the normal path is missing.
-Add 'return rdev;' to fix it.
-
-Fixes: d787dcdb9c8f ("bus: sunxi-rsb: Add driver for Allwinner Reduced Serial Bus")
-Signed-off-by: Christophe JAILLET &lt;christophe.jaillet@wanadoo.fr&gt;
-Reviewed-by: Samuel Holland &lt;samuel@sholland.org&gt;
-Tested-by: Samuel Holland &lt;samuel@sholland.org&gt;
-Signed-off-by: Jernej Skrabec &lt;jernej.skrabec@gmail.com&gt;
-Link: https://lore.kernel.org/r/ef2b9576350bba4c8e05e669e9535e9e2a415763.1650551719.git.christophe.jaillet@wanadoo.fr
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d31cc5</div>
-                                        <div class="message">tcp: fix potential xmit stalls caused by TCP_NOTSENT_LOWAT
-
-[ Upstream commit 4bfe744ff1644fbc0a991a2677dc874475dd6776 ]
-
-I had this bug sitting for too long in my pile, it is time to fix it.
-
-Thanks to Doug Porter for reminding me of it!
-
-We had various attempts in the past, including commit
-0cbe6a8f089e ("tcp: remove SOCK_QUEUE_SHRUNK"),
-but the issue is that TCP stack currently only generates
-EPOLLOUT from input path, when tp-&gt;snd_una has advanced
-and skb(s) cleaned from rtx queue.
-
-If a flow has a big RTT, and/or receives SACKs, it is possible
-that the notsent part (tp-&gt;write_seq - tp-&gt;snd_nxt) reaches 0
-and no more data can be sent until tp-&gt;snd_una finally advances.
-
-What is needed is to also check if POLLOUT needs to be generated
-whenever tp-&gt;snd_nxt is advanced, from output path.
-
-This bug triggers more often after an idle period, as
-we do not receive ACK for at least one RTT. tcp_notsent_lowat
-could be a fraction of what CWND and pacing rate would allow to
-send during this RTT.
-
-In a followup patch, I will remove the bogus call
-to tcp_chrono_stop(sk, TCP_CHRONO_SNDBUF_LIMITED)
-from tcp_check_space(). Fact that we have decided to generate
-an EPOLLOUT does not mean the application has immediately
-refilled the transmit queue. This optimistic call
-might have been the reason the bug seemed not too serious.
-
-Tested:
-
-200 ms rtt, 1% packet loss, 32 MB tcp_rmem[2] and tcp_wmem[2]
-
-$ echo 500000 &gt;/proc/sys/net/ipv4/tcp_notsent_lowat
-$ cat bench_rr.sh
-SUM=0
-for i in {1..10}
-do
- V=`netperf -H remote_host -l30 -t TCP_RR -- -r 10000000,10000 -o LOCAL_BYTES_SENT | egrep -v "MIGRATED|Bytes"`
- echo $V
- SUM=$(($SUM + $V))
-done
-echo SUM=$SUM
-
-Before patch:
-$ bench_rr.sh
-130000000
-80000000
-140000000
-140000000
-140000000
-140000000
-130000000
-40000000
-90000000
-110000000
-SUM=1140000000
-
-After patch:
-$ bench_rr.sh
-430000000
-590000000
-530000000
-450000000
-450000000
-350000000
-450000000
-490000000
-480000000
-460000000
-SUM=4680000000  # This is 410 % of the value before patch.
-
-Fixes: c9bee3b7fdec ("tcp: TCP_NOTSENT_LOWAT socket option")
-Signed-off-by: Eric Dumazet &lt;edumazet@google.com&gt;
-Reported-by: Doug Porter &lt;dsp@fb.com&gt;
-Cc: Soheil Hassas Yeganeh &lt;soheil@google.com&gt;
-Cc: Neal Cardwell &lt;ncardwell@google.com&gt;
-Acked-by: Soheil Hassas Yeganeh &lt;soheil@google.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bdd46a</div>
-                                        <div class="message">ip_gre: Make o_seqno start from 0 in native mode
-
-[ Upstream commit ff827beb706ed719c766acf36449801ded0c17fc ]
-
-For GRE and GRETAP devices, currently o_seqno starts from 1 in native
-mode.  According to RFC 2890 2.2., "The first datagram is sent with a
-sequence number of 0."  Fix it.
-
-It is worth mentioning that o_seqno already starts from 0 in collect_md
-mode, see gre_fb_xmit(), where tunnel-&gt;o_seqno is passed to
-gre_build_header() before getting incremented.
-
-Fixes: 1da177e4c3f4 ("Linux-2.6.12-rc2")
-Signed-off-by: Peilin Ye &lt;peilin.ye@bytedance.com&gt;
-Acked-by: William Tu &lt;u9012063@gmail.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc03249</div>
-                                        <div class="message">pinctrl: pistachio: fix use of irq_of_parse_and_map()
-
-[ Upstream commit 0c9843a74a85224a89daa81fa66891dae2f930e1 ]
-
-The irq_of_parse_and_map() function returns 0 on failure, and does not
-return an negative value.
-
-Fixes: cefc03e5995e ("pinctrl: Add Pistachio SoC pin control driver")
-Reported-by: Zeal Robot &lt;zealci@zte.com.cn&gt;
-Signed-off-by: Lv Ruyi &lt;lv.ruyi@zte.com.cn&gt;
-Link: https://lore.kernel.org/r/20220424031430.3170759-1-lv.ruyi@zte.com.cn
-Signed-off-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#953345b</div>
-                                        <div class="message">mtd: rawnand: Fix return value check of wait_for_completion_timeout
-
-[ Upstream commit 084c16ab423a8890121b902b405823bfec5b4365 ]
-
-wait_for_completion_timeout() returns unsigned long not int.
-It returns 0 if timed out, and positive if completed.
-The check for &lt;= 0 is ambiguous and should be == 0 here
-indicating timeout which is the only error case.
-
-Fixes: 83738d87e3a0 ("mtd: sh_flctl: Add DMA capabilty")
-Signed-off-by: Miaoqian Lin &lt;linmq006@gmail.com&gt;
-Signed-off-by: Miquel Raynal &lt;miquel.raynal@bootlin.com&gt;
-Link: https://lore.kernel.org/linux-mtd/20220412083435.29254-1-linmq006@gmail.com
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5872a75</div>
-                                        <div class="message">ARM: dts: Fix mmc order for omap3-gta04
-
-[ Upstream commit 09269dd050094593fc747f2a5853d189fefcb6b5 ]
-
-Commit a1ebdb374199 ("ARM: dts: Fix swapped mmc order for omap3")
-introduces general mmc aliases. Let's tailor them to the need
-of the GTA04 board which does not make use of mmc2 and mmc3 interfaces.
-
-Fixes: a1ebdb374199 ("ARM: dts: Fix swapped mmc order for omap3")
-Signed-off-by: H. Nikolaus Schaller &lt;hns@goldelico.com&gt;
-Message-Id: &lt;dc9173ee3d391d9e92b7ab8ed4f84b29f0a21c83.1646744420.git.hns@goldelico.com&gt;
-Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#debae99</div>
-                                        <div class="message">ARM: OMAP2+: Fix refcount leak in omap_gic_of_init
-
-[ Upstream commit 0f83e6b4161617014017a694888dd8743f46f071 ]
-
-The of_find_compatible_node() function returns a node pointer with
-refcount incremented, We should use of_node_put() on it when done
-Add the missing of_node_put() to release the refcount.
-
-Fixes: fd1c07861491 ("ARM: OMAP4: Fix the init code to have OMAP4460 errata available in DT build")
-Signed-off-by: Miaoqian Lin &lt;linmq006@gmail.com&gt;
-Message-Id: &lt;20220309104302.18398-1-linmq006@gmail.com&gt;
-Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6281ad</div>
-                                        <div class="message">phy: samsung: exynos5250-sata: fix missing device put in probe error paths
-
-[ Upstream commit 5c8402c4db45dd55c2c93c8d730f5dfa7c78a702 ]
-
-The actions of of_find_i2c_device_by_node() in probe function should be
-reversed in error paths by putting the reference to obtained device.
-
-Fixes: bcff4cba41bc ("PHY: Exynos: Add Exynos5250 SATA PHY driver")
-Signed-off-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@linaro.org&gt;
-Reviewed-by: Alim Akhtar &lt;alim.akhtar@samsung.com&gt;
-Link: https://lore.kernel.org/r/20220407091857.230386-2-krzysztof.kozlowski@linaro.org
-Signed-off-by: Vinod Koul &lt;vkoul@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c128343</div>
-                                        <div class="message">phy: samsung: Fix missing of_node_put() in exynos_sata_phy_probe
-
-[ Upstream commit 388ec8f079f2f20d5cd183c3bc6f33cbc3ffd3ef ]
-
-The device_node pointer is returned by of_parse_phandle() with refcount
-incremented. We should use of_node_put() on it when done.
-
-Fixes: bcff4cba41bc ("PHY: Exynos: Add Exynos5250 SATA PHY driver")
-Signed-off-by: Miaoqian Lin &lt;linmq006@gmail.com&gt;
-Reviewed-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@linaro.org&gt;
-Signed-off-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@linaro.org&gt;
-Link: https://lore.kernel.org/r/20220407091857.230386-1-krzysztof.kozlowski@linaro.org
-Signed-off-by: Vinod Koul &lt;vkoul@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bed0415</div>
-                                        <div class="message">ARM: dts: imx6qdl-apalis: Fix sgtl5000 detection issue
-
-[ Upstream commit fa51e1dc4b91375bc18349663a52395ad585bd3c ]
-
-On a custom carrier board with a i.MX6Q Apalis SoM, the sgtl5000 codec
-on the SoM is often not detected and the following error message is
-seen when the sgtl5000 driver tries to read the ID register:
-
-sgtl5000 1-000a: Error reading chip id -6
-
-The reason for the error is that the MCLK clock is not provided
-early enough.
-
-Fix the problem by describing the MCLK pinctrl inside the codec
-node instead of placing it inside the audmux pinctrl group.
-
-With this change applied the sgtl5000 is always detected on every boot.
-
-Fixes: 693e3ffaae5a ("ARM: dts: imx6: Add support for Toradex Apalis iMX6Q/D SoM")
-Signed-off-by: Fabio Estevam &lt;festevam@gmail.com&gt;
-Reviewed-by: Tim Harvey &lt;tharvey@gateworks.com&gt;
-Acked-by: Max Krummenacher &lt;max.krummenacher@toradex.com&gt;
-Signed-off-by: Shawn Guo &lt;shawnguo@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c419dc1</div>
-                                        <div class="message">hex2bin: fix access beyond string end
-
-commit e4d8a29997731b3bb14059024b24df9f784288d0 upstream.
-
-If we pass too short string to "hex2bin" (and the string size without
-the terminating NUL character is even), "hex2bin" reads one byte after
-the terminating NUL character.  This patch fixes it.
-
-Note that hex_to_bin returns -1 on error and hex2bin return -EINVAL on
-error - so we can't just return the variable "hi" or "lo" on error.
-This inconsistency may be fixed in the next merge window, but for the
-purpose of fixing this bug, we just preserve the existing behavior and
-return -1 and -EINVAL.
-
-Signed-off-by: Mikulas Patocka &lt;mpatocka@redhat.com&gt;
-Reviewed-by: Andy Shevchenko &lt;andy.shevchenko@gmail.com&gt;
-Fixes: b78049831ffe ("lib: add error checking to hex2bin")
-Cc: stable@vger.kernel.org
-Signed-off-by: Linus Torvalds &lt;torvalds@linux-foundation.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75a7b4f</div>
-                                        <div class="message">hex2bin: make the function hex_to_bin constant-time
-
-commit e5be15767e7e284351853cbaba80cde8620341fb upstream.
-
-The function hex2bin is used to load cryptographic keys into device
-mapper targets dm-crypt and dm-integrity.  It should take constant time
-independent on the processed data, so that concurrently running
-unprivileged code can't infer any information about the keys via
-microarchitectural convert channels.
-
-This patch changes the function hex_to_bin so that it contains no
-branches and no memory accesses.
-
-Note that this shouldn't cause performance degradation because the size
-of the new function is the same as the size of the old function (on
-x86-64) - and the new function causes no branch misprediction penalties.
-
-I compile-tested this function with gcc on aarch64 alpha arm hppa hppa64
-i386 ia64 m68k mips32 mips64 powerpc powerpc64 riscv sh4 s390x sparc32
-sparc64 x86_64 and with clang on aarch64 arm hexagon i386 mips32 mips64
-powerpc powerpc64 s390x sparc32 sparc64 x86_64 to verify that there are
-no branches in the generated code.
-
-Signed-off-by: Mikulas Patocka &lt;mpatocka@redhat.com&gt;
-Cc: stable@vger.kernel.org
-Signed-off-by: Linus Torvalds &lt;torvalds@linux-foundation.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffff731</div>
-                                        <div class="message">serial: 8250: Correct the clock for EndRun PTP/1588 PCIe device
-
-commit 637674fa40059cddcc3ad2212728965072f62ea3 upstream.
-
-The EndRun PTP/1588 dual serial port device is based on the Oxford
-Semiconductor OXPCIe952 UART device with the PCI vendor:device ID set
-for EndRun Technologies and is therefore driven by a fixed 62.5MHz clock
-input derived from the 100MHz PCI Express clock.  The clock rate is
-divided by the oversampling rate of 16 as it is supplied to the baud
-rate generator, yielding the baud base of 3906250.
-
-Replace the incorrect baud base of 4000000 with the right value of
-3906250 then, complementing commit 6cbe45d8ac93 ("serial: 8250: Correct
-the clock for OxSemi PCIe devices").
-
-Signed-off-by: Maciej W. Rozycki &lt;macro@orcam.me.uk&gt;
-Cc: stable &lt;stable@kernel.org&gt;
-Fixes: 1bc8cde46a159 ("8250_pci: Added driver for Endrun Technologies PTP PCIe card.")
-Reviewed-by: Andy Shevchenko &lt;andy.shevchenko@gmail.com&gt;
-Link: https://lore.kernel.org/r/alpine.DEB.2.21.2204181515270.9383@angie.orcam.me.uk
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7895697</div>
-                                        <div class="message">serial: 8250: Also set sticky MCR bits in console restoration
-
-commit 6e6eebdf5e2455f089ccd000754a0deaeb79af82 upstream.
-
-Sticky MCR bits are lost in console restoration if console suspending
-has been disabled.  This currently affects the AFE bit, which works in
-combination with RTS which we set, so we want to make sure the UART
-retains control of its FIFO where previously requested.  Also specific
-drivers may need other bits in the future.
-
-Signed-off-by: Maciej W. Rozycki &lt;macro@orcam.me.uk&gt;
-Fixes: 4516d50aabed ("serial: 8250: Use canary to restart console after suspend")
-Cc: stable@vger.kernel.org # v4.0+
-Reviewed-by: Andy Shevchenko &lt;andy.shevchenko@gmail.com&gt;
-Link: https://lore.kernel.org/r/alpine.DEB.2.21.2204181518490.9383@angie.orcam.me.uk
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2022, 17:39:13 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Sept 2022, 18:33:25 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
