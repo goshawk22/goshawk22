@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1301" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1167" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    117k added, 36.2k removed
+                                    150k added, 3.47k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.46627813301956" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.46627813301956" y="0" width="37.08479539664111" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.55107352966064" y="0" width="5.697693815198507" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.2487673448592" y="0" width="3.9674885011831527" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.2162558460423" y="0" width="1.3624330353029614" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.5786888813453" y="0" width="0.5042877034272879" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.08297658477255" y="0" width="0.46330717608497374" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.54628376085753" y="0" width="0.4537162391424656" height="8" fill="#34EB6B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.4662680958937" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.4662680958937" y="0" width="37.084802911213856" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.5510710071076" y="0" width="5.697694969734597" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.2487659768422" y="0" width="3.967489305123977" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.2162552819662" y="0" width="1.3624333113757305" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.57868859334195" y="0" width="0.504287805612202" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.08297639895414" y="0" width="0.4633072699659144" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.54628366892007" y="0" width="0.45371633107997394" height="8" fill="#34EB6B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1336,10 +1336,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.428571428571429)">
+                            <g transform="translate(-3.4, 7.142857142857143)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
                     </g>
@@ -1354,6 +1354,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6df1078</div>
+                                        <div class="message">TEST</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1457,131 +1477,12 @@ will not affect a12 decryption and will also add support for a13</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">RMX1971</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62b5af9</div>
-                                        <div class="message">nicky: Enable Audio Support for Hearing Aids central support
-
-Change-Id: I792a9715f17c1f17fb8b9a524cabed901d3e6f4a
-Signed-off-by: Kujou Yuko &lt;i@779.moe&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7b5bca</div>
-                                        <div class="message">nicky: Disable LE audio related profiles
-
-Bug: 231671426
-Test: build
-
-Change-Id: I85b7f023c03a7a2e603af94e88196c10a16fe4ec
-Merged-In: I85b7f023c03a7a2e603af94e88196c10a16fe4ec
-(cherry picked from commit 9b57be4d7f57e1d117c65fac1e2dc60dbc59cb4b)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cae6844</div>
-                                        <div class="message">nicky: Update LE Audio profile properties to match spec and implementation
-
-Bug: 217448211
-Test: atest BluetoothInstrumentationTests
-
-Change-Id: I1260e95d357bd86099f75b910e0d744f97513fbc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f27df56</div>
-                                        <div class="message">nicky: Enable bluetooth profiles with system_ext.prop
-
-Bug: 217448211
-Test: make -j
-
-Change-Id: I0d06b46910e42346653bea3484636f4129592ce3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7651a46</div>
-                                        <div class="message">nicky: Align ASHA prop with BluetoothProperties
-
-* Modify bluetooth.profile.asha.central to
-  bluetooth.profile.asha.central.enabled
-
-Tag: #feature
-Test: manual
-Bug: 211570675
-Bug: 218454632
-
-Change-Id: I8e1f49034e5a675b29fba747e634c9f7c6c29c50</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86b941f</div>
-                                        <div class="message">nicky: Added new vendors for Bluetooth config migration
-
-Tag: #feature
-Test: manual
-Bug: 211570675
-
-Change-Id: Id74ec5e1b30f21c534c35b212a2fb297e9d591fb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7d929e</div>
-                                        <div class="message">nicky: Set default the Bluetooth class of device
-
-The class of device is a string with a list of uint8t values:
-90,2,12
-
-The meaning is as follows:
-{Service Field, Major class, Minor class}
-
-Service Field: 0x5A -&gt; 90
-    Bit 17: Networking
-    Bit 19: Capturing
-    Bit 20: Object Transfer
-    Bit 22: Telephony
-MAJOR_CLASS: 0x02 -&gt; 2 (Phone)
-MINOR_CLASS: 0x0C -&gt; 12 (Smart Phone)
-
-Bug: 217452259
-Test: make -j; -- check that bluetooth.device.class_of_device is
-correct
-
-Change-Id: I07e83ca352ff969be0e53a0f63b6c940b6c34dfb
-
-Signed-off-by: Cykeek &lt;Cykeek@proton.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da9fe25</div>
-                                        <div class="message">nicky: Switch BtAudio to AIDL
-
-Test: m
-Bug: 203490261
-Change-Id: I4b8ac40d5ad410b89eb6a0573d740d86471ecfc7
-Merged-In: I4b8ac40d5ad410b89eb6a0573d740d86471ecfc7
-
-Signed-off-by: Cykeek &lt;Cykeek@proton.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4e40ed</div>
-                                        <div class="message">nicky: Switch to basic usb hal
-
-USB control (for mtp etc) wasn't working unless developer options and usb debugging was enabled. Use basic usb hal to fix this</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2022, 07:11:11 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 08:37:55 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
