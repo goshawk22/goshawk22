@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1047" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 89 repositories
+                            Contributed to 90 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            842 Commits
+                            851 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            22 Pull requests opened
+                            26 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -146,7 +146,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 49 repositories
+                            Watching 50 repositories
                         </div>
                     </section>
                 </div>
@@ -158,7 +158,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            95 Repositories
+                            96 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.5m added, 34.7k removed
+                                    26.7m added, 730k removed
                                 </div>
                             </section>
                             <section>
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    38 Watchers
+                                    39 Watchers
                                 </div>
                             </section>
                         </div>
@@ -1330,18 +1330,38 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Made
+                                        <span class="repo">goshawk22/helium-multilateration</span>
+                                        public
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">goshawk22/helium-multilateration</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dcba2ee</div>
-                                        <div class="message">Add initial support for creating maps from hotspot data</div>
+                                        <div class="sha">#7025991</div>
+                                        <div class="message">Merge pull request #2 from goshawk22/data
+
+Add balloon data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3f0c46</div>
+                                        <div class="message">Add balloon data</div>
                                     </div>
                                 </div>
                             </section>
@@ -1350,670 +1370,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 82 commits in
-                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                        Merged
+                                        <span class="issue">#2 Add balloon data</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8758c8</div>
-                                        <div class="message">net: mac802154: Fix a condition in the receive path
-
-commit f0da47118c7e93cdbbc6fb403dd729a5f2c90ee3 upstream.
-
-Upon reception, a packet must be categorized, either it's destination is
-the host, or it is another host. A packet with no destination addressing
-fields may be valid in two situations:
-- the packet has no source field: only ACKs are built like that, we
-  consider the host as the destination.
-- the packet has a valid source field: it is directed to the PAN
-  coordinator, as for know we don't have this information we consider we
-  are not the PAN coordinator.
-
-There was likely a copy/paste error made during a previous cleanup
-because the if clause is now containing exactly the same condition as in
-the switch case, which can never be true. In the past the destination
-address was used in the switch and the source address was used in the
-if, which matches what the spec says.
-
-Cc: stable@vger.kernel.org
-Fixes: ae531b9475f6 ("ieee802154: use ieee802154_addr instead of *_sa variants")
-Signed-off-by: Miquel Raynal &lt;miquel.raynal@bootlin.com&gt;
-Link: https://lore.kernel.org/r/20220826142954.254853-1-miquel.raynal@bootlin.com
-Signed-off-by: Stefan Schmidt &lt;stefan@datenfreihafen.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdb9a8d</div>
-                                        <div class="message">wifi: mac80211: Don't finalize CSA in IBSS mode if state is disconnected
-
-commit 15bc8966b6d3a5b9bfe4c9facfa02f2b69b1e5f0 upstream.
-
-When we are not connected to a channel, sending channel "switch"
-announcement doesn't make any sense.
-
-The BSS list is empty in that case. This causes the for loop in
-cfg80211_get_bss() to be bypassed, so the function returns NULL
-(check line 1424 of net/wireless/scan.c), causing the WARN_ON()
-in ieee80211_ibss_csa_beacon() to get triggered (check line 500
-of net/mac80211/ibss.c), which was consequently reported on the
-syzkaller dashboard.
-
-Thus, check if we have an existing connection before generating
-the CSA beacon in ieee80211_ibss_finish_csa().
-
-Cc: stable@vger.kernel.org
-Fixes: cd7760e62c2a ("mac80211: add support for CSA in IBSS mode")
-Link: https://syzkaller.appspot.com/bug?id=05603ef4ae8926761b678d2939a3b2ad28ab9ca6
-Reported-by: syzbot+b6c9fe29aefe68e4ad34@syzkaller.appspotmail.com
-Signed-off-by: Siddh Raman Pant &lt;code@siddh.me&gt;
-Tested-by: syzbot+b6c9fe29aefe68e4ad34@syzkaller.appspotmail.com
-Link: https://lore.kernel.org/r/20220814151512.9985-1-code@siddh.me
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84ef06d</div>
-                                        <div class="message">usb: gadget: mass_storage: Fix cdrom data transfers on MAC-OS
-
-commit 9d4dc16ec71bd6368548e9743223e449b4377fc7 upstream.
-
-During cdrom emulation, the response to read_toc command must contain
-the cdrom address as the number of sectors (2048 byte sized blocks)
-represented either as an absolute value (when MSF bit is '0') or in
-terms of PMin/PSec/PFrame (when MSF bit is set to '1'). Incase of
-cdrom, the fsg_lun_open call sets the sector size to 2048 bytes.
-
-When MAC OS sends a read_toc request with MSF set to '1', the
-store_cdrom_address assumes that the address being provided is the
-LUN size represented in 512 byte sized blocks instead of 2048. It
-tries to modify the address further to convert it to 2048 byte sized
-blocks and store it in MSF format. This results in data transfer
-failures as the cdrom address being provided in the read_toc response
-is incorrect.
-
-Fixes: 3f565a363cee ("usb: gadget: storage: adapt logic block size to bound block devices")
-Cc: stable@vger.kernel.org
-Acked-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
-Signed-off-by: Krishna Kurapati &lt;quic_kriskura@quicinc.com&gt;
-Link: https://lore.kernel.org/r/1661570110-19127-1-git-send-email-quic_kriskura@quicinc.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d90419b</div>
-                                        <div class="message">USB: core: Prevent nested device-reset calls
-
-commit 9c6d778800b921bde3bff3cff5003d1650f942d1 upstream.
-
-Automatic kernel fuzzing revealed a recursive locking violation in
-usb-storage:
-
-============================================
-WARNING: possible recursive locking detected
-5.18.0 #3 Not tainted
---------------------------------------------
-kworker/1:3/1205 is trying to acquire lock:
-ffff888018638db8 (&amp;us_interface_key[i]){+.+.}-{3:3}, at:
-usb_stor_pre_reset+0x35/0x40 drivers/usb/storage/usb.c:230
-
-but task is already holding lock:
-ffff888018638db8 (&amp;us_interface_key[i]){+.+.}-{3:3}, at:
-usb_stor_pre_reset+0x35/0x40 drivers/usb/storage/usb.c:230
-
-...
-
-stack backtrace:
-CPU: 1 PID: 1205 Comm: kworker/1:3 Not tainted 5.18.0 #3
-Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS
-1.13.0-1ubuntu1.1 04/01/2014
-Workqueue: usb_hub_wq hub_event
-Call Trace:
-&lt;TASK&gt;
-__dump_stack lib/dump_stack.c:88 [inline]
-dump_stack_lvl+0xcd/0x134 lib/dump_stack.c:106
-print_deadlock_bug kernel/locking/lockdep.c:2988 [inline]
-check_deadlock kernel/locking/lockdep.c:3031 [inline]
-validate_chain kernel/locking/lockdep.c:3816 [inline]
-__lock_acquire.cold+0x152/0x3ca kernel/locking/lockdep.c:5053
-lock_acquire kernel/locking/lockdep.c:5665 [inline]
-lock_acquire+0x1ab/0x520 kernel/locking/lockdep.c:5630
-__mutex_lock_common kernel/locking/mutex.c:603 [inline]
-__mutex_lock+0x14f/0x1610 kernel/locking/mutex.c:747
-usb_stor_pre_reset+0x35/0x40 drivers/usb/storage/usb.c:230
-usb_reset_device+0x37d/0x9a0 drivers/usb/core/hub.c:6109
-r871xu_dev_remove+0x21a/0x270 drivers/staging/rtl8712/usb_intf.c:622
-usb_unbind_interface+0x1bd/0x890 drivers/usb/core/driver.c:458
-device_remove drivers/base/dd.c:545 [inline]
-device_remove+0x11f/0x170 drivers/base/dd.c:537
-__device_release_driver drivers/base/dd.c:1222 [inline]
-device_release_driver_internal+0x1a7/0x2f0 drivers/base/dd.c:1248
-usb_driver_release_interface+0x102/0x180 drivers/usb/core/driver.c:627
-usb_forced_unbind_intf+0x4d/0xa0 drivers/usb/core/driver.c:1118
-usb_reset_device+0x39b/0x9a0 drivers/usb/core/hub.c:6114
-
-This turned out not to be an error in usb-storage but rather a nested
-device reset attempt.  That is, as the rtl8712 driver was being
-unbound from a composite device in preparation for an unrelated USB
-reset (that driver does not have pre_reset or post_reset callbacks),
-its -&gt;remove routine called usb_reset_device() -- thus nesting one
-reset call within another.
-
-Performing a reset as part of disconnect processing is a questionable
-practice at best.  However, the bug report points out that the USB
-core does not have any protection against nested resets.  Adding a
-reset_in_progress flag and testing it will prevent such errors in the
-future.
-
-Link: https://lore.kernel.org/all/CAB7eexKUpvX-JNiLzhXBDWgfg2T9e9_0Tw4HQ6keN==voRbP0g@mail.gmail.com/
-Cc: stable@vger.kernel.org
-Reported-and-tested-by: Rondreis &lt;linhaoguo86@gmail.com&gt;
-Signed-off-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
-Link: https://lore.kernel.org/r/YwkflDxvg0KWqyZK@rowland.harvard.edu
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e28b1c</div>
-                                        <div class="message">s390: fix nospec table alignments
-
-commit c9305b6c1f52060377c72aebe3a701389e9f3172 upstream.
-
-Add proper alignment for .nospec_call_table and .nospec_return_table in
-vmlinux.
-
-[hca@linux.ibm.com]: The problem with the missing alignment of the nospec
-tables exist since a long time, however only since commit e6ed91fd0768
-("s390/alternatives: remove padding generation code") and with
-CONFIG_RELOCATABLE=n the kernel may also crash at boot time.
-
-The above named commit reduced the size of struct alt_instr by one byte,
-so its new size is 11 bytes. Therefore depending on the number of cpu
-alternatives the size of the __alt_instructions array maybe odd, which
-again also causes that the addresses of the nospec tables will be odd.
-
-If the address of __nospec_call_start is odd and the kernel is compiled
-With CONFIG_RELOCATABLE=n the compiler may generate code that loads the
-address of __nospec_call_start with a 'larl' instruction.
-
-This will generate incorrect code since the 'larl' instruction only works
-with even addresses. In result the members of the nospec tables will be
-accessed with an off-by-one offset, which subsequently may lead to
-addressing exceptions within __nospec_revert().
-
-Fixes: f19fbd5ed642 ("s390: introduce execute-trampolines for branches")
-Signed-off-by: Josh Poimboeuf &lt;jpoimboe@kernel.org&gt;
-Link: https://lore.kernel.org/r/8719bf1ce4a72ebdeb575200290094e9ce047bcc.1661557333.git.jpoimboe@kernel.org
-Cc: &lt;stable@vger.kernel.org&gt; # 4.16
-Reviewed-by: Heiko Carstens &lt;hca@linux.ibm.com&gt;
-Signed-off-by: Heiko Carstens &lt;hca@linux.ibm.com&gt;
-Signed-off-by: Vasily Gorbik &lt;gor@linux.ibm.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0db07bf</div>
-                                        <div class="message">s390/hugetlb: fix prepare_hugepage_range() check for 2 GB hugepages
-
-commit 7c8d42fdf1a84b1a0dd60d6528309c8ec127e87c upstream.
-
-The alignment check in prepare_hugepage_range() is wrong for 2 GB
-hugepages, it only checks for 1 MB hugepage alignment.
-
-This can result in kernel crash in __unmap_hugepage_range() at the
-BUG_ON(start &amp; ~huge_page_mask(h)) alignment check, for mappings
-created with MAP_FIXED at unaligned address.
-
-Fix this by correctly handling multiple hugepage sizes, similar to the
-generic version of prepare_hugepage_range().
-
-Fixes: d08de8e2d867 ("s390/mm: add support for 2GB hugepages")
-Cc: &lt;stable@vger.kernel.org&gt; # 4.8+
-Acked-by: Alexander Gordeev &lt;agordeev@linux.ibm.com&gt;
-Signed-off-by: Gerald Schaefer &lt;gerald.schaefer@linux.ibm.com&gt;
-Signed-off-by: Vasily Gorbik &lt;gor@linux.ibm.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a277d</div>
-                                        <div class="message">usb-storage: Add ignore-residue quirk for NXP PN7462AU
-
-commit 2aa48857ad52236a9564c71183d6cc8893becd41 upstream.
-
-This is USB mass storage primary boot loader for code download on
-NXP PN7462AU.
-
-Without the quirk it is impossible to write whole memory at once as
-device restarts during the write due to bogus residue values reported.
-
-Acked-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
-Cc: stable &lt;stable@kernel.org&gt;
-Signed-off-by: Witold Lipieta &lt;witold.lipieta@thaumatec.com&gt;
-Link: https://lore.kernel.org/r/20220809112911.462776-1-witold.lipieta@thaumatec.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b420f94</div>
-                                        <div class="message">USB: cdc-acm: Add Icom PMR F3400 support (0c26:0020)
-
-commit a10bc71729b236fe36de0d8e4d35c959fd8dec3a upstream.
-
-Supports for ICOM F3400 and ICOM F4400 PMR radios in CDC-ACM driver
-enabling the AT serial port.
-The Vendor Id is 0x0C26
-The Product ID is 0x0020
-
-Output of lsusb :
-Bus 001 Device 009: ID 0c26:0020 Prolific Technology Inc. ICOM Radio
-Couldn't open device, some information will be missing
-Device Descriptor:
-  bLength                18
-  bDescriptorType         1
-  bcdUSB               2.00
-  bDeviceClass            2 Communications
-  bDeviceSubClass         0
-  bDeviceProtocol         0
-  bMaxPacketSize0        64
-  idVendor           0x0c26 Prolific Technology Inc.
-  idProduct          0x0020
-  bcdDevice            0.00
-  iManufacturer           1 ICOM Inc.
-  iProduct                2 ICOM Radio
-  iSerial                 3 *obfuscated*
-  bNumConfigurations      1
-  Configuration Descriptor:
-    bLength                 9
-    bDescriptorType         2
-    wTotalLength       0x0030
-    bNumInterfaces          2
-    bConfigurationValue     1
-    iConfiguration          0
-    bmAttributes         0xc0
-      Self Powered
-    MaxPower                0mA
-    Interface Descriptor:
-      bLength                 9
-      bDescriptorType         4
-      bInterfaceNumber        0
-      bAlternateSetting       0
-      bNumEndpoints           1
-      bInterfaceClass         2 Communications
-      bInterfaceSubClass      2 Abstract (modem)
-      bInterfaceProtocol      1 AT-commands (v.25ter)
-      iInterface              0
-      Endpoint Descriptor:
-        bLength                 7
-        bDescriptorType         5
-        bEndpointAddress     0x83  EP 3 IN
-        bmAttributes            3
-          Transfer Type            Interrupt
-          Synch Type               None
-          Usage Type               Data
-        wMaxPacketSize     0x0040  1x 64 bytes
-        bInterval              12
-    Interface Descriptor:
-      bLength                 9
-      bDescriptorType         4
-      bInterfaceNumber        1
-      bAlternateSetting       0
-      bNumEndpoints           2
-      bInterfaceClass        10 CDC Data
-      bInterfaceSubClass      0
-      bInterfaceProtocol      0
-      iInterface              0
-      Endpoint Descriptor:
-        bLength                 7
-        bDescriptorType         5
-        bEndpointAddress     0x82  EP 2 IN
-        bmAttributes            2
-          Transfer Type            Bulk
-          Synch Type               None
-          Usage Type               Data
-        wMaxPacketSize     0x0200  1x 512 bytes
-        bInterval               0
-      Endpoint Descriptor:
-        bLength                 7
-        bDescriptorType         5
-        bEndpointAddress     0x02  EP 2 OUT
-        bmAttributes            2
-          Transfer Type            Bulk
-          Synch Type               None
-          Usage Type               Data
-        wMaxPacketSize     0x0200  1x 512 bytes
-        bInterval               0
-
-Signed-off-by: Thierry GUIBERT &lt;thierry.guibert@croix-rouge.fr&gt;
-Cc: stable &lt;stable@kernel.org&gt;
-Link: https://lore.kernel.org/r/20220819081702.84118-1-thierry.guibert@croix-rouge.fr
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1fa4cd</div>
-                                        <div class="message">USB: serial: option: add support for Cinterion MV32-WA/WB RmNet mode
-
-commit 8ffe20d08f2c95d702c453020d03a4c568a988f0 upstream.
-
-We added PIDs for MV32-WA/WB MBIM mode before, now we need to add
-support for RmNet mode.
-
-Test evidence as below:
-T:  Bus=03 Lev=01 Prnt=01 Port=02 Cnt=03 Dev#=  3 Spd=480 MxCh= 0
-D:  Ver= 2.10 Cls=ef(misc ) Sub=02 Prot=01 MxPS=64 #Cfgs=  1
-P:  Vendor=1e2d ProdID=00f3 Rev=05.04
-S:  Manufacturer=Cinterion
-S:  Product=Cinterion PID 0x00F3 USB Mobile Broadband
-S:  SerialNumber=d7b4be8d
-C:  #Ifs= 4 Cfg#= 1 Atr=a0 MxPwr=500mA
-I:  If#=0x0 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=50 Driver=qmi_wwan
-I:  If#=0x1 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=40 Driver=option
-I:  If#=0x2 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=40 Driver=option
-I:  If#=0x3 Alt= 0 #EPs= 2 Cls=ff(vend.) Sub=ff Prot=30 Driver=option
-
-T:  Bus=03 Lev=01 Prnt=01 Port=02 Cnt=03 Dev#= 10 Spd=480 MxCh= 0
-D:  Ver= 2.10 Cls=ef(misc ) Sub=02 Prot=01 MxPS=64 #Cfgs=  1
-P:  Vendor=1e2d ProdID=00f4 Rev=05.04
-S:  Manufacturer=Cinterion
-S:  Product=Cinterion PID 0x00F4 USB Mobile Broadband
-S:  SerialNumber=d095087d
-C:  #Ifs= 4 Cfg#= 1 Atr=a0 MxPwr=500mA
-I:  If#=0x0 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=50 Driver=qmi_wwan
-I:  If#=0x1 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=40 Driver=option
-I:  If#=0x2 Alt= 0 #EPs= 3 Cls=ff(vend.) Sub=ff Prot=40 Driver=option
-I:  If#=0x3 Alt= 0 #EPs= 2 Cls=ff(vend.) Sub=ff Prot=30 Driver=option
-
-Signed-off-by: Slark Xiao &lt;slark_xiao@163.com&gt;
-[ johan: sort entries ]
-Cc: stable@vger.kernel.org
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72e8abe</div>
-                                        <div class="message">USB: serial: option: add support for OPPO R11 diag port
-
-commit 8d5fc280392735e4441b35de14f2f4860fa8d83c upstream.
-
-Add support for OPPO R11 USB diag serial port to option driver. This
-phone uses Qualcomm Snapdragon 660 SoC.
-
-usb-devices output:
-T:  Bus=03 Lev=01 Prnt=01 Port=01 Cnt=01 Dev#= 10 Spd=480 MxCh= 0
-D:  Ver= 2.00 Cls=00(&gt;ifc ) Sub=00 Prot=00 MxPS=64 #Cfgs=  1
-P:  Vendor=22d9 ProdID=276c Rev=04.04
-S:  Manufacturer=OPPO
-S:  Product=SDM660-MTP _SN:09C6BCA7
-S:  SerialNumber=beb2c403
-C:  #Ifs= 2 Cfg#= 1 Atr=80 MxPwr=500mA
-I:  If#=0x0 Alt= 0 #EPs= 2 Cls=ff(vend.) Sub=ff Prot=30 Driver=option
-I:  If#=0x1 Alt= 0 #EPs= 2 Cls=ff(vend.) Sub=42 Prot=01 Driver=usbfs
-
-Signed-off-by: Yan Xinyu &lt;sdlyyxy@bupt.edu.cn&gt;
-Link: https://lore.kernel.org/r/20220714102037.4113889-1-sdlyyxy@bupt.edu.cn
-Link: https://lore.kernel.org/r/Yt1WfSZk03Plpnan@hovoldconsulting.com
-Cc: stable@vger.kernel.org
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef6b8d3</div>
-                                        <div class="message">USB: serial: cp210x: add Decagon UCA device id
-
-commit ceb4038472a4803e7046ed488b03d11551991514 upstream.
-
-Add the device id for Decagon Devices USB Cable Adapter.
-
-Link: https://lore.kernel.org/r/trinity-819f9db2-d3e1-40e9-a669-9c245817c046-1661523546680@msvc-mesg-web108
-Cc: stable@vger.kernel.org
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7a5c01</div>
-                                        <div class="message">xhci: Add grace period after xHC start to prevent premature runtime suspend.
-
-commit 33e321586e37b642ad10594b9ef25a613555cd08 upstream.
-
-After xHC controller is started, either in probe or resume, it can take
-a while before any of the connected usb devices are visible to the roothub
-due to link training.
-
-It's possible xhci driver loads, sees no acivity and suspends the host
-before the USB device is visible.
-
-In one testcase with a hotplugged xHC controller the host finally detected
-the connected USB device and generated a wake 500ms after host initial
-start.
-
-If hosts didn't suspend the device duringe training it probablty wouldn't
-take up to 500ms to detect it, but looking at specs reveal USB3 link
-training has a couple long timeout values, such as 120ms
-RxDetectQuietTimeout, and 360ms PollingLFPSTimeout.
-
-So Add a 500ms grace period that keeps polling the roothub for 500ms after
-start, preventing runtime suspend until USB devices are detected.
-
-Cc: stable@vger.kernel.org
-Signed-off-by: Mathias Nyman &lt;mathias.nyman@linux.intel.com&gt;
-Link: https://lore.kernel.org/r/20220825150840.132216-3-mathias.nyman@linux.intel.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9f6972</div>
-                                        <div class="message">hwmon: (gpio-fan) Fix array out of bounds access
-
-[ Upstream commit f233d2be38dbbb22299192292983037f01ab363c ]
-
-The driver does not check if the cooling state passed to
-gpio_fan_set_cur_state() exceeds the maximum cooling state as
-stored in fan_data-&gt;num_speeds. Since the cooling state is later
-used as an array index in set_fan_speed(), an array out of bounds
-access can occur.
-This can be exploited by setting the state of the thermal cooling device
-to arbitrary values, causing for example a kernel oops when unavailable
-memory is accessed this way.
-
-Example kernel oops:
-[  807.987276] Unable to handle kernel paging request at virtual address ffffff80d0588064
-[  807.987369] Mem abort info:
-[  807.987398]   ESR = 0x96000005
-[  807.987428]   EC = 0x25: DABT (current EL), IL = 32 bits
-[  807.987477]   SET = 0, FnV = 0
-[  807.987507]   EA = 0, S1PTW = 0
-[  807.987536]   FSC = 0x05: level 1 translation fault
-[  807.987570] Data abort info:
-[  807.987763]   ISV = 0, ISS = 0x00000005
-[  807.987801]   CM = 0, WnR = 0
-[  807.987832] swapper pgtable: 4k pages, 39-bit VAs, pgdp=0000000001165000
-[  807.987872] [ffffff80d0588064] pgd=0000000000000000, p4d=0000000000000000, pud=0000000000000000
-[  807.987961] Internal error: Oops: 96000005 [#1] PREEMPT SMP
-[  807.987992] Modules linked in: cmac algif_hash aes_arm64 algif_skcipher af_alg bnep hci_uart btbcm bluetooth ecdh_generic ecc 8021q garp stp llc snd_soc_hdmi_codec brcmfmac vc4 brcmutil cec drm_kms_helper snd_soc_core cfg80211 snd_compress bcm2835_codec(C) snd_pcm_dmaengine syscopyarea bcm2835_isp(C) bcm2835_v4l2(C) sysfillrect v4l2_mem2mem bcm2835_mmal_vchiq(C) raspberrypi_hwmon sysimgblt videobuf2_dma_contig videobuf2_vmalloc fb_sys_fops videobuf2_memops rfkill videobuf2_v4l2 videobuf2_common i2c_bcm2835 snd_bcm2835(C) videodev snd_pcm snd_timer snd mc vc_sm_cma(C) gpio_fan uio_pdrv_genirq uio drm fuse drm_panel_orientation_quirks backlight ip_tables x_tables ipv6
-[  807.988508] CPU: 0 PID: 1321 Comm: bash Tainted: G         C        5.15.56-v8+ #1575
-[  807.988548] Hardware name: Raspberry Pi 3 Model B Rev 1.2 (DT)
-[  807.988574] pstate: 20000005 (nzCv daif -PAN -UAO -TCO -DIT -SSBS BTYPE=--)
-[  807.988608] pc : set_fan_speed.part.5+0x34/0x80 [gpio_fan]
-[  807.988654] lr : gpio_fan_set_cur_state+0x34/0x50 [gpio_fan]
-[  807.988691] sp : ffffffc008cf3bd0
-[  807.988710] x29: ffffffc008cf3bd0 x28: ffffff80019edac0 x27: 0000000000000000
-[  807.988762] x26: 0000000000000000 x25: 0000000000000000 x24: ffffff800747c920
-[  807.988787] x23: 000000000000000a x22: ffffff800369f000 x21: 000000001999997c
-[  807.988854] x20: ffffff800369f2e8 x19: ffffff8002ae8080 x18: 0000000000000000
-[  807.988877] x17: 0000000000000000 x16: 0000000000000000 x15: 000000559e271b70
-[  807.988938] x14: 0000000000000000 x13: 0000000000000000 x12: 0000000000000000
-[  807.988960] x11: 0000000000000000 x10: ffffffc008cf3c20 x9 : ffffffcfb60c741c
-[  807.989018] x8 : 000000000000000a x7 : 00000000ffffffc9 x6 : 0000000000000009
-[  807.989040] x5 : 000000000000002a x4 : 0000000000000000 x3 : ffffff800369f2e8
-[  807.989062] x2 : 000000000000e780 x1 : 0000000000000001 x0 : ffffff80d0588060
-[  807.989084] Call trace:
-[  807.989091]  set_fan_speed.part.5+0x34/0x80 [gpio_fan]
-[  807.989113]  gpio_fan_set_cur_state+0x34/0x50 [gpio_fan]
-[  807.989199]  cur_state_store+0x84/0xd0
-[  807.989221]  dev_attr_store+0x20/0x38
-[  807.989262]  sysfs_kf_write+0x4c/0x60
-[  807.989282]  kernfs_fop_write_iter+0x130/0x1c0
-[  807.989298]  new_sync_write+0x10c/0x190
-[  807.989315]  vfs_write+0x254/0x378
-[  807.989362]  ksys_write+0x70/0xf8
-[  807.989379]  __arm64_sys_write+0x24/0x30
-[  807.989424]  invoke_syscall+0x4c/0x110
-[  807.989442]  el0_svc_common.constprop.3+0xfc/0x120
-[  807.989458]  do_el0_svc+0x2c/0x90
-[  807.989473]  el0_svc+0x24/0x60
-[  807.989544]  el0t_64_sync_handler+0x90/0xb8
-[  807.989558]  el0t_64_sync+0x1a0/0x1a4
-[  807.989579] Code: b9403801 f9402800 7100003f 8b35cc00 (b9400416)
-[  807.989627] ---[ end trace 8ded4c918658445b ]---
-
-Fix this by checking the cooling state and return an error if it
-exceeds the maximum cooling state.
-
-Tested on a Raspberry Pi 3.
-
-Fixes: b5cf88e46bad ("(gpio-fan): Add thermal control hooks")
-Signed-off-by: Armin Wolf &lt;W_Armin@gmx.de&gt;
-Link: https://lore.kernel.org/r/20220830011101.178843-1-W_Armin@gmx.de
-Signed-off-by: Guenter Roeck &lt;linux@roeck-us.net&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7552ba</div>
-                                        <div class="message">USB: serial: ftdi_sio: add Omron CS1W-CIF31 device id
-
-commit 001047ea241a9646010b2744451dfbc7289542f3 upstream.
-
-works perfectly with:
-modprobe ftdi_sio
-echo "0590 00b2" | tee
-/sys/module/ftdi_sio/drivers/usb-serial\:ftdi_sio/new_id &gt; /dev/null
-
-but doing this every reboot is a pain in the ass.
-
-Signed-off-by: Niek Nooijens &lt;niek.nooijens@omron.com&gt;
-Cc: stable@vger.kernel.org
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c555cf0</div>
-                                        <div class="message">vt: Clear selection before changing the font
-
-commit 566f9c9f89337792070b5a6062dff448b3e7977f upstream.
-
-When changing the console font with ioctl(KDFONTOP) the new font size
-can be bigger than the previous font. A previous selection may thus now
-be outside of the new screen size and thus trigger out-of-bounds
-accesses to graphics memory if the selection is removed in
-vc_do_resize().
-
-Prevent such out-of-memory accesses by dropping the selection before the
-various con_font_set() console handlers are called.
-
-Reported-by: syzbot+14b0e8f3fd1612e35350@syzkaller.appspotmail.com
-Cc: stable &lt;stable@kernel.org&gt;
-Tested-by: Khalid Masum &lt;khalid.masum.92@gmail.com&gt;
-Signed-off-by: Helge Deller &lt;deller@gmx.de&gt;
-Link: https://lore.kernel.org/r/YuV9apZGNmGfjcor@p100
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7dce6b0</div>
-                                        <div class="message">staging: rtl8712: fix use after free bugs
-
-commit e230a4455ac3e9b112f0367d1b8e255e141afae0 upstream.
-
-_Read/Write_MACREG callbacks are NULL so the read/write_macreg_hdl()
-functions don't do anything except free the "pcmd" pointer.  It
-results in a use after free.  Delete them.
-
-Fixes: 2865d42c78a9 ("staging: r8712u: Add the new driver to the mainline kernel")
-Cc: stable &lt;stable@kernel.org&gt;
-Reported-by: Zheng Wang &lt;hackerzheng666@gmail.com&gt;
-Signed-off-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
-Link: https://lore.kernel.org/r/Yw4ASqkYcUhUfoY2@kili
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2968997</div>
-                                        <div class="message">serial: fsl_lpuart: RS485 RTS polariy is inverse
-
-commit 846651eca073e2e02e37490a4a52752415d84781 upstream.
-
-The setting of RS485 RTS polarity is inverse in the current driver.
-
-When the property of 'rs485-rts-active-low' is enabled in the dts node,
-the RTS signal should be LOW during sending. Otherwise, if there is no
-such a property, the RTS should be HIGH during sending.
-
-Fixes: 03895cf41d18 ("tty: serial: fsl_lpuart: Add support for RS-485")
-Cc: stable &lt;stable@kernel.org&gt;
-Signed-off-by: Nicolas Diaz &lt;nicolas.diaz@nxp.com&gt;
-Signed-off-by: Shenwei Wang &lt;shenwei.wang@nxp.com&gt;
-Link: https://lore.kernel.org/r/20220805144529.604856-1-shenwei.wang@nxp.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dbc7a7</div>
-                                        <div class="message">wifi: cfg80211: debugfs: fix return type in ht40allow_map_read()
-
-[ Upstream commit d776763f48084926b5d9e25507a3ddb7c9243d5e ]
-
-The return type is supposed to be ssize_t, which is signed long,
-but "r" was declared as unsigned int.  This means that on 64 bit systems
-we return positive values instead of negative error codes.
-
-Fixes: 80a3511d70e8 ("cfg80211: add debugfs HT40 allow map")
-Signed-off-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
-Link: https://lore.kernel.org/r/YutvOQeJm0UjLhwU@kili
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23f8ce9</div>
-                                        <div class="message">platform/x86: pmc_atom: Fix SLP_TYPx bitfield mask
-
-[ Upstream commit 0a90ed8d0cfa29735a221eba14d9cb6c735d35b6 ]
-
-On Intel hardware the SLP_TYPx bitfield occupies bits 10-12 as per ACPI
-specification (see Table 4.13 "PM1 Control Registers Fixed Hardware
-Feature Control Bits" for the details).
-
-Fix the mask and other related definitions accordingly.
-
-Fixes: 93e5eadd1f6e ("x86/platform: New Intel Atom SOC power management controller driver")
-Signed-off-by: Andy Shevchenko &lt;andriy.shevchenko@linux.intel.com&gt;
-Link: https://lore.kernel.org/r/20220801113734.36131-1-andriy.shevchenko@linux.intel.com
-Reviewed-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
-Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6577e90</div>
-                                        <div class="message">fbdev: fb_pm2fb: Avoid potential divide by zero error
-
-commit 19f953e7435644b81332dd632ba1b2d80b1e37af upstream.
-
-In `do_fb_ioctl()` of fbmem.c, if cmd is FBIOPUT_VSCREENINFO, var will be
-copied from user, then go through `fb_set_var()` and
-`info-&gt;fbops-&gt;fb_check_var()` which could may be `pm2fb_check_var()`.
-Along the path, `var-&gt;pixclock` won't be modified. This function checks
-whether reciprocal of `var-&gt;pixclock` is too high. If `var-&gt;pixclock` is
-zero, there will be a divide by zero error. So, it is necessary to check
-whether denominator is zero to avoid crash. As this bug is found by
-Syzkaller, logs are listed below.
-
-divide error in pm2fb_check_var
-Call Trace:
- &lt;TASK&gt;
- fb_set_var+0x367/0xeb0 drivers/video/fbdev/core/fbmem.c:1015
- do_fb_ioctl+0x234/0x670 drivers/video/fbdev/core/fbmem.c:1110
- fb_ioctl+0xdd/0x130 drivers/video/fbdev/core/fbmem.c:1189
-
-Reported-by: Zheyu Ma &lt;zheyuma97@gmail.com&gt;
-Signed-off-by: Letu Ren &lt;fantasquex@gmail.com&gt;
-Signed-off-by: Helge Deller &lt;deller@gmx.de&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
+                                    <div> in <span class="repo">goshawk22/helium-multilateration</span></div>
+                                    <div>2 files changed <span class="code">++4 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2021,12 +1387,16 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">MarkGadsby/Arduino</span>
+                                        Opened
+                                        <span class="issue">#2 Add balloon data</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">goshawk22/helium-multilateration</span></div>
+                                    <div>2 files changed <span class="code">++4 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2034,24 +1404,14 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">LilyGO/TTGO-T-Beam</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">vaastav/Fantasy-Premier-League</span>
+                                        Created new
+                      branch
+                                        <span class="code">data</span>
+                                        in
+                                        <span class="repo">goshawk22/helium-multilateration</span>
                                     </div>
                                 </div>
                             </section>
@@ -2061,7 +1421,7 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2022, 15:26:01 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Oct 2022, 16:28:49 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
