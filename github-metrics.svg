@@ -1425,7 +1425,7 @@ These were missing from RUI2 unified kernel source and are required for mtp to w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2022, 22:25:14 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 23:27:20 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
