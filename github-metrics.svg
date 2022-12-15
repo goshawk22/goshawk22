@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1281" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            928 Commits
+                            930 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31.8m added, 734k removed
+                                    5.11m added, 8.40k removed
                                 </div>
                             </section>
                             <section>
@@ -1357,11 +1357,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">FreeTubeApp/FreeTube</span>
+                                        Deleted
+                      branch
+                                        <span class="code">LA.UM.10.3.r1-01700-sdm845.0</span>
+                                        in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
                                 </div>
                             </section>
@@ -1370,11 +1373,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">SpacingBat3/WebCord</span>
+                                        Deleted
+                      branch
+                                        <span class="code">13-kudproject</span>
+                                        in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
                                 </div>
                             </section>
@@ -1383,11 +1389,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">stashapp/stash</span>
+                                        Deleted
+                      branch
+                                        <span class="code">13-new</span>
+                                        in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
                                 </div>
                             </section>
@@ -1396,11 +1405,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">hrkfdn/ncspot</span>
+                                        Deleted
+                      branch
+                                        <span class="code">13-old</span>
+                                        in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
                                 </div>
                             </section>
@@ -1409,11 +1421,454 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">jayphelps/git-blame-someone-else</span>
+                                        Pushed 417 commits in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#08e3d35</div>
+                                        <div class="message">usbnet: Fix memory leak in usbnet_disconnect()
+
+[ Upstream commit a43206156263fbaf1f2b7f96257441f331e91bb7 ]
+
+Currently usbnet_disconnect() unanchors and frees all deferred URBs
+using usb_scuttle_anchored_urbs(), which does not free urb-&gt;context,
+causing a memory leak as reported by syzbot.
+
+Use a usb_get_from_anchor() while loop instead, similar to what we did
+in commit 19cfe912c37b ("Bluetooth: btusb: Fix memory leak in
+play_deferred").  Also free urb-&gt;sg.
+
+Reported-and-tested-by: syzbot+dcd3e13cf4472f2e0ba1@syzkaller.appspotmail.com
+Fixes: 69ee472f2706 ("usbnet &amp; cdc-ether: Autosuspend for online devices")
+Fixes: 638c5115a794 ("USBNET: support DMA SG")
+Signed-off-by: Peilin Ye &lt;peilin.ye@bytedance.com&gt;
+Link: https://lore.kernel.org/r/20220923042551.2745-1-yepeilin.cs@gmail.com
+Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff53a92</div>
+                                        <div class="message">Input: melfas_mip4 - fix return value check in mip4_probe()
+
+[ Upstream commit a54dc27bd25f20ee3ea2009584b3166d25178243 ]
+
+devm_gpiod_get_optional() may return ERR_PTR(-EPROBE_DEFER),
+add a minus sign to fix it.
+
+Fixes: 6ccb1d8f78bd ("Input: add MELFAS MIP4 Touchscreen driver")
+Signed-off-by: Yang Yingliang &lt;yangyingliang@huawei.com&gt;
+Link: https://lore.kernel.org/r/20220924030715.1653538-1-yangyingliang@huawei.com
+Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06f80dd</div>
+                                        <div class="message">Revert "drm: bridge: analogix/dp: add panel prepare/unprepare in suspend/resume time"
+
+[ Upstream commit cc62d98bd56d45de4531844ca23913a15136c05b ]
+
+This reverts commit 211f276ed3d96e964d2d1106a198c7f4a4b3f4c0.
+
+For quite some time, core DRM helpers already ensure that any relevant
+connectors/CRTCs/etc. are disabled, as well as their associated
+components (e.g., bridges) when suspending the system. Thus,
+analogix_dp_bridge_{enable,disable}() already get called, which in turn
+call drm_panel_{prepare,unprepare}(). This makes these drm_panel_*()
+calls redundant.
+
+Besides redundancy, there are a few problems with this handling:
+
+(1) drm_panel_{prepare,unprepare}() are *not* reference-counted APIs and
+are not in general designed to be handled by multiple callers --
+although some panel drivers have a coarse 'prepared' flag that mitigates
+some damage, at least. So at a minimum this is redundant and confusing,
+but in some cases, this could be actively harmful.
+
+(2) The error-handling is a bit non-standard. We ignored errors in
+suspend(), but handled errors in resume(). And recently, people noticed
+that the clk handling is unbalanced in error paths, and getting *that*
+right is not actually trivial, given the current way errors are mostly
+ignored.
+
+(3) In the particular way analogix_dp_{suspend,resume}() get used (e.g.,
+in rockchip_dp_*(), as a late/early callback), we don't necessarily have
+a proper PM relationship between the DP/bridge device and the panel
+device. So while the DP bridge gets resumed, the panel's parent device
+(e.g., platform_device) may still be suspended, and so any prepare()
+calls may fail.
+
+So remove the superfluous, possibly-harmful suspend()/resume() handling
+of panel state.
+
+Fixes: 211f276ed3d9 ("drm: bridge: analogix/dp: add panel prepare/unprepare in suspend/resume time")
+Link: https://lore.kernel.org/all/Yv2CPBD3Picg%2FgVe@google.com/
+Signed-off-by: Brian Norris &lt;briannorris@chromium.org&gt;
+Reviewed-by: Douglas Anderson &lt;dianders@chromium.org&gt;
+Signed-off-by: Douglas Anderson &lt;dianders@chromium.org&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20220822180729.1.I8ac5abe3a4c1c6fd5c061686c6e883c22f69022c@changeid
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe16be4</div>
+                                        <div class="message">mm: prevent page_frag_alloc() from corrupting the memory
+
+commit dac22531bbd4af2426c4e29e05594415ccfa365d upstream.
+
+A number of drivers call page_frag_alloc() with a fragment's size &gt;
+PAGE_SIZE.
+
+In low memory conditions, __page_frag_cache_refill() may fail the order
+3 cache allocation and fall back to order 0; In this case, the cache
+will be smaller than the fragment, causing memory corruptions.
+
+Prevent this from happening by checking if the newly allocated cache is
+large enough for the fragment; if not, the allocation will fail and
+page_frag_alloc() will return NULL.
+
+Link: https://lkml.kernel.org/r/20220715125013.247085-1-mlombard@redhat.com
+Fixes: b63ae8ca096d ("mm/net: Rename and move page fragment handling from net/ to mm/")
+Signed-off-by: Maurizio Lombardi &lt;mlombard@redhat.com&gt;
+Reviewed-by: Alexander Duyck &lt;alexanderduyck@fb.com&gt;
+Cc: Chen Lin &lt;chen45464546@163.com&gt;
+Cc: Jakub Kicinski &lt;kuba@kernel.org&gt;
+Cc: &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ec35f5</div>
+                                        <div class="message">mmc: moxart: fix 4-bit bus width and remove 8-bit bus width
+
+commit 35ca91d1338ae158f6dcc0de5d1e86197924ffda upstream.
+
+According to the datasheet [1] at page 377, 4-bit bus width is turned on by
+bit 2 of the Bus Width Register. Thus the current bitmask is wrong: define
+BUS_WIDTH_4 BIT(1)
+
+BIT(1) does not work but BIT(2) works. This has been verified on real MOXA
+hardware with FTSDC010 controller revision 1_6_0.
+
+The corrected value of BUS_WIDTH_4 mask collides with: define BUS_WIDTH_8
+BIT(2). Additionally, 8-bit bus width mode isn't supported according to the
+datasheet, so let's remove the corresponding code.
+
+[1]
+https://bitbucket.org/Kasreyn/mkrom-uc7112lx/src/master/documents/FIC8120_DS_v1.2.pdf
+
+Fixes: 1b66e94e6b99 ("mmc: moxart: Add MOXA ART SD/MMC driver")
+Signed-off-by: Sergei Antonov &lt;saproj@gmail.com&gt;
+Cc: Jonas Jensen &lt;jonas.jensen@gmail.com&gt;
+Cc: stable@vger.kernel.org
+Link: https://lore.kernel.org/r/20220907205753.1577434-1-saproj@gmail.com
+Signed-off-by: Ulf Hansson &lt;ulf.hansson@linaro.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ddce74</div>
+                                        <div class="message">ntfs: fix BUG_ON in ntfs_lookup_inode_by_name()
+
+commit 1b513f613731e2afc05550e8070d79fac80c661e upstream.
+
+Syzkaller reported BUG_ON as follows:
+
+------------[ cut here ]------------
+kernel BUG at fs/ntfs/dir.c:86!
+invalid opcode: 0000 [#1] PREEMPT SMP KASAN PTI
+CPU: 3 PID: 758 Comm: a.out Not tainted 5.19.0-next-20220808 #5
+Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-1.16.0-0-gd239552ce722-prebuilt.qemu.org 04/01/2014
+RIP: 0010:ntfs_lookup_inode_by_name+0xd11/0x2d10
+Code: ff e9 b9 01 00 00 e8 1e fe d6 fe 48 8b 7d 98 49 8d 5d 07 e8 91 85 29 ff 48 c7 45 98 00 00 00 00 e9 5a fb ff ff e8 ff fd d6 fe &lt;0f&gt; 0b e8 f8 fd d6 fe 0f 0b e8 f1 fd d6 fe 48 8b b5 50 ff ff ff 4c
+RSP: 0018:ffff888079607978 EFLAGS: 00010293
+RAX: 0000000000000000 RBX: 0000000000008000 RCX: 0000000000000000
+RDX: ffff88807cf10000 RSI: ffffffff82a4a081 RDI: 0000000000000003
+RBP: ffff888079607a70 R08: 0000000000000001 R09: ffff88807a6d01d7
+R10: ffffed100f4da03a R11: 0000000000000000 R12: ffff88800f0fb110
+R13: ffff88800f0ee000 R14: ffff88800f0fb000 R15: 0000000000000001
+FS:  00007f33b63c7540(0000) GS:ffff888108580000(0000) knlGS:0000000000000000
+CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+CR2: 00007f33b635c090 CR3: 000000000f39e005 CR4: 0000000000770ee0
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000fffe0ff0 DR7: 0000000000000400
+PKRU: 55555554
+Call Trace:
+ &lt;TASK&gt;
+ load_system_files+0x1f7f/0x3620
+ ntfs_fill_super+0xa01/0x1be0
+ mount_bdev+0x36a/0x440
+ ntfs_mount+0x3a/0x50
+ legacy_get_tree+0xfb/0x210
+ vfs_get_tree+0x8f/0x2f0
+ do_new_mount+0x30a/0x760
+ path_mount+0x4de/0x1880
+ __x64_sys_mount+0x2b3/0x340
+ do_syscall_64+0x38/0x90
+ entry_SYSCALL_64_after_hwframe+0x63/0xcd
+RIP: 0033:0x7f33b62ff9ea
+Code: 48 8b 0d a9 f4 0b 00 f7 d8 64 89 01 48 83 c8 ff c3 66 2e 0f 1f 84 00 00 00 00 00 0f 1f 44 00 00 49 89 ca b8 a5 00 00 00 0f 05 &lt;48&gt; 3d 01 f0 ff ff 73 01 c3 48 8b 0d 76 f4 0b 00 f7 d8 64 89 01 48
+RSP: 002b:00007ffd0c471aa8 EFLAGS: 00000202 ORIG_RAX: 00000000000000a5
+RAX: ffffffffffffffda RBX: 0000000000000000 RCX: 00007f33b62ff9ea
+RDX: 0000000020000000 RSI: 0000000020000100 RDI: 00007ffd0c471be0
+RBP: 00007ffd0c471c60 R08: 00007ffd0c471ae0 R09: 00007ffd0c471c24
+R10: 0000000000000000 R11: 0000000000000202 R12: 000055bac5afc160
+R13: 0000000000000000 R14: 0000000000000000 R15: 0000000000000000
+ &lt;/TASK&gt;
+Modules linked in:
+---[ end trace 0000000000000000 ]---
+
+Fix this by adding sanity check on extended system files' directory inode
+to ensure that it is directory, just like ntfs_extend_init() when mounting
+ntfs3.
+
+Link: https://lkml.kernel.org/r/20220809064730.2316892-1-chenxiaosong2@huawei.com
+Signed-off-by: ChenXiaoSong &lt;chenxiaosong2@huawei.com&gt;
+Cc: Anton Altaparmakov &lt;anton@tuxera.com&gt;
+Cc: &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0016ac2</div>
+                                        <div class="message">net: usb: qmi_wwan: Add new usb-id for Dell branded EM7455
+
+commit 797666cd5af041ffb66642fff62f7389f08566a2 upstream.
+
+Add support for Dell 5811e (EM7455) with USB-id 0x413c:0x81c2.
+
+Signed-off-by: Frank Wunderlich &lt;frank-w@public-files.de&gt;
+Cc: stable@vger.kernel.org
+Acked-by: Bjørn Mork &lt;bjorn@mork.no&gt;
+Link: https://lore.kernel.org/r/20220926150740.6684-3-linux@fw-web.de
+Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9c27b7</div>
+                                        <div class="message">uas: ignore UAS for Thinkplus chips
+
+commit 0fb9703a3eade0bb84c635705d9c795345e55053 upstream.
+
+The UAS mode of Thinkplus(0x17ef, 0x3899) is reported to influence
+performance and trigger kernel panic on several platforms with the
+following error message:
+
+[   39.702439] xhci_hcd 0000:0c:00.3: ERROR Transfer event for disabled
+               endpoint or incorrect stream ring
+[   39.702442] xhci_hcd 0000:0c:00.3: @000000026c61f810 00000000 00000000
+               1b000000 05038000
+
+[  720.545894][13] Workqueue: usb_hub_wq hub_event
+[  720.550971][13]  ffff88026c143c38 0000000000016300 ffff8802755bb900 ffff880
+                    26cb80000
+[  720.559673][13]  ffff88026c144000 ffff88026ca88100 0000000000000000 ffff880
+                    26cb80000
+[  720.568374][13]  ffff88026cb80000 ffff88026c143c50 ffffffff8186ae25 ffff880
+                    26ca880f8
+[  720.577076][13] Call Trace:
+[  720.580201][13]  [&lt;ffffffff8186ae25&gt;] schedule+0x35/0x80
+[  720.586137][13]  [&lt;ffffffff8186b0ce&gt;] schedule_preempt_disabled+0xe/0x10
+[  720.593623][13]  [&lt;ffffffff8186cb94&gt;] __mutex_lock_slowpath+0x164/0x1e0
+[  720.601012][13]  [&lt;ffffffff8186cc3f&gt;] mutex_lock+0x2f/0x40
+[  720.607141][13]  [&lt;ffffffff8162b8e9&gt;] usb_disconnect+0x59/0x290
+
+Falling back to USB mass storage can solve this problem, so ignore UAS
+function of this chip.
+
+Acked-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Hongling Zeng &lt;zenghongling@kylinos.cn&gt;
+Link: https://lore.kernel.org/r/1663902249837086.19.seg@mailgw
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d661b53</div>
+                                        <div class="message">usb-storage: Add Hiksemi USB3-FW to IGNORE_UAS
+
+commit e00b488e813f0f1ad9f778e771b7cd2fe2877023 upstream.
+
+The UAS mode of Hiksemi USB_HDD is reported to fail to work on several
+platforms with the following error message, then after re-connecting the
+device will be offlined and not working at all.
+
+[  592.518442][ 2] sd 8:0:0:0: [sda] tag#17 uas_eh_abort_handler 0 uas-tag 18
+                   inflight: CMD
+[  592.527575][ 2] sd 8:0:0:0: [sda] tag#17 CDB: Write(10) 2a 00 03 6f 88 00 00
+                   04 00 00
+[  592.536330][ 2] sd 8:0:0:0: [sda] tag#0 uas_eh_abort_handler 0 uas-tag 1
+                   inflight: CMD
+[  592.545266][ 2] sd 8:0:0:0: [sda] tag#0 CDB: Write(10) 2a 00 07 44 1a 88 00
+                   00 08 00
+
+These disks have a broken uas implementation, the tag field of the status
+iu-s is not set properly,so we need to fall-back to usb-storage.
+
+Acked-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Hongling Zeng &lt;zenghongling@kylinos.cn&gt;
+Link: https://lore.kernel.org/r/1663901185-21067-1-git-send-email-zenghongling@kylinos.cn
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46e791e</div>
+                                        <div class="message">uas: add no-uas quirk for Hiksemi usb_disk
+
+commit a625a4b8806cc1e928b7dd2cca1fee709c9de56e upstream.
+
+The UAS mode of Hiksemi is reported to fail to work on several platforms
+with the following error message, then after re-connecting the device will
+be offlined and not working at all.
+
+[  592.518442][ 2] sd 8:0:0:0: [sda] tag#17 uas_eh_abort_handler 0 uas-tag 18
+                   inflight: CMD
+[  592.527575][ 2] sd 8:0:0:0: [sda] tag#17 CDB: Write(10) 2a 00 03 6f 88 00 00
+                   04 00 00
+[  592.536330][ 2] sd 8:0:0:0: [sda] tag#0 uas_eh_abort_handler 0 uas-tag 1
+                   inflight: CMD
+[  592.545266][ 2] sd 8:0:0:0: [sda] tag#0 CDB: Write(10) 2a 00 07 44 1a 88 00
+                   00 08 00
+
+These disks have a broken uas implementation, the tag field of the status
+iu-s is not set properly,so we need to fall-back to usb-storage.
+
+Acked-by: Alan Stern &lt;stern@rowland.harvard.edu&gt;
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Hongling Zeng &lt;zenghongling@kylinos.cn&gt;
+Link: https://lore.kernel.org/r/1663901173-21020-1-git-send-email-zenghongling@kylinos.cn
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb8232</div>
+                                        <div class="message">Merge branch 'a11/upstream-caf' into a11/master
+
+Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
+
+* a11/upstream-caf:
+  msm: ADSPRPC: Restrict untrusted applications from attaching to GuestOS
+  msm: kgsl: Fix gpuaddr_in_range() to check upper bound
+  msm: kgsl: Remove 'fd' dependency to get dma_buf handle
+  msm: kgsl: Zap performance counters across context switches
+  msm: kgsl: Add a sysfs node to control performance counter reads
+
+ Conflicts:
+	drivers/gpu/msm/kgsl_mmu.c
+
+Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64e032d</div>
+                                        <div class="message">Merge tag 'LA.UM.8.6.2.c26-04600-89xx.0' into a11/upstream-caf
+
+"LA.UM.8.6.2.c26-04600-89xx.0"
+
+Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
+
+* tag 'f936909f01f1cd8d3569ffdab67bcdf882494926':
+  msm: ADSPRPC: Restrict untrusted applications from attaching to GuestOS
+  msm: kgsl: Fix gpuaddr_in_range() to check upper bound
+  msm: kgsl: Remove 'fd' dependency to get dma_buf handle
+  msm: kgsl: Zap performance counters across context switches
+  msm: kgsl: Add a sysfs node to control performance counter reads
+
+* tag '32a1ecb28b318d6361efd78d067c343d6a6eb55b':
+
+Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dd27dd</div>
+                                        <div class="message">msm: ADSPRPC: Restrict untrusted applications from attaching to GuestOS
+
+Untrusted application can attach to guestOS and staticPD if it can
+somehow make INIT IOCTL call with ATTACH flag. This is a potential
+security issue as the untrusted application can crash guestOS or
+staticPD. Restrict attach to guestOS or staticPD request if request
+is being made using non-secure device node.
+
+Change-Id: I322c7b242fd0baaf1c1bce2d83b992fecb0ca593
+Acked-by: Ekansh Gupta &lt;ekangupt@qti.qualcomm.com&gt;
+Signed-off-by: Vamsi Krishna Gattupalli &lt;quic_vgattupa@quicinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#791dae6</div>
+                                        <div class="message">Merge "msm: kgsl: Remove 'fd' dependency to get dma_buf handle"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f23c7d</div>
+                                        <div class="message">msm: kgsl: Fix gpuaddr_in_range() to check upper bound
+
+Currently gpuaddr_in_range() accepts only the gpuaddr &amp; returns
+true if it lies in valid range. But this does not mean that the
+entire buffer is within range.
+Modify the function to accept size as a parameter and check that
+both starting &amp; ending points of buffer lie within mmu range.
+
+Change-Id: I1d722295b9a27e746bfdb6d3bf409ffe722193cb
+Signed-off-by: Rohan Sethi &lt;quic_rohsethi@quicinc.com&gt;
+Signed-off-by: Abhishek Barman &lt;quic_abarman@quicinc.com&gt;
+Signed-off-by: ravnar &lt;quic_ravnar@quicinc.com&gt;
+Signed-off-by: Kaushal Sanadhya &lt;quic_ksanadhy@quicinc.com&gt;
+Signed-off-by: Pranav Patel &lt;quic_pranavp@quicinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93a4fc3</div>
+                                        <div class="message">msm: kgsl: Remove 'fd' dependency to get dma_buf handle
+
+Get the dma_buf handle directly from 'vm_file' after
+doing necessary checks on the file.
+
+Change-Id: Id5eec16588d64e4e28483b32bb52d4d3d9b86b99
+Signed-off-by: ravnar &lt;quic_ravnar@quicinc.com&gt;
+Signed-off-by: Sanjay Yadav &lt;quic_sanjyada@quicinc.com&gt;
+Signed-off-by: Abhishek Barman &lt;quic_abarman@quicinc.com&gt;
+Signed-off-by: Kamal Agrawal &lt;quic_kamaagra@quicinc.com&gt;
+Signed-off-by: Pranav Patel &lt;quic_pranavp@quicinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bb6104</div>
+                                        <div class="message">msm: kgsl: Zap performance counters across context switches
+
+Performance counter values need not be retained across contexts unless
+specifically requested for debug. Zap the counters by initialising
+perfcounter SRAM with 0's using GPU_RBBM_PERFCTR_SRAM_INIT_CMD.
+
+Add pm4 packets during context switches and add a KMD postamble packet to
+clear the counters during preemption. Do not enable perfcounter save and
+restore unless requested.
+
+Change-Id: I371779ce659c07a1cc664327f5ecdcf0374201d8
+Signed-off-by: Mohammed Mirza Mandayappurath Manzoor &lt;quic_mmandaya@quicinc.com&gt;
+Signed-off-by: Sebanti Das &lt;quic_sebadas@quicinc.com&gt;
+Signed-off-by: Pankaj Gupta &lt;quic_gpankaj@quicinc.com&gt;
+Signed-off-by: Harshitha Sai Neelati &lt;quic_hsaineel@quicinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cfb794</div>
+                                        <div class="message">msm: kgsl: Add a sysfs node to control performance counter reads
+
+Currently performance counters are global and can be read by anyone. Change
+the behaviour to disable reading global counters as default and add a sysfs
+node to enable/disable reads.
+
+Change-Id: Ic3785acd9bd7425c2a844ed103d7b870d9f80adf
+Signed-off-by: Mohammed Mirza Mandayappurath Manzoor &lt;quic_mmandaya@quicinc.com&gt;
+Signed-off-by: Pankaj Gupta &lt;quic_gpankaj@quicinc.com&gt;
+Signed-off-by: Harshitha Sai Neelati &lt;quic_hsaineel@quicinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44f1067</div>
+                                        <div class="message">Merge f89055eaae37c01f8224462de6e0cc90264a4364 on remote branch
+
+Change-Id: I6da893868f77c764772df4eb1207509ab3ee2544</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8efbfdd</div>
+                                        <div class="message">Merge 82b447aec7056669f35a47ab55337124566ca1bb on remote branch
+
+Change-Id: I195138fc42098488da134d9016ceef4a247e0346</div>
                                     </div>
                                 </div>
                             </section>
@@ -1423,7 +1878,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2022, 14:19:18 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 15 Dec 2022, 15:21:22 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
