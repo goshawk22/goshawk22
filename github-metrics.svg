@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1301" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1084" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 74 repositories
+                            Contributed to 75 repositories
                         </div>
                     </section>
                 </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            15 Pull requests opened
+                            16 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1336,553 +1336,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">PixelBlaster-CAF/frameworks_base</span>
-                                        to
-                                        <span class="repo">goshawk22/frameworks_base-2</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 36 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">13</span></div>
+                                    <div>on branch <span class="code">13-caf</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7410f4d</div>
-                                        <div class="message">mac802154: fix missing INIT_LIST_HEAD in ieee802154_if_add()
-
-[ Upstream commit b3d72d3135d2ef68296c1ee174436efd65386f04 ]
-
-Kernel fault injection test reports null-ptr-deref as follows:
-
-BUG: kernel NULL pointer dereference, address: 0000000000000008
-RIP: 0010:cfg802154_netdev_notifier_call+0x120/0x310 include/linux/list.h:114
-Call Trace:
- &lt;TASK&gt;
- raw_notifier_call_chain+0x6d/0xa0 kernel/notifier.c:87
- call_netdevice_notifiers_info+0x6e/0xc0 net/core/dev.c:1944
- unregister_netdevice_many_notify+0x60d/0xcb0 net/core/dev.c:1982
- unregister_netdevice_queue+0x154/0x1a0 net/core/dev.c:10879
- register_netdevice+0x9a8/0xb90 net/core/dev.c:10083
- ieee802154_if_add+0x6ed/0x7e0 net/mac802154/iface.c:659
- ieee802154_register_hw+0x29c/0x330 net/mac802154/main.c:229
- mcr20a_probe+0xaaa/0xcb1 drivers/net/ieee802154/mcr20a.c:1316
-
-ieee802154_if_add() allocates wpan_dev as netdev's private data, but not
-init the list in struct wpan_dev. cfg802154_netdev_notifier_call() manage
-the list when device register/unregister, and may lead to null-ptr-deref.
-
-Use INIT_LIST_HEAD() on it to initialize it correctly.
-
-Fixes: fcf39e6e88e9 ("ieee802154: add wpan_dev_list")
-Signed-off-by: Wei Yongjun &lt;weiyongjun1@huawei.com&gt;
-Acked-by: Alexander Aring &lt;aahringo@redhat.com&gt;
-
-Link: https://lore.kernel.org/r/20221130091705.1831140-1-weiyongjun@huaweicloud.com
-Signed-off-by: Stefan Schmidt &lt;stefan@datenfreihafen.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f915a0</div>
-                                        <div class="message">Bluetooth: 6LoWPAN: add missing hci_dev_put() in get_l2cap_conn()
-
-[ Upstream commit 747da1308bdd5021409974f9180f0d8ece53d142 ]
-
-hci_get_route() takes reference, we should use hci_dev_put() to release
-it when not need anymore.
-
-Fixes: 6b8d4a6a0314 ("Bluetooth: 6LoWPAN: Use connected oriented channel instead of fixed one")
-Signed-off-by: Wang ShaoBo &lt;bobo.shaobowang@huawei.com&gt;
-Signed-off-by: Luiz Augusto von Dentz &lt;luiz.von.dentz@intel.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2020772</div>
-                                        <div class="message">igb: Allocate MSI-X vector when testing
-
-[ Upstream commit 28e96556baca7056d11d9fb3cdd0aba4483e00d8 ]
-
-Without this change, the interrupt test fail with MSI-X environment:
-
-$ sudo ethtool -t enp0s2 offline
-[   43.921783] igb 0000:00:02.0: offline testing starting
-[   44.855824] igb 0000:00:02.0 enp0s2: igb: enp0s2 NIC Link is Down
-[   44.961249] igb 0000:00:02.0 enp0s2: igb: enp0s2 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
-[   51.272202] igb 0000:00:02.0: testing shared interrupt
-[   56.996975] igb 0000:00:02.0 enp0s2: igb: enp0s2 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
-The test result is FAIL
-The test extra info:
-Register test  (offline)	 0
-Eeprom test    (offline)	 0
-Interrupt test (offline)	 4
-Loopback test  (offline)	 0
-Link test   (on/offline)	 0
-
-Here, "4" means an expected interrupt was not delivered.
-
-To fix this, route IRQs correctly to the first MSI-X vector by setting
-IVAR_MISC. Also, set bit 0 of EIMS so that the vector will not be
-masked. The interrupt test now runs properly with this change:
-
-$ sudo ethtool -t enp0s2 offline
-[   42.762985] igb 0000:00:02.0: offline testing starting
-[   50.141967] igb 0000:00:02.0: testing shared interrupt
-[   56.163957] igb 0000:00:02.0 enp0s2: igb: enp0s2 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
-The test result is PASS
-The test extra info:
-Register test  (offline)	 0
-Eeprom test    (offline)	 0
-Interrupt test (offline)	 0
-Loopback test  (offline)	 0
-Link test   (on/offline)	 0
-
-Fixes: 4eefa8f01314 ("igb: add single vector msi-x testing to interrupt test")
-Signed-off-by: Akihiko Odaki &lt;akihiko.odaki@daynix.com&gt;
-Reviewed-by: Maciej Fijalkowski &lt;maciej.fijalkowski@intel.com&gt;
-Tested-by: Gurucharan G &lt;gurucharanx.g@intel.com&gt; (A Contingent worker at Intel)
-Signed-off-by: Tony Nguyen &lt;anthony.l.nguyen@intel.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#303add0</div>
-                                        <div class="message">e1000e: Fix TX dispatch condition
-
-[ Upstream commit eed913f6919e253f35d454b2f115f2a4db2b741a ]
-
-e1000_xmit_frame is expected to stop the queue and dispatch frames to
-hardware if there is not sufficient space for the next frame in the
-buffer, but sometimes it failed to do so because the estimated maximum
-size of frame was wrong. As the consequence, the later invocation of
-e1000_xmit_frame failed with NETDEV_TX_BUSY, and the frame in the buffer
-remained forever, resulting in a watchdog failure.
-
-This change fixes the estimated size by making it match with the
-condition for NETDEV_TX_BUSY. Apparently, the old estimation failed to
-account for the following lines which determines the space requirement
-for not causing NETDEV_TX_BUSY:
-    ```
-    	/* reserve a descriptor for the offload context */
-    	if ((mss) || (skb-&gt;ip_summed == CHECKSUM_PARTIAL))
-    		count++;
-    	count++;
-
-    	count += DIV_ROUND_UP(len, adapter-&gt;tx_fifo_limit);
-    ```
-
-This issue was found when running http-stress02 test included in Linux
-Test Project 20220930 on QEMU with the following commandline:
-```
-qemu-system-x86_64 -M q35,accel=kvm -m 8G -smp 8
-	-drive if=virtio,format=raw,file=root.img,file.locking=on
-	-device e1000e,netdev=netdev
-	-netdev tap,script=ifup,downscript=no,id=netdev
-```
-
-Fixes: bc7f75fa9788 ("[E1000E]: New pci-express e1000 driver (currently for ICH9 devices only)")
-Signed-off-by: Akihiko Odaki &lt;akihiko.odaki@daynix.com&gt;
-Tested-by: Gurucharan G &lt;gurucharanx.g@intel.com&gt; (A Contingent worker at Intel)
-Tested-by: Naama Meir &lt;naamax.meir@linux.intel.com&gt;
-Signed-off-by: Tony Nguyen &lt;anthony.l.nguyen@intel.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4749c5c</div>
-                                        <div class="message">gpio: amd8111: Fix PCI device reference count leak
-
-[ Upstream commit 45fecdb9f658d9c82960c98240bc0770ade19aca ]
-
-for_each_pci_dev() is implemented by pci_get_device(). The comment of
-pci_get_device() says that it will increase the reference count for the
-returned pci_dev and also decrease the reference count for the input
-pci_dev @from if it is not NULL.
-
-If we break for_each_pci_dev() loop with pdev not NULL, we need to call
-pci_dev_put() to decrease the reference count. Add the missing
-pci_dev_put() after the 'out' label. Since pci_dev_put() can handle NULL
-input parameter, there is no problem for the 'Device not found' branch.
-For the normal path, add pci_dev_put() in amd_gpio_exit().
-
-Fixes: f942a7de047d ("gpio: add a driver for GPIO pins found on AMD-8111 south bridge chips")
-Signed-off-by: Xiongfeng Wang &lt;wangxiongfeng2@huawei.com&gt;
-Signed-off-by: Bartosz Golaszewski &lt;bartosz.golaszewski@linaro.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f13230</div>
-                                        <div class="message">ieee802154: cc2520: Fix error return code in cc2520_hw_init()
-
-[ Upstream commit 4d002d6a2a00ac1c433899bd7625c6400a74cfba ]
-
-In cc2520_hw_init(), if oscillator start failed, the error code
-should be returned.
-
-Fixes: 0da6bc8cc341 ("ieee802154: cc2520: adds driver for TI CC2520 radio")
-Signed-off-by: Ziyang Xuan &lt;william.xuanziyang@huawei.com&gt;
-Link: https://lore.kernel.org/r/20221120075046.2213633-1-william.xuanziyang@huawei.com
-Signed-off-by: Stefan Schmidt &lt;stefan@datenfreihafen.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#151493f</div>
-                                        <div class="message">HID: core: fix shift-out-of-bounds in hid_report_raw_event
-
-commit ec61b41918587be530398b0d1c9a0d16619397e5 upstream.
-
-Syzbot reported shift-out-of-bounds in hid_report_raw_event.
-
-microsoft 0003:045E:07DA.0001: hid_field_extract() called with n (128) &gt;
-32! (swapper/0)
-======================================================================
-UBSAN: shift-out-of-bounds in drivers/hid/hid-core.c:1323:20
-shift exponent 127 is too large for 32-bit type 'int'
-CPU: 0 PID: 0 Comm: swapper/0 Not tainted
-6.1.0-rc4-syzkaller-00159-g4bbf3422df78 #0
-Hardware name: Google Compute Engine/Google Compute Engine, BIOS
-Google 10/26/2022
-Call Trace:
- &lt;IRQ&gt;
- __dump_stack lib/dump_stack.c:88 [inline]
- dump_stack_lvl+0x1e3/0x2cb lib/dump_stack.c:106
- ubsan_epilogue lib/ubsan.c:151 [inline]
- __ubsan_handle_shift_out_of_bounds+0x3a6/0x420 lib/ubsan.c:322
- snto32 drivers/hid/hid-core.c:1323 [inline]
- hid_input_fetch_field drivers/hid/hid-core.c:1572 [inline]
- hid_process_report drivers/hid/hid-core.c:1665 [inline]
- hid_report_raw_event+0xd56/0x18b0 drivers/hid/hid-core.c:1998
- hid_input_report+0x408/0x4f0 drivers/hid/hid-core.c:2066
- hid_irq_in+0x459/0x690 drivers/hid/usbhid/hid-core.c:284
- __usb_hcd_giveback_urb+0x369/0x530 drivers/usb/core/hcd.c:1671
- dummy_timer+0x86b/0x3110 drivers/usb/gadget/udc/dummy_hcd.c:1988
- call_timer_fn+0xf5/0x210 kernel/time/timer.c:1474
- expire_timers kernel/time/timer.c:1519 [inline]
- __run_timers+0x76a/0x980 kernel/time/timer.c:1790
- run_timer_softirq+0x63/0xf0 kernel/time/timer.c:1803
- __do_softirq+0x277/0x75b kernel/softirq.c:571
- __irq_exit_rcu+0xec/0x170 kernel/softirq.c:650
- irq_exit_rcu+0x5/0x20 kernel/softirq.c:662
- sysvec_apic_timer_interrupt+0x91/0xb0 arch/x86/kernel/apic/apic.c:1107
-======================================================================
-
-If the size of the integer (unsigned n) is bigger than 32 in snto32(),
-shift exponent will be too large for 32-bit type 'int', resulting in a
-shift-out-of-bounds bug.
-Fix this by adding a check on the size of the integer (unsigned n) in
-snto32(). To add support for n greater than 32 bits, set n to 32, if n
-is greater than 32.
-
-Reported-by: syzbot+8b1641d2f14732407e23@syzkaller.appspotmail.com
-Fixes: dde5845a529f ("[PATCH] Generic HID layer - code split")
-Signed-off-by: ZhangPeng &lt;zhangpeng362@huawei.com&gt;
-Signed-off-by: Jiri Kosina &lt;jkosina@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf0c335</div>
-                                        <div class="message">HID: hid-lg4ff: Add check for empty lbuf
-
-commit d180b6496143cd360c5d5f58ae4b9a8229c1f344 upstream.
-
-If an empty buf is received, lbuf is also empty. So lbuf is
-accessed by index -1.
-
-Found by Linux Verification Center (linuxtesting.org) with SVACE.
-
-Fixes: f31a2de3fe36 ("HID: hid-lg4ff: Allow switching of Logitech gaming wheels between compatibility modes")
-Signed-off-by: Anastasia Belova &lt;abelova@astralinux.ru&gt;
-Signed-off-by: Jiri Kosina &lt;jkosina@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d73b49</div>
-                                        <div class="message">media: v4l2-dv-timings.c: fix too strict blanking sanity checks
-
-commit 5eef2141776da02772c44ec406d6871a790761ee upstream.
-
-Sanity checks were added to verify the v4l2_bt_timings blanking fields
-in order to avoid integer overflows when userspace passes weird values.
-
-But that assumed that userspace would correctly fill in the front porch,
-backporch and sync values, but sometimes all you know is the total
-blanking, which is then assigned to just one of these fields.
-
-And that can fail with these checks.
-
-So instead set a maximum for the total horizontal and vertical
-blanking and check that each field remains below that.
-
-That is still sufficient to avoid integer overflows, but it also
-allows for more flexibility in how userspace fills in these fields.
-
-Signed-off-by: Hans Verkuil &lt;hverkuil-cisco@xs4all.nl&gt;
-Fixes: 4b6d66a45ed3 ("media: v4l2-dv-timings: add sanity checks for blanking values")
-Signed-off-by: Mauro Carvalho Chehab &lt;mchehab@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e661a</div>
-                                        <div class="message">mmc: sdhci: Fix voltage switch delay
-
-commit c981cdfb9925f64a364f13c2b4f98f877308a408 upstream.
-
-Commit 20b92a30b561 ("mmc: sdhci: update signal voltage switch code")
-removed voltage switch delays from sdhci because mmc core had been
-enhanced to support them. However that assumed that sdhci_set_ios()
-did a single clock change, which it did not, and so the delays in mmc
-core, which should have come after the first clock change, were not
-effective.
-
-Fix by avoiding re-configuring UHS and preset settings when the clock
-is turning on and the settings have not changed. That then also avoids
-the associated clock changes, so that then sdhci_set_ios() does a single
-clock change when voltage switching, and the mmc core delays become
-effective.
-
-To do that has meant keeping track of driver strength (host-&gt;drv_type),
-and cases of reinitialization (host-&gt;reinit_uhs).
-
-Note also, the 'turning_on_clk' restriction should not be necessary
-but is done to minimize the impact of the change on stable kernels.
-
-Fixes: 20b92a30b561 ("mmc: sdhci: update signal voltage switch code")
-Cc: stable@vger.kernel.org
-Signed-off-by: Adrian Hunter &lt;adrian.hunter@intel.com&gt;
-Link: https://lore.kernel.org/r/20221128133259.38305-2-adrian.hunter@intel.com
-Signed-off-by: Ulf Hansson &lt;ulf.hansson@linaro.org&gt;
-Signed-off-by: Adrian Hunter &lt;adrian.hunter@intel.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c533b</div>
-                                        <div class="message">mmc: sdhci: use FIELD_GET for preset value bit masks
-
-commit fa0910107a9fea170b817f31da2a65463e00e80e upstream.
-
-Use the FIELD_GET macro to get access to the register fields.
-Delete the shift macros.
-
-Signed-off-by: Masahiro Yamada &lt;yamada.masahiro@socionext.com&gt;
-Link: https://lore.kernel.org/r/20200312110050.21732-1-yamada.masahiro@socionext.com
-Signed-off-by: Ulf Hansson &lt;ulf.hansson@linaro.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b8fd94</div>
-                                        <div class="message">rcutorture: Automatically create initrd directory
-
-[ Upstream commit 8f15c682ac5a778feb8e343f9057b89beb40d85b ]
-
-The rcutorture scripts currently expect the user to create the
-tools/testing/selftests/rcutorture/initrd directory.  Should the user
-fail to do this, the kernel build will fail with obscure and confusing
-error messages.  This commit therefore adds explicit checks for the
-tools/testing/selftests/rcutorture/initrd directory, and if not present,
-creates one on systems on which dracut is installed.  If this directory
-could not be created, a less obscure error message is emitted and the
-test is aborted.
-
-Suggested-by: Thomas Gleixner &lt;tglx@linutronix.de&gt;
-Signed-off-by: Connor Shu &lt;Connor.Shu@ibm.com&gt;
-[ paulmck: Adapt the script to fit into the rcutorture framework and
-  severely abbreviate the initrd/init script. ]
-Signed-off-by: Paul E. McKenney &lt;paulmck@linux.vnet.ibm.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b41eab5</div>
-                                        <div class="message">xen/netback: don't call kfree_skb() with interrupts disabled
-
-[ Upstream commit 74e7e1efdad45580cc3839f2a155174cf158f9b5 ]
-
-It is not allowed to call kfree_skb() from hardware interrupt
-context or with interrupts being disabled. So remove kfree_skb()
-from the spin_lock_irqsave() section and use the already existing
-"drop" label in xenvif_start_xmit() for dropping the SKB. At the
-same time replace the dev_kfree_skb() call there with a call of
-dev_kfree_skb_any(), as xenvif_start_xmit() can be called with
-disabled interrupts.
-
-This is XSA-424 / CVE-2022-42328 / CVE-2022-42329.
-
-Fixes: be81992f9086 ("xen/netback: don't queue unlimited number of packages")
-Reported-by: Yang Yingliang &lt;yangyingliang@huawei.com&gt;
-Signed-off-by: Juergen Gross &lt;jgross@suse.com&gt;
-Reviewed-by: Jan Beulich &lt;jbeulich@suse.com&gt;
-Signed-off-by: Juergen Gross &lt;jgross@suse.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7c498c</div>
-                                        <div class="message">xen/netback: do some code cleanup
-
-[ Upstream commit 5834e72eda0b7e5767eb107259d98eef19ebd11f ]
-
-Remove some unused macros and functions, make local functions static.
-
-Signed-off-by: Juergen Gross &lt;jgross@suse.com&gt;
-Acked-by: Wei Liu &lt;wei.liu@kernel.org&gt;
-Link: https://lore.kernel.org/r/20220608043726.9380-1-jgross@suse.com
-Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
-Stable-dep-of: 74e7e1efdad4 ("xen/netback: don't call kfree_skb() with interrupts disabled")
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a1d9be</div>
-                                        <div class="message">xen/netback: Ensure protocol headers don't fall in the non-linear area
-
-[ Upstream commit ad7f402ae4f466647c3a669b8a6f3e5d4271c84a ]
-
-In some cases, the frontend may send a packet where the protocol headers
-are spread across multiple slots. This would result in netback creating
-an skb where the protocol headers spill over into the non-linear area.
-Some drivers and NICs don't handle this properly resulting in an
-interface reset or worse.
-
-This issue was introduced by the removal of an unconditional skb pull in
-the tx path to improve performance.  Fix this without reintroducing the
-pull by setting up grant copy ops for as many slots as needed to reach
-the XEN_NETBACK_TX_COPY_LEN size. Adjust the rest of the code to handle
-multiple copy operations per skb.
-
-This is XSA-423 / CVE-2022-3643.
-
-Fixes: 7e5d7753956b ("xen-netback: remove unconditional __pskb_pull_tail() in guest Tx path")
-Signed-off-by: Ross Lagerwall &lt;ross.lagerwall@citrix.com&gt;
-Reviewed-by: Paul Durrant &lt;paul@xen.org&gt;
-Signed-off-by: Juergen Gross &lt;jgross@suse.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0760acc</div>
-                                        <div class="message">ASoC: soc-pcm: Add NULL check in BE reparenting
-
-[ Upstream commit db8f91d424fe0ea6db337aca8bc05908bbce1498 ]
-
-Add NULL check in dpcm_be_reparent API, to handle
-kernel NULL pointer dereference error.
-The issue occurred in fuzzing test.
-
-Signed-off-by: Srinivasa Rao Mandadapu &lt;quic_srivasam@quicinc.com&gt;
-Link: https://lore.kernel.org/r/1669098673-29703-1-git-send-email-quic_srivasam@quicinc.com
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b38486e</div>
-                                        <div class="message">ALSA: seq: Fix function prototype mismatch in snd_seq_expand_var_event
-
-[ Upstream commit 05530ef7cf7c7d700f6753f058999b1b5099a026 ]
-
-With clang's kernel control flow integrity (kCFI, CONFIG_CFI_CLANG),
-indirect call targets are validated against the expected function
-pointer prototype to make sure the call target is valid to help mitigate
-ROP attacks. If they are not identical, there is a failure at run time,
-which manifests as either a kernel panic or thread getting killed.
-
-seq_copy_in_user() and seq_copy_in_kernel() did not have prototypes
-matching snd_seq_dump_func_t. Adjust this and remove the casts. There
-are not resulting binary output differences.
-
-This was found as a result of Clang's new -Wcast-function-type-strict
-flag, which is more sensitive than the simpler -Wcast-function-type,
-which only checks for type width mismatches.
-
-Reported-by: kernel test robot &lt;lkp@intel.com&gt;
-Link: https://lore.kernel.org/lkml/202211041527.HD8TLSE1-lkp@intel.com
-Cc: Jaroslav Kysela &lt;perex@perex.cz&gt;
-Cc: Takashi Iwai &lt;tiwai@suse.com&gt;
-Cc: "Gustavo A. R. Silva" &lt;gustavoars@kernel.org&gt;
-Cc: alsa-devel@alsa-project.org
-Signed-off-by: Kees Cook &lt;keescook@chromium.org&gt;
-Link: https://lore.kernel.org/r/20221118232346.never.380-kees@kernel.org
-Signed-off-by: Takashi Iwai &lt;tiwai@suse.de&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25260b2</div>
-                                        <div class="message">ARM: 9251/1: perf: Fix stacktraces for tracepoint events in THUMB2 kernels
-
-[ Upstream commit 612695bccfdbd52004551308a55bae410e7cd22f ]
-
-Store the frame address where arm_get_current_stackframe() looks for it
-(ARM_r7 instead of ARM_fp if CONFIG_THUMB2_KERNEL=y). Otherwise frame-&gt;fp
-gets set to 0, causing unwind_frame() to fail.
-
-  # bpftrace -e 't:sched:sched_switch { @[kstack] = count(); exit(); }'
-  Attaching 1 probe...
-  @[
-      __schedule+1059
-  ]: 1
-
-A typical first unwind instruction is 0x97 (SP = R7), so after executing
-it SP ends up being 0 and -URC_FAILURE is returned.
-
-  unwind_frame(pc = ac9da7d7 lr = 00000000 sp = c69bdda0 fp = 00000000)
-  unwind_find_idx(ac9da7d7)
-  unwind_exec_insn: insn = 00000097
-  unwind_exec_insn: fp = 00000000 sp = 00000000 lr = 00000000 pc = 00000000
-
-With this patch:
-
-  # bpftrace -e 't:sched:sched_switch { @[kstack] = count(); exit(); }'
-  Attaching 1 probe...
-  @[
-      __schedule+1059
-      __schedule+1059
-      schedule+79
-      schedule_hrtimeout_range_clock+163
-      schedule_hrtimeout_range+17
-      ep_poll+471
-      SyS_epoll_wait+111
-      sys_epoll_pwait+231
-      __ret_fast_syscall+1
-  ]: 1
-
-Link: https://lore.kernel.org/r/20220920230728.2617421-1-tnovak@fb.com/
-
-Reviewed-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;
-Signed-off-by: Tomislav Novak &lt;tnovak@fb.com&gt;
-Signed-off-by: Russell King (Oracle) &lt;rmk+kernel@armlinux.org.uk&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1884ba7</div>
-                                        <div class="message">ARM: dts: rockchip: fix ir-receiver node names
-
-[ Upstream commit dd847fe34cdf1e89afed1af24986359f13082bfb ]
-
-Fix ir-receiver node names on Rockchip boards,
-so that they match with regex: '^ir(-receiver)?(@[a-f0-9]+)?$'
-
-Signed-off-by: Johan Jonker &lt;jbx6244@gmail.com&gt;
-Link: https://lore.kernel.org/r/ea5af279-f44c-afea-023d-bb37f5a0d58d@gmail.com
-Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02c4685</div>
-                                        <div class="message">arm: dts: rockchip: fix node name for hym8563 rtc
-
-[ Upstream commit 17b57beafccb4569accbfc8c11390744cf59c021 ]
-
-Fix the node name for hym8563 in all arm rockchip devicetrees.
-
-Signed-off-by: Sebastian Reichel &lt;sebastian.reichel@collabora.com&gt;
-Link: https://lore.kernel.org/r/20221024165549.74574-4-sebastian.reichel@collabora.com
-Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                        <div class="sha">#7a93cad</div>
+                                        <div class="message">nicky: Bring back Android.bp
+Also fix some build errors with headers</div>
                                     </div>
                                 </div>
                             </section>
@@ -1896,22 +1362,29 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">13-aospify</span>
+                                        <span class="code">13-caf</span>
                                         in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">StatiXOS/android_manifest</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">13-caf</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#22d02f0</div>
+                                        <div class="message">nicky: Fix perf manifest conflict with qcom common</div>
                                     </div>
                                 </div>
                             </section>
@@ -1920,12 +1393,36 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">kiudee/chess-tuning-tools</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">13-caf</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8e64990</div>
+                                        <div class="message">nicky: Fix conflict with qcom common</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1 BiometricScheduler: Check if operation is finished before cancelling</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">PixelBlaster-CAF/frameworks_base</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1934,7 +1431,7 @@ Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2022, 18:21:59 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 17 Dec 2022, 19:14:30 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
