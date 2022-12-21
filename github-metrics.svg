@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1047" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1630" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#0A3069" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#B6E3FF" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#B6E3FF" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 73 repositories
+                            Contributed to 74 repositories
                         </div>
                     </section>
                 </div>
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    31.6 GB used
+                                    32.8 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.16m added, 39.9k removed
+                                    30.5m added, 39.8k removed
                                 </div>
                             </section>
                             <section>
@@ -1352,6 +1352,549 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">goshawk22/android_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">tokui</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ef6f26e</div>
+                                        <div class="message">PixelPropsUtils: Get package name from context instead of app
+
+11-04 08:48:39.039 11637 11637 E AndroidRuntime: FATAL EXCEPTION: main
+11-04 08:48:39.039 11637 11637 E AndroidRuntime: Process: com.NextFloor.DestinyChild, PID: 11637
+11-04 08:48:39.039 11637 11637 E AndroidRuntime: java.lang.RuntimeException: Unable to get provider androidx.startup.InitializationProvider: androidx.startup.StartupException: android.content.pm.PackageManager$NameNotFoundException: ComponentInfo{/androidx.startup.InitializationProvider}
+11-04 08:48:39.039 11637 11637 E AndroidRuntime:   at android.app.ActivityThread.installProvider(ActivityThread.java:7488)
+
+Change-Id: Icb12f938fe0fca710f8f9d29182d0134ba3c63eb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a178be6</div>
+                                        <div class="message">PixelPropsUtils: Correct spoof props for Samsung apps
+
+* Workaround to avoid force closes especially on Wearable apps
+
+Change-Id: Ieb5a6745f6f93914e2c509b1454c22324cf3c7d7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8aaa5df</div>
+                                        <div class="message">PixelPropsUtils: Spoof Gboard with PixelXL
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
+Change-Id: If712cb9ca4da8883bd4108d933471f8c5f2101c4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c30705c</div>
+                                        <div class="message">PixelPropsUtils: Don't spoof euicc
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c97ca4b</div>
+                                        <div class="message">PixelPropsUtils: Apply key attestation workaround to Play Store as well
+
+Play Store is used for the new Play Integrity API, extend the hack
+to it as well.
+
+Test: Device Integrity and Basic Integrity passes.
+
+Change-Id: Id607cdff0b902f285a6c1b769c0a4ee4202842b1
+Signed-off-by: Dyneteve &lt;dyneteve@hentaios.com&gt;
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abe1bbe</div>
+                                        <div class="message">PixelPropsUtils: Switch from raven fp to cheetah
+
+* Update packages
+* Remove GMS as we are setting it to angler
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d86e37</div>
+                                        <div class="message">PixelPropsUtils: Spoof Nexus 6P for GMS unstable process
+
+To fix Play Integrity, taken from https://github.com/kdrag0n/safetynet-fix/pull/207
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33672fc</div>
+                                        <div class="message">PixelPropsUtils: Limit SafetyNet workarounds to unstable GMS process
+
+The unstable process is where SafetyNet attestation actually runs, so
+we only need to spoof the model in that process.
+
+Change-Id: Idcf663907a6c3d0408dbd45b1ac53c9eb4200df8
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f24e67</div>
+                                        <div class="message">PixelPropsUtils: Exclude recorder from pixel props
+
+* Just like YouTube apps, Recorder shows device is Pixel 5.
+  There is no special pixel feature associated with this app, exclude it.
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16c602</div>
+                                        <div class="message">PixelPropsUtils: Remove spoofing for currently supported Pixel devices
+
+Change-Id: I3a426f8671f841c16e5af7c0a2a204d19c502464</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#591991a</div>
+                                        <div class="message">PixelPropsUtils: Only spoof GMS to Raven
+
+* please shut the fuck up EdgeTpuDeviceFactory
+
+Change-Id: I2ef71a12e613bee7a01e27ae36f9b07a3b78e766
+Signed-off-by: Omkar Chandorkar &lt;gotenksIN@aosip.dev&gt;
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c9c91f</div>
+                                        <div class="message">PixelPropsUtils: Whitelist YouTube apps
+
+* Otherwise casting shows wrong device connected.
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#533cc9c</div>
+                                        <div class="message">PixelPropsUtils: Whitelist ARCore
+
+* ARCore crashes due to being spoofed as hardware and software mismatch is detected.
+* Crash occurs while being used in Google app search feature.
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66115f1</div>
+                                        <div class="message">PixelPropsUtils: Bail out early when required
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d76435</div>
+                                        <div class="message">PixelPropsUtils: Extend list of packages to keep
+
+* It's better to not touch props for these packages at all,
+  instead running loop over it.
+* Ref: https://github.com/AOSPA/android_frameworks_base/commit/dc2940c18ce0acbc5a90f22361d1bb7a6a4783d3
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
+Change-Id: Ica5aee62c38ae46c5003a1d35ba6bdc9f865b2ef</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c67360</div>
+                                        <div class="message">PixelPropsUtils: Consolidate google app checks
+
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c04f77</div>
+                                        <div class="message">PixelPropsUtils: Do not change props for play store
+
+* Else Play Protect certification fails.
+
+Test: Open Play Store &gt; Settings &gt; About
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afe16d3</div>
+                                        <div class="message">keystore: Block key attestation for SafetyNet
+
+SafetyNet (part of Google Play Services) opportunistically uses
+hardware-backed key attestation via KeyStore as a strong integrity
+check. This causes SafetyNet to fail on custom ROMs because the verified
+boot key and bootloader unlock state can be detected from attestation
+certificates.
+
+As a workaround, we can take advantage of the fact that SafetyNet's
+usage of key attestation is opportunistic (i.e. falls back to basic
+integrity checks if it fails) and prevent it from getting the
+attestation certificate chain from KeyStore. This is done by checking
+the stack for DroidGuard, which is the codename for SafetyNet, and
+pretending that the device doesn't support key attestation.
+
+Key attestation has only been blocked for SafetyNet specifically, as
+Google Play Services and other apps have many valid reasons to use it.
+For example, it appears to be involved in Google's mobile security key
+ferature.
+
+Change-Id: I5146439d47f42dc6231cb45c4dab9f61540056f6
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2f61aa</div>
+                                        <div class="message">Import PixelPropsUtils
+
+Thanks to @kdrag0n for the original idea at https://github.com/ProtonAOSP/android_frameworks_base/commit/5a54bfd846c7a26ba4820a361a6fec779edf8c5a
+
+Also includes:
+
+commit b40a373888c6fd7287c490bbda6b53fdbcca5f09
+Author: Danny Lin &lt;danny@kdrag0n.dev&gt;
+Date:   Mon Nov 1 20:06:48 2021 -0700
+
+    Limit SafetyNet workarounds to unstable GMS process
+
+    The unstable process is where SafetyNet attestation actually runs, so
+    we only need to spoof the model in that process. Leaving other processes
+    fixes various issues caused by model detection and flag provisioning,
+    including screen-off Voice Match in Google Assistant, broken At a Glance
+    weather and settings on Android 12, and more.
+
+    Change-Id: Idcf663907a6c3d0408dbd45b1ac53c9eb4200df8
+
+commit 5cb42949b4725a6a21d4e021e71791578893d1be
+Author: Dyneteve &lt;dyneteve@hentaios.com&gt;
+Date:   Thu Dec 30 19:11:41 2021 +0100
+
+    PixelPropsUtils: Use Pixel 5a codename to GMS on Pixels
+
+    Change-Id: I0ba7225e23296f1f3aa95560af43c567949ba900
+    (cherry picked from commit caedd884bbcad0425898d100537ac7b9a2c56456)
+
+commit 5017b2d530d5712770bd851cada56c368b5ef274
+Author: Karan Parashar &lt;whyredfire@gmail.com&gt;
+Date:   Sat Feb 5 08:01:40 2022 +0530
+
+    PixelPropsUtils: Avoid spoofing for Pixel Buds
+
+    - it breaks the app, thanks to @ helenius147 [TG] for pointing this out
+
+    Change-Id: Id0dd0af78ca78db6ad50617e04dbc880c0515c2e
+    (cherry picked from commit d19d773bf1aa2a1c5abcc15e72ab1347c6e2f5c7)
+
+commit 47ddf9a78caeb2fc65481b75e6f768533133254c
+Author: Joey Huab &lt;joey@evolution-x.org&gt;
+Date:   Thu Jan 27 13:33:48 2022 +0900
+
+    PixelPropsUtils: Whitelist ARCore
+
+    * ARCore crashes due to being spoofed as hardware and software mismatch is detected.
+    * Crash occurs while being used in Google app search feature.
+
+    Change-Id: I008da8b09b6467dca2ceb26649c3cb3dee44777d
+    Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
+
+commit e8a20fbb95934ad6f0201fd94ef0baf8daec2edb
+Author: Joey Huab &lt;joey@evolution-x.org&gt;
+Date:   Fri Feb 18 03:16:18 2022 +0900
+
+    PixelProps: Set Pixel 5 as spoof for more Google apps
+
+    Change-Id: I7281356c89b5379f3a9c75e613e7a59e3c6c40ab
+
+commit 8e50c58b4052ec7e0f5b180b4fc796f91d1e716f
+Author: Anay Wadhera &lt;awadhera@berkeley.edu&gt;
+Date:   Fri Dec 10 13:11:49 2021 -0800
+
+    PixelPropUtils: remove spoofing for currently supported Pixels
+
+    Change-Id: I3a426f8671f841c16e5af7c0a2a204d19c502464
+    Reviewed-on: https://review.statixos.com/c/android_frameworks_base/+/6410
+    Tested-by: Anay Wadhera &lt;anay1018@gmail.com&gt;
+    Reviewed-by: Sourajit Karmakar &lt;sourajit@live.com&gt;
+
+    Change-Id: I926b23324e669e24079c78fecc0c7a0b77c15e13
+
+commit 838ff9e4231e7917ace6fb1bc7ab2bc3edfd71fc
+Author: Adithya R &lt;gh0strider.2k18.reborn@gmail.com&gt;
+Date:   Sat Nov 27 16:53:23 2021 +0530
+
+    PixelPropsUtils: Avoid spoofing props for gcam and mods
+
+    Change-Id: Ia6f095b1511152ae6ba705990def71e7e4546072
+
+commit d72b3ce2cc84b465e76f53db4126084db25b61ea
+Author: vladsendrix &lt;83285656+vladsendrix@users.noreply.github.com&gt;
+Date:   Fri Dec 31 03:18:04 2021 +0100
+
+    PixelPropsUtils: Spoof Pixel XL for Google Photos
+
+    pixel_2016_exclusive.xml is already added, why not have it actually work
+
+    Change-Id: If0b8064c7cb633139ee7c30a7bf1a8543bcc9cad
+
+commit 0f73ff5e79a0a02d024fb7d6963e8a46d21fb1e0
+Author: Danny Lin &lt;danny@kdrag0n.dev&gt;
+Date:   Mon Oct 11 20:00:44 2021 -0700
+
+    keystore: Block key attestation for SafetyNet
+
+    SafetyNet (part of Google Play Services) opportunistically uses
+    hardware-backed key attestation via KeyStore as a strong integrity
+    check. This causes SafetyNet to fail on custom ROMs because the verified
+    boot key and bootloader unlock state can be detected from attestation
+    certificates.
+
+    As a workaround, we can take advantage of the fact that SafetyNet's
+    usage of key attestation is opportunistic (i.e. falls back to basic
+    integrity checks if it fails) and prevent it from getting the
+    attestation certificate chain from KeyStore. This is done by checking
+    the stack for DroidGuard, which is the codename for SafetyNet, and
+    pretending that the device doesn't support key attestation.
+
+    Key attestation has only been blocked for SafetyNet specifically, as
+    Google Play Services and other apps have many valid reasons to use it.
+    For example, it appears to be involved in Google's mobile security key
+    ferature.
+
+    Change-Id: I5146439d47f42dc6231cb45c4dab9f61540056f6
+
+Signed-off-by: jhenrique09 &lt;jhenrique09.mcz@hotmail.com&gt;
+Co-authored-by: Danny Lin &lt;danny@kdrag0n.dev&gt;
+Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
+Change-Id: Ic68aadf5d8d2352da4c3adf1e7f67ef0a1dd5df2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe4ffbd</div>
+                                        <div class="message">Revert "[SQUASH] base: Introduce PixelPropsUtils"
+
+This reverts commit b284af7eb9f3d2007fe90ad97e0a8024a5abbc99.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">goshawk22/android_frameworks_base</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">shinka</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f870f02</div>
+                                        <div class="message">Revert "[RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity"
+
+This reverts commit 6898dea5c953f30c07bb99768cf08729806ebfaa.
+
+Reason for revert: b/218243793
+
+Change-Id: Iadc00568b09d0e122eefbe25c0c44820b3c24815
+(cherry picked from commit 4612f3c1c145bb11a8d269cf718773e457b9f400)
+Merged-In:Iadc00568b09d0e122eefbe25c0c44820b3c24815</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98f8122</div>
+                                        <div class="message">Skip restore of read-only directories
+
+Currently trying to restore a read-only directory results in only the
+directory being restored but not its contents. This causes problems for
+some apps (see the associated bug). Skip restore of read-only directories
+while we evaluate the priority of proper suport for this use case.
+
+Bug: 194894879
+Test: Manual:
+        1. Populate a read-only directory in an app's folder
+	(/data/user/0/&lt;package-name&gt;)
+	2. Run backup for the app
+	3. Clear app data (adb shell pm clear &lt;package-name&gt;
+	4. Run restore for the app
+	5. Inspect app folder to ensure all writable content is
+	restored.
+Merged-In: I644a5784fb42352ba28ac944d3aa3564b0215a78
+Change-Id: I644a5784fb42352ba28ac944d3aa3564b0215a78</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92979c4</div>
+                                        <div class="message">Snap for 8222466 from 4bb1d88803cea6f6dcba335db08f5a3cfb30cffb to s-keystone-qcom-release
+
+Change-Id: I94d9a2decfc1baa884a977af37a34ac8e7cea312</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cfbf6e</div>
+                                        <div class="message">Merge "DO NOT MERGE: Downbranch don't need this adjustment [Output Switcher] Disable volume when device is selectable in group dialog" into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4459afb</div>
+                                        <div class="message">Merge "Allows DPM.generateKeyPair() to be called from PO of affiliated user." into sc-v2-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f289a2</div>
+                                        <div class="message">Merge cherrypicks of [16778403] into sc-v2-platform-release.
+
+Change-Id: Ic115bd904be44128d2c1d5ab6b75f6a20cd96c2b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd0e931</div>
+                                        <div class="message">DO NOT MERGE Fix issue with bubble stack &amp; bubble data expanded bit being out of sync
+
+If onBackPressed was used while the stack was expanded, it was calling
+setExpanded on BubbleStackView (BSV) and NOT BubbleData. This results in
+BSV and BubbleData being out of sync which can lead to incorrect behavior.
+(e.g. using individual bubble dismiss method instead of the stack dismiss
+method).
+
+Test: atest BubblesTest NewNotifPipelineTest
+Fixes: 217361258
+Change-Id: I748fdd49626acaa0e986a9d8038039cada6faa60
+Merged-In: I748fdd49626acaa0e986a9d8038039cada6faa60
+(cherry picked from commit 8f368c53585dfa201fd5bb30e62b02ac8b739254)
+Merged-In:I748fdd49626acaa0e986a9d8038039cada6faa60</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d2ef32</div>
+                                        <div class="message">Snap for 8221354 from 009e56f32c4fcfd50916d19a0987425e5deecb64 to sc-qpr3-release
+
+Change-Id: I2e469f567384fae752f6fd60edba81e0f04b812c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bb1d88</div>
+                                        <div class="message">Associate SystemUiContext with DisplayContent
+
+Before this CL, SystemUiContexts were fixed to the Display metrics
+when the SystemUiContexts were created. It is the same mechanism
+as DisplayContext but applies to SystemUiContexts unexpectedly.
+This CL makes SystemUiContexts associate with DisplayContent with
+the corresponding display ID. In this way, SystemUiContext would
+receive updates when there is a Display property change.
+
+Bug: 220022170
+Bug: 194262507
+Bug: 191064581
+Bug: 205859784
+Test: atest InputMethodMenuControllerTest WindowContextControllerTest
+Test: atest NexusLauncherTests
+
+Change-Id: I64a1614f32d097785915f6105b1813a929e0fe32
+(cherry picked from commit 46ffd51d0723ad18b82d1093814ed7995996c8b9)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#009e56f</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 6822a69f35 -s ours am: 5c4f73ec58 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16982595
+
+Change-Id: I1aa4902693f39918e9a2cc9c2de5ef2db1d8d4a1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d219bb</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: 0a164b2648 -s ours am: 80d89efad1 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16982595
+
+Change-Id: I36d159b7ecc95316d8aad952ad86e52b6d8e8053</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67254fd</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: 35958b264b -s ours am: ecc32fb029 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16980746
+
+Change-Id: I6ed0a5d45c1557bdf27998297e0f383abe6a4d7e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d42234e</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev am: 45e7bc7aec -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16984278
+
+Change-Id: Ife37e9f32868f7877dd6a4e66c49cdf2e0c40b07</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c96116b</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: 96cc0364fe -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16984278
+
+Change-Id: Idbe58ad8fe1f08309158e0db3c3eef9a6aeecf19</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c4f73e</div>
+                                        <div class="message">[automerger skipped] Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev am: 6822a69f35 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16982595
+
+Change-Id: I3d0411888e0a53267028436e11dda528c26f19bd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80d89ef</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: 0a164b2648 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16982595
+
+Change-Id: I38557fe0aa5202c512b01adcef910a5c1241f572</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8aa629e</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: b6369db7e0 -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16978594
+
+Change-Id: I56925eb8ce39a5e75baf55a8569f387facec8aef</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecc32fb</div>
+                                        <div class="message">[automerger skipped] Import translations. DO NOT MERGE ANYWHERE am: 35958b264b -s ours
+
+am skip reason: subject contains skip directive
+
+Original change: https://googleplex-android-review.googlesource.com/c/platform/frameworks/base/+/16980746
+
+Change-Id: I43367d02082359c8a26f30a0e2446205c59c7fa6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45e7bc7</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-qpr1-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6822a69</div>
+                                        <div class="message">Merge "Import translations. DO NOT MERGE ANYWHERE" into sc-dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">P-404/android_frameworks_base</span>
+                                        to
+                                        <span class="repo">goshawk22/android_frameworks_base</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1374,76 +1917,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-caf</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d96e560</div>
-                                        <div class="message">nicky: Add back stock fingerprint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-caf</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#865c8cd</div>
-                                        <div class="message">nicky: Fixup sepolicy for aospa</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-caf</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1a04182</div>
-                                        <div class="message">nicky: sepolicy: Fix some denials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82fd1cb</div>
-                                        <div class="message">nicky: sepolicy: Uprev perf hal to 2.3</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2022, 15:21:33 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 21 Dec 2022, 16:28:32 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
