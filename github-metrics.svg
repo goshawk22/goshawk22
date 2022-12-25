@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1281" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 559 repositories
+                            Starred 561 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31.8m added, 767k removed
+                                    26.8m added, 767k removed
                                 </div>
                             </section>
                             <section>
@@ -1335,6 +1335,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">dvmarinoff/Flux</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">GoldenCheetah/GoldenCheetah</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1376,342 +1402,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">skiffos/SkiffOS</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">goshawk22/android_frameworks_base</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">tokui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef6f26e</div>
-                                        <div class="message">PixelPropsUtils: Get package name from context instead of app
-
-11-04 08:48:39.039 11637 11637 E AndroidRuntime: FATAL EXCEPTION: main
-11-04 08:48:39.039 11637 11637 E AndroidRuntime: Process: com.NextFloor.DestinyChild, PID: 11637
-11-04 08:48:39.039 11637 11637 E AndroidRuntime: java.lang.RuntimeException: Unable to get provider androidx.startup.InitializationProvider: androidx.startup.StartupException: android.content.pm.PackageManager$NameNotFoundException: ComponentInfo{/androidx.startup.InitializationProvider}
-11-04 08:48:39.039 11637 11637 E AndroidRuntime:   at android.app.ActivityThread.installProvider(ActivityThread.java:7488)
-
-Change-Id: Icb12f938fe0fca710f8f9d29182d0134ba3c63eb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a178be6</div>
-                                        <div class="message">PixelPropsUtils: Correct spoof props for Samsung apps
-
-* Workaround to avoid force closes especially on Wearable apps
-
-Change-Id: Ieb5a6745f6f93914e2c509b1454c22324cf3c7d7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aaa5df</div>
-                                        <div class="message">PixelPropsUtils: Spoof Gboard with PixelXL
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
-Change-Id: If712cb9ca4da8883bd4108d933471f8c5f2101c4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c30705c</div>
-                                        <div class="message">PixelPropsUtils: Don't spoof euicc
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c97ca4b</div>
-                                        <div class="message">PixelPropsUtils: Apply key attestation workaround to Play Store as well
-
-Play Store is used for the new Play Integrity API, extend the hack
-to it as well.
-
-Test: Device Integrity and Basic Integrity passes.
-
-Change-Id: Id607cdff0b902f285a6c1b769c0a4ee4202842b1
-Signed-off-by: Dyneteve &lt;dyneteve@hentaios.com&gt;
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abe1bbe</div>
-                                        <div class="message">PixelPropsUtils: Switch from raven fp to cheetah
-
-* Update packages
-* Remove GMS as we are setting it to angler
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d86e37</div>
-                                        <div class="message">PixelPropsUtils: Spoof Nexus 6P for GMS unstable process
-
-To fix Play Integrity, taken from https://github.com/kdrag0n/safetynet-fix/pull/207
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33672fc</div>
-                                        <div class="message">PixelPropsUtils: Limit SafetyNet workarounds to unstable GMS process
-
-The unstable process is where SafetyNet attestation actually runs, so
-we only need to spoof the model in that process.
-
-Change-Id: Idcf663907a6c3d0408dbd45b1ac53c9eb4200df8
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f24e67</div>
-                                        <div class="message">PixelPropsUtils: Exclude recorder from pixel props
-
-* Just like YouTube apps, Recorder shows device is Pixel 5.
-  There is no special pixel feature associated with this app, exclude it.
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a16c602</div>
-                                        <div class="message">PixelPropsUtils: Remove spoofing for currently supported Pixel devices
-
-Change-Id: I3a426f8671f841c16e5af7c0a2a204d19c502464</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#591991a</div>
-                                        <div class="message">PixelPropsUtils: Only spoof GMS to Raven
-
-* please shut the fuck up EdgeTpuDeviceFactory
-
-Change-Id: I2ef71a12e613bee7a01e27ae36f9b07a3b78e766
-Signed-off-by: Omkar Chandorkar &lt;gotenksIN@aosip.dev&gt;
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c9c91f</div>
-                                        <div class="message">PixelPropsUtils: Whitelist YouTube apps
-
-* Otherwise casting shows wrong device connected.
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#533cc9c</div>
-                                        <div class="message">PixelPropsUtils: Whitelist ARCore
-
-* ARCore crashes due to being spoofed as hardware and software mismatch is detected.
-* Crash occurs while being used in Google app search feature.
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66115f1</div>
-                                        <div class="message">PixelPropsUtils: Bail out early when required
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d76435</div>
-                                        <div class="message">PixelPropsUtils: Extend list of packages to keep
-
-* It's better to not touch props for these packages at all,
-  instead running loop over it.
-* Ref: https://github.com/AOSPA/android_frameworks_base/commit/dc2940c18ce0acbc5a90f22361d1bb7a6a4783d3
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
-Change-Id: Ica5aee62c38ae46c5003a1d35ba6bdc9f865b2ef</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c67360</div>
-                                        <div class="message">PixelPropsUtils: Consolidate google app checks
-
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c04f77</div>
-                                        <div class="message">PixelPropsUtils: Do not change props for play store
-
-* Else Play Protect certification fails.
-
-Test: Open Play Store &gt; Settings &gt; About
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afe16d3</div>
-                                        <div class="message">keystore: Block key attestation for SafetyNet
-
-SafetyNet (part of Google Play Services) opportunistically uses
-hardware-backed key attestation via KeyStore as a strong integrity
-check. This causes SafetyNet to fail on custom ROMs because the verified
-boot key and bootloader unlock state can be detected from attestation
-certificates.
-
-As a workaround, we can take advantage of the fact that SafetyNet's
-usage of key attestation is opportunistic (i.e. falls back to basic
-integrity checks if it fails) and prevent it from getting the
-attestation certificate chain from KeyStore. This is done by checking
-the stack for DroidGuard, which is the codename for SafetyNet, and
-pretending that the device doesn't support key attestation.
-
-Key attestation has only been blocked for SafetyNet specifically, as
-Google Play Services and other apps have many valid reasons to use it.
-For example, it appears to be involved in Google's mobile security key
-ferature.
-
-Change-Id: I5146439d47f42dc6231cb45c4dab9f61540056f6
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2f61aa</div>
-                                        <div class="message">Import PixelPropsUtils
-
-Thanks to @kdrag0n for the original idea at https://github.com/ProtonAOSP/android_frameworks_base/commit/5a54bfd846c7a26ba4820a361a6fec779edf8c5a
-
-Also includes:
-
-commit b40a373888c6fd7287c490bbda6b53fdbcca5f09
-Author: Danny Lin &lt;danny@kdrag0n.dev&gt;
-Date:   Mon Nov 1 20:06:48 2021 -0700
-
-    Limit SafetyNet workarounds to unstable GMS process
-
-    The unstable process is where SafetyNet attestation actually runs, so
-    we only need to spoof the model in that process. Leaving other processes
-    fixes various issues caused by model detection and flag provisioning,
-    including screen-off Voice Match in Google Assistant, broken At a Glance
-    weather and settings on Android 12, and more.
-
-    Change-Id: Idcf663907a6c3d0408dbd45b1ac53c9eb4200df8
-
-commit 5cb42949b4725a6a21d4e021e71791578893d1be
-Author: Dyneteve &lt;dyneteve@hentaios.com&gt;
-Date:   Thu Dec 30 19:11:41 2021 +0100
-
-    PixelPropsUtils: Use Pixel 5a codename to GMS on Pixels
-
-    Change-Id: I0ba7225e23296f1f3aa95560af43c567949ba900
-    (cherry picked from commit caedd884bbcad0425898d100537ac7b9a2c56456)
-
-commit 5017b2d530d5712770bd851cada56c368b5ef274
-Author: Karan Parashar &lt;whyredfire@gmail.com&gt;
-Date:   Sat Feb 5 08:01:40 2022 +0530
-
-    PixelPropsUtils: Avoid spoofing for Pixel Buds
-
-    - it breaks the app, thanks to @ helenius147 [TG] for pointing this out
-
-    Change-Id: Id0dd0af78ca78db6ad50617e04dbc880c0515c2e
-    (cherry picked from commit d19d773bf1aa2a1c5abcc15e72ab1347c6e2f5c7)
-
-commit 47ddf9a78caeb2fc65481b75e6f768533133254c
-Author: Joey Huab &lt;joey@evolution-x.org&gt;
-Date:   Thu Jan 27 13:33:48 2022 +0900
-
-    PixelPropsUtils: Whitelist ARCore
-
-    * ARCore crashes due to being spoofed as hardware and software mismatch is detected.
-    * Crash occurs while being used in Google app search feature.
-
-    Change-Id: I008da8b09b6467dca2ceb26649c3cb3dee44777d
-    Signed-off-by: Chenyang Zhong &lt;zhongcy95@gmail.com&gt;
-
-commit e8a20fbb95934ad6f0201fd94ef0baf8daec2edb
-Author: Joey Huab &lt;joey@evolution-x.org&gt;
-Date:   Fri Feb 18 03:16:18 2022 +0900
-
-    PixelProps: Set Pixel 5 as spoof for more Google apps
-
-    Change-Id: I7281356c89b5379f3a9c75e613e7a59e3c6c40ab
-
-commit 8e50c58b4052ec7e0f5b180b4fc796f91d1e716f
-Author: Anay Wadhera &lt;awadhera@berkeley.edu&gt;
-Date:   Fri Dec 10 13:11:49 2021 -0800
-
-    PixelPropUtils: remove spoofing for currently supported Pixels
-
-    Change-Id: I3a426f8671f841c16e5af7c0a2a204d19c502464
-    Reviewed-on: https://review.statixos.com/c/android_frameworks_base/+/6410
-    Tested-by: Anay Wadhera &lt;anay1018@gmail.com&gt;
-    Reviewed-by: Sourajit Karmakar &lt;sourajit@live.com&gt;
-
-    Change-Id: I926b23324e669e24079c78fecc0c7a0b77c15e13
-
-commit 838ff9e4231e7917ace6fb1bc7ab2bc3edfd71fc
-Author: Adithya R &lt;gh0strider.2k18.reborn@gmail.com&gt;
-Date:   Sat Nov 27 16:53:23 2021 +0530
-
-    PixelPropsUtils: Avoid spoofing props for gcam and mods
-
-    Change-Id: Ia6f095b1511152ae6ba705990def71e7e4546072
-
-commit d72b3ce2cc84b465e76f53db4126084db25b61ea
-Author: vladsendrix &lt;83285656+vladsendrix@users.noreply.github.com&gt;
-Date:   Fri Dec 31 03:18:04 2021 +0100
-
-    PixelPropsUtils: Spoof Pixel XL for Google Photos
-
-    pixel_2016_exclusive.xml is already added, why not have it actually work
-
-    Change-Id: If0b8064c7cb633139ee7c30a7bf1a8543bcc9cad
-
-commit 0f73ff5e79a0a02d024fb7d6963e8a46d21fb1e0
-Author: Danny Lin &lt;danny@kdrag0n.dev&gt;
-Date:   Mon Oct 11 20:00:44 2021 -0700
-
-    keystore: Block key attestation for SafetyNet
-
-    SafetyNet (part of Google Play Services) opportunistically uses
-    hardware-backed key attestation via KeyStore as a strong integrity
-    check. This causes SafetyNet to fail on custom ROMs because the verified
-    boot key and bootloader unlock state can be detected from attestation
-    certificates.
-
-    As a workaround, we can take advantage of the fact that SafetyNet's
-    usage of key attestation is opportunistic (i.e. falls back to basic
-    integrity checks if it fails) and prevent it from getting the
-    attestation certificate chain from KeyStore. This is done by checking
-    the stack for DroidGuard, which is the codename for SafetyNet, and
-    pretending that the device doesn't support key attestation.
-
-    Key attestation has only been blocked for SafetyNet specifically, as
-    Google Play Services and other apps have many valid reasons to use it.
-    For example, it appears to be involved in Google's mobile security key
-    ferature.
-
-    Change-Id: I5146439d47f42dc6231cb45c4dab9f61540056f6
-
-Signed-off-by: jhenrique09 &lt;jhenrique09.mcz@hotmail.com&gt;
-Co-authored-by: Danny Lin &lt;danny@kdrag0n.dev&gt;
-Signed-off-by: Pranav Vashi &lt;neobuddy89@gmail.com&gt;
-Change-Id: Ic68aadf5d8d2352da4c3adf1e7f67ef0a1dd5df2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe4ffbd</div>
-                                        <div class="message">Revert "[SQUASH] base: Introduce PixelPropsUtils"
-
-This reverts commit b284af7eb9f3d2007fe90ad97e0a8024a5abbc99.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2022, 09:17:37 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 25 Dec 2022, 10:19:32 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
