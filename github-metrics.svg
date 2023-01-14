@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1097" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            937 Commits
+                            938 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30.6m added, 39.7k removed
+                                    26.7m added, 767k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.46508847309286" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.46508847309286" y="0" width="37.04808460928754" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.51317308238043" y="0" width="5.693619389693067" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.2067924720735" y="0" width="4.013323688960983" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.22011616103447" y="0" width="1.3595365135925768" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.5796526746271" y="0" width="0.503882093398387" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.08353476802546" y="0" width="0.4631139270861524" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5466486951116" y="0" width="0.4533513048884264" height="8" fill="#34EB6B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.46542348100553" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.46542348100553" y="0" width="37.047792797170644" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.5132162781762" y="0" width="5.693587021749368" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.2068032999255" y="0" width="4.01329207770513" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.2200953776306" y="0" width="1.359559803921611" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.57965518155225" y="0" width="0.5038868050827409" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.083541986635" y="0" width="0.46311027933332377" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5466522659683" y="0" width="0.45334773403165013" height="8" fill="#34EB6B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1333,6 +1333,448 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 256 commits in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f095946</div>
+                                        <div class="message">ARM: dts: armada-370: Fix assigned-addresses for every PCIe Root Port
+
+[ Upstream commit d9208b0fa2e803d16b28d91bf1d46b7ee9ea13c6 ]
+
+BDF of resource in DT assigned-addresses property of Marvell PCIe Root Port
+(PCI-to-PCI bridge) should match BDF in address part in that DT node name
+as specified resource belongs to Marvell PCIe Root Port itself.
+
+Fixes: a09a0b7c6ff1 ("arm: mvebu: add PCIe Device Tree informations for Armada 370")
+Signed-off-by: Pali Rohár &lt;pali@kernel.org&gt;
+Signed-off-by: Gregory CLEMENT &lt;gregory.clement@bootlin.com&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d90167d</div>
+                                        <div class="message">ARM: dts: dove: Fix assigned-addresses for every PCIe Root Port
+
+[ Upstream commit dcc7d8c72b64a479b8017e4332d99179deb8802d ]
+
+BDF of resource in DT assigned-addresses property of Marvell PCIe Root Port
+(PCI-to-PCI bridge) should match BDF in address part in that DT node name
+as specified resource belongs to Marvell PCIe Root Port itself.
+
+Fixes: 74ecaa403a74 ("ARM: dove: add PCIe controllers to SoC DT")
+Signed-off-by: Pali Rohár &lt;pali@kernel.org&gt;
+Signed-off-by: Gregory CLEMENT &lt;gregory.clement@bootlin.com&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23d41ad</div>
+                                        <div class="message">soc: ti: smartreflex: Fix PM disable depth imbalance in omap_sr_probe
+
+[ Upstream commit 69460e68eb662064ab4188d4e129ff31c1f23ed9 ]
+
+The pm_runtime_enable will increase power disable depth. Thus
+a pairing decrement is needed on the error handling path to
+keep it balanced according to context.
+
+Fixes: 984aa6dbf4ca ("OMAP3: PM: Adding smartreflex driver support.")
+Signed-off-by: Zhang Qilong &lt;zhangqilong3@huawei.com&gt;
+Signed-off-by: Nishanth Menon &lt;nm@ti.com&gt;
+Link: https://lore.kernel.org/r/20221108080322.52268-3-zhangqilong3@huawei.com
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a01300</div>
+                                        <div class="message">arm: dts: spear600: Fix clcd interrupt
+
+[ Upstream commit 0336e2ce34e7a89832b6c214f924eb7bc58940be ]
+
+Interrupt 12 of the Interrupt controller belongs to the SMI controller,
+the right one for the display controller is the interrupt 13.
+
+Fixes: 8113ba917dfa ("ARM: SPEAr: DT: Update device nodes")
+Signed-off-by: Kory Maincent &lt;kory.maincent@bootlin.com&gt;
+Acked-by: Viresh Kumar &lt;viresh.kumar@linaro.org&gt;
+Signed-off-by: Arnd Bergmann &lt;arnd@arndb.de&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e186b</div>
+                                        <div class="message">drivers: soc: ti: knav_qmss_queue: Mark knav_acc_firmwares as static
+
+[ Upstream commit adf85adc2a7199b41e7a4da083bd17274a3d6969 ]
+
+There is a sparse warning shown below:
+
+drivers/soc/ti/knav_qmss_queue.c:70:12: warning: symbol
+'knav_acc_firmwares' was not declared. Should it be static?
+
+Since 'knav_acc_firmwares' is only called within knav_qmss_queue.c,
+mark it as static to fix the warning.
+
+Fixes: 96ee19becc3b ("soc: ti: add firmware file name as part of the driver")
+Signed-off-by: Chen Jiahao &lt;chenjiahao16@huawei.com&gt;
+Signed-off-by: Nishanth Menon &lt;nm@ti.com&gt;
+Link: https://lore.kernel.org/r/20221019153212.72350-1-chenjiahao16@huawei.com
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fc7f71</div>
+                                        <div class="message">net: loopback: use NET_NAME_PREDICTABLE for name_assign_type
+
+[ Upstream commit 31d929de5a112ee1b977a89c57de74710894bbbf ]
+
+When the name_assign_type attribute was introduced (commit
+685343fc3ba6, "net: add name_assign_type netdev attribute"), the
+loopback device was explicitly mentioned as one which would make use
+of NET_NAME_PREDICTABLE:
+
+    The name_assign_type attribute gives hints where the interface name of a
+    given net-device comes from. These values are currently defined:
+...
+      NET_NAME_PREDICTABLE:
+        The ifname has been assigned by the kernel in a predictable way
+        that is guaranteed to avoid reuse and always be the same for a
+        given device. Examples include statically created devices like
+        the loopback device [...]
+
+Switch to that so that reading /sys/class/net/lo/name_assign_type
+produces something sensible instead of returning -EINVAL.
+
+Signed-off-by: Rasmus Villemoes &lt;linux@rasmusvillemoes.dk&gt;
+Reviewed-by: Jacob Keller &lt;jacob.e.keller@intel.com&gt;
+Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49d5867</div>
+                                        <div class="message">Bluetooth: L2CAP: Fix u8 overflow
+
+[ Upstream commit bcd70260ef56e0aee8a4fc6cd214a419900b0765 ]
+
+By keep sending L2CAP_CONF_REQ packets, chan-&gt;num_conf_rsp increases
+multiple times and eventually it will wrap around the maximum number
+(i.e., 255).
+This patch prevents this by adding a boundary check with
+L2CAP_MAX_CONF_RSP
+
+Btmon log:
+Bluetooth monitor ver 5.64
+= Note: Linux version 6.1.0-rc2 (x86_64)                               0.264594
+= Note: Bluetooth subsystem version 2.22                               0.264636
+@ MGMT Open: btmon (privileged) version 1.22                  {0x0001} 0.272191
+= New Index: 00:00:00:00:00:00 (Primary,Virtual,hci0)          [hci0] 13.877604
+@ RAW Open: 9496 (privileged) version 2.22                   {0x0002} 13.890741
+= Open Index: 00:00:00:00:00:00                                [hci0] 13.900426
+(...)
+&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1033             #32 [hci0] 14.273106
+        invalid packet size (12 != 1033)
+        08 00 01 00 02 01 04 00 01 10 ff ff              ............
+&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1547             #33 [hci0] 14.273561
+        invalid packet size (14 != 1547)
+        0a 00 01 00 04 01 06 00 40 00 00 00 00 00        ........@.....
+&gt; ACL Data RX: Handle 200 flags 0x00 dlen 2061             #34 [hci0] 14.274390
+        invalid packet size (16 != 2061)
+        0c 00 01 00 04 01 08 00 40 00 00 00 00 00 00 04  ........@.......
+&gt; ACL Data RX: Handle 200 flags 0x00 dlen 2061             #35 [hci0] 14.274932
+        invalid packet size (16 != 2061)
+        0c 00 01 00 04 01 08 00 40 00 00 00 07 00 03 00  ........@.......
+= bluetoothd: Bluetooth daemon 5.43                                   14.401828
+&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1033             #36 [hci0] 14.275753
+        invalid packet size (12 != 1033)
+        08 00 01 00 04 01 04 00 40 00 00 00              ........@...
+
+Signed-off-by: Sungwoo Kim &lt;iam@sung-woo.kim&gt;
+Signed-off-by: Luiz Augusto von Dentz &lt;luiz.von.dentz@intel.com&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4e43b2</div>
+                                        <div class="message">USB: serial: cp210x: add Kamstrup RF sniffer PIDs
+
+commit e88906b169ebcb8046e8f0ad76edd09ab41cfdfe upstream.
+
+The RF sniffers are based on cp210x where the RF frontends
+are based on a different USB stack.
+
+RF sniffers can analyze packets meta data including power level
+and perform packet injection.
+
+Can be used to perform RF frontend self-test when connected to
+a concentrator, ex. arch/arm/boot/dts/imx7d-flex-concentrator.dts
+
+Signed-off-by: Bruno Thomsen &lt;bruno.thomsen@gmail.com&gt;
+Cc: stable@vger.kernel.org
+Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4972e35</div>
+                                        <div class="message">usb: gadget: uvc: Prevent buffer overflow in setup handler
+
+commit 4c92670b16727365699fe4b19ed32013bab2c107 upstream.
+
+Setup function uvc_function_setup permits control transfer
+requests with up to 64 bytes of payload (UVC_MAX_REQUEST_SIZE),
+data stage handler for OUT transfer uses memcpy to copy req-&gt;actual
+bytes to uvc_event-&gt;data.data array of size 60. This may result
+in an overflow of 4 bytes.
+
+Fixes: cdda479f15cd ("USB gadget: video class function driver")
+Cc: stable &lt;stable@kernel.org&gt;
+Reviewed-by: Laurent Pinchart &lt;laurent.pinchart@ideasonboard.com&gt;
+Reviewed-by: Daniel Scally &lt;dan.scally@ideasonboard.com&gt;
+Signed-off-by: Szymon Heidrich &lt;szymon.heidrich@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221206141301.51305-1-szymon.heidrich@gmail.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9391da5</div>
+                                        <div class="message">udf: Fix extending file within last block
+
+commit 1f3868f06855c97a4954c99b36f3fc9eb8f60326 upstream.
+
+When extending file within last block it can happen that the extent is
+already rounded to the blocksize and thus contains the offset we want to
+grow up to. In such case we would mistakenly expand the last extent and
+make it one block longer than it should be, exposing unallocated block
+in a file and causing data corruption. Fix the problem by properly
+detecting this case and bailing out.
+
+CC: stable@vger.kernel.org
+Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f9eae3</div>
+                                        <div class="message">udf: Do not bother looking for prealloc extents if i_lenExtents matches i_size
+
+commit 6ad53f0f71c52871202a7bf096feb2c59db33fc5 upstream.
+
+If rounded block-rounded i_lenExtents matches block rounded i_size,
+there are no preallocation extents. Do not bother walking extent linked
+list.
+
+CC: stable@vger.kernel.org
+Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8b6fa4</div>
+                                        <div class="message">udf: Fix preallocation discarding at indirect extent boundary
+
+commit cfe4c1b25dd6d2f056afc00b7c98bcb3dd0b1fc3 upstream.
+
+When preallocation extent is the first one in the extent block, the
+code would corrupt extent tree header instead. Fix the problem and use
+udf_delete_aext() for deleting extent to avoid some code duplication.
+
+CC: stable@vger.kernel.org
+Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a58ae14</div>
+                                        <div class="message">udf: Drop unused arguments of udf_delete_aext()
+
+commit 6c1e4d06a3808dc67dbce2d631f4c12574567dd5 upstream.
+
+udf_delete_aext() uses its last two arguments only as local variables.
+Drop them.
+
+Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a1c338</div>
+                                        <div class="message">udf: Discard preallocation before extending file with a hole
+
+commit 16d0556568148bdcaa45d077cac9f8f7077cf70a upstream.
+
+When extending file with a hole, we tried to preserve existing
+preallocation for the file. However that is not very useful and
+complicates code because the previous extent may need to be rounded to
+block boundary as well (which we forgot to do thus causing data
+corruption for sequence like:
+
+xfs_io -f -c "pwrite 0x75e63 11008" -c "truncate 0x7b24b" \
+  -c "truncate 0xabaa3" -c "pwrite 0xac70b 22954" \
+  -c "pwrite 0x93a43 11358" -c "pwrite 0xb8e65 52211" file
+
+with 512-byte block size. Just discard preallocation before extending
+file to simplify things and also fix this data corruption.
+
+CC: stable@vger.kernel.org
+Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#041030f</div>
+                                        <div class="message">ASoC: ops: Correct bounds check for second channel on SX controls
+
+commit f33bcc506050f89433a52a3052054d4ebd37b1c1 upstream.
+
+Currently the check against the max value for the control is being
+applied after the value has had the minimum applied and been masked. But
+the max value simply indicates the number of volume levels on an SX
+control, and as such should just be applied on the raw value.
+
+Fixes: 97eea946b939 ("ASoC: ops: Check bounds for second channel in snd_soc_put_volsw_sx()")
+Signed-off-by: Charles Keepax &lt;ckeepax@opensource.cirrus.com&gt;
+Link: https://lore.kernel.org/r/20221125162348.1288005-1-ckeepax@opensource.cirrus.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d3ee59</div>
+                                        <div class="message">can: sja1000: fix size of OCR_MODE_MASK define
+
+[ Upstream commit 26e8f6a75248247982458e8237b98c9fb2ffcf9d ]
+
+bitfield mode in ocr register has only 2 bits not 3, so correct
+the OCR_MODE_MASK define.
+
+Signed-off-by: Heiko Schocher &lt;hs@denx.de&gt;
+Link: https://lore.kernel.org/all/20221123071636.2407823-1-hs@denx.de
+Signed-off-by: Marc Kleine-Budde &lt;mkl@pengutronix.de&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5628898</div>
+                                        <div class="message">ASoC: ops: Check bounds for second channel in snd_soc_put_volsw_sx()
+
+[ Upstream commit 97eea946b93961fffd29448dcda7398d0d51c4b2 ]
+
+The bounds checks in snd_soc_put_volsw_sx() are only being applied to the
+first channel, meaning it is possible to write out of bounds values to the
+second channel in stereo controls. Add appropriate checks.
+
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220511134137.169575-2-broonie@kernel.org
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4726b66</div>
+                                        <div class="message">block: unhash blkdev part inode when the part is deleted
+
+v5.11 changes the blkdev lookup mechanism completely since commit
+22ae8ce8b892 ("block: simplify bdev/disk lookup in blkdev_get"),
+and small part of the change is to unhash part bdev inode when
+deleting partition. Turns out this kind of change does fix one
+nasty issue in case of BLOCK_EXT_MAJOR:
+
+1) when one partition is deleted &amp; closed, disk_put_part() is always
+called before bdput(bdev), see blkdev_put(); so the part's devt can
+be freed &amp; re-used before the inode is dropped
+
+2) then new partition with same devt can be created just before the
+inode in 1) is dropped, then the old inode/bdev structurein 1) is
+re-used for this new partition, this way causes use-after-free and
+kernel panic.
+
+It isn't possible to backport the whole big patchset of "merge struct
+block_device and struct hd_struct v4" for addressing this issue.
+
+https://lore.kernel.org/linux-block/20201128161510.347752-1-hch@lst.de/
+
+So fixes it by unhashing part bdev in delete_partition(), and this way
+is actually aligned with v5.11+'s behavior.
+
+Backported from the following 5.10.y commit:
+
+5f2f77560591 ("block: unhash blkdev part inode when the part is deleted")
+
+Reported-by: Shiwei Cui &lt;cuishw@inspur.com&gt;
+Tested-by: Shiwei Cui &lt;cuishw@inspur.com&gt;
+Cc: Christoph Hellwig &lt;hch@lst.de&gt;
+Cc: Jan Kara &lt;jack@suse.cz&gt;
+Signed-off-by: Ming Lei &lt;ming.lei@redhat.com&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#275c626</div>
+                                        <div class="message">mm/khugepaged: invoke MMU notifiers in shmem/file collapse paths
+
+commit f268f6cf875f3220afc77bdd0bf1bb136eb54db9 upstream.
+
+Any codepath that zaps page table entries must invoke MMU notifiers to
+ensure that secondary MMUs (like KVM) don't keep accessing pages which
+aren't mapped anymore.  Secondary MMUs don't hold their own references to
+pages that are mirrored over, so failing to notify them can lead to page
+use-after-free.
+
+I'm marking this as addressing an issue introduced in commit f3f0e1d2150b
+("khugepaged: add support of collapse for tmpfs/shmem pages"), but most of
+the security impact of this only came in commit 27e1f8273113 ("khugepaged:
+enable collapse pmd for pte-mapped THP"), which actually omitted flushes
+for the removal of present PTEs, not just for the removal of empty page
+tables.
+
+Link: https://lkml.kernel.org/r/20221129154730.2274278-3-jannh@google.com
+Link: https://lkml.kernel.org/r/20221128180252.1684965-3-jannh@google.com
+Link: https://lkml.kernel.org/r/20221125213714.4115729-3-jannh@google.com
+Fixes: f3f0e1d2150b ("khugepaged: add support of collapse for tmpfs/shmem pages")
+Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
+Acked-by: David Hildenbrand &lt;david@redhat.com&gt;
+Reviewed-by: Yang Shi &lt;shy828301@gmail.com&gt;
+Cc: John Hubbard &lt;jhubbard@nvidia.com&gt;
+Cc: Peter Xu &lt;peterx@redhat.com&gt;
+Cc: &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
+[manual backport: this code was refactored from two copies into a common
+helper between 5.15 and 6.0;
+pmd collapse for PTE-mapped THP was only added in 5.4;
+MMU notifier API changed between 4.19 and 5.4]
+Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#588be4a</div>
+                                        <div class="message">mm/khugepaged: fix GUP-fast interaction by sending IPI
+
+commit 2ba99c5e08812494bc57f319fb562f527d9bacd8 upstream.
+
+Since commit 70cbc3cc78a99 ("mm: gup: fix the fast GUP race against THP
+collapse"), the lockless_pages_from_mm() fastpath rechecks the pmd_t to
+ensure that the page table was not removed by khugepaged in between.
+
+However, lockless_pages_from_mm() still requires that the page table is
+not concurrently freed.  Fix it by sending IPIs (if the architecture uses
+semi-RCU-style page table freeing) before freeing/reusing page tables.
+
+Link: https://lkml.kernel.org/r/20221129154730.2274278-2-jannh@google.com
+Link: https://lkml.kernel.org/r/20221128180252.1684965-2-jannh@google.com
+Link: https://lkml.kernel.org/r/20221125213714.4115729-2-jannh@google.com
+Fixes: ba76149f47d8 ("thp: khugepaged")
+Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
+Reviewed-by: Yang Shi &lt;shy828301@gmail.com&gt;
+Acked-by: David Hildenbrand &lt;david@redhat.com&gt;
+Cc: John Hubbard &lt;jhubbard@nvidia.com&gt;
+Cc: Peter Xu &lt;peterx@redhat.com&gt;
+Cc: &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
+[manual backport: two of the three places in khugepaged that can free
+ptes were refactored into a common helper between 5.15 and 6.0;
+TLB flushing was refactored between 5.4 and 5.10;
+TLB flushing was refactored between 4.19 and 5.4;
+pmd collapse for PTE-mapped THP was only added in 5.4;
+ugly hack for s390 in &lt;=4.19 and arm]
+Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">goshawk22/goshawk22.github.io</span>
                                     </div>
@@ -1413,34 +1855,12 @@ This reverts commit d1b572afb9b3d02893733e8eebfa3f16debc31c3.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/android_vendor_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-aosp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c4c6433</div>
-                                        <div class="message">nicky: Kang libspl from pnx_sprout
-
-E QSEECOMD: : Init dlopen(libspl.so, RLTD_NOW) is failed.... dlopen failed: library "libspl.so" not found</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 16:25:04 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 17:16:24 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
