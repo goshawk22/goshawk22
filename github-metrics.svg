@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1420" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1097" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            932 Commits
+                            937 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 563 repositories
+                            Starred 564 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30.5m added, 40.1k removed
+                                    30.6m added, 39.7k removed
                                 </div>
                             </section>
                             <section>
@@ -1334,6 +1334,93 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">goshawk22/goshawk22.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0007d95</div>
+                                        <div class="message">Create CNAME</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goshawk22/goshawk22.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9eeafb</div>
+                                        <div class="message">Delete CNAME</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">goshawk22/goshawk22.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ddbf35d</div>
+                                        <div class="message">Revert "Delete CNAME"
+
+This reverts commit b030cd332606a123afdf011620ece47b5425bdc0.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4fce87</div>
+                                        <div class="message">social: Add back Instagram
+Have new acc just in case
+This reverts commit bd25dd2fd23b23722838add5545684bc9c62b8df.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ab07a1</div>
+                                        <div class="message">Revert "Link to bibble"
+
+This reverts commit d1b572afb9b3d02893733e8eebfa3f16debc31c3.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">anderspitman/awesome-tunneling</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">goshawk22/android_vendor_oplus_nicky</span>
                                     </div>
                                 </div>
@@ -1348,283 +1435,12 @@ E QSEECOMD: : Init dlopen(libspl.so, RLTD_NOW) is failed.... dlopen failed: libr
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-aosp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64acfc8</div>
-                                        <div class="message">nicky: import audio_policy_configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e228d0</div>
-                                        <div class="message">nicky: Disable split a2dp
-
-09-11 16:14:49.985   977  4243 D audio_hw_primary: start_output_stream: enter: stream(0xf1f4a7e0)usecase(0: deep-buffer-playback) devices(0x80) is_haptic_usecase(0)
-09-11 16:14:49.985   977  4243 E audio_hw_primary: start_output_stream: A2DP profile is not ready, return error
-09-11 16:14:49.985   977  4243 D audio_hw_primary: out_standby: enter: stream (0xf1f4a7e0) usecase(0: deep-buffer-playback)
-09-11 16:14:49.985   977  4243 D audio_hw_primary: out_standby: exit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb9ce6d</div>
-                                        <div class="message">nicky: Enable Audio Support for Hearing Aids central support
-
-Change-Id: I792a9715f17c1f17fb8b9a524cabed901d3e6f4a
-Signed-off-by: Kujou Yuko &lt;i@779.moe&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#701e1a8</div>
-                                        <div class="message">nicky: Disable LE audio related profiles
-
-Bug: 231671426
-Test: build
-
-Change-Id: I85b7f023c03a7a2e603af94e88196c10a16fe4ec
-Merged-In: I85b7f023c03a7a2e603af94e88196c10a16fe4ec
-(cherry picked from commit 9b57be4d7f57e1d117c65fac1e2dc60dbc59cb4b)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6afe23e</div>
-                                        <div class="message">nicky: Update LE Audio profile properties to match spec and implementation
-
-Bug: 217448211
-Test: atest BluetoothInstrumentationTests
-
-Change-Id: I1260e95d357bd86099f75b910e0d744f97513fbc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d08884</div>
-                                        <div class="message">nicky: Enable bluetooth profiles with system_ext.prop
-
-Bug: 217448211
-Test: make -j
-
-Change-Id: I0d06b46910e42346653bea3484636f4129592ce3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa4ea44</div>
-                                        <div class="message">nicky: Align ASHA prop with BluetoothProperties
-
-* Modify bluetooth.profile.asha.central to
-  bluetooth.profile.asha.central.enabled
-
-Tag: #feature
-Test: manual
-Bug: 211570675
-Bug: 218454632
-
-Change-Id: I8e1f49034e5a675b29fba747e634c9f7c6c29c50</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50ba01a</div>
-                                        <div class="message">nicky: Added new vendors for Bluetooth config migration
-
-Tag: #feature
-Test: manual
-Bug: 211570675
-
-Change-Id: Id74ec5e1b30f21c534c35b212a2fb297e9d591fb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ec8161</div>
-                                        <div class="message">nicky: Set default the Bluetooth class of device
-
-The class of device is a string with a list of uint8t values:
-90,2,12
-
-The meaning is as follows:
-{Service Field, Major class, Minor class}
-
-Service Field: 0x5A -&gt; 90
-    Bit 17: Networking
-    Bit 19: Capturing
-    Bit 20: Object Transfer
-    Bit 22: Telephony
-MAJOR_CLASS: 0x02 -&gt; 2 (Phone)
-MINOR_CLASS: 0x0C -&gt; 12 (Smart Phone)
-
-Bug: 217452259
-Test: make -j; -- check that bluetooth.device.class_of_device is
-correct
-
-Change-Id: I07e83ca352ff969be0e53a0f63b6c940b6c34dfb
-
-Signed-off-by: Cykeek &lt;Cykeek@proton.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d3a342</div>
-                                        <div class="message">nicky: Switch BtAudio to AIDL
-
-Test: m
-Bug: 203490261
-Change-Id: I4b8ac40d5ad410b89eb6a0573d740d86471ecfc7
-Merged-In: I4b8ac40d5ad410b89eb6a0573d740d86471ecfc7
-
-Signed-off-by: Cykeek &lt;Cykeek@proton.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a5e422</div>
-                                        <div class="message">nicky: Build aosp keymaster</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b119f2d</div>
-                                        <div class="message">nicky: rootdir: Stop bootanimation service after boot
-
-* Some users reported bootanimation lags and freezes
-  after a while. Looking from logs it fails to exit
-  once boot is completed. Stopping bootanimation
-  service, as workaround, is preventing this issue.
-
-Signed-off-by: improbir &lt;ghosh_probir@yahoo.com&gt;
-Signed-off-by: kssrao13882 &lt;kssrao13882@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bbf550</div>
-                                        <div class="message">nicky: Kang libspl from pnx_sprout
-
-E QSEECOMD: : Init dlopen(libspl.so, RLTD_NOW) is failed.... dlopen failed: library "libspl.so" not found</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#655f3b8</div>
-                                        <div class="message">nicky: fstab: remove 'quota' option
-
-Not supported on Android 13.
-Upgrade from previous releases is working.
-
-Signed-off-by: Roberto Sartori &lt;roberto.sartori.android@gmail.com&gt;
-Change-Id: Ic217cfbde67aa1aa7e2c8ce48f3489415ab7df16
-Signed-off-by: kssrao13882 &lt;kssrao13882@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#577763e</div>
-                                        <div class="message">nicky: ship android.system.keystore2
-
-Fixes: Could not find 'aidl/android.system.keystore2.IKeystoreService/default'
-       for ctl.interface_start from pid: 617 (/system/bin/servicemanager)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cf9edb</div>
-                                        <div class="message">nicky: Use qti power service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9554e77</div>
-                                        <div class="message">nicky: props: Import usb props from vendor_product</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0af6e8</div>
-                                        <div class="message">nicky: Compile kernel with proton clang</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d356940</div>
-                                        <div class="message">nicky: Switch to legacy sepolicy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4e9924</div>
-                                        <div class="message">nicky: remove default bluetooth a2dp lib
-
-See packages/modules/Bluetooth @ f261e756b4f10059b6b90847cd208c95adbd8146
-
-build/make/core/tasks/platform_availability_check.mk:37: warning:
-
-Following modules are requested to be installed. But are not available
-for platform because they do not have "//apex_available:platform" or
-they depend on other modules that are not available for platform
-
-Offending entries:
-  audio.a2dp.default:packages/modules/Bluetooth/system/audio_a2dp_hw
-  audio.a2dp.default_32:packages/modules/Bluetooth/system/audio_a2dp_hw
-
-Change-Id: I731879d4ad3b3840a71a172b934fc61d8a493353
-Signed-off-by: Alexander Martinz &lt;amartinz@shiftphones.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-aosp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#685b974</div>
-                                        <div class="message">nicky: Remove ndk_platform backend. Use the ndk backend.
-
-The ndk_platform backend will soon be deprecated because the ndk backend
-can serve the same purpose. This is to eliminate the confusion about
-having two variants (ndk and ndk_platform) for the same ndk backend.
-
-Bug: 161456198
-Test: m
-
-Signed-off-by: Pranav Temkar &lt;pranavtemkar@gmail.com&gt;
-Merged-In: I14a1c57bd06f1f2aa52491f779c7030d4de03547
-Change-Id: I14a1c57bd06f1f2aa52491f779c7030d4de03547</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-aosp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c7bed</div>
-                                        <div class="message">nicky: Drop GSI keys include
-
-No longer seems to exist in A13</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#288 ZeroDivisionError: float division by zero</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by visuallization in <span class="repo">suragnair/alpha-zero-general</span></div>
-                                    <div class="comment">Could you share your code?</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 15:18:47 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 16:25:04 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
