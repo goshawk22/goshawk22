@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1763" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.52m added, 766k removed
+                                    1.41m added, 767k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.46542348100553" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.46542348100553" y="0" width="37.047792797170644" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.5132162781762" y="0" width="5.693587021749368" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.2068032999255" y="0" width="4.01329207770513" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.2200953776306" y="0" width="1.359559803921611" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.57965518155225" y="0" width="0.5038868050827409" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.083541986635" y="0" width="0.46311027933332377" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5466522659683" y="0" width="0.45334773403165013" height="8" fill="#34EB6B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.46489614722964" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.46489614722964" y="0" width="37.04719361723729" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.51208976446696" y="0" width="5.693132350470459" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.20522211493744" y="0" width="4.0132271700845115" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.2184492850219" y="0" width="1.3612241661073998" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.57967345112934" y="0" width="0.5038786556401023" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.08355210676945" y="0" width="0.463107491264996" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5466595980344" y="0" width="0.4533404019655659" height="8" fill="#34EB6B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1333,6 +1333,291 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 63 commits in
+                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e368513</div>
+                                        <div class="message">msm: msm_bus: Remove trace_printk for non-debug build
+
+trace_printk will cause trace_printk_init_buffers executed in kernel
+start, which will increase memory and also show bad warnings in
+production kernel.
+
+Test: see warning message gone in dmesg
+Bug: 72894705
+Change-Id: Id2d114ed8ba01abc80d9b00f0b1df3b0c852faf1
+Signed-off-by: Wei Wang &lt;wvw@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddf7c6c</div>
+                                        <div class="message">dts: remove cris &amp; metag dts hard link file
+
+arch cris &amp; metag have been removed from supported archs.
+The dts hard link files should also be removed, or the ctags
+tool will give warning.
+
+execute"ctags -R", output:
+ctags: Warning: cannot open source file
+"scripts/dtc/include-prefixes/cris" : No such file or directory
+ctags: Warning: cannot open source file
+"scripts/dtc/include-prefixes/metag" : No such file or directory
+
+Signed-off-by: Liu Changcheng &lt;changcheng.liu@intel.com&gt;
+Signed-off-by: Arnd Bergmann &lt;arnd@arndb.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f12d9b5</div>
+                                        <div class="message">devicetree: Move include prefixes from arch to separate directory
+
+We use a directory under arch/$ARCH/boot/dts as an include path
+that has links outside of the subtree to find dt-bindings from under
+include/dt-bindings. That's been working well, but new DT architectures
+haven't been adding them by default.
+
+Recently there's been a desire to share some of the DT material between
+arm and arm64, which originally caused developers to create symlinks or
+relative includes between the subtrees. This isn't ideal -- it breaks
+if the DT files aren't stored in the exact same hierarchy as the kernel
+tree, and generally it's just icky.
+
+As a somewhat cleaner solution we decided to add a $ARCH/ prefix link
+once, and allow DTS files to reference dtsi (and dts) files in other
+architectures that way.
+
+Original approach was to create these links under each architecture,
+but it lead to the problem of recursive symlinks.
+
+As a remedy, move the include link directories out of the architecture
+trees into a common location. At the same time, they can now share one
+directory and one dt-bindings/ link as well.
+
+Fixes: 4027494ae6e3 ('ARM: dts: add arm/arm64 include symlinks')
+Reported-by: Russell King &lt;linux@armlinux.org.uk&gt;
+Reported-by: Omar Sandoval &lt;osandov@osandov.com&gt;
+Reviewed-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Reviewed-by: Masahiro Yamada &lt;yamada.masahiro@socionext.com&gt;
+Tested-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Acked-by: Rob Herring &lt;robh@kernel.org&gt;
+Cc: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Cc: Mark Rutland &lt;mark.rutland@arm.com&gt;
+Cc: Russell King &lt;linux@armlinux.org.uk&gt;
+Cc: Catalin Marinas &lt;catalin.marinas@arm.com&gt;
+Cc: Will Deacon &lt;will.deacon@arm.com&gt;
+Cc: Mikael Starvik &lt;starvik@axis.com&gt;
+Cc: Jesper Nilsson &lt;jesper.nilsson@axis.com&gt;
+Cc: James Hogan &lt;james.hogan@imgtec.com&gt;
+Cc: Ralf Baechle &lt;ralf@linux-mips.org&gt;
+Cc: Benjamin Herrenschmidt &lt;benh@kernel.crashing.org&gt;
+Cc: Paul Mackerras &lt;paulus@samba.org&gt;
+Cc: Michael Ellerman &lt;mpe@ellerman.id.au&gt;
+Cc: Frank Rowand &lt;frowand.list@gmail.com&gt;
+Cc: linux-arch &lt;linux-arch@vger.kernel.org&gt;
+Signed-off-by: Olof Johansson &lt;olof@lixom.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07bc96a</div>
+                                        <div class="message">leds-qpnp-haptics: fix merge error
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#776cb02</div>
+                                        <div class="message">leds-qpnp-haptics: add separate node for call vibration
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95a742f</div>
+                                        <div class="message">leds-qpnp-haptics: add separate nodes for tap and notifications
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f9ff63</div>
+                                        <div class="message">leds-qpnp-haptic: allow disabling vibration
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9ac5e2</div>
+                                        <div class="message">leds-qpnp-haptics: allow user adjustment
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec01dcd</div>
+                                        <div class="message">leds-qpnp-haptics: expose vibrator
+
+Thanks @tbalden
+
+Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
+Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5d9582</div>
+                                        <div class="message">sdm660_cdc: add sound control
+
+Adjust headphone and mic gains on Realme-XT
+
+Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfae5a3</div>
+                                        <div class="message">defconfig: enable sound control</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#178c241</div>
+                                        <div class="message">include/linux/ (device-mapper/kernel) : Fix Clang-12 warnings
+
+Fuck off.
+
+ClangBuiltLinux/linux#1145
+
+Signed-off-by: atndko &lt;z1281552865@gmail.com&gt;
+Signed-off-by: MASTERGUY &lt;murtipipo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95ae876</div>
+                                        <div class="message">msm/adreno: Don't mark KGSL scratch buffer as privileged
+Partial revert of commit 76518d9, especially on adreno_ringbuffer_probe()
+where marking the scratch buffer as privileged currently breaks all devices.
+
+I'm assuming that this change requires updated Adreno firmware, which most of
+us don't have. All changes required to marking it so are retained, however.
+
+Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4073b59</div>
+                                        <div class="message">techpack/audio: codecs: Fix potential buffer overflows
+
+* detected by Clang 9+'s -Wfortify-source.
+[Adapted to techpack/audio]
+Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;
+Signed-off-by: UtsavisGreat &lt;utsavbalar1231@gmail.com&gt;
+(cherry picked from commit ba3b2ce0ee9eabd9d66c454e20daaed301db6a9d)
+Signed-off-by: Nauval Rizky &lt;enuma.alrizky@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d9ef7d</div>
+                                        <div class="message">
+                                            firmware_class: Fix suspicious concatenation of string literals
+../drivers/base/firmware_class.c:385:27: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
+        "/lib/firmware/updates/" UTS_RELEASE,
+                                 ^
+                                ,
+./include/generated/utsrelease.h
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            21: note: expanded from macro 'UTS_RELEASE'
+                    ^
+../drivers/base/firmware_class.c:385:2: note: place parentheses around the string literal to silence warning
+        "/lib/firmware/updates/" UTS_RELEASE,
+        ^
+../drivers/base/firmware_class.c:387:19: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
+        "/lib/firmware/" UTS_RELEASE,
+                         ^
+                        ,
+./include/generated/utsrelease.h
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAL4ElEQVR4nO2bSWwcWRmA/3ZvXjpOYjtx7CyTdYzENiCBOCAhcWEkxBUhhLgglgNIIITYLgjEAc0BcUJzQERJ6lXv7b29xVucOB5AI3GC0SCQRkIzSb/q1XYvVfWj/72qdnW7E1c79gxuzZN+2a6ubtf/1b+/aoAP14frfVsYhYDG4BucwW2uwKbG4K+cQZyr8O2cAmehk9fTuzCiMXibM8Bs1FcrjPeZhfEQZqN+nY5xBkVNgZ9iFLzQiSvD4OekaGX5IuLWRxDf2JPag6tYmAyZAoQCS/we9EOnLa7C69mwV3cq3izlpQtkCabGYA1nIQidtDiD27mYv/o8ACSV+6NoWcJvoJMWZ6Dm4oHaQQBISlOnCUL1PQbD0CmLM0jm4sHnuoAt+sPr0goY/Bg6ZXEG6Xyyx3ADgCQb89cyCijQKUtjsJJP9rpSniSf6DY4gxnolMVVeFwY73MNgOIFVyEKnbI48/ynONnvGoAW7tK5An+ATlj4Ovg5A30nPehKeePRDREENQW+A52wsgq8IqrA+6OuAFSWZS2QUeCz0AlLY/ATUsh4dNMVgNLMGdEbdExfwBn8xW0NIAJgzK9rDCagE5bG4PN098uLF9ry/wyDH0AnLM5gTot4dXPrZVcAyksjdhX4UTjpS1Pga/LuD7tOf8XJU6gxyCCCB07y4ipcJkXy8W6juf9/bv6PeGlAEoOTvJ5EIcQZ/J2KGWps3CpvN0En2v9zCpzlKjykwUZ19bJr5YX/35f+nw3DJ+EkLi0MH+MM/qExj1FZudSW8iQ7c0MEwHCT/9+9A335KAwQcPodPsiFUfByBj/UGFSyEa9eW7/StvIk2zNnkasejT7z6Z/gFGfwKlfh19QUaQq8qanwhDMoWFlin2gMypoKnDpPTYUvvy/K83vwOY3Bm3QBxYmQaW7eOpTyAsDsWVJE5yrMkiXYimXDnloh7jVLqSBuT/XiznQ/7s6exfL8OSwvnMfd+XPCerbTg1iaPkOTZvHeDINfHpviT8Pw6YwKU+Tr2YhPF9PeQypuF0C5eMCOAeZ2DLA67kEz3Y24eBpx5Rzi+kXER9cQD6gpzK0xLE71iwFrlsEXjlTxzD34jMZgUkxvw136ztw5NB+7K3KeJdXVS9T+oqYCVpKAOAWI012Ic92IS6cRV88jPriEuHnD9WfSNdGNIWt6YaXfvQN9XIFvaSr8TfiaUHzohRWXF3qL/J78F/UJS3mS2QDiwinE5SHrzrtPp7aQO3AVdg5VVOEK+DQVvk4BiKuwTYrnEkGdqrqjULx+99euCLMvxRzKT3kQ0467v3EZ8bG7TtIpO/PnxGf/dwp6273j57kCbwh/jHh1ak9ray8dmdKtip+deAsAwvfJ/C+3Zf4NFsCg1JYF4Ar4OIMtyuXlxfMHBpyjEHKBfMQJgFzAj7gQQlweRFwbQXx4ta1roWykhbsMrkLicA3M/BDi5nVpeltjxwogn+wRVrAdBzRtANNkBUHExVMOCC+5cgVj8ybmUz2016hTtmoLQEYBRVO7dNy4IlMOmd5jyu3HB4FmBXs5X7pDbVxKOeXD7ZQfS8kAFpNBLCSCmI8HMBf3y5/0dyIofubiQcxFfSZXxf4iTZV/1PZUSaP5fSJgisBDxAWEm8fqClRDtKjqGn7PqoC5sAfz0S4sxH1YTPqxmAhgIRHAfCJAiotUuq9CVOE9ev7ANQCuwAOijA8uorAC8r26KxwPBDsTOKUYBaykAI0JKx7M98qsQGlx7YKsC8S13Wi8rq0xNB7eEJ9Jw5V8qldsu9OzB+4AMFgnqrg+Kv+JcIXjhVBduVRXvBQFNCYdxZDIBnYcuCCvR2QEty45JoYsXIXak7tw0w2ANQGA/hkVIA2uYMWDI4awu3B+fy3QHATX7SDYfq9B02iuekxNhd8eCCDDYLWQ8COuDsvI+6AVhKO1hOJ4SABoqARnfJbZn5HXsnG4WsAWmkrTBq07AHG/bD7oH6+3guBwhyNIkbmoXwAwWgG4f/YoAcy5ywJxnww2VIYKVxhtDcHpEocEISpBVfp/2W6EGvy/3+oHRtsuhpxFEVc9BlfgNTcAlgWA+wOIK8+BQBfjdIkGEG5gjInzRYBypLtqymkFXsS5nj0IdjFEabkNANuzA7LGUOCVAwFwBvfzMa/0veVnQKDaXKRIyxqoU6uDcMJ4jjy+hRVrBtgshdgeCHPKg/q0H2vT3VidDWFlth/L6TNYWRjE6tIwVlcuYm39Kuob1/ZvvW2NiWGJ9bm3D1S+DiDqlY0I+V8zBLoLlB1EimyyBqdrNABpks0bqK9d3le47KYHsDQVEr2BVcS0BHSQaNRehz2mw7Im34lCD7hZXIElAYB68aUmCNSZ2dmhbg0WCNsinDBs62iQa1hbGaX5f8MF786cwUKyu34sF5ZpcTfpwcqEH6vTPVibO4X64gAay8Oor4xgje7+6iUxUKFqkkpqmlNQF5hPyf6CM8i1NWXmDBap3MT5PpmDbQgUE8gP7exQt4YWIOowbLkqZeMK7qZp7ufZM/dEN1bnB+mOiYnQTsKRDUQF2GelQmsq5GIkVg+wD66KqZCmwtvU5boHEOsyRfChf06WQO5AFyEgDFoQzu8HYbuGEIIhxVgdwd30GczFfPU7XhrvxdqSnPNRY0NNUEManKU02PfCabCyIvuMDIMvugWwkI96TJGCGiD0WxDIJQYd1tAMwoYhgVDHlo14sZDqFtPc6uLQ3jlrI2isyCpwN9GqCuyXrmcPQw+RZqk1ltDhe+4AKDCfj3hMMZNrgBBCfY7MsckabBAiPjhh2DLiEMdxOm91GM3lc/snQgKAVQPQZ5OLUXA9bJ0hnzb5pnsAUTBFJSYgBC0IvaIvF3HBaQ11EOQaNgwnkBZCr9nnLQ9hPuYT/t84FLUmQvT5BOyQfYDdZzy9C2NuXSCdj4ApKjEBwW9B6Ba9uDHbKy9MgLCsoRUM2zqEhVhi/11/fUC8R5/vp82PehA0RTdoucFCq07QfQWohb00FttwpTwtmgJnaX/OLkepGhMQAuIiyxMBWaMvSLfYs4hmGLYMNInjNXH+aQHSmAthMenbyw5RGRdqkz400z3yPIJIriRa9OuIW7eea/q5eMDQVKi0lQYzCvyCK86e3CMgmNPy4opxKk/t2NBbjw8yUFow6kCeIWQ59nn0noVTaM6HcCcVwKxVBDknQlYQw1yEpkFepG61mApiabwHS5O9WJrow+J4rxAKthR4aSxm7SO+Cu0sLQpX6EntYgxMZ1DSJ2XVRlawFxuaQNRhWEDqUCyxj9XPCYn36LPdmI146ne+TJOgKdoWC2J1pg93p0O4PRmSCo730mO0Yv6XjfnJxMXPXMwvjtN8kI7R3uKTdpW3l8bgZ+Jux8CU/ihrc/tu6FOWW9ggRLawYNSBOKDsE+t16/xcVG6L0RC0YWeIoJHZt5kFjD3fn4bDLq7Ar8T+nwoGzefoztgAyknpFvUg2QDDCaQJjPMYnZMOojEbaF0H0PkUI+wM0GYbXKKtdgWqrivAVktj8An6qgtn8JbYtnaMrmvjHhkk7UApYDQBEVCaxD5unWfHFtoTaJgFEAAKlALA1bbH8nb6KzAYgqNYGAWvdg8+zlV4jauQpw/Ph8EoU+0+1QzDFt8zxHp9mqRLND3U+e06ByINe4NX2q4BqCGiBzaO5WnTf/8ZujUG3+UM/uno3nRShIDUUh7RxwtTtsHUxTpOr1vK0m6Q7WLUBdJkiCxD9gIDe4MQl24gYkDEq9PzC3Dc62kYXqYdGK7AHGfAmzY3jFwYaoWInPMTIDL13bgERc8CUHCl4EeNEClOe4T2+/MRD24n/ViZ6cPa0iCa1BMcUAjRngB9M4UzqGVV+NSxA2j1BUmuwJcyCnw/w+B3nAGznhp7i57xIbM8zJDDOTvIRb1mPhHUC6keeixHjNVI6MuYtKlr/Y+vwv/reicKPU9VGKXHYelZYo3BV6hZoe8HEDjaxSGhB6QIoqbAH+nrM1yFdEaBhKbCHfE3g0X6+q0WFg9Q/YszeMwZ/D6nwPUPWscPF5yQ9T/KI/pe41Q4OgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
+                                            21: note: expanded from macro 'UTS_RELEASE'
+                    ^
+../drivers/base/firmware_class.c:387:2: note: place parentheses around the string literal to silence warning
+        "/lib/firmware/" UTS_RELEASE,
+        ^
+2 errors generated.
+
+Signed-off-by: ArbitraryFox &lt;chrisung1992@gmail.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#108e352</div>
+                                        <div class="message">qcacmn: Fix suspicious string concatenation warning in fwlog
+
+Clang warns:
+
+drivers/staging/qcacld-3.0/../qca-wifi-host-cmn/utils/fwlog/dbglog_host.c:745:3: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
+         "BEACON_EVENT_SWBA_SEND_FAILED",
+         ^
+../drivers/staging/qcacld-3.0/../qca-wifi-host-cmn/utils/fwlog/dbglog_host.c:744:3: note: place parentheses around the string literal to silence warning
+        {""                     /* BEACON */
+         ^
+1 error generated.
+
+Signed-off-by: Danny Lin &lt;danny@kdrag0n.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff85408</div>
+                                        <div class="message">nicky: drivers: power: Fix 2% battery level drop
+
+Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f2a0a5</div>
+                                        <div class="message">[BACKPORT]: drm/msm/sde: add sysfs node in dpu driver to provide fps
+
+Add sysfs node on crtc to get fps value at runtime.
+The algorithm will return last committed frame count in
+the configured periodicity timeline. The calculation is
+time based where in dpu driver counts number of frames
+for the given periodicity value, otherwise it counts the
+number of frames transferred for last one second.
+
+Below are the commands to give in shell:
+
+Command to set periodicity:
+	echo value &gt; /sys/class/drm/sde-crtc-*/fps_periodicity_ms
+
+Command to get periodicity:
+	cat /sys/class/drm/sde-crtc-*/fps_periodicity_ms
+
+Command to get the measured fps:
+	cat /sys/class/drm/sde-crtc-*/measured_fps
+
+Replace * with 0, 1 or 2.
+
+Change-Id: I8c661d9821ec5f4b6967e882eeec18c7129b81b9
+Signed-off-by: Shubhashree Dhar &lt;dhar@codeaurora.org&gt;
+Signed-off-by: Raphiel Rollerscaperers &lt;rapherion@raphielgang.org&gt;
+Signed-off-by: PainKiller3 &lt;ninadpatil100@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afbd9e8</div>
+                                        <div class="message">OPLUS: Disable feature macro warn
+
+Signed-off-by: Naufal Altaf &lt;nao@altaf.xyz&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b8844a</div>
+                                        <div class="message">oplus_charger: Report Not Charging as Discharging for AOSP
+
+Signed-off-by: Art_Chen &lt;chenxy0201@qq.com&gt;
+Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 256 commits in
                                         <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
                                     </div>
@@ -1842,25 +2127,12 @@ This reverts commit d1b572afb9b3d02893733e8eebfa3f16debc31c3.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">anderspitman/awesome-tunneling</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 18:22:13 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 19:14:50 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
