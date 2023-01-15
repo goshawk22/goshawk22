@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1833" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1017" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1344,15 +1344,29 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">13-aosp</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5c0171</div>
-                                        <div class="message">nicky: Make dummy libldacBT_bco a vendor module</div>
+                                        <div class="sha">#60556e1</div>
+                                        <div class="message">Revert "nicky: Build aosp keymaster"
+
+This reverts commit 6a5e422fc4fb09225082d89c9b19cb06546509a4.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9cb9b4</div>
+                                        <div class="message">Revert "nicky: ship android.system.keystore2"
+
+This reverts commit 577763ef5110cdae3c552b7772f960df55bccc4f.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a6b22d</div>
+                                        <div class="message">Revert "nicky: Disable FRP"
+Doesn't actually fix stuff
+This reverts commit 8b7d60522ae9285e53dd4895187a93c5c0790dca.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1361,46 +1375,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">RMX1971</span>
+                                        in
                                         <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13-aosp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50941d1</div>
-                                        <div class="message">nicky: Fix some denials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b7d605</div>
-                                        <div class="message">nicky: Disable FRP
-
-On some roms it makes it impossible to set a lock screen pin and breaks fingerprint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f3f016</div>
-                                        <div class="message">nicky: Switch to qti usb hal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd9b4f6</div>
-                                        <div class="message">nicky: Nuke lineage touch hal from manifest
-
-Just causes logspam</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#358db82</div>
-                                        <div class="message">nicky: fingerprint: use getService instead of tryGetService
-* tryGetService is deprecated as https://cs.android.com/android/platform/superproject/+/master:prebuilts/vndk/v30/arm/include/generated-headers/hardware/interfaces/biometrics/fingerprint/2.2/android.hardware.biometrics.fingerprint@2.2_genc++_headers/gen/android/hardware/biometrics/fingerprint/2.2/IBiometricsFingerprint.h
-thanks @dev-harsh1998 for pointing me this</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3b8021</div>
-                                        <div class="message">nicky: Add liboemcrypto.so from stock
-
-01-14 16:41:39.827  1031  1031 W WVCdm   : [oemcrypto_adapter_dynamic.cpp(722):Initialize] Could not load liboemcrypto.so. Falling back to L3.  dlopen failed: library "liboemcrypto.so" not found</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">arrow-13</span>
+                                        in
+                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
                             </section>
@@ -1409,283 +1407,14 @@ thanks @dev-harsh1998 for pointing me this</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 63 commits in
-                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e368513</div>
-                                        <div class="message">msm: msm_bus: Remove trace_printk for non-debug build
-
-trace_printk will cause trace_printk_init_buffers executed in kernel
-start, which will increase memory and also show bad warnings in
-production kernel.
-
-Test: see warning message gone in dmesg
-Bug: 72894705
-Change-Id: Id2d114ed8ba01abc80d9b00f0b1df3b0c852faf1
-Signed-off-by: Wei Wang &lt;wvw@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddf7c6c</div>
-                                        <div class="message">dts: remove cris &amp; metag dts hard link file
-
-arch cris &amp; metag have been removed from supported archs.
-The dts hard link files should also be removed, or the ctags
-tool will give warning.
-
-execute"ctags -R", output:
-ctags: Warning: cannot open source file
-"scripts/dtc/include-prefixes/cris" : No such file or directory
-ctags: Warning: cannot open source file
-"scripts/dtc/include-prefixes/metag" : No such file or directory
-
-Signed-off-by: Liu Changcheng &lt;changcheng.liu@intel.com&gt;
-Signed-off-by: Arnd Bergmann &lt;arnd@arndb.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f12d9b5</div>
-                                        <div class="message">devicetree: Move include prefixes from arch to separate directory
-
-We use a directory under arch/$ARCH/boot/dts as an include path
-that has links outside of the subtree to find dt-bindings from under
-include/dt-bindings. That's been working well, but new DT architectures
-haven't been adding them by default.
-
-Recently there's been a desire to share some of the DT material between
-arm and arm64, which originally caused developers to create symlinks or
-relative includes between the subtrees. This isn't ideal -- it breaks
-if the DT files aren't stored in the exact same hierarchy as the kernel
-tree, and generally it's just icky.
-
-As a somewhat cleaner solution we decided to add a $ARCH/ prefix link
-once, and allow DTS files to reference dtsi (and dts) files in other
-architectures that way.
-
-Original approach was to create these links under each architecture,
-but it lead to the problem of recursive symlinks.
-
-As a remedy, move the include link directories out of the architecture
-trees into a common location. At the same time, they can now share one
-directory and one dt-bindings/ link as well.
-
-Fixes: 4027494ae6e3 ('ARM: dts: add arm/arm64 include symlinks')
-Reported-by: Russell King &lt;linux@armlinux.org.uk&gt;
-Reported-by: Omar Sandoval &lt;osandov@osandov.com&gt;
-Reviewed-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
-Reviewed-by: Masahiro Yamada &lt;yamada.masahiro@socionext.com&gt;
-Tested-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
-Acked-by: Rob Herring &lt;robh@kernel.org&gt;
-Cc: Heiko Stuebner &lt;heiko@sntech.de&gt;
-Cc: Mark Rutland &lt;mark.rutland@arm.com&gt;
-Cc: Russell King &lt;linux@armlinux.org.uk&gt;
-Cc: Catalin Marinas &lt;catalin.marinas@arm.com&gt;
-Cc: Will Deacon &lt;will.deacon@arm.com&gt;
-Cc: Mikael Starvik &lt;starvik@axis.com&gt;
-Cc: Jesper Nilsson &lt;jesper.nilsson@axis.com&gt;
-Cc: James Hogan &lt;james.hogan@imgtec.com&gt;
-Cc: Ralf Baechle &lt;ralf@linux-mips.org&gt;
-Cc: Benjamin Herrenschmidt &lt;benh@kernel.crashing.org&gt;
-Cc: Paul Mackerras &lt;paulus@samba.org&gt;
-Cc: Michael Ellerman &lt;mpe@ellerman.id.au&gt;
-Cc: Frank Rowand &lt;frowand.list@gmail.com&gt;
-Cc: linux-arch &lt;linux-arch@vger.kernel.org&gt;
-Signed-off-by: Olof Johansson &lt;olof@lixom.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07bc96a</div>
-                                        <div class="message">leds-qpnp-haptics: fix merge error
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#776cb02</div>
-                                        <div class="message">leds-qpnp-haptics: add separate node for call vibration
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95a742f</div>
-                                        <div class="message">leds-qpnp-haptics: add separate nodes for tap and notifications
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f9ff63</div>
-                                        <div class="message">leds-qpnp-haptic: allow disabling vibration
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9ac5e2</div>
-                                        <div class="message">leds-qpnp-haptics: allow user adjustment
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec01dcd</div>
-                                        <div class="message">leds-qpnp-haptics: expose vibrator
-
-Thanks @tbalden
-
-Signed-off-by: khusika &lt;khusikadhamar@gmail.com&gt;
-Signed-off-by: ktommy91 &lt;kemenesi.tamas@gmail.com&gt;
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5d9582</div>
-                                        <div class="message">sdm660_cdc: add sound control
-
-Adjust headphone and mic gains on Realme-XT
-
-Signed-off-by: Oktapra Amtono &lt;oktapra.amtono@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfae5a3</div>
-                                        <div class="message">defconfig: enable sound control</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#178c241</div>
-                                        <div class="message">include/linux/ (device-mapper/kernel) : Fix Clang-12 warnings
-
-Fuck off.
-
-ClangBuiltLinux/linux#1145
-
-Signed-off-by: atndko &lt;z1281552865@gmail.com&gt;
-Signed-off-by: MASTERGUY &lt;murtipipo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95ae876</div>
-                                        <div class="message">msm/adreno: Don't mark KGSL scratch buffer as privileged
-Partial revert of commit 76518d9, especially on adreno_ringbuffer_probe()
-where marking the scratch buffer as privileged currently breaks all devices.
-
-I'm assuming that this change requires updated Adreno firmware, which most of
-us don't have. All changes required to marking it so are retained, however.
-
-Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4073b59</div>
-                                        <div class="message">techpack/audio: codecs: Fix potential buffer overflows
-
-* detected by Clang 9+'s -Wfortify-source.
-[Adapted to techpack/audio]
-Signed-off-by: Albert I &lt;kras@raphielgang.org&gt;
-Signed-off-by: UtsavisGreat &lt;utsavbalar1231@gmail.com&gt;
-(cherry picked from commit ba3b2ce0ee9eabd9d66c454e20daaed301db6a9d)
-Signed-off-by: Nauval Rizky &lt;enuma.alrizky@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d9ef7d</div>
-                                        <div class="message">
-                                            firmware_class: Fix suspicious concatenation of string literals
-../drivers/base/firmware_class.c:385:27: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
-        "/lib/firmware/updates/" UTS_RELEASE,
-                                 ^
-                                ,
-./include/generated/utsrelease.h
-                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAL4ElEQVR4nO2bSWwcWRmA/3ZvXjpOYjtx7CyTdYzENiCBOCAhcWEkxBUhhLgglgNIIITYLgjEAc0BcUJzQERJ6lXv7b29xVucOB5AI3GC0SCQRkIzSb/q1XYvVfWj/72qdnW7E1c79gxuzZN+2a6ubtf/1b+/aoAP14frfVsYhYDG4BucwW2uwKbG4K+cQZyr8O2cAmehk9fTuzCiMXibM8Bs1FcrjPeZhfEQZqN+nY5xBkVNgZ9iFLzQiSvD4OekaGX5IuLWRxDf2JPag6tYmAyZAoQCS/we9EOnLa7C69mwV3cq3izlpQtkCabGYA1nIQidtDiD27mYv/o8ACSV+6NoWcJvoJMWZ6Dm4oHaQQBISlOnCUL1PQbD0CmLM0jm4sHnuoAt+sPr0goY/Bg6ZXEG6Xyyx3ADgCQb89cyCijQKUtjsJJP9rpSniSf6DY4gxnolMVVeFwY73MNgOIFVyEKnbI48/ynONnvGoAW7tK5An+ATlj4Ovg5A30nPehKeePRDREENQW+A52wsgq8IqrA+6OuAFSWZS2QUeCz0AlLY/ATUsh4dNMVgNLMGdEbdExfwBn8xW0NIAJgzK9rDCagE5bG4PN098uLF9ry/wyDH0AnLM5gTot4dXPrZVcAyksjdhX4UTjpS1Pga/LuD7tOf8XJU6gxyCCCB07y4ipcJkXy8W6juf9/bv6PeGlAEoOTvJ5EIcQZ/J2KGWps3CpvN0En2v9zCpzlKjykwUZ19bJr5YX/35f+nw3DJ+EkLi0MH+MM/qExj1FZudSW8iQ7c0MEwHCT/9+9A335KAwQcPodPsiFUfByBj/UGFSyEa9eW7/StvIk2zNnkasejT7z6Z/gFGfwKlfh19QUaQq8qanwhDMoWFlin2gMypoKnDpPTYUvvy/K83vwOY3Bm3QBxYmQaW7eOpTyAsDsWVJE5yrMkiXYimXDnloh7jVLqSBuT/XiznQ/7s6exfL8OSwvnMfd+XPCerbTg1iaPkOTZvHeDINfHpviT8Pw6YwKU+Tr2YhPF9PeQypuF0C5eMCOAeZ2DLA67kEz3Y24eBpx5Rzi+kXER9cQD6gpzK0xLE71iwFrlsEXjlTxzD34jMZgUkxvw136ztw5NB+7K3KeJdXVS9T+oqYCVpKAOAWI012Ic92IS6cRV88jPriEuHnD9WfSNdGNIWt6YaXfvQN9XIFvaSr8TfiaUHzohRWXF3qL/J78F/UJS3mS2QDiwinE5SHrzrtPp7aQO3AVdg5VVOEK+DQVvk4BiKuwTYrnEkGdqrqjULx+99euCLMvxRzKT3kQ0467v3EZ8bG7TtIpO/PnxGf/dwp6273j57kCbwh/jHh1ak9ray8dmdKtip+deAsAwvfJ/C+3Zf4NFsCg1JYF4Ar4OIMtyuXlxfMHBpyjEHKBfMQJgFzAj7gQQlweRFwbQXx4ta1roWykhbsMrkLicA3M/BDi5nVpeltjxwogn+wRVrAdBzRtANNkBUHExVMOCC+5cgVj8ybmUz2016hTtmoLQEYBRVO7dNy4IlMOmd5jyu3HB4FmBXs5X7pDbVxKOeXD7ZQfS8kAFpNBLCSCmI8HMBf3y5/0dyIofubiQcxFfSZXxf4iTZV/1PZUSaP5fSJgisBDxAWEm8fqClRDtKjqGn7PqoC5sAfz0S4sxH1YTPqxmAhgIRHAfCJAiotUuq9CVOE9ev7ANQCuwAOijA8uorAC8r26KxwPBDsTOKUYBaykAI0JKx7M98qsQGlx7YKsC8S13Wi8rq0xNB7eEJ9Jw5V8qldsu9OzB+4AMFgnqrg+Kv+JcIXjhVBduVRXvBQFNCYdxZDIBnYcuCCvR2QEty45JoYsXIXak7tw0w2ANQGA/hkVIA2uYMWDI4awu3B+fy3QHATX7SDYfq9B02iuekxNhd8eCCDDYLWQ8COuDsvI+6AVhKO1hOJ4SABoqARnfJbZn5HXsnG4WsAWmkrTBq07AHG/bD7oH6+3guBwhyNIkbmoXwAwWgG4f/YoAcy5ywJxnww2VIYKVxhtDcHpEocEISpBVfp/2W6EGvy/3+oHRtsuhpxFEVc9BlfgNTcAlgWA+wOIK8+BQBfjdIkGEG5gjInzRYBypLtqymkFXsS5nj0IdjFEabkNANuzA7LGUOCVAwFwBvfzMa/0veVnQKDaXKRIyxqoU6uDcMJ4jjy+hRVrBtgshdgeCHPKg/q0H2vT3VidDWFlth/L6TNYWRjE6tIwVlcuYm39Kuob1/ZvvW2NiWGJ9bm3D1S+DiDqlY0I+V8zBLoLlB1EimyyBqdrNABpks0bqK9d3le47KYHsDQVEr2BVcS0BHSQaNRehz2mw7Im34lCD7hZXIElAYB68aUmCNSZ2dmhbg0WCNsinDBs62iQa1hbGaX5f8MF786cwUKyu34sF5ZpcTfpwcqEH6vTPVibO4X64gAay8Oor4xgje7+6iUxUKFqkkpqmlNQF5hPyf6CM8i1NWXmDBap3MT5PpmDbQgUE8gP7exQt4YWIOowbLkqZeMK7qZp7ufZM/dEN1bnB+mOiYnQTsKRDUQF2GelQmsq5GIkVg+wD66KqZCmwtvU5boHEOsyRfChf06WQO5AFyEgDFoQzu8HYbuGEIIhxVgdwd30GczFfPU7XhrvxdqSnPNRY0NNUEManKU02PfCabCyIvuMDIMvugWwkI96TJGCGiD0WxDIJQYd1tAMwoYhgVDHlo14sZDqFtPc6uLQ3jlrI2isyCpwN9GqCuyXrmcPQw+RZqk1ltDhe+4AKDCfj3hMMZNrgBBCfY7MsckabBAiPjhh2DLiEMdxOm91GM3lc/snQgKAVQPQZ5OLUXA9bJ0hnzb5pnsAUTBFJSYgBC0IvaIvF3HBaQ11EOQaNgwnkBZCr9nnLQ9hPuYT/t84FLUmQvT5BOyQfYDdZzy9C2NuXSCdj4ApKjEBwW9B6Ba9uDHbKy9MgLCsoRUM2zqEhVhi/11/fUC8R5/vp82PehA0RTdoucFCq07QfQWohb00FttwpTwtmgJnaX/OLkepGhMQAuIiyxMBWaMvSLfYs4hmGLYMNInjNXH+aQHSmAthMenbyw5RGRdqkz400z3yPIJIriRa9OuIW7eea/q5eMDQVKi0lQYzCvyCK86e3CMgmNPy4opxKk/t2NBbjw8yUFow6kCeIWQ59nn0noVTaM6HcCcVwKxVBDknQlYQw1yEpkFepG61mApiabwHS5O9WJrow+J4rxAKthR4aSxm7SO+Cu0sLQpX6EntYgxMZ1DSJ2XVRlawFxuaQNRhWEDqUCyxj9XPCYn36LPdmI146ne+TJOgKdoWC2J1pg93p0O4PRmSCo730mO0Yv6XjfnJxMXPXMwvjtN8kI7R3uKTdpW3l8bgZ+Jux8CU/ihrc/tu6FOWW9ggRLawYNSBOKDsE+t16/xcVG6L0RC0YWeIoJHZt5kFjD3fn4bDLq7Ar8T+nwoGzefoztgAyknpFvUg2QDDCaQJjPMYnZMOojEbaF0H0PkUI+wM0GYbXKKtdgWqrivAVktj8An6qgtn8JbYtnaMrmvjHhkk7UApYDQBEVCaxD5unWfHFtoTaJgFEAAKlALA1bbH8nb6KzAYgqNYGAWvdg8+zlV4jauQpw/Ph8EoU+0+1QzDFt8zxHp9mqRLND3U+e06ByINe4NX2q4BqCGiBzaO5WnTf/8ZujUG3+UM/uno3nRShIDUUh7RxwtTtsHUxTpOr1vK0m6Q7WLUBdJkiCxD9gIDe4MQl24gYkDEq9PzC3Dc62kYXqYdGK7AHGfAmzY3jFwYaoWInPMTIDL13bgERc8CUHCl4EeNEClOe4T2+/MRD24n/ViZ6cPa0iCa1BMcUAjRngB9M4UzqGVV+NSxA2j1BUmuwJcyCnw/w+B3nAGznhp7i57xIbM8zJDDOTvIRb1mPhHUC6keeixHjNVI6MuYtKlr/Y+vwv/reicKPU9VGKXHYelZYo3BV6hZoe8HEDjaxSGhB6QIoqbAH+nrM1yFdEaBhKbCHfE3g0X6+q0WFg9Q/YszeMwZ/D6nwPUPWscPF5yQ9T/KI/pe41Q4OgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
-                                            21: note: expanded from macro 'UTS_RELEASE'
-                    ^
-../drivers/base/firmware_class.c:385:2: note: place parentheses around the string literal to silence warning
-        "/lib/firmware/updates/" UTS_RELEASE,
-        ^
-../drivers/base/firmware_class.c:387:19: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
-        "/lib/firmware/" UTS_RELEASE,
-                         ^
-                        ,
-./include/generated/utsrelease.h
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            21: note: expanded from macro 'UTS_RELEASE'
-                    ^
-../drivers/base/firmware_class.c:387:2: note: place parentheses around the string literal to silence warning
-        "/lib/firmware/" UTS_RELEASE,
-        ^
-2 errors generated.
-
-Signed-off-by: ArbitraryFox &lt;chrisung1992@gmail.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#108e352</div>
-                                        <div class="message">qcacmn: Fix suspicious string concatenation warning in fwlog
-
-Clang warns:
-
-drivers/staging/qcacld-3.0/../qca-wifi-host-cmn/utils/fwlog/dbglog_host.c:745:3: error: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Werror,-Wstring-concatenation]
-         "BEACON_EVENT_SWBA_SEND_FAILED",
-         ^
-../drivers/staging/qcacld-3.0/../qca-wifi-host-cmn/utils/fwlog/dbglog_host.c:744:3: note: place parentheses around the string literal to silence warning
-        {""                     /* BEACON */
-         ^
-1 error generated.
-
-Signed-off-by: Danny Lin &lt;danny@kdrag0n.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff85408</div>
-                                        <div class="message">nicky: drivers: power: Fix 2% battery level drop
-
-Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f2a0a5</div>
-                                        <div class="message">[BACKPORT]: drm/msm/sde: add sysfs node in dpu driver to provide fps
-
-Add sysfs node on crtc to get fps value at runtime.
-The algorithm will return last committed frame count in
-the configured periodicity timeline. The calculation is
-time based where in dpu driver counts number of frames
-for the given periodicity value, otherwise it counts the
-number of frames transferred for last one second.
-
-Below are the commands to give in shell:
-
-Command to set periodicity:
-	echo value &gt; /sys/class/drm/sde-crtc-*/fps_periodicity_ms
-
-Command to get periodicity:
-	cat /sys/class/drm/sde-crtc-*/fps_periodicity_ms
-
-Command to get the measured fps:
-	cat /sys/class/drm/sde-crtc-*/measured_fps
-
-Replace * with 0, 1 or 2.
-
-Change-Id: I8c661d9821ec5f4b6967e882eeec18c7129b81b9
-Signed-off-by: Shubhashree Dhar &lt;dhar@codeaurora.org&gt;
-Signed-off-by: Raphiel Rollerscaperers &lt;rapherion@raphielgang.org&gt;
-Signed-off-by: PainKiller3 &lt;ninadpatil100@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afbd9e8</div>
-                                        <div class="message">OPLUS: Disable feature macro warn
-
-Signed-off-by: Naufal Altaf &lt;nao@altaf.xyz&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b8844a</div>
-                                        <div class="message">oplus_charger: Report Not Charging as Discharging for AOSP
-
-Signed-off-by: Art_Chen &lt;chenxy0201@qq.com&gt;
-Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">13</span>
+                                        in
+                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
                             </section>
@@ -1694,460 +1423,14 @@ Signed-off-by: kaderbava &lt;ksbava7325@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 256 commits in
-                                        <span class="repo">goshawk22/android_kernel_oplus_sdm710</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f095946</div>
-                                        <div class="message">ARM: dts: armada-370: Fix assigned-addresses for every PCIe Root Port
-
-[ Upstream commit d9208b0fa2e803d16b28d91bf1d46b7ee9ea13c6 ]
-
-BDF of resource in DT assigned-addresses property of Marvell PCIe Root Port
-(PCI-to-PCI bridge) should match BDF in address part in that DT node name
-as specified resource belongs to Marvell PCIe Root Port itself.
-
-Fixes: a09a0b7c6ff1 ("arm: mvebu: add PCIe Device Tree informations for Armada 370")
-Signed-off-by: Pali Rohár &lt;pali@kernel.org&gt;
-Signed-off-by: Gregory CLEMENT &lt;gregory.clement@bootlin.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d90167d</div>
-                                        <div class="message">ARM: dts: dove: Fix assigned-addresses for every PCIe Root Port
-
-[ Upstream commit dcc7d8c72b64a479b8017e4332d99179deb8802d ]
-
-BDF of resource in DT assigned-addresses property of Marvell PCIe Root Port
-(PCI-to-PCI bridge) should match BDF in address part in that DT node name
-as specified resource belongs to Marvell PCIe Root Port itself.
-
-Fixes: 74ecaa403a74 ("ARM: dove: add PCIe controllers to SoC DT")
-Signed-off-by: Pali Rohár &lt;pali@kernel.org&gt;
-Signed-off-by: Gregory CLEMENT &lt;gregory.clement@bootlin.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23d41ad</div>
-                                        <div class="message">soc: ti: smartreflex: Fix PM disable depth imbalance in omap_sr_probe
-
-[ Upstream commit 69460e68eb662064ab4188d4e129ff31c1f23ed9 ]
-
-The pm_runtime_enable will increase power disable depth. Thus
-a pairing decrement is needed on the error handling path to
-keep it balanced according to context.
-
-Fixes: 984aa6dbf4ca ("OMAP3: PM: Adding smartreflex driver support.")
-Signed-off-by: Zhang Qilong &lt;zhangqilong3@huawei.com&gt;
-Signed-off-by: Nishanth Menon &lt;nm@ti.com&gt;
-Link: https://lore.kernel.org/r/20221108080322.52268-3-zhangqilong3@huawei.com
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a01300</div>
-                                        <div class="message">arm: dts: spear600: Fix clcd interrupt
-
-[ Upstream commit 0336e2ce34e7a89832b6c214f924eb7bc58940be ]
-
-Interrupt 12 of the Interrupt controller belongs to the SMI controller,
-the right one for the display controller is the interrupt 13.
-
-Fixes: 8113ba917dfa ("ARM: SPEAr: DT: Update device nodes")
-Signed-off-by: Kory Maincent &lt;kory.maincent@bootlin.com&gt;
-Acked-by: Viresh Kumar &lt;viresh.kumar@linaro.org&gt;
-Signed-off-by: Arnd Bergmann &lt;arnd@arndb.de&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1e186b</div>
-                                        <div class="message">drivers: soc: ti: knav_qmss_queue: Mark knav_acc_firmwares as static
-
-[ Upstream commit adf85adc2a7199b41e7a4da083bd17274a3d6969 ]
-
-There is a sparse warning shown below:
-
-drivers/soc/ti/knav_qmss_queue.c:70:12: warning: symbol
-'knav_acc_firmwares' was not declared. Should it be static?
-
-Since 'knav_acc_firmwares' is only called within knav_qmss_queue.c,
-mark it as static to fix the warning.
-
-Fixes: 96ee19becc3b ("soc: ti: add firmware file name as part of the driver")
-Signed-off-by: Chen Jiahao &lt;chenjiahao16@huawei.com&gt;
-Signed-off-by: Nishanth Menon &lt;nm@ti.com&gt;
-Link: https://lore.kernel.org/r/20221019153212.72350-1-chenjiahao16@huawei.com
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fc7f71</div>
-                                        <div class="message">net: loopback: use NET_NAME_PREDICTABLE for name_assign_type
-
-[ Upstream commit 31d929de5a112ee1b977a89c57de74710894bbbf ]
-
-When the name_assign_type attribute was introduced (commit
-685343fc3ba6, "net: add name_assign_type netdev attribute"), the
-loopback device was explicitly mentioned as one which would make use
-of NET_NAME_PREDICTABLE:
-
-    The name_assign_type attribute gives hints where the interface name of a
-    given net-device comes from. These values are currently defined:
-...
-      NET_NAME_PREDICTABLE:
-        The ifname has been assigned by the kernel in a predictable way
-        that is guaranteed to avoid reuse and always be the same for a
-        given device. Examples include statically created devices like
-        the loopback device [...]
-
-Switch to that so that reading /sys/class/net/lo/name_assign_type
-produces something sensible instead of returning -EINVAL.
-
-Signed-off-by: Rasmus Villemoes &lt;linux@rasmusvillemoes.dk&gt;
-Reviewed-by: Jacob Keller &lt;jacob.e.keller@intel.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49d5867</div>
-                                        <div class="message">Bluetooth: L2CAP: Fix u8 overflow
-
-[ Upstream commit bcd70260ef56e0aee8a4fc6cd214a419900b0765 ]
-
-By keep sending L2CAP_CONF_REQ packets, chan-&gt;num_conf_rsp increases
-multiple times and eventually it will wrap around the maximum number
-(i.e., 255).
-This patch prevents this by adding a boundary check with
-L2CAP_MAX_CONF_RSP
-
-Btmon log:
-Bluetooth monitor ver 5.64
-= Note: Linux version 6.1.0-rc2 (x86_64)                               0.264594
-= Note: Bluetooth subsystem version 2.22                               0.264636
-@ MGMT Open: btmon (privileged) version 1.22                  {0x0001} 0.272191
-= New Index: 00:00:00:00:00:00 (Primary,Virtual,hci0)          [hci0] 13.877604
-@ RAW Open: 9496 (privileged) version 2.22                   {0x0002} 13.890741
-= Open Index: 00:00:00:00:00:00                                [hci0] 13.900426
-(...)
-&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1033             #32 [hci0] 14.273106
-        invalid packet size (12 != 1033)
-        08 00 01 00 02 01 04 00 01 10 ff ff              ............
-&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1547             #33 [hci0] 14.273561
-        invalid packet size (14 != 1547)
-        0a 00 01 00 04 01 06 00 40 00 00 00 00 00        ........@.....
-&gt; ACL Data RX: Handle 200 flags 0x00 dlen 2061             #34 [hci0] 14.274390
-        invalid packet size (16 != 2061)
-        0c 00 01 00 04 01 08 00 40 00 00 00 00 00 00 04  ........@.......
-&gt; ACL Data RX: Handle 200 flags 0x00 dlen 2061             #35 [hci0] 14.274932
-        invalid packet size (16 != 2061)
-        0c 00 01 00 04 01 08 00 40 00 00 00 07 00 03 00  ........@.......
-= bluetoothd: Bluetooth daemon 5.43                                   14.401828
-&gt; ACL Data RX: Handle 200 flags 0x00 dlen 1033             #36 [hci0] 14.275753
-        invalid packet size (12 != 1033)
-        08 00 01 00 04 01 04 00 40 00 00 00              ........@...
-
-Signed-off-by: Sungwoo Kim &lt;iam@sung-woo.kim&gt;
-Signed-off-by: Luiz Augusto von Dentz &lt;luiz.von.dentz@intel.com&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4e43b2</div>
-                                        <div class="message">USB: serial: cp210x: add Kamstrup RF sniffer PIDs
-
-commit e88906b169ebcb8046e8f0ad76edd09ab41cfdfe upstream.
-
-The RF sniffers are based on cp210x where the RF frontends
-are based on a different USB stack.
-
-RF sniffers can analyze packets meta data including power level
-and perform packet injection.
-
-Can be used to perform RF frontend self-test when connected to
-a concentrator, ex. arch/arm/boot/dts/imx7d-flex-concentrator.dts
-
-Signed-off-by: Bruno Thomsen &lt;bruno.thomsen@gmail.com&gt;
-Cc: stable@vger.kernel.org
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4972e35</div>
-                                        <div class="message">usb: gadget: uvc: Prevent buffer overflow in setup handler
-
-commit 4c92670b16727365699fe4b19ed32013bab2c107 upstream.
-
-Setup function uvc_function_setup permits control transfer
-requests with up to 64 bytes of payload (UVC_MAX_REQUEST_SIZE),
-data stage handler for OUT transfer uses memcpy to copy req-&gt;actual
-bytes to uvc_event-&gt;data.data array of size 60. This may result
-in an overflow of 4 bytes.
-
-Fixes: cdda479f15cd ("USB gadget: video class function driver")
-Cc: stable &lt;stable@kernel.org&gt;
-Reviewed-by: Laurent Pinchart &lt;laurent.pinchart@ideasonboard.com&gt;
-Reviewed-by: Daniel Scally &lt;dan.scally@ideasonboard.com&gt;
-Signed-off-by: Szymon Heidrich &lt;szymon.heidrich@gmail.com&gt;
-Link: https://lore.kernel.org/r/20221206141301.51305-1-szymon.heidrich@gmail.com
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9391da5</div>
-                                        <div class="message">udf: Fix extending file within last block
-
-commit 1f3868f06855c97a4954c99b36f3fc9eb8f60326 upstream.
-
-When extending file within last block it can happen that the extent is
-already rounded to the blocksize and thus contains the offset we want to
-grow up to. In such case we would mistakenly expand the last extent and
-make it one block longer than it should be, exposing unallocated block
-in a file and causing data corruption. Fix the problem by properly
-detecting this case and bailing out.
-
-CC: stable@vger.kernel.org
-Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f9eae3</div>
-                                        <div class="message">udf: Do not bother looking for prealloc extents if i_lenExtents matches i_size
-
-commit 6ad53f0f71c52871202a7bf096feb2c59db33fc5 upstream.
-
-If rounded block-rounded i_lenExtents matches block rounded i_size,
-there are no preallocation extents. Do not bother walking extent linked
-list.
-
-CC: stable@vger.kernel.org
-Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8b6fa4</div>
-                                        <div class="message">udf: Fix preallocation discarding at indirect extent boundary
-
-commit cfe4c1b25dd6d2f056afc00b7c98bcb3dd0b1fc3 upstream.
-
-When preallocation extent is the first one in the extent block, the
-code would corrupt extent tree header instead. Fix the problem and use
-udf_delete_aext() for deleting extent to avoid some code duplication.
-
-CC: stable@vger.kernel.org
-Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a58ae14</div>
-                                        <div class="message">udf: Drop unused arguments of udf_delete_aext()
-
-commit 6c1e4d06a3808dc67dbce2d631f4c12574567dd5 upstream.
-
-udf_delete_aext() uses its last two arguments only as local variables.
-Drop them.
-
-Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a1c338</div>
-                                        <div class="message">udf: Discard preallocation before extending file with a hole
-
-commit 16d0556568148bdcaa45d077cac9f8f7077cf70a upstream.
-
-When extending file with a hole, we tried to preserve existing
-preallocation for the file. However that is not very useful and
-complicates code because the previous extent may need to be rounded to
-block boundary as well (which we forgot to do thus causing data
-corruption for sequence like:
-
-xfs_io -f -c "pwrite 0x75e63 11008" -c "truncate 0x7b24b" \
-  -c "truncate 0xabaa3" -c "pwrite 0xac70b 22954" \
-  -c "pwrite 0x93a43 11358" -c "pwrite 0xb8e65 52211" file
-
-with 512-byte block size. Just discard preallocation before extending
-file to simplify things and also fix this data corruption.
-
-CC: stable@vger.kernel.org
-Signed-off-by: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#041030f</div>
-                                        <div class="message">ASoC: ops: Correct bounds check for second channel on SX controls
-
-commit f33bcc506050f89433a52a3052054d4ebd37b1c1 upstream.
-
-Currently the check against the max value for the control is being
-applied after the value has had the minimum applied and been masked. But
-the max value simply indicates the number of volume levels on an SX
-control, and as such should just be applied on the raw value.
-
-Fixes: 97eea946b939 ("ASoC: ops: Check bounds for second channel in snd_soc_put_volsw_sx()")
-Signed-off-by: Charles Keepax &lt;ckeepax@opensource.cirrus.com&gt;
-Link: https://lore.kernel.org/r/20221125162348.1288005-1-ckeepax@opensource.cirrus.com
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d3ee59</div>
-                                        <div class="message">can: sja1000: fix size of OCR_MODE_MASK define
-
-[ Upstream commit 26e8f6a75248247982458e8237b98c9fb2ffcf9d ]
-
-bitfield mode in ocr register has only 2 bits not 3, so correct
-the OCR_MODE_MASK define.
-
-Signed-off-by: Heiko Schocher &lt;hs@denx.de&gt;
-Link: https://lore.kernel.org/all/20221123071636.2407823-1-hs@denx.de
-Signed-off-by: Marc Kleine-Budde &lt;mkl@pengutronix.de&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5628898</div>
-                                        <div class="message">ASoC: ops: Check bounds for second channel in snd_soc_put_volsw_sx()
-
-[ Upstream commit 97eea946b93961fffd29448dcda7398d0d51c4b2 ]
-
-The bounds checks in snd_soc_put_volsw_sx() are only being applied to the
-first channel, meaning it is possible to write out of bounds values to the
-second channel in stereo controls. Add appropriate checks.
-
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Link: https://lore.kernel.org/r/20220511134137.169575-2-broonie@kernel.org
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Signed-off-by: Sasha Levin &lt;sashal@kernel.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4726b66</div>
-                                        <div class="message">block: unhash blkdev part inode when the part is deleted
-
-v5.11 changes the blkdev lookup mechanism completely since commit
-22ae8ce8b892 ("block: simplify bdev/disk lookup in blkdev_get"),
-and small part of the change is to unhash part bdev inode when
-deleting partition. Turns out this kind of change does fix one
-nasty issue in case of BLOCK_EXT_MAJOR:
-
-1) when one partition is deleted &amp; closed, disk_put_part() is always
-called before bdput(bdev), see blkdev_put(); so the part's devt can
-be freed &amp; re-used before the inode is dropped
-
-2) then new partition with same devt can be created just before the
-inode in 1) is dropped, then the old inode/bdev structurein 1) is
-re-used for this new partition, this way causes use-after-free and
-kernel panic.
-
-It isn't possible to backport the whole big patchset of "merge struct
-block_device and struct hd_struct v4" for addressing this issue.
-
-https://lore.kernel.org/linux-block/20201128161510.347752-1-hch@lst.de/
-
-So fixes it by unhashing part bdev in delete_partition(), and this way
-is actually aligned with v5.11+'s behavior.
-
-Backported from the following 5.10.y commit:
-
-5f2f77560591 ("block: unhash blkdev part inode when the part is deleted")
-
-Reported-by: Shiwei Cui &lt;cuishw@inspur.com&gt;
-Tested-by: Shiwei Cui &lt;cuishw@inspur.com&gt;
-Cc: Christoph Hellwig &lt;hch@lst.de&gt;
-Cc: Jan Kara &lt;jack@suse.cz&gt;
-Signed-off-by: Ming Lei &lt;ming.lei@redhat.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#275c626</div>
-                                        <div class="message">mm/khugepaged: invoke MMU notifiers in shmem/file collapse paths
-
-commit f268f6cf875f3220afc77bdd0bf1bb136eb54db9 upstream.
-
-Any codepath that zaps page table entries must invoke MMU notifiers to
-ensure that secondary MMUs (like KVM) don't keep accessing pages which
-aren't mapped anymore.  Secondary MMUs don't hold their own references to
-pages that are mirrored over, so failing to notify them can lead to page
-use-after-free.
-
-I'm marking this as addressing an issue introduced in commit f3f0e1d2150b
-("khugepaged: add support of collapse for tmpfs/shmem pages"), but most of
-the security impact of this only came in commit 27e1f8273113 ("khugepaged:
-enable collapse pmd for pte-mapped THP"), which actually omitted flushes
-for the removal of present PTEs, not just for the removal of empty page
-tables.
-
-Link: https://lkml.kernel.org/r/20221129154730.2274278-3-jannh@google.com
-Link: https://lkml.kernel.org/r/20221128180252.1684965-3-jannh@google.com
-Link: https://lkml.kernel.org/r/20221125213714.4115729-3-jannh@google.com
-Fixes: f3f0e1d2150b ("khugepaged: add support of collapse for tmpfs/shmem pages")
-Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
-Acked-by: David Hildenbrand &lt;david@redhat.com&gt;
-Reviewed-by: Yang Shi &lt;shy828301@gmail.com&gt;
-Cc: John Hubbard &lt;jhubbard@nvidia.com&gt;
-Cc: Peter Xu &lt;peterx@redhat.com&gt;
-Cc: &lt;stable@vger.kernel.org&gt;
-Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
-[manual backport: this code was refactored from two copies into a common
-helper between 5.15 and 6.0;
-pmd collapse for PTE-mapped THP was only added in 5.4;
-MMU notifier API changed between 4.19 and 5.4]
-Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#588be4a</div>
-                                        <div class="message">mm/khugepaged: fix GUP-fast interaction by sending IPI
-
-commit 2ba99c5e08812494bc57f319fb562f527d9bacd8 upstream.
-
-Since commit 70cbc3cc78a99 ("mm: gup: fix the fast GUP race against THP
-collapse"), the lockless_pages_from_mm() fastpath rechecks the pmd_t to
-ensure that the page table was not removed by khugepaged in between.
-
-However, lockless_pages_from_mm() still requires that the page table is
-not concurrently freed.  Fix it by sending IPIs (if the architecture uses
-semi-RCU-style page table freeing) before freeing/reusing page tables.
-
-Link: https://lkml.kernel.org/r/20221129154730.2274278-2-jannh@google.com
-Link: https://lkml.kernel.org/r/20221128180252.1684965-2-jannh@google.com
-Link: https://lkml.kernel.org/r/20221125213714.4115729-2-jannh@google.com
-Fixes: ba76149f47d8 ("thp: khugepaged")
-Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
-Reviewed-by: Yang Shi &lt;shy828301@gmail.com&gt;
-Acked-by: David Hildenbrand &lt;david@redhat.com&gt;
-Cc: John Hubbard &lt;jhubbard@nvidia.com&gt;
-Cc: Peter Xu &lt;peterx@redhat.com&gt;
-Cc: &lt;stable@vger.kernel.org&gt;
-Signed-off-by: Andrew Morton &lt;akpm@linux-foundation.org&gt;
-[manual backport: two of the three places in khugepaged that can free
-ptes were refactored into a common helper between 5.15 and 6.0;
-TLB flushing was refactored between 5.4 and 5.10;
-TLB flushing was refactored between 4.19 and 5.4;
-pmd collapse for PTE-mapped THP was only added in 5.4;
-ugly hack for s390 in &lt;=4.19 and arm]
-Signed-off-by: Jann Horn &lt;jannh@google.com&gt;
-Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">goshawk22/goshawk22.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0007d95</div>
-                                        <div class="message">Create CNAME</div>
+                                        Deleted
+                      branch
+                                        <span class="code">13-aospify</span>
+                                        in
+                                        <span class="repo">goshawk22/android_device_oplus_nicky</span>
                                     </div>
                                 </div>
                             </section>
@@ -2157,7 +1440,7 @@ Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2023, 14:16:34 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 15 Jan 2023, 15:18:38 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
