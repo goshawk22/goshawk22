@@ -1464,7 +1464,7 @@ It's not really needed, we will be able to tell if it fails when we need it. Wor
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 01:46:17 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 02:50:30 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
