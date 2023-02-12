@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1167" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1117" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            976 Commits
+                            977 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    66.2m added, 38m removed
+                                    66.1m added, 38m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.3795465410902" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.3795465410902" y="0" width="37.046193908939166" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.4257404500293" y="0" width="5.691926717320608" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.1176671673499" y="0" width="4.03193716445844" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.14960433180835" y="0" width="1.368790911854878" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.5183952436632" y="0" width="0.524588408760732" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.0429836524239" y="0" width="0.5037719493888956" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.5467556018128" y="0" width="0.4532443981871307" height="8" fill="#34EB6B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.3795236364624" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.3795236364624" y="0" width="37.046191841269646" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.42571547773207" y="0" width="5.691926399635519" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.11764187736765" y="0" width="4.031962613530717" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.1496044908983" y="0" width="1.3687908354581702" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.51839532635654" y="0" width="0.5245883794817333" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.04298370583825" y="0" width="0.5037719212717316" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.54675562711" y="0" width="0.453244372890075" height="8" fill="#34EB6B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1345,6 +1345,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">goshawk22/TinyGPSPlus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#429242d</div>
+                                        <div class="message">Add some more constants</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">goshawk22/picoballoon-tracker</span>
                                     </div>
                                 </div>
@@ -1423,48 +1443,12 @@ It was only useful for the initial bringup and it can overload serial sometimes.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">goshawk22/picoballoon-tracker</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7600582</div>
-                                        <div class="message">Import BMP280 Library</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82267a7</div>
-                                        <div class="message">Clean up packet structure a bit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58b1d51</div>
-                                        <div class="message">Drop support for printing gps serial to pc serial
-
-It was only useful for the initial bringup and it can overload serial sometimes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae2c3e8</div>
-                                        <div class="message">Don't transmit init gps status
-
-It's not really needed, we will be able to tell if it fails when we need it. Worked consistently in testing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 15:19:36 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 16:25:58 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
